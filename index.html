@@ -1,251 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Daily Crypto Mentions</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <title>Crypto Daily Mentions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
   <style>
-    :root { --maxw: 1100px; }
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; color: #111; }
-    header { max-width: var(--maxw); margin: 0 auto 16px; }
-    h1 { margin: 0 0 8px; }
-    .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 8px 0 16px; }
-    input[type="date"], select { padding: 6px 8px; font-size: 14px; }
-    .muted { color: #666; font-size: 12px; }
-    .link { margin: 6px 0 12px; }
-    main { max-width: var(--maxw); margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 20px; }
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #controls { margin-bottom: 20px; }
     table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-    th { background: #f7f7f7; }
-    caption { text-align: left; font-weight: 600; margin-bottom: 8px; }
-    .grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-    @media (min-width: 900px) {
-      .grid { grid-template-columns: 1fr 1fr; }
-    }
-    canvas { width: 100%; height: 420px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background: #f4f4f4; }
+    .chart-container { width: 100%; height: 400px; margin-top: 20px; }
   </style>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-  <header>
-    <h1>Daily Crypto Mentions</h1>
-    <div class="controls">
-      <label for="date-picker">Select date:</label>
-      <input type="date" id="date-picker" aria-label="Select date" />
+  <h1>Crypto Daily Mentions</h1>
+  <div id="controls">
+    <label for="date-picker">Select date:</label>
+    <input type="text" id="date-picker" aria-label="Select date" readonly>
 
-      <label for="topn-select">Top N:</label>
-      <select id="topn-select" aria-label="Select number of lines">
-        <option value="5">5</option>
-        <option value="10">10</option>
-        <option value="20" selected>20</option>
-      </select>
+    <label for="top-n">Top N:</label>
+    <input type="number" id="top-n" value="20" min="1" max="200">
+  </div>
 
-      <span id="meta" class="muted"></span>
-    </div>
-    <div id="thread-link" class="link"></div>
-  </header>
+  <h2 id="thread-title"></h2>
+  <p><a id="thread-link" href="#" target="_blank">View Reddit Thread</a></p>
 
-  <main>
-    <div class="grid">
-      <section>
-        <table>
-          <caption>Top coins by mentions (selected day)</caption>
-          <thead>
-            <tr><th style="width:80px">Symbol</th><th>Name</th><th style="width:120px">Mentions</th></tr>
-          </thead>
-          <tbody id="data-table"><tr><td colspan="3">Loading…</td></tr></tbody>
-        </table>
-      </section>
-      <section>
-        <canvas id="mentions-chart"></canvas>
-      </section>
-    </div>
-  </main>
+  <table id="results-table">
+    <thead>
+      <tr>
+        <th>Symbol</th>
+        <th>Name</th>
+        <th>Mentions</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
 
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <div class="chart-container">
+    <canvas id="mentions-chart"></canvas>
+  </div>
+
   <script>
-  (function() {
-    'use strict';
-
-    const manifestUrl = 'manifest.json';
-    const datePickerEl = document.getElementById('date-picker');
-    const topNEl = document.getElementById('topn-select');
-    const tbody = document.getElementById('data-table');
-    const metaEl = document.getElementById('meta');
-    const threadLinkEl = document.getElementById('thread-link');
-    const ctx = document.getElementById('mentions-chart').getContext('2d');
-
+    let chart;
     let manifestData = [];
-    let chartInstance = null;
-    let dateToFileMap = {};
+    const topNEl = document.getElementById('top-n');
 
-    async function fetchJson(url) {
-      const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now(), { cache: 'no-store' });
-      if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
-      return res.json();
+    async function loadManifest() {
+      const res = await fetch('manifest.json');
+      manifestData = await res.json();
+      manifestData.sort((a, b) => a.date.localeCompare(b.date));
     }
 
-    function normalizeDayList(dayData) {
-      let list = [];
-      if (Array.isArray(dayData.results_list) && dayData.results_list.length) {
-        list = dayData.results_list.map(r => ({
-          symbol: (r.symbol || '').toUpperCase(),
-          name: r.name || '',
-          count: Number(r.count || 0)
-        }));
-      } else if (dayData.results && typeof dayData.results === 'object') {
-        list = Object.entries(dayData.results).map(([k, v]) => ({
-          symbol: (k || '').toUpperCase(),
-          name: '',
-          count: Number(v || 0)
-        }));
-      }
-      list.sort((a, b) => b.count - a.count);
-      return list;
-    }
+    async function loadDayData(file, topN) {
+      const res = await fetch(file);
+      const data = await res.json();
 
-    function renderTable(list, limit = 100) {
-      const rows = list.slice(0, limit).map(row => (
-        `<tr><td>${row.symbol}</td><td>${row.name || ''}</td><td>${row.count}</td></tr>`
-      )).join('');
-      tbody.innerHTML = rows || '<tr><td colspan="3">No data</td></tr>';
-    }
+      document.getElementById('thread-title').textContent = data.thread_title;
+      document.getElementById('thread-link').href = data.thread_url;
 
-    function getPalette(n) {
-      const base = [
-        '#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd',
-        '#8c564b','#e377c2','#7f7f7f','#bcbd22','#17becf',
-        '#4e79a7','#f28e2b','#e15759','#76b7b2','#59a14f',
-        '#edc948','#b07aa1','#ff9da7','#9c755f','#bab0ab'
-      ];
-      const out = [];
-      for (let i = 0; i < n; i++) out.push(base[i % base.length]);
-      return out;
-    }
+      const results = data.results_list.slice(0, topN);
+      const tbody = document.querySelector('#results-table tbody');
+      tbody.innerHTML = '';
+      results.forEach(row => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${row.symbol}</td><td>${row.name}</td><td>${row.count}</td>`;
+        tbody.appendChild(tr);
+      });
 
-    async function loadDayData(filePath, topN) {
-      try {
-        const dayData = await fetchJson(filePath);
-        const list = normalizeDayList(dayData);
-
-        const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
-        threadLinkEl.innerHTML = dayData.thread_url
-          ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
-          : (dayData.thread_title || '');
-        metaEl.textContent = updated ? `Updated ${updated}` : '';
-
-        renderTable(list, 100);
-
-        const focusSymbols = list.slice(0, topN).map(r => r.symbol);
-        await renderChartUpToDate(filePath, focusSymbols);
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3">Error loading ${filePath}: ${e}</td></tr>`;
-        if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
-      }
-    }
-
-    async function renderChartUpToDate(filePath, focusSymbols) {
-      const selectedIndex = manifestData.findIndex(m => m.file === filePath);
-      if (selectedIndex < 0) {
-        if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
-        return;
-      }
-      const filteredManifest = manifestData.slice(0, selectedIndex + 1);
-      const dates = filteredManifest.map(m => m.date);
-
-      const series = {};
-      focusSymbols.forEach(sym => series[sym] = []);
-      for (const entry of filteredManifest) {
-        const day = await fetchJson(entry.file);
-        const list = normalizeDayList(day);
-        const map = {};
-        list.forEach(r => { map[r.symbol] = r.count; });
-        focusSymbols.forEach(sym => {
-          series[sym].push(map[sym] || 0);
-        });
-      }
-
-      const colors = getPalette(focusSymbols.length);
-      const datasets = focusSymbols.map((sym, i) => ({
-        label: sym,
-        data: series[sym],
-        borderColor: colors[i],
-        backgroundColor: colors[i],
-        borderWidth: 2,
-        pointRadius: 1.5,
-        fill: false,
-        tension: 0.15
-      }));
-
-      if (chartInstance) chartInstance.destroy();
-      chartInstance = new Chart(ctx, {
-        type: 'line',
-        data: { labels: dates, datasets },
-        options: {
-          responsive: true,
-          animation: false,
-          plugins: {
-            legend: {
-              position: 'right',
-              labels: { boxWidth: 12, usePointStyle: true }
-            },
-            title: { display: true, text: `Mentions over time (top ${focusSymbols.length} of selected day)` },
-            tooltip: { mode: 'index', intersect: false }
-          },
-          interaction: { mode: 'nearest', axis: 'x', intersect: false },
-          scales: {
-            y: { beginAtZero: true, title: { display: true, text: 'Mentions' } },
-            x: { title: { display: true, text: 'Date' } }
-          }
-        }
+      const labels = results.map(r => r.symbol);
+      const counts = results.map(r => r.count);
+      if (chart) chart.destroy();
+      chart = new Chart(document.getElementById('mentions-chart'), {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Mentions',
+            data: counts,
+            backgroundColor: 'rgba(54, 162, 235, 0.5)',
+            borderColor: 'rgba(54, 162, 235, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: { responsive: true, scales: { y: { beginAtZero: true } } }
       });
     }
 
-    (async function init() {
-      try {
-        const raw = await fetchJson(manifestUrl);
-        const byDate = new Map();
-        raw.forEach(item => { byDate.set(item.date, item); });
-        manifestData = Array.from(byDate.values()).sort((a, b) => a.date.localeCompare(b.date));
+    async function init() {
+      await loadManifest();
 
-        dateToFileMap = {};
-        manifestData.forEach(entry => {
-          dateToFileMap[entry.date] = entry.file;
-        });
+      const validDates = manifestData.map(entry => new Date(entry.date + 'T00:00:00Z'));
+      const dateToFileMap = {};
+      manifestData.forEach(entry => { dateToFileMap[entry.date] = entry.file; });
 
-        if (!manifestData.length) {
-          tbody.innerHTML = '<tr><td colspan="3">No manifest data found</td></tr>';
-          return;
+      const picker = new Pikaday({
+        field: document.getElementById('date-picker'),
+        format: 'YYYY-MM-DD',
+        firstDay: 1,
+        toString(date) { return date.toISOString().split('T')[0]; },
+        disableDayFn: function(date) {
+          return !validDates.some(d => d.getTime() === date.getTime());
+        },
+        onSelect: function(date) {
+          const iso = date.toISOString().split('T')[0];
+          const file = dateToFileMap[iso];
+          if (file) loadDayData(file, parseInt(topNEl.value, 10));
         }
+      });
 
-        // Limit date picker range
-        datePickerEl.min = manifestData[0].date;
-        datePickerEl.max = manifestData[manifestData.length - 1].date;
-
-        const latestDate = manifestData[manifestData.length - 1].date;
-        datePickerEl.value = latestDate;
-
-        await loadDayData(dateToFileMap[latestDate], parseInt(topNEl.value, 10));
-
-        datePickerEl.addEventListener('change', () => {
-          const selectedDate = datePickerEl.value;
-          if (dateToFileMap[selectedDate]) {
-            loadDayData(dateToFileMap[selectedDate], parseInt(topNEl.value, 10));
-          } else {
-            tbody.innerHTML = `<tr><td colspan="3">No data available for ${selectedDate}</td></tr>`;
-          }
-        });
-
-        topNEl.addEventListener('change', () => {
-          const selectedDate = datePickerEl.value;
-          if (dateToFileMap[selectedDate]) {
-            loadDayData(dateToFileMap[selectedDate], parseInt(topNEl.value, 10));
-          }
-        });
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3">Error loading manifest: ${e}</td></tr>`;
+      if (manifestData.length) {
+        const lastDate = manifestData[manifestData.length - 1].date;
+        picker.setDate(new Date(lastDate + 'T00:00:00Z'), true);
+        loadDayData(dateToFileMap[lastDate], parseInt(topNEl.value, 10));
       }
-    })();
-  })();
+
+      topNEl.addEventListener('change', () => {
+        const currentDate = document.getElementById('date-picker').value;
+        const file = dateToFileMap[currentDate];
+        if (file) loadDayData(file, parseInt(topNEl.value, 10));
+      });
+    }
+
+    init();
   </script>
 </body>
 </html>
