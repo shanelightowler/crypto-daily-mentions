@@ -2,7 +2,8 @@ import os
 import sys
 import json
 from datetime import datetime
-from collections import Counter, defaultdict
+from collections import Counter
+
 import praw
 
 # Reuse helpers from your daily script (must be in repo root)
@@ -42,49 +43,37 @@ def scrape_single_thread(url: str):
     print(f"URL: {url}")
     print(f"Total comments: {len(comments)}")
 
-    # Build keyword processor (same as daily script)
+    # Build matcher (same as daily script)
     coins = fetch_coins()
-    kp, id_to_meta = build_keyword_processor(coins)
+    kp, id_to_meta, canonical_name_by_symbol = build_keyword_processor(coins)
 
-    # Count mentions
-    counts_by_id = Counter()
+    # Count mentions by SYMBOL (already enforced: $SYMBOL always; bare only for whitelisted ALL-CAPS)
+    counts_by_symbol = Counter()
     for c in comments:
-        c_counts = count_mentions_in_text(kp, c.body)
-        counts_by_id.update(c_counts)
+        counts_by_symbol.update(count_mentions_in_text(kp, c.body))
 
-    # Convert to symbol-level
-    results_list = []
-    results_by_symbol = defaultdict(int)
-    for cid, count in counts_by_id.items():
-        meta = id_to_meta.get(cid)
-        if not meta:
-            continue
-        sym = meta["symbol"].upper()
-        name = meta["name"].title()
-        results_list.append({"id": cid, "symbol": sym, "name": name, "count": count})
-        results_by_symbol[sym] += count
-
-    results_list.sort(key=lambda x: x["count"], reverse=True)
+    # Sort and build outputs
+    results_by_symbol = dict(sorted(counts_by_symbol.items(), key=lambda x: x[1], reverse=True))
+    results_list = [
+        {"symbol": sym, "name": canonical_name_by_symbol.get(sym, ""), "count": count}
+        for sym, count in results_by_symbol.items()
+    ]
 
     output = {
         "thread_title": submission.title,
         "thread_url": url,
         "generated_at_utc": datetime.utcnow().isoformat() + "Z",
-        "results": dict(sorted(results_by_symbol.items(), key=lambda x: x[1], reverse=True)),
+        "results": results_by_symbol,
         "results_list": results_list,
     }
 
-    # Filenames: new standard by date + backward-compat by submission id
+    # Filename by date in title (fallback to today)
     date_str = parse_date_from_title(submission.title) or datetime.utcnow().strftime("%Y-%m-%d")
-    new_name = f"data-{date_str}.json"
-    legacy_name = f"data_{submission.id}.json"  # for old pages that still reference this
+    filename = f"data-{date_str}.json"
 
-    with open(new_name, "w", encoding="utf-8") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
-    with open(legacy_name, "w", encoding="utf-8") as f:
-        json.dump(output, f, indent=2)
-
-    print(f"✅ Saved {new_name} and {legacy_name}")
+    print(f"✅ Saved {filename}")
 
     # Update manifest.json
     manifest_path = "manifest.json"
@@ -93,7 +82,7 @@ def scrape_single_thread(url: str):
         with open(manifest_path, "r", encoding="utf-8") as f:
             manifest = json.load(f)
     manifest = [m for m in manifest if m.get("date") != date_str]
-    manifest.append({"date": date_str, "file": new_name})
+    manifest.append({"date": date_str, "file": filename})
     manifest.sort(key=lambda x: x["date"])
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
