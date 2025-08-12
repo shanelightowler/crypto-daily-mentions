@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mnti7f/daily_crypto_discussion_august_12_2025_gmt0/",
-  "generated_at_utc": "2025-08-12T21:28:01.379538Z",
+  "generated_at_utc": "2025-08-12T21:41:32.249314Z",
   "results": {
-    "ETH": 201,
-    "BTC": 75,
+    "ETH": 205,
+    "BTC": 76,
     "LINK": 45,
     "ADA": 22,
     "SOL": 7,
     "AVAX": 7,
+    "NEAR": 6,
     "XRP": 5,
-    "NEAR": 5,
     "HBAR": 5,
     "AAVE": 4,
     "WIF": 4,
-    "ETC": 3,
+    "ETC": 4,
     "SUI": 2,
     "DOGE": 2,
     "LDO": 1,
@@ -33,12 +33,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 201
+      "count": 205
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 75
+      "count": 76
     },
     {
       "symbol": "LINK",
@@ -61,13 +61,13 @@
       "count": 7
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 5
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 6
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 5
     },
     {
@@ -88,7 +88,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "SUI",
