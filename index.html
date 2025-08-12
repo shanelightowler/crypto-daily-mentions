@@ -20,18 +20,37 @@
         <tbody id="data-table"></tbody>
     </table>
 
-    <script>
-        fetch("data.json")
-            .then(res => res.json())
-            .then(data => {
-                document.getElementById("thread-link").innerHTML = 
-                    `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
-                
-                const tbody = document.getElementById("data-table");
-                Object.entries(data.results).forEach(([coin, count]) => {
-                    tbody.innerHTML += `<tr><td>${coin}</td><td>${count}</td></tr>`;
-                });
-            });
-    </script>
+   <script>
+  async function loadData() {
+    try {
+      const response = await fetch("data.json?" + new Date().getTime());
+      if (!response.ok) throw new Error("Failed to load data.json");
+      const data = await response.json();
+
+      document.getElementById("thread-link").innerHTML = 
+        `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
+
+      const tbody = document.getElementById("data-table");
+      tbody.innerHTML = ''; // clear existing rows
+
+      Object.entries(data.results).forEach(([coin, count]) => {
+        const row = document.createElement('tr');
+        const coinCell = document.createElement('td');
+        coinCell.textContent = coin;
+        const countCell = document.createElement('td');
+        countCell.textContent = count;
+        row.appendChild(coinCell);
+        row.appendChild(countCell);
+        tbody.appendChild(row);
+      });
+    } catch (err) {
+      document.getElementById("thread-link").textContent = "Error loading data.";
+      console.error(err);
+    }
+  }
+
+  loadData();
+</script>
+
 </body>
 </html>
