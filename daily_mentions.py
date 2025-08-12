@@ -37,7 +37,7 @@ UNAMBIGUOUS_BARE_SYMBOLS = {
     "CHZ","ENJ","ZRX","BAT","ZEC","DASH","KAVA","KDA","KSM","ROSE",
     "RUNE","EGLD","NEO","GALA","SFP","CAKE","STX","MINA","AR","ASTR",
     "OSMO","SKL","CFX","XDC","TFUEL","THETA","BTT","OKB","HT","CRO",
-    "QNT","RSR","NEXO"
+    "QNT","RSR","ZORA","BMNR","NEXO"
 }
 
 # In semi-loose mode, allow the whole whitelist to match in any case.
@@ -68,6 +68,7 @@ EXTRA_FULLNAME_ALIASES = {
     "XLM": ["stellar"],
     "BCH": ["bitcoin cash"],
     "ETC": ["ethereum classic"],
+    "BMNR": ["bitmine"],
     "SHIB": ["shiba inu"]
     # Note: we intentionally avoid generic/ambiguous words like "ton", "near", "flow", etc.
 }
@@ -165,6 +166,7 @@ CANONICAL_SYMBOLS = {
     "QNT": ("quant-network", "Quant"),
     "RSR": ("reserve-rights-token", "Reserve Rights"),
     "NEXO": ("nexo", "Nexo"),
+    "BMNR": ("Bitmine", "bitmine"),
     "ZORA": ("Zora", "zora")
 }
 
