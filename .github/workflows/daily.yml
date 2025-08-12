@@ -5,23 +5,29 @@ on:
     - cron: "5 8 * * *"  # Runs daily at 08:05 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # needed to push back to repo
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+          cache: "pip"
 
       - name: Check Python version
         run: python --version
 
       - name: Install dependencies
-        run: pip install praw
+        run: |
+          python -m pip install --upgrade pip
+          pip install praw requests flashtext
 
       - name: Run script
         env:
@@ -30,11 +36,10 @@ jobs:
         run: python daily_mentions.py
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          # Add only the data files you want to publish. If you want to exclude coins_cache.json, list files explicitly.
           git add *.json
           git commit -m "Update daily mentions" || echo "No changes to commit"
           git push
