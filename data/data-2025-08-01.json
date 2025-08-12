@@ -1,0 +1,165 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 1, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mehny8/daily_crypto_discussion_august_1_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:08.680436Z",
+  "results": {
+    "BTC": 110,
+    "ETH": 45,
+    "XRP": 10,
+    "NEAR": 7,
+    "ETC": 4,
+    "SUI": 4,
+    "SOL": 4,
+    "LINK": 3,
+    "BONK": 3,
+    "DOGE": 3,
+    "AVAX": 2,
+    "INJ": 2,
+    "ADA": 2,
+    "AR": 1,
+    "LTC": 1,
+    "RENDER": 1,
+    "IMX": 1,
+    "DOT": 1,
+    "CAKE": 1,
+    "BCH": 1,
+    "MATIC": 1,
+    "ARB": 1,
+    "CRO": 1,
+    "MOODENG": 1,
+    "PENGU": 1,
+    "FARTCOIN": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 110
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 45
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 10
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "INJ",
+      "name": "Injective",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "RENDER",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "IMX",
+      "name": "Immutable",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "MOODENG",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "PENGU",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "FARTCOIN",
+      "name": "",
+      "count": 1
+    }
+  ]
+}

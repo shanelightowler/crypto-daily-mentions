@@ -1,0 +1,117 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 7, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mjkzh1/daily_crypto_discussion_august_7_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:42.749786Z",
+  "results": {
+    "ETH": 56,
+    "BTC": 45,
+    "XRP": 13,
+    "LINK": 13,
+    "SOL": 10,
+    "ALGO": 7,
+    "ETC": 4,
+    "XMR": 4,
+    "DOGE": 3,
+    "XLM": 2,
+    "PEPE": 2,
+    "ROSE": 1,
+    "ADA": 1,
+    "PEP": 1,
+    "BNB": 1,
+    "MATIC": 1,
+    "BOSS": 1,
+    "TON": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 56
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 45
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 13
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 13
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 10
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "PEP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "BOSS",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    }
+  ]
+}

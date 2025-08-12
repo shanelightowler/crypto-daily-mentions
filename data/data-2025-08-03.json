@@ -1,0 +1,123 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 3, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mg549z/daily_crypto_discussion_august_3_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:26.774433Z",
+  "results": {
+    "BTC": 49,
+    "ETH": 20,
+    "LINK": 3,
+    "NEAR": 2,
+    "XRP": 2,
+    "ETC": 2,
+    "CRO": 2,
+    "PEPE": 2,
+    "WIF": 2,
+    "XLM": 1,
+    "ADA": 1,
+    "SOL": 1,
+    "ROSE": 1,
+    "REKT": 1,
+    "PENGU": 1,
+    "HBAR": 1,
+    "KTA": 1,
+    "AAVE": 1,
+    "FLOKI": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 49
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 20
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 2
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "REKT",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "PENGU",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "KTA",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "Floki",
+      "count": 1
+    }
+  ]
+}

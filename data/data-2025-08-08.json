@@ -1,0 +1,195 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 8, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mkg8dy/daily_crypto_discussion_august_8_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:51.323601Z",
+  "results": {
+    "ETH": 139,
+    "BTC": 52,
+    "LINK": 20,
+    "ADA": 18,
+    "XRP": 16,
+    "PEPE": 11,
+    "SOL": 8,
+    "AAVE": 5,
+    "DOGE": 4,
+    "AERO": 4,
+    "HBAR": 4,
+    "CRO": 4,
+    "ALGO": 3,
+    "UNI": 3,
+    "NEAR": 2,
+    "XLM": 2,
+    "SUI": 2,
+    "DOT": 2,
+    "AVAX": 2,
+    "MATIC": 2,
+    "ARB": 1,
+    "LTC": 1,
+    "BONK": 1,
+    "ATOM": 1,
+    "NEXO": 1,
+    "INJ": 1,
+    "NEO": 1,
+    "BNB": 1,
+    "BAT": 1,
+    "ONE": 1,
+    "ETC": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 139
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 52
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 20
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 18
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 16
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 11
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 8
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 4
+    },
+    {
+      "symbol": "AERO",
+      "name": "",
+      "count": 4
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 4
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 4
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 3
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 2
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "NEXO",
+      "name": "Nexo",
+      "count": 1
+    },
+    {
+      "symbol": "INJ",
+      "name": "Injective",
+      "count": 1
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "ONE",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    }
+  ]
+}

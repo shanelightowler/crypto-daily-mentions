@@ -1,0 +1,105 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 9, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mlb4y4/daily_crypto_discussion_august_9_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:56:11.043516Z",
+  "results": {
+    "ETH": 290,
+    "BTC": 141,
+    "LINK": 17,
+    "DOGE": 15,
+    "CRO": 8,
+    "ADA": 8,
+    "XRP": 7,
+    "SOL": 5,
+    "SUI": 4,
+    "ETC": 4,
+    "ATOM": 2,
+    "DOT": 2,
+    "PEPE": 1,
+    "HBAR": 1,
+    "NEAR": 1,
+    "TON": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 290
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 141
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 17
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 15
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 8
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    }
+  ]
+}

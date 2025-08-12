@@ -1,0 +1,105 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 2, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mfc9um/daily_crypto_discussion_august_2_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:22.679681Z",
+  "results": {
+    "BTC": 69,
+    "ETH": 55,
+    "XRP": 23,
+    "ADA": 7,
+    "SOL": 4,
+    "DOGE": 3,
+    "LINK": 2,
+    "SAND": 1,
+    "AVAX": 1,
+    "SUI": 1,
+    "BNB": 1,
+    "WIF": 1,
+    "ETC": 1,
+    "ALGO": 1,
+    "HBAR": 1,
+    "OP": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 69
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 55
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 23
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 1
+    }
+  ]
+}

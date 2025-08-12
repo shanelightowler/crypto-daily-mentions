@@ -1,0 +1,117 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 4, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mgymlm/daily_crypto_discussion_august_4_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:55:30.594819Z",
+  "results": {
+    "ETH": 55,
+    "BTC": 47,
+    "LTC": 6,
+    "TON": 3,
+    "LINK": 2,
+    "ETC": 1,
+    "AAVE": 1,
+    "SUI": 1,
+    "GRT": 1,
+    "MAMO": 1,
+    "DOGE": 1,
+    "BONK": 1,
+    "NEAR": 1,
+    "ALGO": 1,
+    "BNB": 1,
+    "SOL": 1,
+    "XLM": 1,
+    "ICP": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 55
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 47
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 6
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "GRT",
+      "name": "The Graph",
+      "count": 1
+    },
+    {
+      "symbol": "MAMO",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 1
+    }
+  ]
+}
