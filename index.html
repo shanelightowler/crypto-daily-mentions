@@ -23,17 +23,102 @@
       .grid { grid-template-columns: 1fr 1fr; }
     }
     canvas { width: 100%; height: 420px; }
-  </style>
 
-  <!-- Pikaday CSS from CDN -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css" />
+    /* Pikaday CSS */
+    .pika-single {
+      z-index: 9999;
+      display: block;
+      position: relative;
+      color: #333;
+      background: #fff;
+      border: 1px solid #ccc;
+      box-shadow: 0 1px 3px #bbb;
+      border-radius: 3px;
+    }
+    .pika-single.is-hidden {
+      display: none;
+    }
+    .pika-lendar {
+      padding: 10px;
+    }
+    .pika-title {
+      text-align: center;
+      position: relative;
+      margin-bottom: 10px;
+      user-select: none;
+    }
+    .pika-label {
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .pika-prev, .pika-next {
+      cursor: pointer;
+      position: absolute;
+      top: 14px;
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-size: 18px;
+      color: #999;
+      user-select: none;
+    }
+    .pika-prev:hover, .pika-next:hover {
+      color: #000;
+    }
+    .pika-prev {
+      left: 10px;
+    }
+    .pika-next {
+      right: 10px;
+    }
+    .pika-table {
+      width: 100%;
+      border-collapse: collapse;
+      border-spacing: 0;
+      user-select: none;
+    }
+    .pika-table th, .pika-table td {
+      width: 14.285714285714286%;
+      padding: 5px 0;
+      text-align: center;
+      cursor: pointer;
+    }
+    .pika-table th {
+      color: #999;
+      font-weight: 700;
+      font-size: 12px;
+    }
+    .pika-button {
+      border: none;
+      background: none;
+      color: inherit;
+      font: inherit;
+      cursor: pointer;
+      outline: none;
+    }
+    .is-disabled {
+      color: #ccc !important;
+      pointer-events: none;
+      cursor: default;
+    }
+    .is-selected {
+      background: #1f77b4;
+      color: white;
+      border-radius: 3px;
+    }
+    .is-today {
+      color: #d33;
+      font-weight: 700;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Daily Crypto Mentions</h1>
     <div class="controls">
       <label for="date-picker">Select date:</label>
-      <input type="text" id="date-picker" aria-label="Select date" readonly style="cursor:pointer; background:#fff;" />
+      <input type="text" id="date-picker" aria-label="Select date" readonly />
 
       <label for="topn-select">Top N:</label>
       <select id="topn-select" aria-label="Select number of lines">
@@ -66,11 +151,14 @@
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css" />
+
   <script>
   (function() {
     'use strict';
 
     const manifestUrl = 'manifest.json';
+    const datePickerEl = document.getElementById('date-picker');
     const topNEl = document.getElementById('topn-select');
     const tbody = document.getElementById('data-table');
     const metaEl = document.getElementById('meta');
@@ -78,6 +166,9 @@
     const ctx = document.getElementById('mentions-chart').getContext('2d');
 
     let manifestData = [];
+    let dateToFileMap = {};
+    let validDateStrs = [];
+    let picker = null;
     let chartInstance = null;
 
     // Fetch JSON with cache-busting
@@ -143,64 +234,72 @@
 
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
-        await renderChartUpToDate(filePath, focusSymbols);
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3">Error loading ${filePath}: ${e}</td></tr>`;
-        if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
+        await renderChartUpToDate(focusSymbols);
+
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Error loading data</td></tr>`;
+        metaEl.textContent = '';
+        threadLinkEl.textContent = '';
+        console.error(e);
       }
     }
 
-    async function renderChartUpToDate(filePath, focusSymbols) {
-      const selectedIndex = manifestData.findIndex(m => m.file === filePath);
-      if (selectedIndex < 0) {
-        if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
-        return;
-      }
-      const filteredManifest = manifestData.slice(0, selectedIndex + 1); // from start up to selected date
-      const dates = filteredManifest.map(m => m.date);
-
-      // Build data arrays for each focus symbol
-      const series = {};
-      focusSymbols.forEach(sym => series[sym] = []);
-      for (const entry of filteredManifest) {
-        const day = await fetchJson(entry.file);
-        const list = normalizeDayList(day);
+    async function renderChartUpToDate(focusSymbols) {
+      // Gather historical data for these symbols from manifest
+      const promises = manifestData.map(async d => {
+        const dayData = await fetchJson(d.file);
+        const normalized = normalizeDayList(dayData);
+        // Map symbol => count for that day
         const map = {};
-        list.forEach(r => { map[r.symbol] = r.count; });
-        focusSymbols.forEach(sym => {
-          series[sym].push(map[sym] || 0);
-        });
-      }
+        normalized.forEach(r => { map[r.symbol] = r.count; });
+        return { date: d.date, map };
+      });
 
-      // Create datasets
-      const colors = getPalette(focusSymbols.length);
-      const datasets = focusSymbols.map((sym, i) => ({
-        label: sym,
-        data: series[sym],
-        borderColor: colors[i],
-        backgroundColor: colors[i],
-        borderWidth: 2,
-        pointRadius: 1.5,
-        fill: false,
-        tension: 0.15
-      }));
+      const results = await Promise.all(promises);
+
+      const labels = results.map(r => r.date);
+      const datasets = [];
+
+      const palette = getPalette(focusSymbols.length);
+
+      focusSymbols.forEach((sym, idx) => {
+        const data = results.map(r => r.map[sym] || 0);
+        datasets.push({
+          label: sym,
+          data,
+          fill: false,
+          borderColor: palette[idx],
+          backgroundColor: palette[idx],
+          tension: 0.1,
+          pointRadius: 2,
+          borderWidth: 2,
+          spanGaps: true,
+        });
+      });
 
       if (chartInstance) chartInstance.destroy();
+
       chartInstance = new Chart(ctx, {
         type: 'line',
-        data: { labels: dates, datasets },
+        data: { labels, datasets },
         options: {
           responsive: true,
-          animation: false,
-          plugins: {
-            legend: {
-              position: 'right',
-              labels: { boxWidth: 12, usePointStyle: true }
-            },
-            title: { display: true, text: `Mentions over time (top ${focusSymbols.length} of selected day)` },
-            tooltip: { mode: 'index', intersect: false }
+          interaction: {
+            mode: 'nearest',
+            intersect: false
           },
-          interaction: { mode: 'nearest', axis: 'x', intersect: false },
+          plugins: {
+            legend: { position: 'top' },
+            tooltip: {
+              enabled: true,
+              mode: 'index',
+              intersect: false,
+              callbacks: {
+                title: ctx => ctx[0].label,
+                label: ctx => `${ctx.dataset.label}: ${ctx.parsed.y}`,
+              }
+            }
+          },
           scales: {
             y: { beginAtZero: true, title: { display: true, text: 'Mentions' } },
             x: { title: { display: true, text: 'Date' } }
@@ -209,67 +308,83 @@
       });
     }
 
-    let picker = null;
+    // Format date as local YYYY-MM-DD (no timezone shift)
+    function formatLocalDate(d) {
+      const y = d.getFullYear();
+      const m = (d.getMonth() + 1).toString().padStart(2, '0');
+      const day = d.getDate().toString().padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
 
-    // Initialize the app
-    (async function init() {
+    // Initialize picker with valid dates only
+    function setupDatePicker() {
+      picker = new Pikaday({
+        field: datePickerEl,
+        format: 'YYYY-MM-DD',
+        firstDay: 1,
+        toString(date) {
+          return formatLocalDate(date);
+        },
+        disableDayFn(date) {
+          const iso = formatLocalDate(date);
+          return !validDateStrs.includes(iso);
+        },
+        onSelect(date) {
+          const iso = formatLocalDate(date);
+          const file = dateToFileMap[iso];
+          if (file) loadDayData(file, parseInt(topNEl.value, 10));
+        }
+      });
+
+      // Set to latest valid date
+      if (validDateStrs.length) {
+        const lastDateStr = validDateStrs[validDateStrs.length - 1];
+        const [y, m, d] = lastDateStr.split('-').map(Number);
+        picker.setDate(new Date(y, m -1, d));
+      }
+    }
+
+    async function init() {
       try {
-        const raw = await fetchJson(manifestUrl);
-        // De-duplicate and sort manifest by date ascending
-        const byDate = new Map();
-        raw.forEach(item => { byDate.set(item.date, item); });
-        manifestData = Array.from(byDate.values()).sort((a, b) => a.date.localeCompare(b.date));
+        manifestData = await fetchJson(manifestUrl);
+        // Sort manifest by date ascending
+        manifestData.sort((a,b) => a.date.localeCompare(b.date));
 
-        if (!manifestData.length) {
-          tbody.innerHTML = '<tr><td colspan="3">No manifest data found</td></tr>';
-          return;
+        dateToFileMap = {};
+        validDateStrs = [];
+
+        manifestData.forEach(d => {
+          if (d.date && d.file) {
+            dateToFileMap[d.date] = d.file;
+            validDateStrs.push(d.date);
+          }
+        });
+
+        setupDatePicker();
+
+        // Load initial data for latest date
+        const latestDate = validDateStrs[validDateStrs.length - 1];
+        if (latestDate) {
+          const file = dateToFileMap[latestDate];
+          loadDayData(file, parseInt(topNEl.value, 10));
         }
 
-        // Prepare date strings and file map for calendar logic
-        const validDateStrs = manifestData.map(m => m.date);
-        const dateToFileMap = {};
-        manifestData.forEach(m => { dateToFileMap[m.date] = m.file; });
-
-        // Initialize Pikaday date picker
-        picker = new Pikaday({
-          field: document.getElementById('date-picker'),
-          format: 'YYYY-MM-DD',
-          firstDay: 1,
-          toString(date) {
-            return date.toISOString().split('T')[0];
-          },
-          disableDayFn(date) {
-            const iso = date.toISOString().split('T')[0];
-            return !validDateStrs.includes(iso);
-          },
-          onSelect(date) {
-            const iso = date.toISOString().split('T')[0];
-            const file = dateToFileMap[iso];
-            if (file) loadDayData(file, parseInt(topNEl.value, 10));
-          }
-        });
-
-        // Set picker to latest date and load data
-        const lastDateStr = manifestData[manifestData.length - 1].date;
-        const lastDateObj = new Date(lastDateStr + 'T00:00:00Z');
-        picker.setDate(lastDateObj, true);
-        picker.gotoDate(lastDateObj);
-
-        await loadDayData(dateToFileMap[lastDateStr], parseInt(topNEl.value, 10));
-
-        // React to Top N changes
-        topNEl.addEventListener('change', () => {
-          if (picker.getDate()) {
-            const iso = picker.getDate().toISOString().split('T')[0];
-            const file = dateToFileMap[iso];
-            if (file) loadDayData(file, parseInt(topNEl.value, 10));
-          }
-        });
-
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3">Error loading manifest: ${e}</td></tr>`;
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Failed to load manifest</td></tr>`;
+        console.error(e);
       }
-    })();
+    }
+
+    topNEl.addEventListener('change', () => {
+      if (!picker) return;
+      const date = picker.getDate();
+      if (!date) return;
+      const iso = formatLocalDate(date);
+      const file = dateToFileMap[iso];
+      if (file) loadDayData(file, parseInt(topNEl.value, 10));
+    });
+
+    init();
 
   })();
   </script>
