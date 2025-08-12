@@ -6,8 +6,13 @@ from collections import Counter
 
 import praw
 
-# Reuse helpers from your daily script (must be in repo root)
-from daily_mentions import fetch_coins, build_keyword_processor, count_mentions_in_text
+# Reuse helpers and rules from your daily script (must be in repo root)
+from daily_mentions import (
+    fetch_coins,
+    build_keyword_processor,
+    count_mentions_in_text,
+    should_skip_author,  # uses the EXCLUDE_BOTS settings from daily_mentions.py
+)
 
 # Reddit credentials
 CLIENT_ID = os.getenv("CLIENT_ID")
@@ -34,6 +39,21 @@ def parse_date_from_title(title: str) -> str | None:
     except Exception:
         return None
 
+def dump_corpus(comments, date_str: str):
+    # Save every comment as one JSON object per line for auditing
+    path = f"comments-{date_str}.jsonl"
+    with open(path, "w", encoding="utf-8") as f:
+        for c in comments:
+            author = getattr(c, "author", None)
+            author_name = getattr(author, "name", None) if author else None
+            obj = {
+                "id": c.id,
+                "author": author_name,
+                "body": c.body or ""
+            }
+            f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+    print(f"📦 Saved corpus to {path}")
+
 def scrape_single_thread(url: str):
     submission = reddit.submission(url=url)
     submission.comments.replace_more(limit=None)
@@ -43,14 +63,22 @@ def scrape_single_thread(url: str):
     print(f"URL: {url}")
     print(f"Total comments: {len(comments)}")
 
+    # Determine date for filenames
+    date_str = parse_date_from_title(submission.title) or datetime.utcnow().strftime("%Y-%m-%d")
+
+    # Save corpus for auditing
+    dump_corpus(comments, date_str)
+
     # Build matcher (same as daily script)
     coins = fetch_coins()
     kp, id_to_meta, canonical_name_by_symbol = build_keyword_processor(coins)
 
-    # Count mentions by SYMBOL (already enforced: $SYMBOL always; bare only for whitelisted ALL-CAPS)
+    # Count mentions by SYMBOL using the same logic as daily_mentions.py
     counts_by_symbol = Counter()
     for c in comments:
-        counts_by_symbol.update(count_mentions_in_text(kp, c.body))
+        if should_skip_author(getattr(c, "author", None)):
+            continue
+        counts_by_symbol.update(count_mentions_in_text(kp, c.body or ""))
 
     # Sort and build outputs
     results_by_symbol = dict(sorted(counts_by_symbol.items(), key=lambda x: x[1], reverse=True))
@@ -67,8 +95,7 @@ def scrape_single_thread(url: str):
         "results_list": results_list,
     }
 
-    # Filename by date in title (fallback to today)
-    date_str = parse_date_from_title(submission.title) or datetime.utcnow().strftime("%Y-%m-%d")
+    # Filename by date
     filename = f"data-{date_str}.json"
 
     with open(filename, "w", encoding="utf-8") as f:
