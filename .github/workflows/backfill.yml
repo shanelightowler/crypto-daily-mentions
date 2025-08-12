@@ -4,9 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       thread_url:
-        description: 'Reddit Daily Crypto Discussion thread URL (old.reddit or www)'
+        description: 'Reddit Daily thread URL to backfill (old.reddit or www)'
         required: true
-        default: ''
 
 permissions:
   contents: write
@@ -33,6 +32,16 @@ jobs:
           CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python bulk_historical_updates.py "${{ github.event.inputs.thread_url }}"
+
+      # Diagnostic step goes here:
+      - name: Show outputs (diagnostic)
+        run: |
+          echo "Repo root:"
+          ls -la
+          echo "Preview data-*.json:"
+          head -n 20 data-*.json || true
+          echo "Preview comments-*.jsonl:"
+          head -n 3 comments-*.jsonl || true
 
       - name: Commit and push changes
         run: |
