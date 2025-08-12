@@ -13,21 +13,18 @@ from daily_mentions import (
     count_mentions_in_text,
 )
 
-# Try to reuse bot filtering config from daily_mentions; otherwise use sensible defaults
+# Try to reuse bot filtering config from daily_mentions; otherwise defaults
 try:
     from daily_mentions import EXCLUDE_BOTS as DM_EXCLUDE_BOTS
 except Exception:
-    DM_EXCLUDE_BOTS = None
-
+    DM_EXCLUDE_BOTS = True
 try:
     from daily_mentions import BOT_NAME_PATTERNS as DM_BOT_NAME_PATTERNS
 except Exception:
-    DM_BOT_NAME_PATTERNS = None
+    DM_BOT_NAME_PATTERNS = ("automoderator", "bot", "tip", "price", "moon", "giveaway", "airdrop")
 
-EXCLUDE_BOTS = DM_EXCLUDE_BOTS if DM_EXCLUDE_BOTS is not None else True
-BOT_NAME_PATTERNS = DM_BOT_NAME_PATTERNS if DM_BOT_NAME_PATTERNS is not None else (
-    "automoderator", "bot", "tip", "price", "moon", "giveaway", "airdrop"
-)
+EXCLUDE_BOTS = DM_EXCLUDE_BOTS
+BOT_NAME_PATTERNS = DM_BOT_NAME_PATTERNS
 
 def should_skip_author(author) -> bool:
     if not EXCLUDE_BOTS:
@@ -52,30 +49,30 @@ reddit = praw.Reddit(
     user_agent=USER_AGENT
 )
 
+# New: subfolders
+DATA_DIR = os.getenv("DATA_DIR", "data")
+CORPUS_DIR = os.getenv("CORPUS_DIR", "corpus")
+os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs(CORPUS_DIR, exist_ok=True)
+
 def parse_date_from_title(title: str) -> str | None:
-    # Example: "Daily Crypto Discussion - August 11, 2025 (GMT+0)"
     try:
         parts = title.split(" - ", 1)
         if len(parts) != 2:
             return None
-        date_part = parts[1].split(" (")[0].strip()  # "August 11, 2025"
+        date_part = parts[1].split(" (")[0].strip()
         dt = datetime.strptime(date_part, "%B %d, %Y")
         return dt.strftime("%Y-%m-%d")
     except Exception:
         return None
 
 def dump_corpus(comments, date_str: str):
-    # Save every comment as one JSON object per line for auditing
-    path = f"comments-{date_str}.jsonl"
+    path = os.path.join(CORPUS_DIR, f"comments-{date_str}.jsonl")
     with open(path, "w", encoding="utf-8") as f:
         for c in comments:
             author = getattr(c, "author", None)
             author_name = getattr(author, "name", None) if author else None
-            obj = {
-                "id": c.id,
-                "author": author_name,
-                "body": c.body or ""
-            }
+            obj = {"id": c.id, "author": author_name, "body": c.body or ""}
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
     print(f"📦 Saved corpus to {path}")
 
@@ -88,29 +85,21 @@ def scrape_single_thread(url: str):
     print(f"URL: {url}")
     print(f"Total comments: {len(comments)}")
 
-    # Determine date for filenames
     date_str = parse_date_from_title(submission.title) or datetime.utcnow().strftime("%Y-%m-%d")
-
-    # Save corpus for auditing
     dump_corpus(comments, date_str)
 
-    # Build matcher (same as daily script)
     coins = fetch_coins()
     kp, id_to_meta, canonical_name_by_symbol = build_keyword_processor(coins)
 
-    # Count mentions by SYMBOL using the same logic as daily_mentions.py
     counts_by_symbol = Counter()
     for c in comments:
         if should_skip_author(getattr(c, "author", None)):
             continue
         counts_by_symbol.update(count_mentions_in_text(kp, c.body or ""))
 
-    # Sort and build outputs
     results_by_symbol = dict(sorted(counts_by_symbol.items(), key=lambda x: x[1], reverse=True))
-    results_list = [
-        {"symbol": sym, "name": canonical_name_by_symbol.get(sym, ""), "count": count}
-        for sym, count in results_by_symbol.items()
-    ]
+    results_list = [{"symbol": sym, "name": canonical_name_by_symbol.get(sym, ""), "count": count}
+                    for sym, count in results_by_symbol.items()]
 
     output = {
         "thread_title": submission.title,
@@ -120,21 +109,21 @@ def scrape_single_thread(url: str):
         "results_list": results_list,
     }
 
-    # Filename by date
+    # Save into data/ subfolder
     filename = f"data-{date_str}.json"
-
-    with open(filename, "w", encoding="utf-8") as f:
+    out_path = os.path.join(DATA_DIR, filename)
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
-    print(f"✅ Saved {filename}")
+    print(f"✅ Saved {out_path}")
 
-    # Update manifest.json
+    # Update manifest at root
     manifest_path = "manifest.json"
     manifest = []
     if os.path.exists(manifest_path):
         with open(manifest_path, "r", encoding="utf-8") as f:
             manifest = json.load(f)
     manifest = [m for m in manifest if m.get("date") != date_str]
-    manifest.append({"date": date_str, "file": filename})
+    manifest.append({"date": date_str, "file": os.path.join(DATA_DIR, filename)})
     manifest.sort(key=lambda x: x["date"])
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
