@@ -8,7 +8,7 @@ import praw
 from flashtext import KeywordProcessor
 
 # =========================
-# Config (semi-loose profile)
+# Config (semi-loose profile + top-coin full names)
 # =========================
 USER_AGENT = "crypto-mention-counter"
 COINGECKO_LIST_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=false"
@@ -42,6 +42,35 @@ UNAMBIGUOUS_BARE_SYMBOLS = {
 
 # In semi-loose mode, allow the whole whitelist to match in any case.
 RELAXED_COINS = UNAMBIGUOUS_BARE_SYMBOLS
+
+# Allow full-name matching ONLY for these top coins (safe names that won't collide with ordinary words).
+ALLOW_FULL_NAMES_FOR = {
+    "BTC","ETH","SOL","ADA","XRP","DOGE","LINK","BNB","LTC","DOT",
+    "AVAX","MATIC","TRX","ATOM","XLM","BCH","ETC","SHIB"
+}
+
+# Optional extra full-name aliases (safe synonyms/brands)
+EXTRA_FULLNAME_ALIASES = {
+    "BTC": ["bitcoin"],
+    "ETH": ["ethereum"],
+    "SOL": ["solana"],
+    "ADA": ["cardano"],
+    "XRP": ["ripple"],
+    "DOGE": ["dogecoin"],
+    "LINK": ["chainlink"],
+    "BNB": ["binance coin","binancecoin"],
+    "LTC": ["litecoin"],
+    "DOT": ["polkadot"],
+    "AVAX": ["avalanche"],
+    "MATIC": ["polygon"],  # CoinGecko's name includes "(MATIC)"; this ensures "polygon" matches
+    "TRX": ["tron"],
+    "ATOM": ["cosmos"],
+    "XLM": ["stellar"],
+    "BCH": ["bitcoin cash"],
+    "ETC": ["ethereum classic"],
+    "SHIB": ["shiba inu"]
+    # Note: we intentionally avoid generic/ambiguous words like "ton", "near", "flow", etc.
+}
 
 # Canonical symbol -> (coingecko id, display name) for cleaner names in UI
 CANONICAL_SYMBOLS = {
@@ -201,8 +230,8 @@ def build_keyword_processor(coins):
     Strategy:
       - Add $symbol for all coins.
       - Add bare symbol only for UNAMBIGUOUS_BARE_SYMBOLS (whitelist).
-      - Do NOT add full names (to avoid English words).
-      - Canonical symbols are registered first.
+      - Add full names ONLY for ALLOW_FULL_NAMES_FOR (plus safe synonyms).
+      - Canonical symbols are registered first, so they claim $BTC, BTC, and names.
     """
     kp = KeywordProcessor(case_sensitive=False)
     id_to_meta = {}
@@ -211,7 +240,13 @@ def build_keyword_processor(coins):
 
     coins_by_id = {c.get("id", ""): c for c in coins if c.get("id")}
 
-    def add_coin_aliases(coin, allow_bare=False):
+    def add_keyword(alias, cid, sym_up):
+        if alias in seen_aliases:
+            return
+        kp.add_keyword(alias, {"id": cid, "symbol": sym_up, "alias": alias})
+        seen_aliases.add(alias)
+
+    def add_coin_aliases(coin, allow_bare=False, allow_names=False, extras=None):
         cid = coin.get("id")
         sym = (coin.get("symbol") or "").strip().lower()
         name = (coin.get("name") or "").strip()
@@ -221,30 +256,43 @@ def build_keyword_processor(coins):
             return
 
         id_to_meta.setdefault(cid, {"symbol": sym, "name": name})
+        sym_up = sym.upper()
 
         # $symbol
-        dollar = f"${sym}"
-        if dollar not in seen_aliases:
-            kp.add_keyword(dollar, {"id": cid, "symbol": sym.upper(), "alias": dollar})
-            seen_aliases.add(dollar)
+        add_keyword(f"${sym}", cid, sym_up)
 
         # bare symbol
-        if allow_bare and sym not in seen_aliases:
-            kp.add_keyword(sym, {"id": cid, "symbol": sym.upper(), "alias": sym})
-            seen_aliases.add(sym)
+        if allow_bare:
+            add_keyword(sym, cid, sym_up)
 
-    # Canonical coins first
+        # full name(s) for selected top coins only
+        if allow_names:
+            base = name.lower()
+            if base and len(base) >= 3:
+                add_keyword(base, cid, sym_up)
+            for extra in (extras or []):
+                ex = extra.strip().lower()
+                if ex and len(ex) >= 3:
+                    add_keyword(ex, cid, sym_up)
+
+    # Canonical coins first (so they own their aliases)
     for sym, (cid, _disp) in CANONICAL_SYMBOLS.items():
         coin = coins_by_id.get(cid)
         if coin:
-            add_coin_aliases(coin, allow_bare=(sym in UNAMBIGUOUS_BARE_SYMBOLS))
+            allow_bare = sym in UNAMBIGUOUS_BARE_SYMBOLS
+            allow_names = sym in ALLOW_FULL_NAMES_FOR
+            extras = EXTRA_FULLNAME_ALIASES.get(sym, [])
+            add_coin_aliases(coin, allow_bare=allow_bare, allow_names=allow_names, extras=extras)
 
     # Then the rest
     for c in coins:
         sym_up = (c.get("symbol") or "").strip().upper()
         if not sym_up:
             continue
-        add_coin_aliases(c, allow_bare=(sym_up in UNAMBIGUOUS_BARE_SYMBOLS))
+        allow_bare = sym_up in UNAMBIGUOUS_BARE_SYMBOLS
+        allow_names = sym_up in ALLOW_FULL_NAMES_FOR
+        extras = EXTRA_FULLNAME_ALIASES.get(sym_up, [])
+        add_coin_aliases(c, allow_bare=allow_bare, allow_names=allow_names, extras=extras)
 
     return kp, id_to_meta, canonical_name_by_symbol
 
@@ -262,9 +310,9 @@ def count_mentions_in_text(kp: KeywordProcessor, text: str):
     """
     Semi-loose acceptance:
       - Always accept $SYMBOL.
-      - For bare SYMBOL:
-          - Accept if symbol is in RELAXED_COINS (any case),
-          - Else require ALL CAPS and len >= 3 (this branch rarely triggers since RELAXED_COINS == whitelist).
+      - For bare matches (symbol or name):
+          - Accept if symbol is in RELAXED_COINS (any case).
+          - Else (not typical) accept only ALL-CAPS words len>=3.
     Returns Counter of SYMBOL -> count for this comment (occurrences or per-comment unique).
     """
     text = normalize_text(text)
@@ -272,7 +320,7 @@ def count_mentions_in_text(kp: KeywordProcessor, text: str):
     per_hit_counts = Counter()
     for payload, start, end in hits:
         sym = payload["symbol"]  # uppercased
-        alias = payload["alias"] # '$eth' or 'eth'
+        alias = payload["alias"] # e.g., '$eth', 'eth', 'bitcoin', 'polygon'
         matched = text[start:end]
         if alias.startswith("$"):
             per_hit_counts[sym] += 1
@@ -285,10 +333,7 @@ def count_mentions_in_text(kp: KeywordProcessor, text: str):
                     per_hit_counts[sym] += 1
 
     if COUNT_MODE == "per_comment":
-        # collapse to 0/1 per symbol
-        collapsed = Counter()
-        for sym in per_hit_counts:
-            collapsed[sym] = 1
+        collapsed = Counter({sym: 1 for sym in per_hit_counts})
         return collapsed
     else:
         return per_hit_counts
