@@ -33,21 +33,18 @@ jobs:
           CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python bulk_historical_updates.py "${{ github.event.inputs.thread_url }}"
 
-      # Diagnostic step goes here:
       - name: Show outputs (diagnostic)
         run: |
-          echo "Repo root:"
-          ls -la
-          echo "Preview data-*.json:"
-          head -n 20 data-*.json || true
-          echo "Preview comments-*.jsonl:"
-          head -n 3 comments-*.jsonl || true
+          echo "Repo root:" && ls -la
+          echo "data/:" && ls -la data || true
+          echo "corpus/:" && ls -la corpus || true
+          echo "Preview a data file:" && head -n 20 data/data-*.json || true
+          echo "Preview a corpus file:" && head -n 3 corpus/comments-*.jsonl || true
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          # Add both JSON and JSONL outputs
-          git add *.json comments-*.jsonl
-          git commit -m "Backfill data and corpus for one thread" || echo "No changes to commit"
+          git add data/*.json corpus/*.jsonl manifest.json
+          git commit -m "Backfill data for one thread" || echo "No changes to commit"
           git push
