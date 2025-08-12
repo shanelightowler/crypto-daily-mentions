@@ -1,51 +1,52 @@
 {
   "thread_title": "Daily Crypto Discussion - August 11, 2025 (GMT+0)",
   "thread_url": "https://old.reddit.com/r/CryptoCurrency/comments/1mmy6i5/daily_crypto_discussion_august_11_2025_gmt0/",
-  "generated_at_utc": "2025-08-12T17:22:24.008329Z",
+  "generated_at_utc": "2025-08-12T17:31:15.179825Z",
   "results": {
-    "ETH": 134,
-    "BTC": 119,
-    "SOL": 12,
+    "BTC": 152,
+    "ETH": 142,
+    "SOL": 13,
     "NEAR": 9,
-    "ADA": 8,
+    "ADA": 9,
     "ETC": 6,
     "XRP": 5,
+    "LINK": 5,
     "DOGE": 4,
     "AVAX": 3,
-    "LINK": 3,
     "ALGO": 3,
     "CRO": 3,
     "AAVE": 3,
     "DOT": 2,
+    "LTC": 2,
     "BONK": 2,
     "TON": 2,
     "ATOM": 1,
     "UNI": 1,
     "SUI": 1,
     "MATIC": 1,
-    "LTC": 1,
     "SHIB": 1,
     "SEI": 1,
     "BNB": 1,
+    "TRX": 1,
     "APE": 1,
     "PEPE": 1,
     "OP": 1
   },
   "results_list": [
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 134
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 119
+      "count": 152
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 142
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "NEAR",
@@ -55,7 +56,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETC",
@@ -68,6 +69,11 @@
       "count": 5
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 5
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 4
@@ -75,11 +81,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 3
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 3
     },
     {
@@ -100,6 +101,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
@@ -133,11 +139,6 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "count": 1
@@ -150,6 +151,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     },
     {
