@@ -6,13 +6,38 @@ from collections import Counter
 
 import praw
 
-# Reuse helpers and rules from your daily script (must be in repo root)
+# Reuse helpers from your daily script
 from daily_mentions import (
     fetch_coins,
     build_keyword_processor,
     count_mentions_in_text,
-    should_skip_author,  # uses the EXCLUDE_BOTS settings from daily_mentions.py
 )
+
+# Try to reuse bot filtering config from daily_mentions; otherwise use sensible defaults
+try:
+    from daily_mentions import EXCLUDE_BOTS as DM_EXCLUDE_BOTS
+except Exception:
+    DM_EXCLUDE_BOTS = None
+
+try:
+    from daily_mentions import BOT_NAME_PATTERNS as DM_BOT_NAME_PATTERNS
+except Exception:
+    DM_BOT_NAME_PATTERNS = None
+
+EXCLUDE_BOTS = DM_EXCLUDE_BOTS if DM_EXCLUDE_BOTS is not None else True
+BOT_NAME_PATTERNS = DM_BOT_NAME_PATTERNS if DM_BOT_NAME_PATTERNS is not None else (
+    "automoderator", "bot", "tip", "price", "moon", "giveaway", "airdrop"
+)
+
+def should_skip_author(author) -> bool:
+    if not EXCLUDE_BOTS:
+        return False
+    if author is None:
+        return False
+    name = str(getattr(author, "name", "") or "").lower()
+    if name == "automoderator":
+        return True
+    return any(part in name for part in BOT_NAME_PATTERNS)
 
 # Reddit credentials
 CLIENT_ID = os.getenv("CLIENT_ID")
