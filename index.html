@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily Crypto Mentions</title>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        table { border-collapse: collapse; width: 50%; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+        th { background: #eee; }
+    </style>
+</head>
+<body>
+    <h1>Daily Crypto Mentions</h1>
+    <p id="thread-link"></p>
+    <table>
+        <thead>
+            <tr><th>Coin</th><th>Mentions</th></tr>
+        </thead>
+        <tbody id="data-table"></tbody>
+    </table>
+
+    <script>
+        fetch("data.json")
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById("thread-link").innerHTML = 
+                    `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
+                
+                const tbody = document.getElementById("data-table");
+                Object.entries(data.results).forEach(([coin, count]) => {
+                    tbody.innerHTML += `<tr><td>${coin}</td><td>${count}</td></tr>`;
+                });
+            });
+    </script>
+</body>
+</html>
