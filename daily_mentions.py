@@ -165,6 +165,7 @@ CANONICAL_SYMBOLS = {
     "QNT": ("quant-network", "Quant"),
     "RSR": ("reserve-rights-token", "Reserve Rights"),
     "NEXO": ("nexo", "Nexo")
+    "ZORA": ("Zora", "zora")
 }
 
 # =========================
