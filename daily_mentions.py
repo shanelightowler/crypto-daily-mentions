@@ -30,16 +30,48 @@ UNAMBIGUOUS_BARE_SYMBOLS = {
 }
 
 # Map canonical symbols to the preferred CoinGecko id and display name
-CANONICAL_SYMBOLS.update({
-    "BNB": ("binancecoin", "BNB"),
+CANONICAL_SYMBOLS = {
+    "BTC": ("bitcoin", "Bitcoin"),
+    "ETH": ("ethereum", "Ethereum"),
+    "SOL": ("solana", "Solana"),
+    "ADA": ("cardano", "Cardano"),
+    "DOGE": ("dogecoin", "Dogecoin"),
+    "LINK": ("chainlink", "Chainlink"),
     "XRP": ("ripple", "XRP"),
+    "LTC": ("litecoin", "Litecoin"),
+    "BCH": ("bitcoin-cash", "Bitcoin Cash"),
+    "XLM": ("stellar", "Stellar"),
+    "DOT": ("polkadot", "Polkadot"),
+    "AVAX": ("avalanche-2", "Avalanche"),
+    "MATIC": ("matic-network", "Polygon (MATIC)"),
+    "TRX": ("tron", "TRON"),
+    "ATOM": ("cosmos", "Cosmos"),
+    "ETC": ("ethereum-classic", "Ethereum Classic"),
+    "UNI": ("uniswap", "Uniswap"),
+    "AAVE": ("aave", "Aave"),
+    "ARB": ("arbitrum", "Arbitrum"),
+    "OP": ("optimism", "Optimism"),
+    "INJ": ("injective-protocol", "Injective"),
+    "SUI": ("sui", "Sui"),
+    "APT": ("aptos", "Aptos"),
+    "TON": ("toncoin", "Toncoin"),
+    "FTM": ("fantom", "Fantom"),
+    "ALGO": ("algorand", "Algorand"),
+    "HBAR": ("hedera-hashgraph", "Hedera"),
+    "RUNE": ("thorchain", "THORChain"),
+    "NEO": ("neo", "NEO"),
+    "EGLD": ("elrond-erd-2", "MultiversX (EGLD)"),
+    "KAS": ("kaspa", "Kaspa"),
+    "TIA": ("celestia", "Celestia"),
+    "SEI": ("sei-network", "Sei"),
+    "NEAR": ("near", "NEAR"),
+    "BNB": ("binancecoin", "BNB"),
     "SHIB": ("shiba-inu", "Shiba Inu"),
     "XMR": ("monero", "Monero"),
     "FIL": ("filecoin", "Filecoin"),
     "ICP": ("internet-computer", "Internet Computer"),
     "GRT": ("the-graph", "The Graph"),
     "FET": ("fetch-ai", "Fetch.ai"),
-    "AAVE": ("aave", "Aave"),
     "LDO": ("lido-dao", "Lido DAO"),
     "RPL": ("rocket-pool", "Rocket Pool"),
     "MKR": ("maker", "Maker"),
@@ -54,9 +86,6 @@ CANONICAL_SYMBOLS.update({
     "MANA": ("decentraland", "Decentraland"),
     "APE": ("apecoin", "ApeCoin"),
     "RNDR": ("render-token", "Render"),
-    "KAS": ("kaspa", "Kaspa"),
-    "TIA": ("celestia", "Celestia"),
-    "SEI": ("sei-network", "Sei"),
     "PEPE": ("pepe", "PEPE"),
     "FLOKI": ("floki", "Floki"),
     "BONK": ("bonk", "BONK"),
@@ -93,7 +122,7 @@ CANONICAL_SYMBOLS.update({
     "QNT": ("quant-network", "Quant"),
     "RSR": ("reserve-rights-token", "Reserve Rights"),
     "NEXO": ("nexo", "Nexo")
-})
+}
 
 # =========================
 # Reddit credentials
