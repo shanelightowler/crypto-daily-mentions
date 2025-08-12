@@ -101,26 +101,30 @@
       const dateToFileMap = {};
       manifestData.forEach(entry => { dateToFileMap[entry.date] = entry.file; });
 
-      const picker = new Pikaday({
-        field: document.getElementById('date-picker'),
-        format: 'YYYY-MM-DD',
-        firstDay: 1,
-        toString(date) { return date.toISOString().split('T')[0]; },
-        disableDayFn: function(date) {
-          return !validDates.some(d => d.getTime() === date.getTime());
-        },
-        onSelect: function(date) {
-          const iso = date.toISOString().split('T')[0];
-          const file = dateToFileMap[iso];
-          if (file) loadDayData(file, parseInt(topNEl.value, 10));
-        }
-      });
+const picker = new Pikaday({
+  field: document.getElementById('date-picker'),
+  format: 'YYYY-MM-DD',
+  firstDay: 1,
+  toString(date) { return date.toISOString().split('T')[0]; },
+  disableDayFn: function(date) {
+    return !validDates.some(d => d.getTime() === date.getTime());
+  },
+  onSelect: function(date) {
+    const iso = date.toISOString().split('T')[0];
+    const file = dateToFileMap[iso];
+    if (file) loadDayData(file, parseInt(topNEl.value, 10));
+  }
+});
 
-      if (manifestData.length) {
-        const lastDate = manifestData[manifestData.length - 1].date;
-        picker.setDate(new Date(lastDate + 'T00:00:00Z'), true);
-        loadDayData(dateToFileMap[lastDate], parseInt(topNEl.value, 10));
-      }
+// Set date to latest and force calendar to open on that month
+if (manifestData.length) {
+  const lastDate = manifestData[manifestData.length - 1].date;
+  const lastDateObj = new Date(lastDate + 'T00:00:00Z');
+  picker.setDate(lastDateObj, true);
+  picker.gotoDate(lastDateObj);  // <-- this makes calendar jump to latest date’s month
+  loadDayData(dateToFileMap[lastDate], parseInt(topNEl.value, 10));
+}
+
 
       topNEl.addEventListener('change', () => {
         const currentDate = document.getElementById('date-picker').value;
