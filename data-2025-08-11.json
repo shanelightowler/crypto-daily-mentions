@@ -1,52 +1,86 @@
 {
   "thread_title": "Daily Crypto Discussion - August 11, 2025 (GMT+0)",
   "thread_url": "https://old.reddit.com/r/CryptoCurrency/comments/1mmy6i5/daily_crypto_discussion_august_11_2025_gmt0/",
-  "generated_at_utc": "2025-08-12T16:47:35.716221Z",
+  "generated_at_utc": "2025-08-12T17:22:24.008329Z",
   "results": {
-    "ETH": 100,
-    "BTC": 93,
-    "SOL": 8,
-    "ADA": 7,
-    "XRP": 4,
+    "ETH": 134,
+    "BTC": 119,
+    "SOL": 12,
+    "NEAR": 9,
+    "ADA": 8,
+    "ETC": 6,
+    "XRP": 5,
+    "DOGE": 4,
+    "AVAX": 3,
+    "LINK": 3,
     "ALGO": 3,
     "CRO": 3,
     "AAVE": 3,
-    "AVAX": 2,
-    "LINK": 2,
+    "DOT": 2,
+    "BONK": 2,
+    "TON": 2,
     "ATOM": 1,
     "UNI": 1,
-    "DOT": 1,
     "SUI": 1,
     "MATIC": 1,
     "LTC": 1,
+    "SHIB": 1,
+    "SEI": 1,
     "BNB": 1,
-    "DOGE": 1
+    "APE": 1,
+    "PEPE": 1,
+    "OP": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 100
+      "count": 134
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 93
+      "count": 119
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 12
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 9
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 7
+      "count": 8
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 4
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "ALGO",
@@ -64,13 +98,18 @@
       "count": 3
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 2
     },
     {
@@ -81,11 +120,6 @@
     {
       "symbol": "UNI",
       "name": "Uniswap",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     },
     {
@@ -104,13 +138,33 @@
       "count": 1
     },
     {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
