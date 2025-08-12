@@ -1,0 +1,43 @@
+name: Backfill One Thread
+
+on:
+  workflow_dispatch:
+    inputs:
+      thread_url:
+        description: 'Reddit Daily Crypto Discussion thread URL (old.reddit or www)'
+        required: true
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install praw requests flashtext
+
+      - name: Run backfill
+        env:
+          CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: python bulk_historical_updates.py "${{ github.event.inputs.thread_url }}"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add *.json
+          git commit -m "Backfill data for one thread" || echo "No changes to commit"
+          git push
