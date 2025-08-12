@@ -1,84 +1,85 @@
 {
   "thread_title": "Daily Crypto Discussion - August 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mnti7f/daily_crypto_discussion_august_12_2025_gmt0/",
-  "generated_at_utc": "2025-08-12T16:07:11.555527Z",
+  "generated_at_utc": "2025-08-12T17:20:37.122887Z",
   "results": {
-    "ETH": 66,
-    "BTC": 35,
-    "LINK": 19,
-    "ADA": 15,
-    "XRP": 5,
-    "AAVE": 5,
-    "SOL": 4,
-    "XLM": 3,
-    "XMR": 3,
-    "SUI": 3,
-    "HBAR": 2,
-    "WIF": 2,
+    "ETH": 93,
+    "BTC": 42,
+    "LINK": 31,
+    "ADA": 16,
+    "AVAX": 6,
+    "AAVE": 4,
+    "HBAR": 4,
+    "WIF": 4,
+    "XRP": 3,
+    "SOL": 3,
+    "NEAR": 3,
     "LDO": 1,
-    "AVAX": 1,
-    "ALGO": 1
+    "DOT": 1,
+    "ALGO": 1,
+    "SUI": 1,
+    "APE": 1,
+    "TON": 1,
+    "DOGE": 1,
+    "COMP": 1,
+    "SEI": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 66
+      "count": 93
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 42
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 19
+      "count": 31
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 15
+      "count": 16
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 5
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 6
     },
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "count": 5
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 4
-    },
-    {
-      "symbol": "XLM",
-      "name": "Stellar",
-      "count": 3
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 3
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 3
     },
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "WIF",
       "name": "dogwifhat",
-      "count": 2
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "LDO",
@@ -86,13 +87,48 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "COMP",
+      "name": "Compound",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
