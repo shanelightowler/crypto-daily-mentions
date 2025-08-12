@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - August 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mnti7f/daily_crypto_discussion_august_12_2025_gmt0/",
-  "generated_at_utc": "2025-08-12T17:20:37.122887Z",
+  "generated_at_utc": "2025-08-12T17:29:42.726871Z",
   "results": {
-    "ETH": 93,
-    "BTC": 42,
-    "LINK": 31,
+    "ETH": 99,
+    "BTC": 51,
+    "LINK": 38,
     "ADA": 16,
-    "AVAX": 6,
+    "AVAX": 7,
     "AAVE": 4,
     "HBAR": 4,
     "WIF": 4,
@@ -23,23 +23,24 @@
     "DOGE": 1,
     "COMP": 1,
     "SEI": 1,
+    "ATOM": 1,
     "ETC": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 93
+      "count": 99
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 51
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 31
+      "count": 38
     },
     {
       "symbol": "ADA",
@@ -49,7 +50,7 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "AAVE",
@@ -124,6 +125,11 @@
     {
       "symbol": "SEI",
       "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
