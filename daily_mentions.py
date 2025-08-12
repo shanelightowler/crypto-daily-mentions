@@ -3,19 +3,30 @@ import re
 import json
 import requests
 from datetime import datetime, timedelta
-from collections import Counter, defaultdict
+from collections import Counter
 import praw
 from flashtext import KeywordProcessor
 
 # =========================
-# Config
+# Config (semi-loose profile)
 # =========================
 USER_AGENT = "crypto-mention-counter"
 COINGECKO_LIST_URL = "https://api.coingecko.com/api/v3/coins/list?include_platform=false"
 COIN_CACHE_FILE = "coins_cache.json"
 COIN_CACHE_TTL_DAYS = 7
 
-# Only allow bare (no $) mentions for these symbols, and only when typed in ALL CAPS.
+# Count every occurrence (semi-loose). Change to "per_comment" for strict mode.
+COUNT_MODE = "occurrence"  # "occurrence" or "per_comment"
+
+# Skip typical bots/moderators
+EXCLUDE_BOTS = True
+BOT_NAME_PATTERNS = ("automoderator", "bot", "tip", "price", "moon", "giveaway", "airdrop")
+
+# Clean text before matching
+STRIP_QUOTES_AND_CODE = True  # remove > quotes and code blocks
+# We always strip URLs in normalize_text()
+
+# Bare (no $) matches allowed for these symbols, in ANY case (semi-loose).
 UNAMBIGUOUS_BARE_SYMBOLS = {
     "BTC","ETH","BNB","SOL","ADA","XRP","DOGE","TRX","TON","AVAX",
     "DOT","MATIC","LTC","BCH","XLM","SHIB","LINK","ATOM","ETC","XMR",
@@ -29,7 +40,10 @@ UNAMBIGUOUS_BARE_SYMBOLS = {
     "QNT","RSR","NEXO"
 }
 
-# Map canonical symbols to the preferred CoinGecko id and display name
+# In semi-loose mode, allow the whole whitelist to match in any case.
+RELAXED_COINS = UNAMBIGUOUS_BARE_SYMBOLS
+
+# Canonical symbol -> (coingecko id, display name) for cleaner names in UI
 CANONICAL_SYMBOLS = {
     "BTC": ("bitcoin", "Bitcoin"),
     "ETH": ("ethereum", "Ethereum"),
@@ -162,7 +176,18 @@ def fetch_coins():
         json.dump({"_fetched_at": datetime.utcnow().isoformat(), "coins": coins}, f)
     return coins
 
+def strip_quotes_and_code(s: str) -> str:
+    # Remove fenced code blocks ```...```
+    s = re.sub(r"```.*?```", " ", s, flags=re.DOTALL)
+    # Remove inline code `...`
+    s = re.sub(r"`[^`]*`", " ", s)
+    # Remove quoted lines starting with >
+    s = "\n".join([line for line in s.splitlines() if not line.lstrip().startswith(">")])
+    return s
+
 def normalize_text(s: str) -> str:
+    if STRIP_QUOTES_AND_CODE:
+        s = strip_quotes_and_code(s)
     s = re.sub(r"https?://\S+", " ", s)  # remove URLs
     s = s.replace("&amp;", "&")
     return s
@@ -170,85 +195,103 @@ def normalize_text(s: str) -> str:
 def build_keyword_processor(coins):
     """
     Returns:
-      - kp: KeywordProcessor
+      - kp: KeywordProcessor (case-insensitive)
       - id_to_meta: dict id -> {symbol, name}
       - canonical_name_by_symbol: dict SYMBOL -> display name
     Strategy:
-      - Always add $symbol for all coins.
-      - Add bare symbol only for UNAMBIGUOUS_BARE_SYMBOLS.
-      - Do NOT add full names (reduces false positives).
-      - Ensure canonical symbols (BTC, ETH, …) claim their aliases first.
+      - Add $symbol for all coins.
+      - Add bare symbol only for UNAMBIGUOUS_BARE_SYMBOLS (whitelist).
+      - Do NOT add full names (to avoid English words).
+      - Canonical symbols are registered first.
     """
     kp = KeywordProcessor(case_sensitive=False)
     id_to_meta = {}
     canonical_name_by_symbol = {sym: name for sym, (_, name) in CANONICAL_SYMBOLS.items()}
     seen_aliases = set()
 
-    # Build a quick lookup: id -> coin dict and symbol -> list of ids
-    coins_by_id = {c.get("id",""): c for c in coins if c.get("id")}
-    def add_aliases_for_coin(coin, allow_bare=False, preferred=False):
-      # add $symbol; optionally bare symbol
-      cid = coin.get("id")
-      sym = (coin.get("symbol") or "").strip().lower()
-      name = (coin.get("name") or "").strip()
-      if not cid or not sym: return
-      if not sym.isalnum() or len(sym) < 2: return
+    coins_by_id = {c.get("id", ""): c for c in coins if c.get("id")}
 
-      # Save meta
-      if cid not in id_to_meta:
-          id_to_meta[cid] = {"symbol": sym, "name": name}
+    def add_coin_aliases(coin, allow_bare=False):
+        cid = coin.get("id")
+        sym = (coin.get("symbol") or "").strip().lower()
+        name = (coin.get("name") or "").strip()
+        if not cid or not sym:
+            return
+        if not sym.isalnum() or len(sym) < 2:
+            return
 
-      # $symbol alias
-      dollar_alias = f"${sym}"
-      if dollar_alias not in seen_aliases:
-          kp.add_keyword(dollar_alias, {"id": cid, "symbol": sym.upper(), "alias": dollar_alias})
-          seen_aliases.add(dollar_alias)
+        id_to_meta.setdefault(cid, {"symbol": sym, "name": name})
 
-      # Bare symbol alias (only for whitelisted)
-      if allow_bare:
-          if sym not in seen_aliases:
-              kp.add_keyword(sym, {"id": cid, "symbol": sym.upper(), "alias": sym})
-              seen_aliases.add(sym)
+        # $symbol
+        dollar = f"${sym}"
+        if dollar not in seen_aliases:
+            kp.add_keyword(dollar, {"id": cid, "symbol": sym.upper(), "alias": dollar})
+            seen_aliases.add(dollar)
 
-    # 1) Add canonical symbols first so they own $BTC, BTC, etc.
-    for sym, (cid_pref, _disp) in CANONICAL_SYMBOLS.items():
-        coin = coins_by_id.get(cid_pref)
+        # bare symbol
+        if allow_bare and sym not in seen_aliases:
+            kp.add_keyword(sym, {"id": cid, "symbol": sym.upper(), "alias": sym})
+            seen_aliases.add(sym)
+
+    # Canonical coins first
+    for sym, (cid, _disp) in CANONICAL_SYMBOLS.items():
+        coin = coins_by_id.get(cid)
         if coin:
-            allow_bare = sym in UNAMBIGUOUS_BARE_SYMBOLS
-            add_aliases_for_coin(coin, allow_bare=allow_bare, preferred=True)
+            add_coin_aliases(coin, allow_bare=(sym in UNAMBIGUOUS_BARE_SYMBOLS))
 
-    # 2) Add remaining coins: $symbol only; bare only for whitelist (if not already taken)
+    # Then the rest
     for c in coins:
-        cid = c.get("id","")
-        sym = (c.get("symbol") or "").strip().upper()
-        if not cid or not sym: continue
-        allow_bare = sym in UNAMBIGUOUS_BARE_SYMBOLS
-        add_aliases_for_coin(c, allow_bare=allow_bare, preferred=False)
+        sym_up = (c.get("symbol") or "").strip().upper()
+        if not sym_up:
+            continue
+        add_coin_aliases(c, allow_bare=(sym_up in UNAMBIGUOUS_BARE_SYMBOLS))
 
     return kp, id_to_meta, canonical_name_by_symbol
 
+def should_skip_author(author) -> bool:
+    if not EXCLUDE_BOTS:
+        return False
+    if author is None:
+        return False
+    name = str(getattr(author, "name", "") or "").lower()
+    if name == "automoderator":
+        return True
+    return any(part in name for part in BOT_NAME_PATTERNS)
+
 def count_mentions_in_text(kp: KeywordProcessor, text: str):
     """
-    Extract matches and apply acceptance rules:
-      - Always accept $SYMBOL matches.
-      - For bare SYMBOL, accept only if the matched text is ALL CAPS (e.g., BTC), to avoid 'the', 'for', 'you', etc.
-    Returns Counter of SYMBOL -> count.
+    Semi-loose acceptance:
+      - Always accept $SYMBOL.
+      - For bare SYMBOL:
+          - Accept if symbol is in RELAXED_COINS (any case),
+          - Else require ALL CAPS and len >= 3 (this branch rarely triggers since RELAXED_COINS == whitelist).
+    Returns Counter of SYMBOL -> count for this comment (occurrences or per-comment unique).
     """
     text = normalize_text(text)
-    hits = kp.extract_keywords(text, span_info=True)  # returns (payload, start, end)
-    counts = Counter()
+    hits = kp.extract_keywords(text, span_info=True)
+    per_hit_counts = Counter()
     for payload, start, end in hits:
-        sym = payload["symbol"]  # already uppercased
-        alias = payload["alias"] # e.g., '$eth' or 'eth'
+        sym = payload["symbol"]  # uppercased
+        alias = payload["alias"] # '$eth' or 'eth'
         matched = text[start:end]
         if alias.startswith("$"):
-            counts[sym] += 1
+            per_hit_counts[sym] += 1
         else:
-            # bare symbol: require ALL CAPS in the original text
-            if matched.strip().upper() == matched.strip() and len(matched.strip()) >= 3:
-                counts[sym] += 1
-            # else ignore
-    return counts
+            if sym in RELAXED_COINS:
+                per_hit_counts[sym] += 1
+            else:
+                token = matched.strip()
+                if token and token.upper() == token and len(token) >= 3:
+                    per_hit_counts[sym] += 1
+
+    if COUNT_MODE == "per_comment":
+        # collapse to 0/1 per symbol
+        collapsed = Counter()
+        for sym in per_hit_counts:
+            collapsed[sym] = 1
+        return collapsed
+    else:
+        return per_hit_counts
 
 # =========================
 # Main: fetch thread, count, save
@@ -262,7 +305,6 @@ def find_latest_daily_thread(reddit):
     return None
 
 def main():
-    # Connect to Reddit
     reddit = praw.Reddit(
         client_id=CLIENT_ID,
         client_secret=CLIENT_SECRET,
@@ -276,54 +318,48 @@ def main():
     print(f"Thread: {daily_thread.title}")
     print(f"URL: https://www.reddit.com{daily_thread.permalink}")
 
-    # Load coins and build matcher
+    # Build matcher
     print("Fetching coin list...")
     coins = fetch_coins()
-    print(f"Total coins from CoinGecko: {len(coins)}")
-
-    print("Building keyword processor...")
     kp, id_to_meta, canonical_name_by_symbol = build_keyword_processor(coins)
-    print("Keyword processor ready.")
 
-    # Fetch all comments
+    # Fetch comments
     print("Fetching comments...")
     daily_thread.comments.replace_more(limit=None)
     comments = daily_thread.comments.list()
     print(f"Total comments: {len(comments)}")
 
-    # Count mentions by SYMBOL
+    # Count
     counts_by_symbol = Counter()
     for c in comments:
-        c_counts = count_mentions_in_text(kp, c.body)
-        counts_by_symbol.update(c_counts)
+        if should_skip_author(getattr(c, "author", None)):
+            continue
+        counts_by_symbol.update(count_mentions_in_text(kp, c.body or ""))
 
-    # Prepare output: dict for site + list for richer data
+    # Output
     results_by_symbol = dict(sorted(counts_by_symbol.items(), key=lambda x: x[1], reverse=True))
-    results_list = []
-    for sym, count in results_by_symbol.items():
-        # Pick a friendly name for known symbols; otherwise leave blank to avoid mislabeling
-        name = canonical_name_by_symbol.get(sym, "")
-        results_list.append({"symbol": sym, "name": name, "count": count})
+    results_list = [
+        {"symbol": sym, "name": canonical_name_by_symbol.get(sym, ""), "count": count}
+        for sym, count in results_by_symbol.items()
+    ]
 
     output = {
         "thread_title": daily_thread.title,
         "thread_url": f"https://www.reddit.com{daily_thread.permalink}",
         "generated_at_utc": datetime.utcnow().isoformat() + "Z",
-        "results": results_by_symbol,   # dict: SYMBOL -> count
-        "results_list": results_list    # list for display
+        "results": results_by_symbol,
+        "results_list": results_list
     }
 
-    # Date-stamped filename
+    # Save with today's date and as latest
     today_str = datetime.utcnow().strftime("%Y-%m-%d")
     daily_filename = f"data-{today_str}.json"
-
-    # Save files
     with open(daily_filename, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
-    # Update manifest.json
+    # Update manifest
     manifest = []
     if os.path.exists("manifest.json"):
         with open("manifest.json", "r", encoding="utf-8") as f:
