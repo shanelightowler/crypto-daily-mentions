@@ -1,0 +1,141 @@
+{
+  "thread_title": "Daily Crypto Discussion - August 10, 2025 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mm44pv/daily_crypto_discussion_august_10_2025_gmt0/",
+  "generated_at_utc": "2025-08-12T17:34:25.919515Z",
+  "results": {
+    "ETH": 147,
+    "BTC": 147,
+    "SOL": 15,
+    "ADA": 15,
+    "LINK": 10,
+    "XRP": 8,
+    "DOGE": 7,
+    "SUI": 4,
+    "NEAR": 3,
+    "ALGO": 3,
+    "ATOM": 3,
+    "PEPE": 3,
+    "LTC": 1,
+    "TRUMP": 1,
+    "BNB": 1,
+    "TRX": 1,
+    "DOT": 1,
+    "ARB": 1,
+    "SHIB": 1,
+    "TON": 1,
+    "ETC": 1,
+    "AAVE": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 147
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 147
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 15
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 15
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 10
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 8
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 7
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 3
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 3
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    }
+  ]
+}
