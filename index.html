@@ -10,7 +10,7 @@
     header { max-width: var(--maxw); margin: 0 auto 16px; }
     h1 { margin: 0 0 8px; }
     .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 8px 0 16px; }
-    select { padding: 6px 8px; font-size: 14px; }
+    input[type="date"], select { padding: 6px 8px; font-size: 14px; }
     .muted { color: #666; font-size: 12px; }
     .link { margin: 6px 0 12px; }
     main { max-width: var(--maxw); margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 20px; }
@@ -29,8 +29,8 @@
   <header>
     <h1>Daily Crypto Mentions</h1>
     <div class="controls">
-      <label for="date-select">Select date:</label>
-      <select id="date-select" aria-label="Select date"></select>
+      <label for="date-picker">Select date:</label>
+      <input type="date" id="date-picker" aria-label="Select date" />
 
       <label for="topn-select">Top N:</label>
       <select id="topn-select" aria-label="Select number of lines">
@@ -67,7 +67,7 @@
     'use strict';
 
     const manifestUrl = 'manifest.json';
-    const selectEl = document.getElementById('date-select');
+    const datePickerEl = document.getElementById('date-picker');
     const topNEl = document.getElementById('topn-select');
     const tbody = document.getElementById('data-table');
     const metaEl = document.getElementById('meta');
@@ -76,15 +76,14 @@
 
     let manifestData = [];
     let chartInstance = null;
+    let dateToFileMap = {};
 
-    // Fetch JSON with cache-busting
     async function fetchJson(url) {
       const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
       return res.json();
     }
 
-    // Normalize a day's data into a sorted list [{symbol, name, count}]
     function normalizeDayList(dayData) {
       let list = [];
       if (Array.isArray(dayData.results_list) && dayData.results_list.length) {
@@ -128,17 +127,14 @@
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
 
-        // Thread link + meta
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
         threadLinkEl.innerHTML = dayData.thread_url
           ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
           : (dayData.thread_title || '');
         metaEl.textContent = updated ? `Updated ${updated}` : '';
 
-        // Table
         renderTable(list, 100);
 
-        // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
         await renderChartUpToDate(filePath, focusSymbols);
       } catch (e) {
@@ -153,10 +149,9 @@
         if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
         return;
       }
-      const filteredManifest = manifestData.slice(0, selectedIndex + 1); // from start up to selected date
+      const filteredManifest = manifestData.slice(0, selectedIndex + 1);
       const dates = filteredManifest.map(m => m.date);
 
-      // Build data arrays for each focus symbol
       const series = {};
       focusSymbols.forEach(sym => series[sym] = []);
       for (const entry of filteredManifest) {
@@ -169,7 +164,6 @@
         });
       }
 
-      // Create datasets
       const colors = getPalette(focusSymbols.length);
       const datasets = focusSymbols.map((sym, i) => ({
         label: sym,
@@ -206,39 +200,46 @@
       });
     }
 
-    // Init: load manifest, populate dropdown, load latest
     (async function init() {
       try {
         const raw = await fetchJson(manifestUrl);
-        // Ensure sorted by date ascending, and de-duplicate by date (keep last)
         const byDate = new Map();
         raw.forEach(item => { byDate.set(item.date, item); });
         manifestData = Array.from(byDate.values()).sort((a, b) => a.date.localeCompare(b.date));
 
-        // Populate dates
-        selectEl.innerHTML = '';
+        dateToFileMap = {};
         manifestData.forEach(entry => {
-          const opt = document.createElement('option');
-          opt.value = entry.file;
-          opt.textContent = entry.date;
-          selectEl.appendChild(opt);
+          dateToFileMap[entry.date] = entry.file;
         });
+
         if (!manifestData.length) {
           tbody.innerHTML = '<tr><td colspan="3">No manifest data found</td></tr>';
           return;
         }
 
-        // Load latest with default topN
-        const currentFile = manifestData[manifestData.length - 1].file;
-        selectEl.value = currentFile;
-        await loadDayData(currentFile, parseInt(topNEl.value, 10));
+        // Limit date picker range
+        datePickerEl.min = manifestData[0].date;
+        datePickerEl.max = manifestData[manifestData.length - 1].date;
 
-        // React to changes
-        selectEl.addEventListener('change', () => {
-          loadDayData(selectEl.value, parseInt(topNEl.value, 10));
+        const latestDate = manifestData[manifestData.length - 1].date;
+        datePickerEl.value = latestDate;
+
+        await loadDayData(dateToFileMap[latestDate], parseInt(topNEl.value, 10));
+
+        datePickerEl.addEventListener('change', () => {
+          const selectedDate = datePickerEl.value;
+          if (dateToFileMap[selectedDate]) {
+            loadDayData(dateToFileMap[selectedDate], parseInt(topNEl.value, 10));
+          } else {
+            tbody.innerHTML = `<tr><td colspan="3">No data available for ${selectedDate}</td></tr>`;
+          }
         });
+
         topNEl.addEventListener('change', () => {
-          loadDayData(selectEl.value, parseInt(topNEl.value, 10));
+          const selectedDate = datePickerEl.value;
+          if (dateToFileMap[selectedDate]) {
+            loadDayData(dateToFileMap[selectedDate], parseInt(topNEl.value, 10));
+          }
         });
       } catch (e) {
         tbody.innerHTML = `<tr><td colspan="3">Error loading manifest: ${e}</td></tr>`;
