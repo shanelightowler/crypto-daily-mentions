@@ -1,5 +1,5 @@
 name: Daily Mentions Update
- 
+
 on:
   schedule:
     - cron: "5 8 * * *"  # Runs daily at 08:05 UTC
@@ -9,29 +9,30 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.10
-   
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
 
-    - name: Install dependencies
-      run: pip install praw
+      - name: Check Python version
+        run: python --version
 
-    - name: Run script
-      env:
-        CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-        CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-      run: python daily_mentions.py
+      - name: Install dependencies
+        run: pip install praw
 
+      - name: Run script
+        env:
+          CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: python daily_mentions.py
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@github.com'
-        git add data.json
-        git commit -m "Update daily mentions" || echo "No changes to commit"
-        git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data.json
+          git commit -m "Update daily mentions" || echo "No changes to commit"
+          git push
