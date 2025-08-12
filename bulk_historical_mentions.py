@@ -1,11 +1,10 @@
+import sys
 import praw
 import re
 import json
 from collections import Counter
 import os
-import sys
 
-# Reddit credentials from environment variables
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 USER_AGENT = "crypto-mention-counter"
@@ -24,8 +23,7 @@ reddit = praw.Reddit(
     user_agent=USER_AGENT
 )
 
-def scrape_thread(url):
-    # Extract submission ID from URL (assumes format: /comments/<id>/...)
+def scrape_single_thread(url):
     submission_id = url.split("/comments/")[1].split("/")[0]
     submission = reddit.submission(id=submission_id)
 
@@ -46,7 +44,6 @@ def scrape_thread(url):
         "results": dict(counts)
     }
 
-    # Use date from title or just part of URL for filename
     filename = f"data_{submission_id}.json"
     with open(filename, "w") as f:
         json.dump(output, f, indent=2)
@@ -54,9 +51,8 @@ def scrape_thread(url):
     print(f"✅ Saved mentions to {filename}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python scrape_single_thread.py <reddit_thread_url>")
-        sys.exit(1)
-
-    url = sys.argv[1]
-    scrape_thread(url)
+    if len(sys.argv) == 2:
+        url = sys.argv[1]
+        scrape_single_thread(url)
+    else:
+        print("Usage: python bulk_historical_mentions.py <reddit_thread_url>")
