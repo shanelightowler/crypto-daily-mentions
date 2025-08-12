@@ -3,6 +3,7 @@ import re
 import json
 from collections import Counter
 import os
+from datetime import datetime
 
 # Get credentials from environment variables
 CLIENT_ID = os.getenv("CLIENT_ID")
@@ -47,14 +48,37 @@ for comment in daily_thread.comments.list():
             matches = re.findall(pattern, text)
             counts[coin] += len(matches)
 
-# Save results
+# Prepare output
 output = {
     "thread_title": daily_thread.title,
     "thread_url": f"https://www.reddit.com{daily_thread.permalink}",
     "results": counts
 }
 
+# Date-stamped filename
+today_str = datetime.utcnow().strftime("%Y-%m-%d")
+daily_filename = f"data-{today_str}.json"
+
+# Save daily file
+with open(daily_filename, "w") as f:
+    json.dump(output, f, indent=2)
+
+# Also save as latest data.json
 with open("data.json", "w") as f:
     json.dump(output, f, indent=2)
 
-print("✅ Data saved to data.json")
+# Update manifest.json
+manifest = []
+if os.path.exists("manifest.json"):
+    with open("manifest.json", "r") as f:
+        manifest = json.load(f)
+
+# Avoid duplicates if rerunning same day
+manifest = [m for m in manifest if m["date"] != today_str]
+manifest.append({"date": today_str, "file": daily_filename})
+
+with open("manifest.json", "w") as f:
+    json.dump(sorted(manifest, key=lambda x: x["date"]), f, indent=2)
+
+print(f"✅ Data saved to {daily_filename} and data.json")
+print(f"📄 Manifest updated with {today_str}")
