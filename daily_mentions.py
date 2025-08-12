@@ -5,7 +5,6 @@ import time
 import requests
 from datetime import datetime, timedelta
 from collections import Counter, defaultdict
-
 import praw
 from flashtext import KeywordProcessor
 
@@ -131,19 +130,13 @@ def build_keyword_processor(coins):
                 kp.add_keyword(name, {"id": cid, "symbol": sym, "name": name, "alias": name})
                 seen_aliases.add(name)
 
-        # Common alt-name patterns to consider (light-touch to avoid FPs)
-        # e.g., "bitcoin cash" already covered by full name; do not add shortened ambiguous forms.
-
     return kp, id_to_meta
 
 def count_mentions_in_text(kp: KeywordProcessor, text: str):
     text = normalize_text(text)
-    # flashtext whole word matching: punctuation and whitespace serve as boundaries.
-    # Return Counter of coin ids and also alias hit details if needed.
     hits = kp.extract_keywords(text, span_info=False)  # we only need payloads
     counts = Counter()
     for payload in hits:
-        # payload is the dict we set in add_keyword
         cid = payload["id"]
         counts[cid] += 1
     return counts
@@ -197,8 +190,7 @@ def main():
         c_counts = count_mentions_in_text(kp, text)
         counts_by_id.update(c_counts)
 
-    # Prepare results
-    # Convert to richer structure, plus a symbol->count mapping for easy consumption.
+    # Prepare results: dict for site + list for richer data
     results_list = []
     results_by_symbol = defaultdict(int)
 
@@ -213,17 +205,17 @@ def main():
         )
         results_by_symbol[sym.upper()] += count
 
-    # Sort results by count desc
+    # Sort results list by count desc
     results_list.sort(key=lambda x: x["count"], reverse=True)
 
     output = {
         "thread_title": daily_thread.title,
         "thread_url": f"https://www.reddit.com{daily_thread.permalink}",
         "generated_at_utc": datetime.utcnow().isoformat() + "Z",
-        # Rich list of all results:
-        "results": results_list,
-        # Convenience dictionary for quick lookups:
-        "results_by_symbol": dict(sorted(results_by_symbol.items(), key=lambda x: x[1], reverse=True)),
+        # Keep 'results' as a dict for your frontend
+        "results": dict(sorted(results_by_symbol.items(), key=lambda x: x[1], reverse=True)),
+        # Provide a richer list (optional for UI)
+        "results_list": results_list,
     }
 
     # Date-stamped filename
