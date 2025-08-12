@@ -5,16 +5,18 @@
     <meta charset="UTF-8">
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
-        table { border-collapse: collapse; width: 50%; }
+        table { border-collapse: collapse; width: 50%; margin-bottom: 30px; }
         th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
         th { background: #eee; }
-        select { margin-bottom: 20px; padding: 5px; }
+        select { padding: 5px; margin-bottom: 20px; }
     </style>
 </head>
 <body>
     <h1>Daily Crypto Mentions</h1>
-    <label for="date-select">Select Date:</label>
+
+    <label for="date-select">Select date:</label>
     <select id="date-select"></select>
+
     <p id="thread-link"></p>
     <table>
         <thead>
@@ -23,48 +25,114 @@
         <tbody id="data-table"></tbody>
     </table>
 
+    <canvas id="mentions-chart" width="800" height="400"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
         const manifestUrl = "manifest.json";
-        const dateSelect = document.getElementById("date-select");
-        const threadLink = document.getElementById("thread-link");
-        const dataTable = document.getElementById("data-table");
+        const ctx = document.getElementById("mentions-chart").getContext("2d");
+        const coins = ["bitcoin", "ethereum", "cardano", "solana", "dogecoin"];
 
-        function loadData(file) {
-            fetch(file)
-                .then(res => res.json())
-                .then(data => {
-                    // Update thread link
-                    threadLink.innerHTML = `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
-                    // Clear and populate table
-                    dataTable.innerHTML = "";
-                    Object.entries(data.results).forEach(([coin, count]) => {
-                        dataTable.innerHTML += `<tr><td>${coin}</td><td>${count}</td></tr>`;
-                    });
-                });
-        }
+        let manifestData = [];
+        let chartInstance = null;
 
+        // Load manifest & populate dropdown
         fetch(manifestUrl)
             .then(res => res.json())
-            .then(manifest => {
-                // Sort by date (latest first)
-                manifest.sort((a, b) => b.date.localeCompare(a.date));
-
-                // Populate dropdown
-                manifest.forEach(entry => {
-                    const option = document.createElement("option");
-                    option.value = entry.file;
-                    option.textContent = entry.date;
-                    dateSelect.appendChild(option);
+            .then(data => {
+                manifestData = data.sort((a, b) => a.date.localeCompare(b.date));
+                const select = document.getElementById("date-select");
+                manifestData.forEach(entry => {
+                    const opt = document.createElement("option");
+                    opt.value = entry.file;
+                    opt.textContent = entry.date;
+                    select.appendChild(opt);
                 });
 
-                // Load latest by default
-                loadData(manifest[0].file);
-
-                // Load selected day on change
-                dateSelect.addEventListener("change", () => {
-                    loadData(dateSelect.value);
-                });
+                // Load the latest date by default
+                loadDayData(manifestData[manifestData.length - 1].file);
             });
+
+        // On date change, load table & chart
+        document.getElementById("date-select").addEventListener("change", function() {
+            loadDayData(this.value);
+        });
+
+        async function loadDayData(filePath) {
+            const dayData = await fetch(filePath).then(r => r.json());
+
+            // Update thread link
+            document.getElementById("thread-link").innerHTML =
+                `<a href="${dayData.thread_url}" target="_blank">${dayData.thread_title}</a>`;
+
+            // Update table
+            const tbody = document.getElementById("data-table");
+            tbody.innerHTML = "";
+            Object.entries(dayData.results).forEach(([coin, count]) => {
+                tbody.innerHTML += `<tr><td>${coin}</td><td>${count}</td></tr>`;
+            });
+
+            // Load historical data for chart
+            await loadChartUpToDate(filePath);
+        }
+
+        async function loadChartUpToDate(filePath) {
+            const selectedIndex = manifestData.findIndex(m => m.file === filePath);
+            const filteredManifest = manifestData.slice(0, selectedIndex + 1);
+
+            const countsByCoin = {};
+            coins.forEach(c => countsByCoin[c] = []);
+            const dates = filteredManifest.map(m => m.date);
+
+            for (const entry of filteredManifest) {
+                const data = await fetch(entry.file).then(r => r.json());
+                coins.forEach(coin => {
+                    const count = data.results[coin] || 0;
+                    countsByCoin[coin].push(count);
+                });
+            }
+
+            const colors = {
+                bitcoin: "orange",
+                ethereum: "blue",
+                cardano: "red",
+                solana: "green",
+                dogecoin: "brown"
+            };
+
+            const datasets = coins.map(coin => ({
+                label: coin.charAt(0).toUpperCase() + coin.slice(1),
+                data: countsByCoin[coin],
+                borderColor: colors[coin],
+                fill: false,
+                tension: 0.2
+            }));
+
+            if (chartInstance) {
+                chartInstance.destroy();
+            }
+
+            chartInstance = new Chart(ctx, {
+                type: 'line',
+                data: { labels: dates, datasets: datasets },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: 'top' },
+                        title: { display: true, text: 'Mentions Over Time' }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Mentions' }
+                        },
+                        x: {
+                            title: { display: true, text: 'Date' }
+                        }
+                    }
+                }
+            });
+        }
     </script>
 </body>
 </html>
