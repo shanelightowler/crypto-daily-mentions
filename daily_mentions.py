@@ -396,25 +396,38 @@ def main():
         "results_list": results_list
     }
 
-    # Save with today's date and as latest
+        # Save with today's date and as latest
     today_str = datetime.utcnow().strftime("%Y-%m-%d")
+
+    # New: write daily files into data/ subfolder
+    DATA_DIR = os.getenv("DATA_DIR", "data")
+    os.makedirs(DATA_DIR, exist_ok=True)
+
     daily_filename = f"data-{today_str}.json"
-    with open(daily_filename, "w", encoding="utf-8") as f:
+    daily_path = os.path.join(DATA_DIR, daily_filename)
+
+    with open(daily_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
+
+    # Keep latest at repo root for convenience
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
-    # Update manifest
+    # Update manifest.json (kept at root)
     manifest = []
     if os.path.exists("manifest.json"):
         with open("manifest.json", "r", encoding="utf-8") as f:
             manifest = json.load(f)
+
+    # Avoid duplicates if rerunning same day
     manifest = [m for m in manifest if m.get("date") != today_str]
-    manifest.append({"date": today_str, "file": daily_filename})
+    # Important: store the path as "data/filename"
+    manifest.append({"date": today_str, "file": os.path.join(DATA_DIR, daily_filename)})
+
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(sorted(manifest, key=lambda x: x["date"]), f, indent=2)
 
-    print(f"✅ Data saved to {daily_filename} and data.json")
+    print(f"✅ Data saved to {daily_path} and data.json")
     print(f"📄 Manifest updated with {today_str}")
     if results_list:
         print("Top 10 mentions:")
