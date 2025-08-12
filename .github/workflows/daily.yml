@@ -1,11 +1,11 @@
 name: Daily Mentions Update
 on:
   schedule:
-    - cron: "5 8 * * *"  # 08:05 UTC daily
+    - cron: "5 8 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # allow pushing changes
+  contents: write
 
 jobs:
   update-data:
@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Show script version (first 60 lines)
+        run: |
+          echo "daily_mentions.py (first 60 lines):"
+          sed -n '1,60p' daily_mentions.py || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
