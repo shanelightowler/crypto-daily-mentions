@@ -164,7 +164,7 @@ CANONICAL_SYMBOLS = {
     "CRO": ("crypto-com-chain", "Cronos"),
     "QNT": ("quant-network", "Quant"),
     "RSR": ("reserve-rights-token", "Reserve Rights"),
-    "NEXO": ("nexo", "Nexo")
+    "NEXO": ("nexo", "Nexo"),
     "ZORA": ("Zora", "zora")
 }
 
