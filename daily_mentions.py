@@ -1,7 +1,6 @@
 import os
 import re
 import json
-import time
 import requests
 from datetime import datetime, timedelta
 from collections import Counter, defaultdict
@@ -16,22 +15,85 @@ COINGECKO_LIST_URL = "https://api.coingecko.com/api/v3/coins/list?include_platfo
 COIN_CACHE_FILE = "coins_cache.json"
 COIN_CACHE_TTL_DAYS = 7
 
-# Heuristics to reduce false positives:
-# - For symbols in this set, we will NOT match the bare symbol; we will only match "$symbol".
-# - These are common English words or very short tokens frequently used out of crypto context.
-AMBIGUOUS_SYMBOLS = {
-    "one", "near", "gas", "time", "zen", "pay", "beam", "wave", "waves", "dash", "life",
-    "note", "true", "magic", "saga", "rune", "mask", "bone", "cake", "rose", "sushi",
-    "star", "flow", "kind", "space", "core", "mint", "move", "hash", "uni", "apt", "op",
-    "hook", "spell", "gala", "atlas", "pearl", "ray", "band", "honey", "meme", "solo"
-}
-# Names that are too generic; only match if $SYMBOL hits:
-AMBIGUOUS_NAMES = {
-    "near", "one", "time", "waves", "dash", "gas", "beam", "mask", "core", "flow", "magic"
+# Only allow bare (no $) mentions for these symbols, and only when typed in ALL CAPS.
+UNAMBIGUOUS_BARE_SYMBOLS = {
+    "BTC","ETH","BNB","SOL","ADA","XRP","DOGE","TRX","TON","AVAX",
+    "DOT","MATIC","LTC","BCH","XLM","SHIB","LINK","ATOM","ETC","XMR",
+    "FIL","ICP","APT","SUI","ARB","OP","INJ","NEAR","ALGO","HBAR",
+    "AAVE","UNI","LDO","RPL","MKR","COMP","SNX","CRV","CVX","GMX",
+    "DYDX","IMX","SAND","MANA","APE","GRT","FET","RNDR","KAS","TIA",
+    "SEI","PEPE","FLOKI","BONK","WIF","JUP","PYTH","JTO","STRK","BLUR",
+    "CHZ","ENJ","ZRX","BAT","ZEC","DASH","KAVA","KDA","KSM","ROSE",
+    "RUNE","EGLD","NEO","GALA","SFP","CAKE","STX","MINA","AR","ASTR",
+    "OSMO","SKL","CFX","XDC","TFUEL","THETA","BTT","OKB","HT","CRO",
+    "QNT","RSR","NEXO"
 }
 
-# If True, we’ll also add bare ticker symbols of length 2 (e.g., "io", "ai") — usually noisy.
-ALLOW_VERY_SHORT_TICKERS = False
+# Map canonical symbols to the preferred CoinGecko id and display name
+CANONICAL_SYMBOLS.update({
+    "BNB": ("binancecoin", "BNB"),
+    "XRP": ("ripple", "XRP"),
+    "SHIB": ("shiba-inu", "Shiba Inu"),
+    "XMR": ("monero", "Monero"),
+    "FIL": ("filecoin", "Filecoin"),
+    "ICP": ("internet-computer", "Internet Computer"),
+    "GRT": ("the-graph", "The Graph"),
+    "FET": ("fetch-ai", "Fetch.ai"),
+    "AAVE": ("aave", "Aave"),
+    "LDO": ("lido-dao", "Lido DAO"),
+    "RPL": ("rocket-pool", "Rocket Pool"),
+    "MKR": ("maker", "Maker"),
+    "COMP": ("compound-governance-token", "Compound"),
+    "SNX": ("synthetix-network-token", "Synthetix"),
+    "CRV": ("curve-dao-token", "Curve DAO"),
+    "CVX": ("convex-finance", "Convex Finance"),
+    "GMX": ("gmx", "GMX"),
+    "DYDX": ("dydx", "dYdX"),
+    "IMX": ("immutable-x", "Immutable"),
+    "SAND": ("the-sandbox", "The Sandbox"),
+    "MANA": ("decentraland", "Decentraland"),
+    "APE": ("apecoin", "ApeCoin"),
+    "RNDR": ("render-token", "Render"),
+    "KAS": ("kaspa", "Kaspa"),
+    "TIA": ("celestia", "Celestia"),
+    "SEI": ("sei-network", "Sei"),
+    "PEPE": ("pepe", "PEPE"),
+    "FLOKI": ("floki", "Floki"),
+    "BONK": ("bonk", "BONK"),
+    "WIF": ("dogwifcoin", "dogwifhat"),
+    "JUP": ("jupiter-exchange-solana", "Jupiter"),
+    "PYTH": ("pyth-network", "Pyth Network"),
+    "JTO": ("jito-governance-token", "Jito"),
+    "STRK": ("starknet", "Starknet"),
+    "BLUR": ("blur", "Blur"),
+    "CHZ": ("chiliz", "Chiliz"),
+    "ENJ": ("enjincoin", "Enjin"),
+    "ZRX": ("0x", "0x"),
+    "BAT": ("basic-attention-token", "Basic Attention Token"),
+    "ZEC": ("zcash", "Zcash"),
+    "DASH": ("dash", "Dash"),
+    "KAVA": ("kava", "Kava"),
+    "KDA": ("kadena", "Kadena"),
+    "KSM": ("kusama", "Kusama"),
+    "ROSE": ("oasis-network", "Oasis Network"),
+    "STX": ("stacks", "Stacks"),
+    "MINA": ("mina-protocol", "Mina"),
+    "AR": ("arweave", "Arweave"),
+    "ASTR": ("astar", "Astar"),
+    "OSMO": ("osmosis", "Osmosis"),
+    "SKL": ("skale", "SKALE"),
+    "CFX": ("conflux-token", "Conflux"),
+    "XDC": ("xinfin-network", "XDC Network"),
+    "TFUEL": ("theta-fuel", "Theta Fuel"),
+    "THETA": ("theta-token", "Theta Network"),
+    "BTT": ("bittorrent", "BitTorrent"),
+    "OKB": ("okb", "OKB"),
+    "HT": ("huobi-token", "HT"),
+    "CRO": ("crypto-com-chain", "Cronos"),
+    "QNT": ("quant-network", "Quant"),
+    "RSR": ("reserve-rights-token", "Reserve Rights"),
+    "NEXO": ("nexo", "Nexo")
+})
 
 # =========================
 # Reddit credentials
@@ -64,7 +126,6 @@ def fetch_coins():
     coins = load_cached_coins()
     if coins is not None:
         return coins
-    # Fetch from CoinGecko
     resp = requests.get(COINGECKO_LIST_URL, timeout=30)
     resp.raise_for_status()
     coins = resp.json()
@@ -73,79 +134,97 @@ def fetch_coins():
     return coins
 
 def normalize_text(s: str) -> str:
-    # Lower is handled by flashtext when case_sensitive=False, but we still strip URLs/markdown noise.
-    # Remove URLs
-    s = re.sub(r"https?://\S+", " ", s)
-    # Remove HTML entities noise (optional)
+    s = re.sub(r"https?://\S+", " ", s)  # remove URLs
     s = s.replace("&amp;", "&")
     return s
 
 def build_keyword_processor(coins):
     """
     Returns:
-      - kp: KeywordProcessor (case-insensitive), mapping alias -> payload {id,symbol,name,alias}
+      - kp: KeywordProcessor
       - id_to_meta: dict id -> {symbol, name}
+      - canonical_name_by_symbol: dict SYMBOL -> display name
+    Strategy:
+      - Always add $symbol for all coins.
+      - Add bare symbol only for UNAMBIGUOUS_BARE_SYMBOLS.
+      - Do NOT add full names (reduces false positives).
+      - Ensure canonical symbols (BTC, ETH, …) claim their aliases first.
     """
     kp = KeywordProcessor(case_sensitive=False)
     id_to_meta = {}
-    seen_aliases = set()  # avoid duplicate alias entries across coins
+    canonical_name_by_symbol = {sym: name for sym, (_, name) in CANONICAL_SYMBOLS.items()}
+    seen_aliases = set()
 
+    # Build a quick lookup: id -> coin dict and symbol -> list of ids
+    coins_by_id = {c.get("id",""): c for c in coins if c.get("id")}
+    def add_aliases_for_coin(coin, allow_bare=False, preferred=False):
+      # add $symbol; optionally bare symbol
+      cid = coin.get("id")
+      sym = (coin.get("symbol") or "").strip().lower()
+      name = (coin.get("name") or "").strip()
+      if not cid or not sym: return
+      if not sym.isalnum() or len(sym) < 2: return
+
+      # Save meta
+      if cid not in id_to_meta:
+          id_to_meta[cid] = {"symbol": sym, "name": name}
+
+      # $symbol alias
+      dollar_alias = f"${sym}"
+      if dollar_alias not in seen_aliases:
+          kp.add_keyword(dollar_alias, {"id": cid, "symbol": sym.upper(), "alias": dollar_alias})
+          seen_aliases.add(dollar_alias)
+
+      # Bare symbol alias (only for whitelisted)
+      if allow_bare:
+          if sym not in seen_aliases:
+              kp.add_keyword(sym, {"id": cid, "symbol": sym.upper(), "alias": sym})
+              seen_aliases.add(sym)
+
+    # 1) Add canonical symbols first so they own $BTC, BTC, etc.
+    for sym, (cid_pref, _disp) in CANONICAL_SYMBOLS.items():
+        coin = coins_by_id.get(cid_pref)
+        if coin:
+            allow_bare = sym in UNAMBIGUOUS_BARE_SYMBOLS
+            add_aliases_for_coin(coin, allow_bare=allow_bare, preferred=True)
+
+    # 2) Add remaining coins: $symbol only; bare only for whitelist (if not already taken)
     for c in coins:
-        # Each coin: { id, symbol, name }
-        cid = c.get("id", "")
-        sym = (c.get("symbol") or "").strip().lower()
-        name = (c.get("name") or "").strip().lower()
-        if not cid or not sym or not name:
-            continue
-        # Filter out obviously bad/unknown entries
-        if not sym.isalnum():
-            continue
-        # Very short tickers are noisy; consider excluding unless $ prefixed
-        if len(sym) < 2:
-            continue
-        if len(sym) == 2 and not ALLOW_VERY_SHORT_TICKERS:
-            # We'll add only the $SY alias below
-            pass
+        cid = c.get("id","")
+        sym = (c.get("symbol") or "").strip().upper()
+        if not cid or not sym: continue
+        allow_bare = sym in UNAMBIGUOUS_BARE_SYMBOLS
+        add_aliases_for_coin(c, allow_bare=allow_bare, preferred=False)
 
-        id_to_meta[cid] = {"symbol": sym, "name": name}
-
-        # Always add $symbol
-        dollar_alias = f"${sym}"
-        if dollar_alias not in seen_aliases:
-            kp.add_keyword(dollar_alias, {"id": cid, "symbol": sym, "name": name, "alias": dollar_alias})
-            seen_aliases.add(dollar_alias)
-
-        # Add bare symbol if:
-        # - length >= 3, and
-        # - not ambiguous
-        if len(sym) >= 3 and sym not in AMBIGUOUS_SYMBOLS:
-            if sym not in seen_aliases:
-                kp.add_keyword(sym, {"id": cid, "symbol": sym, "name": name, "alias": sym})
-                seen_aliases.add(sym)
-
-        # Add full name if not too generic
-        # For multi-word names, flashtext will match the full phrase as whole words.
-        if name not in AMBIGUOUS_NAMES and len(name) >= 4:
-            if name not in seen_aliases:
-                kp.add_keyword(name, {"id": cid, "symbol": sym, "name": name, "alias": name})
-                seen_aliases.add(name)
-
-    return kp, id_to_meta
+    return kp, id_to_meta, canonical_name_by_symbol
 
 def count_mentions_in_text(kp: KeywordProcessor, text: str):
+    """
+    Extract matches and apply acceptance rules:
+      - Always accept $SYMBOL matches.
+      - For bare SYMBOL, accept only if the matched text is ALL CAPS (e.g., BTC), to avoid 'the', 'for', 'you', etc.
+    Returns Counter of SYMBOL -> count.
+    """
     text = normalize_text(text)
-    hits = kp.extract_keywords(text, span_info=False)  # we only need payloads
+    hits = kp.extract_keywords(text, span_info=True)  # returns (payload, start, end)
     counts = Counter()
-    for payload in hits:
-        cid = payload["id"]
-        counts[cid] += 1
+    for payload, start, end in hits:
+        sym = payload["symbol"]  # already uppercased
+        alias = payload["alias"] # e.g., '$eth' or 'eth'
+        matched = text[start:end]
+        if alias.startswith("$"):
+            counts[sym] += 1
+        else:
+            # bare symbol: require ALL CAPS in the original text
+            if matched.strip().upper() == matched.strip() and len(matched.strip()) >= 3:
+                counts[sym] += 1
+            # else ignore
     return counts
 
 # =========================
 # Main: fetch thread, count, save
 # =========================
 def find_latest_daily_thread(reddit):
-    # Search the sub for the latest "Daily Crypto Discussion" thread today
     for submission in reddit.subreddit("CryptoCurrency").search(
         "Daily Crypto Discussion", sort="new", time_filter="day"
     ):
@@ -174,7 +253,7 @@ def main():
     print(f"Total coins from CoinGecko: {len(coins)}")
 
     print("Building keyword processor...")
-    kp, id_to_meta = build_keyword_processor(coins)
+    kp, id_to_meta, canonical_name_by_symbol = build_keyword_processor(coins)
     print("Keyword processor ready.")
 
     # Fetch all comments
@@ -183,50 +262,35 @@ def main():
     comments = daily_thread.comments.list()
     print(f"Total comments: {len(comments)}")
 
-    # Count mentions
-    counts_by_id = Counter()
+    # Count mentions by SYMBOL
+    counts_by_symbol = Counter()
     for c in comments:
-        text = c.body
-        c_counts = count_mentions_in_text(kp, text)
-        counts_by_id.update(c_counts)
+        c_counts = count_mentions_in_text(kp, c.body)
+        counts_by_symbol.update(c_counts)
 
-    # Prepare results: dict for site + list for richer data
+    # Prepare output: dict for site + list for richer data
+    results_by_symbol = dict(sorted(counts_by_symbol.items(), key=lambda x: x[1], reverse=True))
     results_list = []
-    results_by_symbol = defaultdict(int)
-
-    for cid, count in counts_by_id.items():
-        meta = id_to_meta.get(cid)
-        if not meta:
-            continue
-        sym = meta["symbol"]
-        name = meta["name"]
-        results_list.append(
-            {"id": cid, "symbol": sym.upper(), "name": name.title(), "count": count}
-        )
-        results_by_symbol[sym.upper()] += count
-
-    # Sort results list by count desc
-    results_list.sort(key=lambda x: x["count"], reverse=True)
+    for sym, count in results_by_symbol.items():
+        # Pick a friendly name for known symbols; otherwise leave blank to avoid mislabeling
+        name = canonical_name_by_symbol.get(sym, "")
+        results_list.append({"symbol": sym, "name": name, "count": count})
 
     output = {
         "thread_title": daily_thread.title,
         "thread_url": f"https://www.reddit.com{daily_thread.permalink}",
         "generated_at_utc": datetime.utcnow().isoformat() + "Z",
-        # Keep 'results' as a dict for your frontend
-        "results": dict(sorted(results_by_symbol.items(), key=lambda x: x[1], reverse=True)),
-        # Provide a richer list (optional for UI)
-        "results_list": results_list,
+        "results": results_by_symbol,   # dict: SYMBOL -> count
+        "results_list": results_list    # list for display
     }
 
     # Date-stamped filename
     today_str = datetime.utcnow().strftime("%Y-%m-%d")
     daily_filename = f"data-{today_str}.json"
 
-    # Save daily file
+    # Save files
     with open(daily_filename, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
-
-    # Also save as latest data.json
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
@@ -235,8 +299,6 @@ def main():
     if os.path.exists("manifest.json"):
         with open("manifest.json", "r", encoding="utf-8") as f:
             manifest = json.load(f)
-
-    # Avoid duplicates if rerunning same day
     manifest = [m for m in manifest if m.get("date") != today_str]
     manifest.append({"date": today_str, "file": daily_filename})
     with open("manifest.json", "w", encoding="utf-8") as f:
