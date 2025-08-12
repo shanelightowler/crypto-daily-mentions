@@ -8,10 +8,13 @@
         table { border-collapse: collapse; width: 50%; }
         th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
         th { background: #eee; }
+        select { margin-bottom: 20px; padding: 5px; }
     </style>
 </head>
 <body>
     <h1>Daily Crypto Mentions</h1>
+    <label for="date-select">Select Date:</label>
+    <select id="date-select"></select>
     <p id="thread-link"></p>
     <table>
         <thead>
@@ -20,37 +23,48 @@
         <tbody id="data-table"></tbody>
     </table>
 
-   <script>
-  async function loadData() {
-    try {
-      const response = await fetch("data.json?" + new Date().getTime());
-      if (!response.ok) throw new Error("Failed to load data.json");
-      const data = await response.json();
+    <script>
+        const manifestUrl = "manifest.json";
+        const dateSelect = document.getElementById("date-select");
+        const threadLink = document.getElementById("thread-link");
+        const dataTable = document.getElementById("data-table");
 
-      document.getElementById("thread-link").innerHTML = 
-        `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
+        function loadData(file) {
+            fetch(file)
+                .then(res => res.json())
+                .then(data => {
+                    // Update thread link
+                    threadLink.innerHTML = `<a href="${data.thread_url}" target="_blank">${data.thread_title}</a>`;
+                    // Clear and populate table
+                    dataTable.innerHTML = "";
+                    Object.entries(data.results).forEach(([coin, count]) => {
+                        dataTable.innerHTML += `<tr><td>${coin}</td><td>${count}</td></tr>`;
+                    });
+                });
+        }
 
-      const tbody = document.getElementById("data-table");
-      tbody.innerHTML = ''; // clear existing rows
+        fetch(manifestUrl)
+            .then(res => res.json())
+            .then(manifest => {
+                // Sort by date (latest first)
+                manifest.sort((a, b) => b.date.localeCompare(a.date));
 
-      Object.entries(data.results).forEach(([coin, count]) => {
-        const row = document.createElement('tr');
-        const coinCell = document.createElement('td');
-        coinCell.textContent = coin;
-        const countCell = document.createElement('td');
-        countCell.textContent = count;
-        row.appendChild(coinCell);
-        row.appendChild(countCell);
-        tbody.appendChild(row);
-      });
-    } catch (err) {
-      document.getElementById("thread-link").textContent = "Error loading data.";
-      console.error(err);
-    }
-  }
+                // Populate dropdown
+                manifest.forEach(entry => {
+                    const option = document.createElement("option");
+                    option.value = entry.file;
+                    option.textContent = entry.date;
+                    dateSelect.appendChild(option);
+                });
 
-  loadData();
-</script>
+                // Load latest by default
+                loadData(manifest[0].file);
 
+                // Load selected day on change
+                dateSelect.addEventListener("change", () => {
+                    loadData(dateSelect.value);
+                });
+            });
+    </script>
 </body>
 </html>
