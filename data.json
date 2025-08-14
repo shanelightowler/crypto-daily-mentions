@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - August 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mpl08m/daily_crypto_discussion_august_14_2025_gmt0/",
-  "generated_at_utc": "2025-08-14T22:15:58.341602Z",
+  "generated_at_utc": "2025-08-14T23:16:12.505091Z",
   "results": {
-    "BTC": 128,
-    "ETH": 122,
+    "BTC": 136,
+    "ETH": 125,
     "ADA": 61,
     "XRP": 15,
     "SUI": 7,
     "SOL": 7,
+    "NEAR": 6,
     "DOT": 6,
     "LTC": 5,
     "AVAX": 4,
@@ -16,7 +17,6 @@
     "AERO": 4,
     "TON": 3,
     "BNB": 2,
-    "NEAR": 2,
     "LINK": 2,
     "XMR": 2,
     "HBAR": 2,
@@ -24,25 +24,25 @@
     "ARB": 2,
     "ALGO": 2,
     "UNI": 2,
+    "ETC": 2,
     "PEPE": 1,
     "KTA": 1,
     "SNEK": 1,
     "CAKE": 1,
     "CRO": 1,
     "ATOM": 1,
-    "MANA": 1,
-    "ETC": 1
+    "MANA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 128
+      "count": 136
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 122
+      "count": 125
     },
     {
       "symbol": "ADA",
@@ -63,6 +63,11 @@
       "symbol": "SOL",
       "name": "Solana",
       "count": 7
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 6
     },
     {
       "symbol": "DOT",
@@ -97,11 +102,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 2
     },
     {
@@ -140,6 +140,11 @@
       "count": 2
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -172,11 +177,6 @@
     {
       "symbol": "MANA",
       "name": "Decentraland",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
