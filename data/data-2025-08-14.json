@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - August 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mpl08m/daily_crypto_discussion_august_14_2025_gmt0/",
-  "generated_at_utc": "2025-08-14T20:19:27.863414Z",
+  "generated_at_utc": "2025-08-14T21:15:47.938376Z",
   "results": {
-    "BTC": 120,
-    "ETH": 116,
+    "BTC": 122,
+    "ETH": 117,
     "ADA": 61,
     "XRP": 15,
     "SUI": 7,
     "SOL": 7,
-    "DOT": 5,
+    "DOT": 6,
     "LTC": 5,
     "AVAX": 4,
     "DOGE": 4,
@@ -23,6 +23,7 @@
     "OP": 2,
     "ALGO": 2,
     "UNI": 2,
+    "PEPE": 1,
     "KTA": 1,
     "SNEK": 1,
     "ARB": 1,
@@ -36,12 +37,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 120
+      "count": 122
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 116
+      "count": 117
     },
     {
       "symbol": "ADA",
@@ -66,7 +67,7 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "LTC",
@@ -132,6 +133,11 @@
       "symbol": "UNI",
       "name": "Uniswap",
       "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
     },
     {
       "symbol": "KTA",
