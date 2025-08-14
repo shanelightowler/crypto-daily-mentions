@@ -22,28 +22,95 @@
     @media (min-width: 900px) {
       .grid { grid-template-columns: 1fr 1fr; }
     }
-    canvas#mentions-chart {
-      width: 100%;
-      height: 600px; /* updated height */
-    }
+    canvas { width: 100%; height: 420px; }
 
     /* Pikaday CSS */
-    .pika-single { z-index: 9999; display: block; position: relative; color: #333; background: #fff; border: 1px solid #ccc; box-shadow: 0 1px 3px #bbb; border-radius: 3px; }
-    .pika-single.is-hidden { display: none; }
-    .pika-lendar { padding: 10px; }
-    .pika-title { text-align: center; position: relative; margin-bottom: 10px; user-select: none; }
-    .pika-label { font-weight: 700; font-size: 14px; }
-    .pika-prev, .pika-next { cursor: pointer; position: absolute; top: 14px; width: 20px; height: 20px; line-height: 20px; text-align: center; font-size: 18px; color: #999; user-select: none; }
-    .pika-prev:hover, .pika-next:hover { color: #000; }
-    .pika-prev { left: 10px; }
-    .pika-next { right: 10px; }
-    .pika-table { width: 100%; border-collapse: collapse; border-spacing: 0; user-select: none; }
-    .pika-table th, .pika-table td { width: 14.285714285714286%; padding: 5px 0; text-align: center; cursor: pointer; }
-    .pika-table th { color: #999; font-weight: 700; font-size: 12px; }
-    .pika-button { border: none; background: none; color: inherit; font: inherit; cursor: pointer; outline: none; }
-    .is-disabled { color: #ccc !important; pointer-events: none; cursor: default; }
-    .is-selected { background: #1f77b4; color: white; border-radius: 3px; }
-    .is-today { color: #d33; font-weight: 700; }
+    .pika-single {
+      z-index: 9999;
+      display: block;
+      position: relative;
+      color: #333;
+      background: #fff;
+      border: 1px solid #ccc;
+      box-shadow: 0 1px 3px #bbb;
+      border-radius: 3px;
+    }
+    .pika-single.is-hidden {
+      display: none;
+    }
+    .pika-lendar {
+      padding: 10px;
+    }
+    .pika-title {
+      text-align: center;
+      position: relative;
+      margin-bottom: 10px;
+      user-select: none;
+    }
+    .pika-label {
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .pika-prev, .pika-next {
+      cursor: pointer;
+      position: absolute;
+      top: 14px;
+      width: 20px;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-size: 18px;
+      color: #999;
+      user-select: none;
+    }
+    .pika-prev:hover, .pika-next:hover {
+      color: #000;
+    }
+    .pika-prev {
+      left: 10px;
+    }
+    .pika-next {
+      right: 10px;
+    }
+    .pika-table {
+      width: 100%;
+      border-collapse: collapse;
+      border-spacing: 0;
+      user-select: none;
+    }
+    .pika-table th, .pika-table td {
+      width: 14.285714285714286%;
+      padding: 5px 0;
+      text-align: center;
+      cursor: pointer;
+    }
+    .pika-table th {
+      color: #999;
+      font-weight: 700;
+      font-size: 12px;
+    }
+    .pika-button {
+      border: none;
+      background: none;
+      color: inherit;
+      font: inherit;
+      cursor: pointer;
+      outline: none;
+    }
+    .is-disabled {
+      color: #ccc !important;
+      pointer-events: none;
+      cursor: default;
+    }
+    .is-selected {
+      background: #1f77b4;
+      color: white;
+      border-radius: 3px;
+    }
+    .is-today {
+      color: #d33;
+      font-weight: 700;
+    }
   </style>
 </head>
 <body>
@@ -104,12 +171,14 @@
     let picker = null;
     let chartInstance = null;
 
+    // Fetch JSON with cache-busting
     async function fetchJson(url) {
       const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
       return res.json();
     }
 
+    // Normalize a day's data into a sorted list [{symbol, name, count}]
     function normalizeDayList(dayData) {
       let list = [];
       if (Array.isArray(dayData.results_list) && dayData.results_list.length) {
@@ -153,7 +222,171 @@
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
 
+        // Thread link + meta
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
         threadLinkEl.innerHTML = dayData.thread_url
           ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
           : (dayData.thread_title || '');
+        metaEl.textContent = updated ? `Updated ${updated}` : '';
+
+        // Table
+        renderTable(list, 100);
+
+        // Chart for historical trend of the top N symbols from the selected day
+        const focusSymbols = list.slice(0, topN).map(r => r.symbol);
+        await renderChartUpToDate(focusSymbols);
+
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Error loading data</td></tr>`;
+        metaEl.textContent = '';
+        threadLinkEl.textContent = '';
+        console.error(e);
+      }
+    }
+
+    async function renderChartUpToDate(focusSymbols) {
+      // Gather historical data for these symbols from manifest
+      const promises = manifestData.map(async d => {
+        const dayData = await fetchJson(d.file);
+        const normalized = normalizeDayList(dayData);
+        // Map symbol => count for that day
+        const map = {};
+        normalized.forEach(r => { map[r.symbol] = r.count; });
+        return { date: d.date, map };
+      });
+
+      const results = await Promise.all(promises);
+
+      const labels = results.map(r => r.date);
+      const datasets = [];
+
+      const palette = getPalette(focusSymbols.length);
+
+      focusSymbols.forEach((sym, idx) => {
+        const data = results.map(r => r.map[sym] || 0);
+        datasets.push({
+          label: sym,
+          data,
+          fill: false,
+          borderColor: palette[idx],
+          backgroundColor: palette[idx],
+          tension: 0.1,
+          pointRadius: 2,
+          borderWidth: 2,
+          spanGaps: true,
+        });
+      });
+
+      if (chartInstance) chartInstance.destroy();
+
+      chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+          responsive: true,
+          interaction: {
+            mode: 'nearest',
+            intersect: false
+          },
+          plugins: {
+            legend: { position: 'top' },
+            tooltip: {
+              enabled: true,
+              mode: 'index',
+              intersect: false,
+              callbacks: {
+                title: ctx => ctx[0].label,
+                label: ctx => `${ctx.dataset.label}: ${ctx.parsed.y}`,
+              }
+            }
+          },
+          scales: {
+            y: { beginAtZero: true, title: { display: true, text: 'Mentions' } },
+            x: { title: { display: true, text: 'Date' } }
+          }
+        }
+      });
+    }
+
+    // Format date as local YYYY-MM-DD (no timezone shift)
+    function formatLocalDate(d) {
+      const y = d.getFullYear();
+      const m = (d.getMonth() + 1).toString().padStart(2, '0');
+      const day = d.getDate().toString().padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
+    // Initialize picker with valid dates only
+    function setupDatePicker() {
+      picker = new Pikaday({
+        field: datePickerEl,
+        format: 'YYYY-MM-DD',
+        firstDay: 1,
+        toString(date) {
+          return formatLocalDate(date);
+        },
+        disableDayFn(date) {
+          const iso = formatLocalDate(date);
+          return !validDateStrs.includes(iso);
+        },
+        onSelect(date) {
+          const iso = formatLocalDate(date);
+          const file = dateToFileMap[iso];
+          if (file) loadDayData(file, parseInt(topNEl.value, 10));
+        }
+      });
+
+      // Set to latest valid date
+      if (validDateStrs.length) {
+        const lastDateStr = validDateStrs[validDateStrs.length - 1];
+        const [y, m, d] = lastDateStr.split('-').map(Number);
+        picker.setDate(new Date(y, m -1, d));
+      }
+    }
+
+    async function init() {
+      try {
+        manifestData = await fetchJson(manifestUrl);
+        // Sort manifest by date ascending
+        manifestData.sort((a,b) => a.date.localeCompare(b.date));
+
+        dateToFileMap = {};
+        validDateStrs = [];
+
+        manifestData.forEach(d => {
+          if (d.date && d.file) {
+            dateToFileMap[d.date] = d.file;
+            validDateStrs.push(d.date);
+          }
+        });
+
+        setupDatePicker();
+
+        // Load initial data for latest date
+        const latestDate = validDateStrs[validDateStrs.length - 1];
+        if (latestDate) {
+          const file = dateToFileMap[latestDate];
+          loadDayData(file, parseInt(topNEl.value, 10));
+        }
+
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Failed to load manifest</td></tr>`;
+        console.error(e);
+      }
+    }
+
+    topNEl.addEventListener('change', () => {
+      if (!picker) return;
+      const date = picker.getDate();
+      if (!date) return;
+      const iso = formatLocalDate(date);
+      const file = dateToFileMap[iso];
+      if (file) loadDayData(file, parseInt(topNEl.value, 10));
+    });
+
+    init();
+
+  })();
+  </script>
+</body>
+</html>
