@@ -1,7 +1,8 @@
 name: Daily Mentions Update
 on:
   schedule:
-    - cron: "5 8 * * *"
+    # Run every 3 hours to keep current day's data fresh
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
