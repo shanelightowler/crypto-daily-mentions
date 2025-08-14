@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - August 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mpl08m/daily_crypto_discussion_august_14_2025_gmt0/",
-  "generated_at_utc": "2025-08-14T21:15:47.938376Z",
+  "generated_at_utc": "2025-08-14T22:15:58.341602Z",
   "results": {
-    "BTC": 122,
-    "ETH": 117,
+    "BTC": 128,
+    "ETH": 122,
     "ADA": 61,
     "XRP": 15,
     "SUI": 7,
@@ -21,12 +21,12 @@
     "XMR": 2,
     "HBAR": 2,
     "OP": 2,
+    "ARB": 2,
     "ALGO": 2,
     "UNI": 2,
     "PEPE": 1,
     "KTA": 1,
     "SNEK": 1,
-    "ARB": 1,
     "CAKE": 1,
     "CRO": 1,
     "ATOM": 1,
@@ -37,12 +37,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 122
+      "count": 128
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 117
+      "count": 122
     },
     {
       "symbol": "ADA",
@@ -125,6 +125,11 @@
       "count": 2
     },
     {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 2
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
@@ -147,11 +152,6 @@
     {
       "symbol": "SNEK",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ARB",
-      "name": "Arbitrum",
       "count": 1
     },
     {
