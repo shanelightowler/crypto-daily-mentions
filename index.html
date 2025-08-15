@@ -22,11 +22,15 @@
     @media (min-width: 900px) {
       .grid { grid-template-columns: 1fr 1fr; }
     }
-    /* Taller chart for readability */
-    canvas { width: 100%; height: 820px; }
+
+    /* Chart sizing: approximately half-panel height on desktop, smaller on mobile */
+    .chart-container { width: 100%; height: 400px; }
     @media (max-width: 900px) {
-      canvas { height: 560px; }
+      .chart-container { height: 300px; }
     }
+    /* Let Chart.js use the container height */
+    .chart-container canvas { width: 100% !important; height: 100% !important; }
+
     /* Pikaday CSS (minimal to look decent) */
     .pika-single { z-index: 9999; display: block; position: relative; color: #333; background: #fff; border: 1px solid #ccc; box-shadow: 0 1px 3px #bbb; border-radius: 3px; }
     .pika-single.is-hidden { display: none; }
@@ -74,7 +78,9 @@
         </table>
       </section>
       <section>
-        <canvas id="mentions-chart"></canvas>
+        <div class="chart-container">
+          <canvas id="mentions-chart"></canvas>
+        </div>
       </section>
     </div>
   </main>
@@ -125,10 +131,8 @@
 
     window.addEventListener('popstate', () => {
       const { date, top } = parseUrlState();
-      // If params missing, do nothing (init will set defaults)
       const targetDate = (date && validDateStrs.includes(date)) ? date : validDateStrs[validDateStrs.length - 1];
       const targetTop = validateTop(top ?? parseInt(topNEl.value, 10));
-      // Reflect in UI and reload
       setPickerDate(targetDate);
       topNEl.value = String(targetTop);
       const file = dateToFileMap[targetDate];
@@ -136,7 +140,6 @@
     });
 
     function validateTop(n) {
-      // Keep in sync with the options present in the Top N select
       const allowed = [5, 10, 20];
       return allowed.includes(n) ? n : 20;
     }
@@ -144,10 +147,50 @@
     function setPickerDate(iso) {
       if (!picker || !iso) return;
       const [y, m, d] = iso.split('-').map(Number);
-      picker.setDate(new Date(y, m - 1, d), true); // 'true' to prevent re-triggering onSelect
+      picker.setDate(new Date(y, m - 1, d), true);
       datePickerEl.value = iso;
     }
     // --------------------------------------------------------
+
+    // Deterministic, consistent colors per symbol
+    const COLOR_MAP = {
+      BTC:'#F2A900', ETH:'#627EEA', BNB:'#F3BA2F', SOL:'#14F195', ADA:'#0033AD',
+      XRP:'#23292F', DOGE:'#C2A633', TRX:'#EF0027', TON:'#0098EA', AVAX:'#E84142',
+      DOT:'#E6007A', MATIC:'#8247E5', LTC:'#345C9C', BCH:'#8DC351', XLM:'#14B6E7',
+      SHIB:'#F00500', LINK:'#2A5ADA', ATOM:'#2E3148', ETC:'#3CB073', XMR:'#FF6600',
+      FIL:'#0090FF', ICP:'#29ABE2', APT:'#13B5EC', SUI:'#6FBCF0', ARB:'#28A0F0',
+      OP:'#FF0420', INJ:'#00D1FF', NEAR:'#111827', ALGO:'#1E1E1E', HBAR:'#3E9AD9',
+      AAVE:'#B6509E', UNI:'#FF007A', LDO:'#00A3FF', RPL:'#F9703E', MKR:'#1ABC9C',
+      COMP:'#00D395', SNX:'#00D1C1', CRV:'#406AFF', CVX:'#3D3D3D', GMX:'#2D55FF',
+      DYDX:'#6966FF', IMX:'#0A93FF', SAND:'#00ADEF', MANA:'#FF2D55', APE:'#0054F0',
+      GRT:'#6F4C9B', FET:'#00B6B1', RNDR:'#FF4D00', KAS:'#0047FF', TIA:'#7C4DFF',
+      SEI:'#FF3B3B', PEPE:'#4CAF50', FLOKI:'#F5A623', BONK:'#FFC04D', WIF:'#4DD0E1',
+      JUP:'#00E5FF', PYTH:'#6C5CE7', JTO:'#00C2A8', STRK:'#2D2D2D', BLUR:'#FF6A1A',
+      CHZ:'#CD1125', ENJ:'#624DBF', ZRX:'#222222', BAT:'#FF5000', ZEC:'#ECB244',
+      DASH:'#008CE3', KAVA:'#FF564F', KDA:'#2B2E83', KSM:'#434343', ROSE:'#8E54E9',
+      RUNE:'#2A5B84', EGLD:'#0C6CF2', NEO:'#58BF00', GALA:'#111111', SFP:'#2BB673',
+      CAKE:'#FE6E95', STX:'#5546FF', MINA:'#90CAF9', AR:'#FF3D00', ASTR:'#FF46A1',
+      OSMO:'#6F42C1', SKL:'#00C7B7', CFX:'#FCD535', XDC:'#1E5DF2', TFUEL:'#F7931A',
+      THETA:'#2AB8E6', BTT:'#ED1C24', OKB:'#1F5AFF', HT:'#2E74B5', CRO:'#002D72',
+      QNT:'#F2C94C', RSR:'#141414', NEXO:'#1A4B84'
+    };
+    const FALLBACK_PALETTE = [
+      '#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd',
+      '#8c564b','#e377c2','#7f7f7f','#bcbd22','#17becf',
+      '#4e79a7','#f28e2b','#e15759','#76b7b2','#59a14f',
+      '#edc948','#b07aa1','#ff9da7','#9c755f','#bab0ab',
+      '#2b908f','#f45b5b','#91e8e1','#7cb5ec','#434348'
+    ];
+    function hashSymbol(sym) {
+      let h = 0;
+      for (let i = 0; i < sym.length; i++) h = (h * 31 + sym.charCodeAt(i)) >>> 0;
+      return h;
+    }
+    function colorForSymbol(sym) {
+      if (COLOR_MAP[sym]) return COLOR_MAP[sym];
+      const idx = hashSymbol(sym) % FALLBACK_PALETTE.length;
+      return FALLBACK_PALETTE[idx];
+    }
 
     // Fetch JSON with cache-busting
     async function fetchJson(url) {
@@ -181,18 +224,6 @@
         `<tr><td>${row.symbol}</td><td>${row.name || ''}</td><td>${row.count}</td></tr>`
       )).join('');
       tbody.innerHTML = rows || '<tr><td colspan="3">No data</td></tr>';
-    }
-
-    function getPalette(n) {
-      const base = [
-        '#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd',
-        '#8c564b','#e377c2','#7f7f7f','#bcbd22','#17becf',
-        '#4e79a7','#f28e2b','#e15759','#76b7b2','#59a14f',
-        '#edc948','#b07aa1','#ff9da7','#9c755f','#bab0ab'
-      ];
-      const out = [];
-      for (let i = 0; i < n; i++) out.push(base[i % base.length]);
-      return out;
     }
 
     async function loadDayData(filePath, topN) {
@@ -232,29 +263,28 @@
       });
       const results = await Promise.all(promises);
       const labels = results.map(r => r.date);
-      const datasets = [];
-      const palette = getPalette(focusSymbols.length);
-      focusSymbols.forEach((sym, idx) => {
-        const data = results.map(r => r.map[sym] || 0);
-        datasets.push({
+      const datasets = focusSymbols.map(sym => {
+        const color = colorForSymbol(sym);
+        return {
           label: sym,
-          data,
+          data: results.map(r => r.map[sym] || 0),
           fill: false,
-          borderColor: palette[idx],
-          backgroundColor: palette[idx],
+          borderColor: color,
+          backgroundColor: color,
           tension: 0.1,
           pointRadius: 2,
           borderWidth: 2,
-          spanGaps: true,
-        });
+          spanGaps: true
+        };
       });
+
       if (chartInstance) chartInstance.destroy();
       chartInstance = new Chart(ctx, {
         type: 'line',
         data: { labels, datasets },
         options: {
           responsive: true,
-          maintainAspectRatio: false,  // respect CSS height
+          maintainAspectRatio: false,  // respect container (.chart-container) height
           interaction: { mode: 'nearest', intersect: false },
           plugins: {
             legend: { position: 'top' },
@@ -300,7 +330,6 @@
           const top = parseInt(topNEl.value, 10);
           const file = dateToFileMap[iso];
           if (file) {
-            // Update URL (push) and load
             setUrlState(iso, top, { replace: false });
             loadDayData(file, top);
           }
@@ -322,7 +351,6 @@
           }
         });
 
-        // Setup date picker
         setupDatePicker();
 
         // Determine initial state from URL or default to latest date
@@ -335,9 +363,7 @@
         topNEl.value = String(initialTop);
         if (initialDate) {
           setPickerDate(initialDate);
-          // Ensure URL shows the chosen date/top (replace so we don't add an extra history entry on first load)
           setUrlState(initialDate, initialTop, { replace: true });
-          // Load
           const file = dateToFileMap[initialDate];
           if (file) loadDayData(file, initialTop);
         } else {
