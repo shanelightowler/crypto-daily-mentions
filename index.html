@@ -22,8 +22,11 @@
     @media (min-width: 900px) {
       .grid { grid-template-columns: 1fr 1fr; }
     }
-    canvas { width: 100%; height: 420px; }
-
+    /* Increased canvas height for better readability */
+    canvas { width: 100%; height: 820px; }
+    @media (max-width: 900px) {
+      canvas { height: 560px; }
+    }
     /* Pikaday CSS */
     .pika-single {
       z-index: 9999;
@@ -119,19 +122,16 @@
     <div class="controls">
       <label for="date-picker">Select date:</label>
       <input type="text" id="date-picker" aria-label="Select date" readonly />
-
       <label for="topn-select">Top N:</label>
       <select id="topn-select" aria-label="Select number of lines">
         <option value="5">5</option>
         <option value="10">10</option>
         <option value="20" selected>20</option>
       </select>
-
       <span id="meta" class="muted"></span>
     </div>
     <div id="thread-link" class="link"></div>
   </header>
-
   <main>
     <div class="grid">
       <section>
@@ -148,15 +148,12 @@
       </section>
     </div>
   </main>
-
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css" />
-
   <script>
   (function() {
     'use strict';
-
     const manifestUrl = 'manifest.json';
     const datePickerEl = document.getElementById('date-picker');
     const topNEl = document.getElementById('topn-select');
@@ -164,20 +161,17 @@
     const metaEl = document.getElementById('meta');
     const threadLinkEl = document.getElementById('thread-link');
     const ctx = document.getElementById('mentions-chart').getContext('2d');
-
     let manifestData = [];
     let dateToFileMap = {};
     let validDateStrs = [];
     let picker = null;
     let chartInstance = null;
-
     // Fetch JSON with cache-busting
     async function fetchJson(url) {
       const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
       return res.json();
     }
-
     // Normalize a day's data into a sorted list [{symbol, name, count}]
     function normalizeDayList(dayData) {
       let list = [];
@@ -197,14 +191,12 @@
       list.sort((a, b) => b.count - a.count);
       return list;
     }
-
     function renderTable(list, limit = 100) {
       const rows = list.slice(0, limit).map(row => (
         `<tr><td>${row.symbol}</td><td>${row.name || ''}</td><td>${row.count}</td></tr>`
       )).join('');
       tbody.innerHTML = rows || '<tr><td colspan="3">No data</td></tr>';
     }
-
     function getPalette(n) {
       const base = [
         '#1f77b4','#ff7f0e','#2ca02c','#d62728','#9467bd',
@@ -216,26 +208,21 @@
       for (let i = 0; i < n; i++) out.push(base[i % base.length]);
       return out;
     }
-
     async function loadDayData(filePath, topN) {
       try {
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
-
         // Thread link + meta
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
         threadLinkEl.innerHTML = dayData.thread_url
           ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
           : (dayData.thread_title || '');
         metaEl.textContent = updated ? `Updated ${updated}` : '';
-
         // Table
         renderTable(list, 100);
-
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
         await renderChartUpToDate(focusSymbols);
-
       } catch(e) {
         tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Error loading data</td></tr>`;
         metaEl.textContent = '';
@@ -243,7 +230,6 @@
         console.error(e);
       }
     }
-
     async function renderChartUpToDate(focusSymbols) {
       // Gather historical data for these symbols from manifest
       const promises = manifestData.map(async d => {
@@ -254,14 +240,10 @@
         normalized.forEach(r => { map[r.symbol] = r.count; });
         return { date: d.date, map };
       });
-
       const results = await Promise.all(promises);
-
       const labels = results.map(r => r.date);
       const datasets = [];
-
       const palette = getPalette(focusSymbols.length);
-
       focusSymbols.forEach((sym, idx) => {
         const data = results.map(r => r.map[sym] || 0);
         datasets.push({
@@ -276,14 +258,13 @@
           spanGaps: true,
         });
       });
-
       if (chartInstance) chartInstance.destroy();
-
       chartInstance = new Chart(ctx, {
         type: 'line',
         data: { labels, datasets },
         options: {
           responsive: true,
+          maintainAspectRatio: false,
           interaction: {
             mode: 'nearest',
             intersect: false
@@ -307,7 +288,6 @@
         }
       });
     }
-
     // Format date as local YYYY-MM-DD (no timezone shift)
     function formatLocalDate(d) {
       const y = d.getFullYear();
@@ -315,7 +295,6 @@
       const day = d.getDate().toString().padStart(2, '0');
       return `${y}-${m}-${day}`;
     }
-
     // Initialize picker with valid dates only
     function setupDatePicker() {
       picker = new Pikaday({
@@ -335,7 +314,6 @@
           if (file) loadDayData(file, parseInt(topNEl.value, 10));
         }
       });
-
       // Set to latest valid date
       if (validDateStrs.length) {
         const lastDateStr = validDateStrs[validDateStrs.length - 1];
@@ -343,38 +321,31 @@
         picker.setDate(new Date(y, m -1, d));
       }
     }
-
     async function init() {
       try {
         manifestData = await fetchJson(manifestUrl);
         // Sort manifest by date ascending
         manifestData.sort((a,b) => a.date.localeCompare(b.date));
-
         dateToFileMap = {};
         validDateStrs = [];
-
         manifestData.forEach(d => {
           if (d.date && d.file) {
             dateToFileMap[d.date] = d.file;
             validDateStrs.push(d.date);
           }
         });
-
         setupDatePicker();
-
         // Load initial data for latest date
         const latestDate = validDateStrs[validDateStrs.length - 1];
         if (latestDate) {
           const file = dateToFileMap[latestDate];
           loadDayData(file, parseInt(topNEl.value, 10));
         }
-
       } catch(e) {
         tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Failed to load manifest</td></tr>`;
         console.error(e);
       }
     }
-
     topNEl.addEventListener('change', () => {
       if (!picker) return;
       const date = picker.getDate();
@@ -383,9 +354,7 @@
       const file = dateToFileMap[iso];
       if (file) loadDayData(file, parseInt(topNEl.value, 10));
     });
-
     init();
-
   })();
   </script>
 </body>
