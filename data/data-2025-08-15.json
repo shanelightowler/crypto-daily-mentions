@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mqhpaj/daily_crypto_discussion_august_15_2025_gmt0/",
-  "generated_at_utc": "2025-08-15T19:13:04.610025Z",
+  "generated_at_utc": "2025-08-15T20:17:53.512803Z",
   "results": {
+    "BTC": 52,
     "ETH": 50,
-    "BTC": 48,
     "ADA": 8,
     "HBAR": 1,
     "AVAX": 1,
-    "PEPE": 1,
     "XMR": 1,
     "ETC": 1,
+    "PEPE": 1,
     "APE": 1,
     "XRP": 1,
     "SOL": 1,
@@ -19,14 +19,14 @@
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 52
+    },
+    {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 50
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 48
     },
     {
       "symbol": "ADA",
@@ -44,11 +44,6 @@
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 1
@@ -56,6 +51,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
