@@ -18,10 +18,9 @@
     th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
     th { background: #f7f7f7; }
     caption { text-align: left; font-weight: 600; margin-bottom: 8px; }
+
+    /* Stack table then chart (graph is underneath the table) */
     .grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-    @media (min-width: 900px) {
-      .grid { grid-template-columns: 1fr 1fr; }
-    }
 
     /* Chart sizing: approximately half-panel height on desktop, smaller on mobile */
     .chart-container { width: 100%; height: 400px; }
@@ -40,7 +39,7 @@
     .pika-prev, .pika-next { cursor: pointer; position: absolute; top: 14px; width: 20px; height: 20px; line-height: 20px; text-align: center; font-size: 18px; color: #999; user-select: none; }
     .pika-prev:hover, .pika-next:hover { color: #000; }
     .pika-prev { left: 10px; }
-    .pika-next { right: 10px; }
+    ..pika-next { right: 10px; }
     .pika-table { width: 100%; border-collapse: collapse; border-spacing: 0; user-select: none; }
     .pika-table th, .pika-table td { width: 14.2857142857%; padding: 5px 0; text-align: center; cursor: pointer; }
     .pika-table th { color: #999; font-weight: 700; font-size: 12px; }
@@ -72,9 +71,14 @@
         <table>
           <caption>Top coins by mentions (selected day)</caption>
           <thead>
-            <tr><th style="width:80px">Symbol</th><th>Name</th><th style="width:120px">Mentions</th></tr>
+            <tr>
+              <th style="width:80px">Symbol</th>
+              <th>Name</th>
+              <th style="width:120px">Mentions</th>
+              <th style="width:120px">% change</th>
+            </tr>
           </thead>
-          <tbody id="data-table"><tr><td colspan="3">Loading…</td></tr></tbody>
+          <tbody id="data-table"><tr><td colspan="4">Loading…</td></tr></tbody>
         </table>
       </section>
       <section>
@@ -122,11 +126,8 @@
       const url = new URL(location.href);
       if (date) url.searchParams.set('date', date); else url.searchParams.delete('date');
       if (top) url.searchParams.set('top', String(top)); else url.searchParams.delete('top');
-      if (replace) {
-        history.replaceState({}, '', url.toString());
-      } else {
-        history.pushState({}, '', url.toString());
-      }
+      if (replace) history.replaceState({}, '', url.toString());
+      else history.pushState({}, '', url.toString());
     }
 
     window.addEventListener('popstate', () => {
@@ -136,7 +137,7 @@
       setPickerDate(targetDate);
       topNEl.value = String(targetTop);
       const file = dateToFileMap[targetDate];
-      if (file) loadDayData(file, targetTop);
+      if (file) loadDayData(file, targetTop, targetDate);
     });
 
     function validateTop(n) {
@@ -219,15 +220,27 @@
       return list;
     }
 
-    function renderTable(list, limit = 100) {
-      const rows = list.slice(0, limit).map(row => (
-        `<tr><td>${row.symbol}</td><td>${row.name || ''}</td><td>${row.count}</td></tr>`
-      )).join('');
-      tbody.innerHTML = rows || '<tr><td colspan="3">No data</td></tr>';
+    function formatPctChange(curr, prev) {
+      if (prev === null) return '—';
+      if (prev === 0) return curr > 0 ? 'new' : '—';
+      const pct = ((curr - prev) / prev) * 100;
+      const rounded = Math.round(pct);
+      const sign = rounded > 0 ? '+' : '';
+      return `${sign}${rounded}%`;
     }
 
-    async function loadDayData(filePath, topN) {
+    function renderTable(list, limit, prevMap) {
+      const rows = list.slice(0, limit).map(row => {
+        const prev = prevMap[row.symbol] ?? null;
+        const pct = formatPctChange(row.count, prev);
+        return `<tr><td>${row.symbol}</td><td>${row.name || ''}</td><td>${row.count}</td><td>${pct}</td></tr>`;
+      }).join('');
+      tbody.innerHTML = rows || '<tr><td colspan="4">No data</td></tr>';
+    }
+
+    async function loadDayData(filePath, topN, selectedDateIso) {
       try {
+        // Current day
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
 
@@ -238,14 +251,27 @@
           : (dayData.thread_title || '');
         metaEl.textContent = updated ? `Updated ${updated}` : '';
 
-        // Table
-        renderTable(list, 100);
+        // Previous day map for % changes
+        let prevMap = {};
+        const idx = validDateStrs.indexOf(selectedDateIso);
+        if (idx > 0) {
+          const prevIso = validDateStrs[idx - 1];
+          const prevFile = dateToFileMap[prevIso];
+          if (prevFile) {
+            const prevData = await fetchJson(prevFile);
+            const prevList = normalizeDayList(prevData);
+            prevMap = Object.fromEntries(prevList.map(r => [r.symbol, r.count]));
+          }
+        }
+
+        // Table (with % change)
+        renderTable(list, 100, prevMap);
 
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
         await renderChartUpToDate(focusSymbols);
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Error loading data</td></tr>`;
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="4" style="color:red;">Error loading data</td></tr>`;
         metaEl.textContent = '';
         threadLinkEl.textContent = '';
         console.error(e);
@@ -331,7 +357,7 @@
           const file = dateToFileMap[iso];
           if (file) {
             setUrlState(iso, top, { replace: false });
-            loadDayData(file, top);
+            loadDayData(file, top, iso);
           }
         }
       });
@@ -356,8 +382,8 @@
         // Determine initial state from URL or default to latest date
         const urlState = parseUrlState();
         const latestDate = validDateStrs[validDateStrs.length - 1] || null;
-        let initialDate = (urlState.date && validDateStrs.includes(urlState.date)) ? urlState.date : latestDate;
-        let initialTop = validateTop(urlState.top ?? parseInt(topNEl.value, 10));
+        const initialDate = (urlState.date && validDateStrs.includes(urlState.date)) ? urlState.date : latestDate;
+        const initialTop = validateTop(urlState.top ?? parseInt(topNEl.value, 10));
 
         // Reflect initial state in UI
         topNEl.value = String(initialTop);
@@ -365,12 +391,12 @@
           setPickerDate(initialDate);
           setUrlState(initialDate, initialTop, { replace: true });
           const file = dateToFileMap[initialDate];
-          if (file) loadDayData(file, initialTop);
+          if (file) loadDayData(file, initialTop, initialDate);
         } else {
-          tbody.innerHTML = '<tr><td colspan="3">No manifest data found</td></tr>';
+          tbody.innerHTML = '<tr><td colspan="4">No manifest data found</td></tr>';
         }
-      } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="3" style="color:red;">Failed to load manifest</td></tr>`;
+      } catch(e) {
+        tbody.innerHTML = `<tr><td colspan="4" style="color:red;">Failed to load manifest</td></tr>`;
         console.error(e);
       }
     }
@@ -385,7 +411,7 @@
       const top = validateTop(parseInt(topNEl.value, 10));
       if (file) {
         setUrlState(iso, top, { replace: false });
-        loadDayData(file, top);
+        loadDayData(file, top, iso);
       }
     });
 
