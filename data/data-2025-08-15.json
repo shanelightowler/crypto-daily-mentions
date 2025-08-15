@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mqhpaj/daily_crypto_discussion_august_15_2025_gmt0/",
-  "generated_at_utc": "2025-08-15T16:20:37.359240Z",
+  "generated_at_utc": "2025-08-15T17:14:17.502425Z",
   "results": {
-    "ETH": 40,
-    "BTC": 35,
-    "ADA": 6,
+    "ETH": 47,
+    "BTC": 40,
+    "ADA": 7,
     "HBAR": 1,
     "AVAX": 1,
     "XMR": 1,
@@ -19,17 +19,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 47
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 40
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "HBAR",
