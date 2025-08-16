@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - August 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mreu3l/daily_crypto_discussion_august_16_2025_gmt0/",
-  "generated_at_utc": "2025-08-16T13:24:29.794112Z",
+  "generated_at_utc": "2025-08-16T14:13:46.250171Z",
   "results": {
     "ADA": 11,
     "BTC": 10,
-    "ETH": 10,
+    "ETH": 9,
     "ETC": 2,
     "CRO": 1,
+    "ICP": 1,
     "RIPE": 1
   },
   "results_list": [
@@ -24,7 +25,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 9
     },
     {
       "symbol": "ETC",
@@ -34,6 +35,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
