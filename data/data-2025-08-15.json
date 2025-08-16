@@ -1,12 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - August 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mqhpaj/daily_crypto_discussion_august_15_2025_gmt0/",
-  "generated_at_utc": "2025-08-15T23:15:57.725873Z",
+  "generated_at_utc": "2025-08-16T05:44:26.108876Z",
   "results": {
-    "BTC": 55,
-    "ETH": 55,
-    "ADA": 10,
+    "BTC": 56,
+    "ETH": 54,
+    "ADA": 14,
     "DOGE": 2,
+    "XRP": 2,
+    "SOL": 2,
     "NEAR": 2,
     "HBAR": 1,
     "AVAX": 1,
@@ -14,29 +16,37 @@
     "ETC": 1,
     "PEPE": 1,
     "APE": 1,
-    "XRP": 1,
-    "SOL": 1,
     "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 55
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 55
+      "count": 54
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 10
+      "count": 14
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
@@ -72,16 +82,6 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
