@@ -1,28 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - August 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mreu3l/daily_crypto_discussion_august_16_2025_gmt0/",
-  "generated_at_utc": "2025-08-16T10:15:30.842288Z",
+  "generated_at_utc": "2025-08-16T11:13:27.351310Z",
   "results": {
+    "ADA": 9,
+    "ETH": 9,
     "BTC": 8,
-    "ADA": 8,
-    "ETH": 8,
     "CRO": 1,
     "ETC": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 8
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 9
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "count": 8
     },
     {
