@@ -1,18 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T15:15:21.499736Z",
+  "generated_at_utc": "2025-08-17T16:18:36.457383Z",
   "results": {
     "BTC": 29,
-    "ETH": 18,
-    "LINK": 9,
-    "ADA": 5,
+    "ETH": 19,
+    "LINK": 10,
+    "ADA": 9,
+    "DOGE": 3,
     "XRP": 3,
+    "ETC": 2,
     "BNB": 1,
     "SUI": 1,
     "ALGO": 1,
-    "XMR": 1,
-    "ETC": 1
+    "BONK": 1,
+    "TRUMP": 1,
+    "ZORA": 1,
+    "EDGE": 1,
+    "XMR": 1
   },
   "results_list": [
     {
@@ -23,22 +28,32 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 9
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "BNB",
@@ -56,13 +71,28 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ZORA",
+      "name": "zora",
+      "count": 1
+    },
+    {
+      "symbol": "EDGE",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     }
   ]
