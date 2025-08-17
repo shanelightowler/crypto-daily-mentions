@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T22:15:19.253225Z",
+  "generated_at_utc": "2025-08-17T23:15:21.647500Z",
   "results": {
+    "ETH": 39,
     "LINK": 38,
-    "ETH": 37,
-    "BTC": 35,
+    "BTC": 36,
     "ADA": 13,
     "ETC": 5,
     "XRP": 3,
+    "SUI": 2,
     "DOGE": 2,
     "NEAR": 2,
     "ZORA": 2,
     "TRUMP": 2,
     "ALGO": 1,
-    "SUI": 1,
     "BNB": 1,
     "EDGE": 1,
     "BONK": 1,
@@ -24,19 +24,19 @@
   },
   "results_list": [
     {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 39
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 38
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 37
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 36
     },
     {
       "symbol": "ADA",
@@ -52,6 +52,11 @@
       "symbol": "XRP",
       "name": "XRP",
       "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
     },
     {
       "symbol": "DOGE",
@@ -76,11 +81,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     },
     {
