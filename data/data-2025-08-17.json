@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T20:17:43.832072Z",
+  "generated_at_utc": "2025-08-17T21:14:57.318553Z",
   "results": {
     "LINK": 38,
-    "ETH": 36,
-    "BTC": 34,
+    "ETH": 37,
+    "BTC": 35,
     "ADA": 13,
     "ETC": 5,
     "XRP": 3,
-    "NEAR": 2,
     "DOGE": 2,
+    "NEAR": 2,
     "ZORA": 2,
     "TRUMP": 2,
     "ALGO": 1,
@@ -31,12 +31,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 35
     },
     {
       "symbol": "ADA",
@@ -54,13 +54,13 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
