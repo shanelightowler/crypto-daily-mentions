@@ -1,40 +1,42 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T17:14:01.109736Z",
+  "generated_at_utc": "2025-08-17T18:22:07.775294Z",
   "results": {
-    "ETH": 31,
-    "BTC": 31,
-    "LINK": 21,
+    "ETH": 35,
+    "BTC": 33,
+    "LINK": 32,
     "ADA": 13,
+    "ETC": 5,
     "DOGE": 3,
-    "ETC": 3,
     "XRP": 3,
+    "ZORA": 2,
     "TRUMP": 2,
-    "ALGO": 1,
     "NEAR": 1,
+    "ALGO": 1,
     "BNB": 1,
     "SUI": 1,
-    "ZORA": 1,
-    "EDGE": 1,
     "BONK": 1,
-    "XMR": 1
+    "EDGE": 1,
+    "XMR": 1,
+    "AVAX": 1,
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 35
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 33
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 21
+      "count": 32
     },
     {
       "symbol": "ADA",
@@ -42,13 +44,13 @@
       "count": 13
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 3
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
@@ -57,18 +59,23 @@
       "count": 3
     },
     {
+      "symbol": "ZORA",
+      "name": "zora",
+      "count": 2
+    },
+    {
       "symbol": "TRUMP",
       "name": "",
       "count": 2
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
@@ -82,8 +89,8 @@
       "count": 1
     },
     {
-      "symbol": "ZORA",
-      "name": "zora",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
@@ -92,13 +99,18 @@
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
