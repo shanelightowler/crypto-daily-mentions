@@ -1,38 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T06:23:40.610391Z",
+  "generated_at_utc": "2025-08-17T07:14:43.846770Z",
   "results": {
-    "BTC": 15,
-    "ETH": 8,
-    "LINK": 4,
-    "ETC": 1,
-    "XRP": 1
+    "BTC": 16,
+    "ETH": 10,
+    "LINK": 5,
+    "XRP": 3,
+    "SUI": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
+      "count": 5
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
