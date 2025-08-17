@@ -1,48 +1,54 @@
 {
   "thread_title": "Daily Crypto Discussion - August 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1msc55j/daily_crypto_discussion_august_17_2025_gmt0/",
-  "generated_at_utc": "2025-08-17T16:18:36.457383Z",
+  "generated_at_utc": "2025-08-17T17:14:01.109736Z",
   "results": {
-    "BTC": 29,
-    "ETH": 19,
-    "LINK": 10,
-    "ADA": 9,
+    "ETH": 31,
+    "BTC": 31,
+    "LINK": 21,
+    "ADA": 13,
     "DOGE": 3,
+    "ETC": 3,
     "XRP": 3,
-    "ETC": 2,
+    "TRUMP": 2,
+    "ALGO": 1,
+    "NEAR": 1,
     "BNB": 1,
     "SUI": 1,
-    "ALGO": 1,
-    "BONK": 1,
-    "TRUMP": 1,
     "ZORA": 1,
     "EDGE": 1,
+    "BONK": 1,
     "XMR": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 29
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 31
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 31
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 10
+      "count": 21
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 9
+      "count": 13
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -51,9 +57,19 @@
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     },
     {
       "symbol": "BNB",
@@ -66,21 +82,6 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "ZORA",
       "name": "zora",
       "count": 1
@@ -88,6 +89,11 @@
     {
       "symbol": "EDGE",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
