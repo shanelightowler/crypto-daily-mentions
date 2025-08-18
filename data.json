@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - August 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mt6rmy/daily_crypto_discussion_august_18_2025_gmt0/",
-  "generated_at_utc": "2025-08-18T07:20:27.475041Z",
+  "generated_at_utc": "2025-08-18T08:24:44.961606Z",
   "results": {
-    "BTC": 38,
-    "ETH": 29,
-    "LINK": 7,
+    "BTC": 50,
+    "ETH": 34,
+    "LINK": 8,
+    "ADA": 3,
     "ETC": 3,
-    "ADA": 2,
+    "SHIB": 2,
     "SUI": 2,
     "DOGE": 2,
     "NEAR": 1,
+    "AAVE": 1,
     "XMR": 1,
-    "SHIB": 1,
     "PEPE": 1,
     "DOT": 1
   },
@@ -20,17 +21,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 38
+      "count": 50
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 7
+      "count": 8
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -38,8 +44,8 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 2
     },
     {
@@ -58,13 +64,13 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
