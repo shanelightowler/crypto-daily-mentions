@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - August 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mt6rmy/daily_crypto_discussion_august_18_2025_gmt0/",
-  "generated_at_utc": "2025-08-18T16:21:30.195878Z",
+  "generated_at_utc": "2025-08-18T17:16:33.835820Z",
   "results": {
-    "BTC": 61,
-    "ETH": 42,
+    "BTC": 64,
+    "ETH": 43,
     "LINK": 12,
     "ADA": 6,
+    "SUI": 4,
     "XRP": 4,
-    "SUI": 3,
+    "XMR": 3,
     "AAVE": 2,
     "SHIB": 2,
     "DOGE": 2,
     "ETC": 2,
     "NEAR": 1,
-    "XMR": 1,
+    "AR": 1,
     "CRO": 1,
     "LTC": 1,
     "PEPE": 1,
@@ -24,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 61
+      "count": 64
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 42
+      "count": 43
     },
     {
       "symbol": "LINK",
@@ -42,13 +43,18 @@
       "count": 6
     },
     {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 4
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 4
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 3
     },
     {
@@ -77,8 +83,8 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "AR",
+      "name": "Arweave",
       "count": 1
     },
     {
