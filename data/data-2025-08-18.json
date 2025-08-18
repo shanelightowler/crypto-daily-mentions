@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - August 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mt6rmy/daily_crypto_discussion_august_18_2025_gmt0/",
-  "generated_at_utc": "2025-08-18T08:24:44.961606Z",
+  "generated_at_utc": "2025-08-18T09:21:54.901616Z",
   "results": {
-    "BTC": 50,
-    "ETH": 34,
-    "LINK": 8,
+    "BTC": 56,
+    "ETH": 38,
+    "LINK": 9,
     "ADA": 3,
+    "SUI": 3,
     "ETC": 3,
     "SHIB": 2,
-    "SUI": 2,
     "DOGE": 2,
     "NEAR": 1,
     "AAVE": 1,
@@ -21,21 +21,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 50
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 34
+      "count": 38
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 3
     },
     {
@@ -46,11 +51,6 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
-      "count": 2
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 2
     },
     {
