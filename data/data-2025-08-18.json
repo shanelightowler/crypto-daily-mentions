@@ -1,38 +1,61 @@
 {
   "thread_title": "Daily Crypto Discussion - August 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mt6rmy/daily_crypto_discussion_august_18_2025_gmt0/",
-  "generated_at_utc": "2025-08-18T05:20:51.911579Z",
+  "generated_at_utc": "2025-08-18T06:28:00.652456Z",
   "results": {
-    "BTC": 33,
-    "ETH": 17,
-    "LINK": 5,
-    "ADA": 2,
+    "BTC": 37,
+    "ETH": 29,
+    "LINK": 7,
+    "ADA": 3,
+    "ETC": 3,
+    "SUI": 2,
+    "DOGE": 2,
+    "NEAR": 1,
     "XMR": 1,
-    "SUI": 1,
-    "ETC": 1,
-    "DOGE": 1,
+    "SHIB": 1,
+    "PEPE": 1,
     "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 37
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 29
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     },
     {
       "symbol": "XMR",
@@ -40,18 +63,13 @@
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
