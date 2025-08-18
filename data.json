@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - August 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mt6rmy/daily_crypto_discussion_august_18_2025_gmt0/",
-  "generated_at_utc": "2025-08-18T17:16:33.835820Z",
+  "generated_at_utc": "2025-08-18T18:24:50.171608Z",
   "results": {
-    "BTC": 64,
-    "ETH": 43,
+    "BTC": 68,
+    "ETH": 47,
     "LINK": 12,
-    "ADA": 6,
+    "ADA": 7,
     "SUI": 4,
+    "XMR": 4,
     "XRP": 4,
-    "XMR": 3,
     "AAVE": 2,
     "SHIB": 2,
     "DOGE": 2,
     "ETC": 2,
     "NEAR": 1,
+    "MATIC": 1,
     "AR": 1,
     "CRO": 1,
     "LTC": 1,
@@ -25,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 64
+      "count": 68
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 43
+      "count": 47
     },
     {
       "symbol": "LINK",
@@ -40,7 +41,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "SUI",
@@ -48,14 +49,14 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 4
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 3
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "AAVE",
@@ -80,6 +81,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
