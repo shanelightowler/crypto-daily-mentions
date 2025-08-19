@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T10:17:33.808260Z",
+  "generated_at_utc": "2025-08-19T11:13:40.251656Z",
   "results": {
-    "BTC": 36,
-    "ETH": 19,
+    "BTC": 39,
+    "ETH": 21,
     "BNB": 8,
     "AVAX": 3,
     "ETC": 2,
+    "LINK": 2,
     "ALGO": 2,
     "NEAR": 1,
+    "ADA": 1,
     "SUI": 1,
     "SOL": 1,
     "MATIC": 1,
-    "LINK": 1,
     "DOT": 1,
     "ATOM": 1,
     "CRO": 1
@@ -22,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "BNB",
@@ -45,6 +46,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
@@ -52,6 +58,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
@@ -67,11 +78,6 @@
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     },
     {
