@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T21:14:50.822225Z",
+  "generated_at_utc": "2025-08-19T22:15:27.481423Z",
   "results": {
-    "BTC": 82,
-    "ETH": 54,
+    "BTC": 84,
+    "ETH": 56,
     "BNB": 9,
     "SUI": 7,
     "LINK": 5,
-    "AVAX": 4,
+    "AVAX": 5,
     "TON": 3,
+    "ETC": 3,
     "ADA": 2,
     "CRO": 2,
-    "ETC": 2,
     "ALGO": 2,
     "XRP": 2,
     "BONK": 1,
@@ -27,12 +27,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 82
+      "count": 84
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 54
+      "count": 56
     },
     {
       "symbol": "BNB",
@@ -52,11 +52,16 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -67,11 +72,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 2
     },
     {
