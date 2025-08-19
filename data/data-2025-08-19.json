@@ -1,20 +1,80 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T03:07:52.485908Z",
+  "generated_at_utc": "2025-08-19T04:19:24.655726Z",
   "results": {
-    "BTC": 8,
-    "ETH": 1
+    "BTC": 19,
+    "ETH": 9,
+    "BNB": 2,
+    "AVAX": 2,
+    "ALGO": 2,
+    "NEAR": 1,
+    "SUI": 1,
+    "LINK": 1,
+    "DOT": 1,
+    "ATOM": 1,
+    "CRO": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 19
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 9
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
