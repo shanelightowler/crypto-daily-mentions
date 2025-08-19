@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T11:13:40.251656Z",
+  "generated_at_utc": "2025-08-19T12:33:21.854490Z",
   "results": {
     "BTC": 39,
     "ETH": 21,
     "BNB": 8,
+    "SUI": 4,
+    "LINK": 3,
     "AVAX": 3,
+    "ADA": 2,
     "ETC": 2,
-    "LINK": 2,
     "ALGO": 2,
     "NEAR": 1,
-    "ADA": 1,
-    "SUI": 1,
     "SOL": 1,
     "MATIC": 1,
     "DOT": 1,
@@ -36,18 +36,28 @@
       "count": 8
     },
     {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 4
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -58,16 +68,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     },
     {
