@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T04:19:24.655726Z",
+  "generated_at_utc": "2025-08-19T05:16:27.188629Z",
   "results": {
-    "BTC": 19,
-    "ETH": 9,
-    "BNB": 2,
+    "BTC": 27,
+    "ETH": 14,
+    "BNB": 7,
     "AVAX": 2,
     "ALGO": 2,
     "NEAR": 1,
     "SUI": 1,
+    "SOL": 1,
     "LINK": 1,
     "DOT": 1,
     "ATOM": 1,
@@ -20,17 +21,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 14
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
+      "count": 7
     },
     {
       "symbol": "AVAX",
@@ -50,6 +51,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
