@@ -1,33 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T18:21:45.216355Z",
+  "generated_at_utc": "2025-08-19T19:12:32.460507Z",
   "results": {
-    "BTC": 76,
+    "BTC": 81,
     "ETH": 51,
     "BNB": 9,
     "SUI": 7,
     "LINK": 5,
     "AVAX": 4,
     "TON": 3,
+    "CRO": 2,
     "ADA": 2,
     "ETC": 2,
     "ALGO": 2,
+    "XRP": 2,
     "BONK": 1,
     "NEAR": 1,
     "SOL": 1,
     "MATIC": 1,
     "DOT": 1,
     "ATOM": 1,
-    "CRO": 1,
-    "TRX": 1,
-    "XRP": 1
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 76
+      "count": 81
     },
     {
       "symbol": "ETH",
@@ -60,6 +60,11 @@
       "count": 3
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
@@ -72,6 +77,11 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -105,18 +115,8 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 1
-    },
-    {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     }
   ]
