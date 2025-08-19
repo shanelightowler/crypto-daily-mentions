@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T07:15:38.827362Z",
+  "generated_at_utc": "2025-08-19T08:21:47.082155Z",
   "results": {
     "BTC": 34,
     "ETH": 17,
@@ -12,6 +12,7 @@
     "NEAR": 1,
     "SUI": 1,
     "SOL": 1,
+    "MATIC": 1,
     "LINK": 1,
     "DOT": 1,
     "ATOM": 1,
@@ -61,6 +62,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
