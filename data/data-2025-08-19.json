@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - August 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mu2wjp/daily_crypto_discussion_august_19_2025_gmt0/",
-  "generated_at_utc": "2025-08-19T12:33:21.854490Z",
+  "generated_at_utc": "2025-08-19T13:27:15.817458Z",
   "results": {
     "BTC": 39,
-    "ETH": 21,
-    "BNB": 8,
-    "SUI": 4,
-    "LINK": 3,
+    "ETH": 24,
+    "BNB": 9,
+    "SUI": 6,
+    "LINK": 4,
     "AVAX": 3,
     "ADA": 2,
     "ETC": 2,
@@ -17,7 +17,9 @@
     "MATIC": 1,
     "DOT": 1,
     "ATOM": 1,
-    "CRO": 1
+    "CRO": 1,
+    "TRX": 1,
+    "XRP": 1
   },
   "results_list": [
     {
@@ -28,22 +30,22 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 24
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "AVAX",
@@ -93,6 +95,16 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
