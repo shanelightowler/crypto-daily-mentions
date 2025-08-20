@@ -1,43 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T19:12:35.357119Z",
+  "generated_at_utc": "2025-08-20T20:18:20.479949Z",
   "results": {
-    "BTC": 33,
-    "ETH": 22,
-    "LINK": 13,
+    "BTC": 44,
+    "ETH": 26,
+    "LINK": 14,
     "SOL": 5,
+    "ADA": 5,
     "ETC": 3,
     "XRP": 3,
-    "ADA": 2,
     "BIO": 2,
+    "NEAR": 2,
     "XMR": 1,
     "LTC": 1,
     "DASH": 1,
     "FET": 1,
     "TRUMP": 1,
-    "AVAX": 1,
-    "NEAR": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 44
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 26
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 5
     },
     {
@@ -51,13 +56,13 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "BIO",
+      "name": "",
       "count": 2
     },
     {
-      "symbol": "BIO",
-      "name": "",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -88,11 +93,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     }
   ]
