@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T14:17:11.614194Z",
+  "generated_at_utc": "2025-08-20T15:17:14.654450Z",
   "results": {
-    "BTC": 22,
-    "ETH": 12,
-    "LINK": 4,
-    "SOL": 3,
-    "XRP": 2,
+    "BTC": 27,
+    "ETH": 14,
+    "LINK": 7,
+    "SOL": 4,
+    "ETC": 3,
+    "XRP": 3,
     "BIO": 2,
     "ADA": 1,
-    "ETC": 1,
     "LTC": 1,
     "DASH": 1,
     "FET": 1,
@@ -20,27 +20,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 14
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
+      "count": 7
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BIO",
@@ -50,11 +55,6 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
