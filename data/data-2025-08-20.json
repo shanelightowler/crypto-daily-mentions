@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T17:14:08.157567Z",
+  "generated_at_utc": "2025-08-20T18:23:27.131680Z",
   "results": {
-    "BTC": 32,
-    "ETH": 19,
-    "LINK": 9,
+    "BTC": 33,
+    "ETH": 21,
+    "LINK": 12,
     "SOL": 5,
     "ETC": 3,
     "XRP": 3,
@@ -22,17 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 33
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 9
+      "count": 12
     },
     {
       "symbol": "SOL",
