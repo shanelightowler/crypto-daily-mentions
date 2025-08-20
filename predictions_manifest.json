@@ -1,5 +1,45 @@
 [
   {
+    "date": "2025-08-10",
+    "file": "predictions/eth-preds-2025-08-10.json"
+  },
+  {
+    "date": "2025-08-11",
+    "file": "predictions/eth-preds-2025-08-11.json"
+  },
+  {
+    "date": "2025-08-12",
+    "file": "predictions/eth-preds-2025-08-12.json"
+  },
+  {
+    "date": "2025-08-13",
+    "file": "predictions/eth-preds-2025-08-13.json"
+  },
+  {
+    "date": "2025-08-14",
+    "file": "predictions/eth-preds-2025-08-14.json"
+  },
+  {
+    "date": "2025-08-15",
+    "file": "predictions/eth-preds-2025-08-15.json"
+  },
+  {
+    "date": "2025-08-16",
+    "file": "predictions/eth-preds-2025-08-16.json"
+  },
+  {
+    "date": "2025-08-17",
+    "file": "predictions/eth-preds-2025-08-17.json"
+  },
+  {
+    "date": "2025-08-18",
+    "file": "predictions/eth-preds-2025-08-18.json"
+  },
+  {
+    "date": "2025-08-19",
+    "file": "predictions/eth-preds-2025-08-19.json"
+  },
+  {
     "date": "2025-08-20",
     "file": "predictions/eth-preds-2025-08-20.json"
   }

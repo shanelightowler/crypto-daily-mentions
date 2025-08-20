@@ -1,0 +1,78 @@
+{
+  "thread_title": "Daily General Discussion August 10, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1mm9x6w/daily_general_discussion_august_10_2025/",
+  "generated_at_utc": "2025-08-20T09:39:04.832135Z",
+  "date": "2025-08-10",
+  "summary": {
+    "count": 7,
+    "mean_usd": 85714308714.29,
+    "median_usd": 20000.0,
+    "min_usd": 10000.0,
+    "max_usd": 400000000000.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 11000.0,
+      "lower_usd": 10000.0,
+      "upper_usd": 12000.0,
+      "raw_match": "$10-12K",
+      "sentence": "Very cautious ladder selling above (inflation-adjusted, ETH/EUR-based) ATH, up to $10-12K, then looking out for bubble top signals, but even if those seem to be in, leaving 25% of the pot in eth for the long run.",
+      "comment_id": "n82e9xg",
+      "author": "labrav"
+    },
+    {
+      "amount_usd": 10000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "10k",
+      "sentence": "10k to 20 for BTC was about 200B to 400B and for ETH to do the same that is 1.2T to 3.4T.",
+      "comment_id": "n814ixs",
+      "author": "nichef"
+    },
+    {
+      "amount_usd": 200000000000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "200B",
+      "sentence": "10k to 20 for BTC was about 200B to 400B and for ETH to do the same that is 1.2T to 3.4T.",
+      "comment_id": "n814ixs",
+      "author": "nichef"
+    },
+    {
+      "amount_usd": 400000000000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "400B",
+      "sentence": "10k to 20 for BTC was about 200B to 400B and for ETH to do the same that is 1.2T to 3.4T.",
+      "comment_id": "n814ixs",
+      "author": "nichef"
+    },
+    {
+      "amount_usd": 100000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$100k",
+      "sentence": "There\u2019s nothing wrong with taking profit, but saying ETH is going to $100k isn\u2019t calling a top.",
+      "comment_id": "n82aetd",
+      "author": "Numerous_Ruin_4947"
+    },
+    {
+      "amount_usd": 20000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$20k",
+      "sentence": "You presuppose that Eth will hit $20k, but we have no evidence that it can break ATH.",
+      "comment_id": "n80hyiq",
+      "author": "o-_l_-o"
+    },
+    {
+      "amount_usd": 20000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$20k",
+      "sentence": "When I say ETH will hit $20k, it\u2019s not religion, it\u2019s conviction based on network growth, past cycle behavior, and the fact that a scarce digital asset in a growing ecosystem will outpace a currency that\u2019s designed to keep devaluing.",
+      "comment_id": "n86e3ok",
+      "author": "Numerous_Ruin_4947"
+    }
+  ]
+}
