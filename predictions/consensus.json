@@ -1,0 +1,11 @@
+{
+  "window_days": 30,
+  "as_of_utc": "2025-08-20T09:16:44.579044Z",
+  "pooled_predictions": {
+    "count": 0,
+    "mean_usd": null,
+    "median_usd": null,
+    "min_usd": null,
+    "max_usd": null
+  }
+}
