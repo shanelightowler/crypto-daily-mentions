@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily General Discussion August 12, 2025",
   "thread_url": "https://www.reddit.com/r/ethereum/comments/1mnzr4n/daily_general_discussion_august_12_2025/",
-  "generated_at_utc": "2025-08-20T10:31:45.627767Z",
+  "generated_at_utc": "2025-08-20T12:51:53.545398Z",
   "date": "2025-08-12",
   "summary": {
-    "count": 4,
-    "mean_usd": 33650.0,
+    "count": 3,
+    "mean_usd": 43333.33,
     "median_usd": 5000.0,
-    "min_usd": 4600.0,
+    "min_usd": 5000.0,
     "max_usd": 120000.0
   },
   "predictions": [
@@ -18,7 +18,8 @@
       "raw_match": "$120k",
       "sentence": "If you wonder why BTC is at $120k when ETH has only just now approached it's previous ATH, it's because people still have no clue.",
       "comment_id": "n8cpskx",
-      "author": "hipaces"
+      "author": "hipaces",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 5000.0,
@@ -27,16 +28,8 @@
       "raw_match": "$5,000",
       "sentence": "He'd had a feeling this day would come, he just didn't expect ETH to climb to $5,000 this soon.",
       "comment_id": "n8brddh",
-      "author": "HITMAN616"
-    },
-    {
-      "amount_usd": 4600.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$4,600",
-      "sentence": "The ETH strategy companies and ETFs are not buying ETH so it can peak at $4,600 and return back to Cowen's home price - whatever that is - lol!",
-      "comment_id": "n8declr",
-      "author": "Numerous_Ruin_4947"
+      "author": "HITMAN616",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 5000.0,
@@ -45,7 +38,8 @@
       "raw_match": "$5k",
       "sentence": "Cowen has ETH topping at $5k this cycle.",
       "comment_id": "n8e0ysh",
-      "author": "im_THIS_guy"
+      "author": "im_THIS_guy",
+      "accept_reason": "single"
     }
   ]
 }

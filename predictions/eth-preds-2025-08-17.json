@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily General Discussion August 17, 2025",
   "thread_url": "https://www.reddit.com/r/ethereum/comments/1msi17h/daily_general_discussion_august_17_2025/",
-  "generated_at_utc": "2025-08-20T10:33:41.366654Z",
+  "generated_at_utc": "2025-08-20T12:53:49.332091Z",
   "date": "2025-08-17",
   "summary": {
     "count": 5,
@@ -18,7 +18,8 @@
       "raw_match": "$15,000",
       "sentence": "Tom Lee predicts ETH will go to $15,000 by December.",
       "comment_id": "n95qcp0",
-      "author": "tomsmac"
+      "author": "tomsmac",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 3409.5,
@@ -27,7 +28,8 @@
       "raw_match": "2019 to $4,800",
       "sentence": "ETH did a 60x from $80 in 2019 to $4,800 in 2021.",
       "comment_id": "n98avdz",
-      "author": "Illustrious_Way3898"
+      "author": "Illustrious_Way3898",
+      "accept_reason": "range"
     },
     {
       "amount_usd": 10000.0,
@@ -36,7 +38,8 @@
       "raw_match": "$10k",
       "sentence": "People were screaming $10k ETH back then (some even screaming $100k near peak mania).",
       "comment_id": "n99oyqu",
-      "author": "cutsnek"
+      "author": "cutsnek",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 100000.0,
@@ -45,7 +48,8 @@
       "raw_match": "$100k",
       "sentence": "People were screaming $10k ETH back then (some even screaming $100k near peak mania).",
       "comment_id": "n99oyqu",
-      "author": "cutsnek"
+      "author": "cutsnek",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 10000.0,
@@ -54,7 +58,8 @@
       "raw_match": "$10k",
       "sentence": "I do believe we will hit $10k this time but these markets are fickle and the bottom can fall out at any moment.",
       "comment_id": "n99oyqu",
-      "author": "cutsnek"
+      "author": "cutsnek",
+      "accept_reason": "single"
     }
   ]
 }

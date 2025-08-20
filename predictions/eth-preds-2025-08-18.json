@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily General Discussion August 18, 2025",
   "thread_url": "https://www.reddit.com/r/ethereum/comments/1mtcv5o/daily_general_discussion_august_18_2025/",
-  "generated_at_utc": "2025-08-20T10:33:44.672020Z",
+  "generated_at_utc": "2025-08-20T12:53:53.252299Z",
   "date": "2025-08-18",
   "summary": {
-    "count": 6,
-    "mean_usd": 4166.67,
-    "median_usd": 4500.0,
+    "count": 5,
+    "mean_usd": 3800.0,
+    "median_usd": 3000.0,
     "min_usd": 1500.0,
     "max_usd": 6000.0
   },
@@ -18,7 +18,8 @@
       "raw_match": "$6k+",
       "sentence": "Trying to increase your stack by selling after we go up to $6k+ assuming that we\u2019ll eventually go back down to previous ATH (~$4900) in the next bear is a dangerous game to play.",
       "comment_id": "n9dwq5q",
-      "author": "HITMAN616"
+      "author": "HITMAN616",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 2500.0,
@@ -27,7 +28,8 @@
       "raw_match": "$2.5k",
       "sentence": "ETH was massively undervalued, and the recent move to $2.5k was simply a recovery from levels it should never have reached.",
       "comment_id": "n9bx0lc",
-      "author": "Numerous_Ruin_4947"
+      "author": "Numerous_Ruin_4947",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 3000.0,
@@ -36,7 +38,8 @@
       "raw_match": "$3k",
       "sentence": "Sell @ $3k as the market runs up for NFT mania in 2021 (top at $4800), buy at $1.5k on the way down (bottom at $1000).",
       "comment_id": "n9eaatm",
-      "author": "cryptOwOcurrency"
+      "author": "cryptOwOcurrency",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 1500.0,
@@ -45,16 +48,8 @@
       "raw_match": "$1.5k",
       "sentence": "Sell @ $3k as the market runs up for NFT mania in 2021 (top at $4800), buy at $1.5k on the way down (bottom at $1000).",
       "comment_id": "n9eaatm",
-      "author": "cryptOwOcurrency"
-    },
-    {
-      "amount_usd": 6000.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$6k+",
-      "sentence": ">\tTrying to increase your stack by selling after we go up to $6k+ assuming that we\u2019ll eventually go back down to previous ATH (~$4900) in the next bear is a dangerous game to play.",
-      "comment_id": "n9ebxag",
-      "author": "cryptOwOcurrency"
+      "author": "cryptOwOcurrency",
+      "accept_reason": "single"
     },
     {
       "amount_usd": 6000.0,
@@ -63,7 +58,8 @@
       "raw_match": "$6k",
       "sentence": "Let's assume you have strong belief that ETH will reach $6k within your desired timeframe, AND if it reaches that, you're done with money for life and don't need/want more money.",
       "comment_id": "n9ews9b",
-      "author": "mini_miner1"
+      "author": "mini_miner1",
+      "accept_reason": "single"
     }
   ]
 }
