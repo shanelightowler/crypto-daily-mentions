@@ -41,6 +41,19 @@
     .eth-panel a { color: #1f6feb; text-decoration: none; }
     .eth-panel a:hover { text-decoration: underline; }
 
+    /* ETH predictions list */
+    .eth-list-wrap { margin-top: 12px; }
+    .eth-list-head { font-weight: 600; margin-bottom: 6px; }
+    .eth-list-controls { display: flex; gap: 12px; align-items: center; margin: 6px 0; }
+    .eth-list-controls button { padding: 4px 8px; font-size: 12px; cursor: pointer; }
+    .eth-list { width: 100%; border-collapse: collapse; }
+    .eth-list th, .eth-list td { border: 1px solid #e6e6e6; padding: 6px; font-size: 13px; vertical-align: top; }
+    .eth-list th { background: #f5f5f5; }
+    .eth-amount { white-space: nowrap; }
+    .eth-excerpt { color: #222; }
+    .eth-author { color: #555; white-space: nowrap; }
+    .hit { background: #fff3cd; padding: 0 2px; border-radius: 2px; }
+
     /* Pikaday CSS (minimal to look decent) */
     .pika-single { z-index: 9999; display: block; position: relative; color: #333; background: #fff; border: 1px solid #ccc; box-shadow: 0 1px 3px #bbb; border-radius: 3px; }
     .pika-single.is-hidden { display: none; }
@@ -92,6 +105,28 @@
             <div class="small" id="eth-day-sub">—</div>
           </div>
         </div>
+
+        <!-- NEW: predictions used on the selected day -->
+        <div class="eth-list-wrap">
+          <div class="eth-list-head">Predictions extracted from r/ethereum daily thread</div>
+          <div class="eth-list-controls">
+            <span id="eth-list-count" class="muted"></span>
+            <button type="button" id="eth-toggle-limit">Show all</button>
+          </div>
+          <table class="eth-list">
+            <thead>
+              <tr>
+                <th style="width:120px">Amount</th>
+                <th>Excerpt</th>
+                <th style="width:140px">Author</th>
+                <th style="width:110px">Comment</th>
+              </tr>
+            </thead>
+            <tbody id="eth-preds-tbody">
+              <tr><td colspan="4" class="muted">No predictions for this date</td></tr>
+            </tbody>
+          </table>
+        </div>
       </section>
 
       <!-- Crypto Daily thread link always shown for the selected crypto day -->
@@ -141,6 +176,9 @@
     const ethConsensusSubEl  = document.getElementById('eth-consensus-sub');
     const ethDayMainEl       = document.getElementById('eth-day-main');
     const ethDaySubEl        = document.getElementById('eth-day-sub');
+    const ethPredsTbody      = document.getElementById('eth-preds-tbody');
+    const ethListCountEl     = document.getElementById('eth-list-count');
+    const ethToggleBtn       = document.getElementById('eth-toggle-limit');
 
     // App state
     let manifestData = [];
@@ -153,6 +191,7 @@
     let predsManifestData = [];
     let predsDateToFileMap = {};
     let consensusData = null;
+    let showAllPreds = false; // toggle for list size
 
     // -------- URL state helpers (unique URL per day) --------
     function parseUrlState() {
@@ -295,12 +334,94 @@
       ethConsensusSubEl.textContent = (n > 0) ? `Mean ${avg} • N=${n} • Window ${windowDays}d` : '';
     }
 
+    function highlightMatch(sentence, raw) {
+      if (!sentence || !raw) return sentence || '';
+      const s = sentence;
+      const idx = s.toLowerCase().indexOf(raw.toLowerCase());
+      if (idx === -1) return s;
+      const before = s.slice(0, idx);
+      const mid = s.slice(idx, idx + raw.length);
+      const after = s.slice(idx + raw.length);
+      return `${before}<span class="hit">${mid}</span>${after}`;
+    }
+
+    function buildCommentPermalink(threadUrl, commentId) {
+      if (!threadUrl || !commentId) return '';
+      // Expect threadUrl like: https://www.reddit.com/r/ethereum/comments/<postid>/slug/...
+      const m = threadUrl.match(/^https?:\/\/(?:www|old)\.reddit\.com\/r\/[^\/]+\/comments\/([a-z0-9]+)\/[^\/]+/i);
+      if (m && m[1]) {
+        const pid = m[1];
+        return `https://www.reddit.com/r/ethereum/comments/${pid}/_/comment/${commentId}/?context=3`;
+      }
+      // Fallback
+      return `${threadUrl}?context=3`;
+    }
+
+    function renderEthPredsListForDay(data) {
+      const preds = Array.isArray(data?.predictions) ? data.predictions : [];
+      const n = preds.length;
+      ethListCountEl.textContent = n ? `${n} prediction${n === 1 ? '' : 's'} on this day` : 'No predictions found';
+
+      if (!n) {
+        ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">No predictions for this date</td></tr>`;
+        ethToggleBtn.style.display = 'none';
+        return;
+      }
+
+      ethToggleBtn.style.display = 'inline-block';
+      ethToggleBtn.textContent = showAllPreds ? 'Show fewer' : 'Show all';
+
+      const limit = showAllPreds ? n : Math.min(30, n);
+      const rows = [];
+      for (let i = 0; i < limit; i++) {
+        const r = preds[i];
+        const amount = (typeof r.amount_usd === 'number') ? fmtUSD(r.amount_usd) : '—';
+        const range = (typeof r.lower_usd === 'number' && typeof r.upper_usd === 'number')
+          ? `${fmtUSD(r.lower_usd)} – ${fmtUSD(r.upper_usd)}`
+          : '';
+        const amountCell = range ? `${amount} <span class="muted">(${range})</span>` : amount;
+
+        const excerpt = r.sentence || '';
+        const raw = r.raw_match || '';
+        const htmlExcerpt = highlightMatch(excerpt, raw);
+
+        const author = r.author ? `u/${r.author}` : '—';
+        const link = buildCommentPermalink(data.thread_url, r.comment_id);
+        const linkHtml = link ? `<a href="${link}" target="_blank" rel="noopener">View</a>` : '—';
+
+        rows.push(`
+          <tr>
+            <td class="eth-amount">${amountCell}</td>
+            <td class="eth-excerpt">${htmlExcerpt}</td>
+            <td class="eth-author">${author}</td>
+            <td>${linkHtml}</td>
+          </tr>
+        `);
+      }
+
+      if (!showAllPreds && n > limit) {
+        rows.push(`<tr><td colspan="4" class="muted">Showing ${limit} of ${n}. Click "Show all" to expand.</td></tr>`);
+      }
+
+      ethPredsTbody.innerHTML = rows.join('');
+    }
+
+    function renderConsensusPanelAndEmptyList() {
+      renderConsensusPanel();
+      ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">No predictions for this date</td></tr>`;
+      ethListCountEl.textContent = '';
+      ethToggleBtn.style.display = 'none';
+    }
+
     async function renderEthForDate(selectedDateIso) {
-      // Only render ETH numbers; do NOT touch the crypto thread link here
+      // Load daily predictions if available
       const file = predsDateToFileMap[selectedDateIso];
       if (!file) {
         ethDayMainEl.textContent = 'No predictions found for this date';
         ethDaySubEl.textContent = '';
+        ethListCountEl.textContent = 'No predictions found';
+        ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">No predictions for this date</td></tr>`;
+        ethToggleBtn.style.display = 'none';
         return;
       }
       try {
@@ -313,9 +434,15 @@
         const hi = fmtUSD(sum.max_usd);
         ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
         ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
+
+        // Fill predictions list
+        renderEthPredsListForDay(data);
       } catch (e) {
         ethDayMainEl.textContent = 'Error loading predictions';
         ethDaySubEl.textContent = '';
+        ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">Error loading predictions</td></tr>`;
+        ethListCountEl.textContent = '';
+        ethToggleBtn.style.display = 'none';
         console.error(e);
       }
     }
@@ -501,12 +628,31 @@
           if (file) loadDayData(file, initialTop, initialDate);
         } else {
           tbody.innerHTML = '<tr><td colspan="4">No manifest data found</td></tr>';
+          renderConsensusPanelAndEmptyList();
         }
       } catch(e) {
         tbody.innerHTML = `<tr><td colspan="4" style="color:red;">Failed to load manifest</td></tr>`;
         console.error(e);
+        renderConsensusPanelAndEmptyList();
       }
     }
+
+    // Toggle show-all for ETH predictions list
+    ethToggleBtn.addEventListener('click', async () => {
+      if (!picker) return;
+      const date = picker.getDate();
+      if (!date) return;
+      showAllPreds = !showAllPreds;
+      // Re-render list quickly by refetching file (or we could cache last data)
+      const iso = formatLocalDate(date);
+      const file = predsDateToFileMap[iso];
+      if (file) {
+        try {
+          const data = await fetchJson(file);
+          renderEthPredsListForDay(data);
+        } catch {}
+      }
+    });
 
     // React to Top N changes (keep date, update URL and reload)
     topNEl.addEventListener('change', () => {
