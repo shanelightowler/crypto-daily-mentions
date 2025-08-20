@@ -1,51 +1,24 @@
 {
   "thread_title": "Daily General Discussion August 13, 2025",
   "thread_url": "https://www.reddit.com/r/ethereum/comments/1movfyg/daily_general_discussion_august_13_2025/",
-  "generated_at_utc": "2025-08-20T09:39:45.721482Z",
+  "generated_at_utc": "2025-08-20T10:33:14.335391Z",
   "date": "2025-08-13",
   "summary": {
-    "count": 10,
-    "mean_usd": 133042.3,
-    "median_usd": 5811.5,
+    "count": 6,
+    "mean_usd": 30300.0,
+    "median_usd": 6000.0,
     "min_usd": 4800.0,
-    "max_usd": 1000000.0
+    "max_usd": 100000.0
   },
   "predictions": [
     {
-      "amount_usd": 1000000.0,
+      "amount_usd": 4800.0,
       "lower_usd": null,
       "upper_usd": null,
-      "raw_match": "1m",
-      "sentence": "- u/the_swingman shares [some thoughts as we approach ATH.](https://old.reddit.com/r/ethereum/comments/1mnzr4n/daily_general_discussion_august_12_2025/n8c95ov/) \ud83d\udcad",
-      "comment_id": "n8kt05w",
-      "author": "Tricky_Troll"
-    },
-    {
-      "amount_usd": 5623.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$5,623",
-      "sentence": "ETH ATH: $5,623",
-      "comment_id": "n8glx6f",
-      "author": "eth10kIsFUD"
-    },
-    {
-      "amount_usd": 5000.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$5K",
-      "sentence": "I have a strong feeling ETH will hit $5K by the end of this weekend.",
-      "comment_id": "n8gztno",
-      "author": "DeepInEther"
-    },
-    {
-      "amount_usd": 164000.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "164k",
-      "sentence": "Eth will hit 6,900 if BTC gets to ~164k and the ratio is at .0420.",
-      "comment_id": "n8h3q3k",
-      "author": "HARCYB-throwaway"
+      "raw_match": "$4,800",
+      "sentence": "ATH will happen and it might happen tonight, since I don't see anything but a huge rally once we go past $4,800",
+      "comment_id": "n8ivtwe",
+      "author": "SpurdoSparde28"
     },
     {
       "amount_usd": 6000.0,
@@ -57,31 +30,31 @@
       "author": "Numerous_Ruin_4947"
     },
     {
-      "amount_usd": 125000.0,
+      "amount_usd": 60000.0,
       "lower_usd": null,
       "upper_usd": null,
-      "raw_match": "125K",
-      "sentence": "I hope it squeezes the shorts at 125K so ETH will go over 5K.",
-      "comment_id": "n8ja0pw",
-      "author": "duma0610"
+      "raw_match": "$60k",
+      "sentence": "It was a battle around the $60k mark (previous ATH) for a while but there really weren't large drawdowns like in previous bull runs.",
+      "comment_id": "n8gavsd",
+      "author": "hipaces"
     },
     {
-      "amount_usd": 5000.0,
+      "amount_usd": 100000.0,
       "lower_usd": null,
       "upper_usd": null,
-      "raw_match": "5K",
-      "sentence": "I hope it squeezes the shorts at 125K so ETH will go over 5K.",
-      "comment_id": "n8ja0pw",
-      "author": "duma0610"
+      "raw_match": "$100k",
+      "sentence": "It was basically a battle for ATH in a fairly tight range and then once it blasted through that there was a pretty violent move up to $100k.",
+      "comment_id": "n8gavsd",
+      "author": "hipaces"
     },
     {
-      "amount_usd": 10000.0,
+      "amount_usd": 6000.0,
       "lower_usd": null,
       "upper_usd": null,
-      "raw_match": "10k",
-      "sentence": "Not saying we will hit 10k but Cowen's fiat predictions for ETH don't have the best track record",
-      "comment_id": "n8j19lj",
-      "author": "ProfStrangelove"
+      "raw_match": "$6K",
+      "sentence": "For me, that starts when it breaks the inflation-adjusted previous ATH - around $6K.",
+      "comment_id": "n8g3xqy",
+      "author": "Numerous_Ruin_4947"
     },
     {
       "amount_usd": 5000.0,
@@ -91,15 +64,6 @@
       "sentence": "So Cowen thinks ETH failed - his top is $5k - barely above the 2021 ATH.",
       "comment_id": "n8g4mnw",
       "author": "Numerous_Ruin_4947"
-    },
-    {
-      "amount_usd": 4800.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "4.8k",
-      "sentence": "I read it might reach 4.8k and go down a bit as it was the last high for Ethereum?",
-      "comment_id": "n8ht67p",
-      "author": "Wooden_car_4341"
     }
   ]
 }

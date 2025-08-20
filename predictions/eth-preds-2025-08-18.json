@@ -1,60 +1,24 @@
 {
   "thread_title": "Daily General Discussion August 18, 2025",
   "thread_url": "https://www.reddit.com/r/ethereum/comments/1mtcv5o/daily_general_discussion_august_18_2025/",
-  "generated_at_utc": "2025-08-20T09:40:06.237424Z",
+  "generated_at_utc": "2025-08-20T10:33:44.672020Z",
   "date": "2025-08-18",
   "summary": {
-    "count": 7,
-    "mean_usd": 1476.57,
-    "median_usd": 480.0,
-    "min_usd": 140.0,
+    "count": 6,
+    "mean_usd": 4166.67,
+    "median_usd": 4500.0,
+    "min_usd": 1500.0,
     "max_usd": 6000.0
   },
   "predictions": [
     {
-      "amount_usd": 480.0,
+      "amount_usd": 6000.0,
       "lower_usd": null,
       "upper_usd": null,
-      "raw_match": "$480",
-      "sentence": "Fun fact: Because I thought the market was getting somewhat overheated, I had a very explicitly laid out plan to sell 1.3 rETH at the price equivalent to $4800 ETH (old ATH is $4868 on Binance) and rebuy it at $4300.",
-      "comment_id": "n9bgkj0",
-      "author": "Gumba_Hasselhoff"
-    },
-    {
-      "amount_usd": 486.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$486",
-      "sentence": "Fun fact: Because I thought the market was getting somewhat overheated, I had a very explicitly laid out plan to sell 1.3 rETH at the price equivalent to $4800 ETH (old ATH is $4868 on Binance) and rebuy it at $4300.",
-      "comment_id": "n9bgkj0",
-      "author": "Gumba_Hasselhoff"
-    },
-    {
-      "amount_usd": 430.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$430",
-      "sentence": "Fun fact: Because I thought the market was getting somewhat overheated, I had a very explicitly laid out plan to sell 1.3 rETH at the price equivalent to $4800 ETH (old ATH is $4868 on Binance) and rebuy it at $4300.",
-      "comment_id": "n9bgkj0",
-      "author": "Gumba_Hasselhoff"
-    },
-    {
-      "amount_usd": 300.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$300",
-      "sentence": "Remember we\u2019re now only $300 above the January double-peak, where ETH went on to crash to $1400 for no real reason.",
-      "comment_id": "n9d6hik",
-      "author": "cryptOwOcurrency"
-    },
-    {
-      "amount_usd": 140.0,
-      "lower_usd": null,
-      "upper_usd": null,
-      "raw_match": "$140",
-      "sentence": "Remember we\u2019re now only $300 above the January double-peak, where ETH went on to crash to $1400 for no real reason.",
-      "comment_id": "n9d6hik",
-      "author": "cryptOwOcurrency"
+      "raw_match": "$6k+",
+      "sentence": "Trying to increase your stack by selling after we go up to $6k+ assuming that we\u2019ll eventually go back down to previous ATH (~$4900) in the next bear is a dangerous game to play.",
+      "comment_id": "n9dwq5q",
+      "author": "HITMAN616"
     },
     {
       "amount_usd": 2500.0,
@@ -64,6 +28,33 @@
       "sentence": "ETH was massively undervalued, and the recent move to $2.5k was simply a recovery from levels it should never have reached.",
       "comment_id": "n9bx0lc",
       "author": "Numerous_Ruin_4947"
+    },
+    {
+      "amount_usd": 3000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$3k",
+      "sentence": "Sell @ $3k as the market runs up for NFT mania in 2021 (top at $4800), buy at $1.5k on the way down (bottom at $1000).",
+      "comment_id": "n9eaatm",
+      "author": "cryptOwOcurrency"
+    },
+    {
+      "amount_usd": 1500.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$1.5k",
+      "sentence": "Sell @ $3k as the market runs up for NFT mania in 2021 (top at $4800), buy at $1.5k on the way down (bottom at $1000).",
+      "comment_id": "n9eaatm",
+      "author": "cryptOwOcurrency"
+    },
+    {
+      "amount_usd": 6000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$6k+",
+      "sentence": ">\tTrying to increase your stack by selling after we go up to $6k+ assuming that we\u2019ll eventually go back down to previous ATH (~$4900) in the next bear is a dangerous game to play.",
+      "comment_id": "n9ebxag",
+      "author": "cryptOwOcurrency"
     },
     {
       "amount_usd": 6000.0,
