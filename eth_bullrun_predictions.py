@@ -34,10 +34,10 @@ if not CLIENT_ID or not CLIENT_SECRET:
 # Heuristics and patterns
 # =========================
 
-# Must mention ETH context (we allow comment-level context too)
+# ETH context terms (we allow comment-level context as well)
 ETH_TERMS = re.compile(r"\b(eth|ethereum|\$eth)\b", re.I)
 
-# Forward-looking/top-of-cycle context words
+# Forward-looking / cycle-top context
 CONTEXT_WORDS = re.compile(
     r"\b("
     r"ath|all[-\s]?time\s?high|top|peak|topp?ing|blow[-\s]?off|"
@@ -47,13 +47,17 @@ CONTEXT_WORDS = re.compile(
     re.I
 )
 
-# Exclusions
+# Exclusions (phrases and authors)
 EXCLUDE_AUTHORS = {"automoderator", "tricky_troll"}  # daily doots summary + bots
 SHORT_TERM_TIME = re.compile(r"\b(today|tomorrow|this\s+(week|weekend|month)|by\s+(the\s+)?(weekend|eom|eow)|next\s+(week|month)|in\s+\d+\s*(days?|weeks?))\b", re.I)
+SHORT_TERM_EXTRA = re.compile(r"\b(next\s+leg|pull\s*back|pullback|bounce|rally|tonight)\b", re.I)
 MARKETCAP_TERMS = re.compile(r"\b(market\s?cap|mcap|cap(italization)?)\b", re.I)
 HISTORICAL_ONLY = re.compile(r"\b(ath\s+was|hit\s+in\s+20\d{2}|back\s+in\s+20\d{2}|last\s+cycle|previous\s+cycle)\b", re.I)
 AVERAGE_SELLING = re.compile(r"\b(avg|average)\b.*\b(price|sold|selling)\b", re.I)
 AMOUNT_OF_ETH = re.compile(r"\b\d+(?:\.\d+)?\s*eth\b", re.I)
+SHOULD_NOW = re.compile(r"\b(should\s+be\s+at|would\s+be\s+at)\b", re.I)
+NEGATED_TOP = re.compile(r"\b(not|won't|cannot|can\'t|unlikely|no\s+way)\b.*\b(top|peak|topp?ing|ath)\b", re.I)
+BTC_ONLY = re.compile(r"\b(btc|bitcoin)\b", re.I)
 
 # Bounds guard for ETH cycle top predictions
 MIN_PRICE_USD = 1_000
@@ -114,25 +118,33 @@ def to_number_usd(raw: str, suffix: Optional[str]) -> Optional[float]:
 def sentence_split(text: str) -> List[str]:
     return re.split(r"(?<=[\.\!\?])\s+|\n+", text)
 
+def strip_quotes(text: str) -> str:
+    # Remove fenced/inline code and quoted replies
+    text = re.sub(r"```.*?```", " ", text, flags=re.DOTALL)
+    text = re.sub(r"`[^`]*`", " ", text)
+    lines = [ln for ln in (text or "").splitlines() if not ln.lstrip().startswith(">")]
+    return "\n".join(lines)
+
 def extract_predictions_from_sentence(s: str) -> List[Dict[str, Any]]:
     # Exclude obvious non-predictions
-    if MARKETCAP_TERMS.search(s):
+    if MARKETCAP_TERMS.search(s) or AMOUNT_OF_ETH.search(s) or AVERAGE_SELLING.search(s):
         return []
-    if AMOUNT_OF_ETH.search(s):
-        return []
-    if AVERAGE_SELLING.search(s):
-        return []
+    # Historical facts w/o forward cue
     if HISTORICAL_ONLY.search(s) and not re.search(r"\b(will|should|could|target|this cycle|next cycle|top|peak|topp?ing|bull run)\b", s, re.I):
         return []
-    if SHORT_TERM_TIME.search(s):
+    # Short-term timing / local move phrasing
+    if SHORT_TERM_TIME.search(s) or SHORT_TERM_EXTRA.search(s):
         return []
-    # Exclude bare ATH facts w/o forward cue
-    if re.search(r"\bath\b\s*:?\s*\$?\s*\d", s, re.I) and not re.search(r"\b(next|this cycle|top|peak|will|target)\b", s, re.I):
+    # Present commentary like "should be at"
+    if SHOULD_NOW.search(s):
+        return []
+    # Negated top/peak statements
+    if NEGATED_TOP.search(s):
         return []
 
     preds: List[Dict[str, Any]] = []
 
-    # Try "between X and Y" first
+    # Try "between X and Y"
     for m in BETWEEN_PATTERN.finditer(s):
         a_raw = m.group("a")
         b_raw = m.group("b")
@@ -150,12 +162,12 @@ def extract_predictions_from_sentence(s: str) -> List[Dict[str, Any]]:
                 "raw": m.group(0).strip()
             })
 
-    # Standard range like "10-12k"
+    # Standard ranges like "10-12k"
     for m in RANGE_PATTERN.finditer(s):
         a_raw = m.group("a")
         b_raw = m.group("b")
         suf = m.group("suffix")
-        # Check for embedded suffix on each side if needed
+        # Support embedded suffixes
         suf_a = None
         suf_b = None
         ma = re.search(r"([kKmM])\s*$", a_raw.strip())
@@ -186,7 +198,7 @@ def extract_predictions_from_sentence(s: str) -> List[Dict[str, Any]]:
             val = to_number_usd(raw, suf)
             if not val:
                 continue
-            # Money marker guard to avoid numeric noise: require $ or k/m visible in the raw text chunk
+            # Require a money marker in the raw chunk
             raw_chunk = m.group(0).lower()
             if "$" not in raw_chunk and not re.search(r"\b[km]\b", raw_chunk):
                 continue
@@ -196,17 +208,34 @@ def extract_predictions_from_sentence(s: str) -> List[Dict[str, Any]]:
                 "raw": m.group(0).strip()
             })
 
+    # If the sentence names multiple amounts and uses "at least / possibly / up to / could reach", keep the highest as "top"
+    if len(preds) > 1 and re.search(r"\b(at\s+least|possibly|up\s+to|could\s+reach)\b", s, re.I):
+        best = None
+        for p in preds:
+            amt = p.get("amount_usd")
+            if isinstance(amt, (int, float)):
+                if not best or amt > best.get("amount_usd", 0):
+                    best = p
+        if best:
+            return [best]
+
     return preds
 
 def parse_comment_for_predictions(comment_body: str) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
     out: List[Dict[str, Any]] = []
     candidates: List[Dict[str, Any]] = []
 
-    sentences = [t.strip() for t in sentence_split(comment_body or "") if t.strip()]
+    raw = strip_quotes(comment_body or "")
+    sentences = [t.strip() for t in sentence_split(raw) if t.strip()]
     if not sentences:
         return out, candidates
 
     comment_has_eth = any(ETH_TERMS.search(x) for x in sentences)
+    comment_has_btc_only = (not comment_has_eth) and any(BTC_ONLY.search(x) for x in sentences)
+    if comment_has_btc_only:
+        # BTC-only comments: skip fully
+        return out, candidates
+
     prev_had_eth = False
 
     for sent in sentences:
@@ -222,9 +251,8 @@ def parse_comment_for_predictions(comment_body: str) -> Tuple[List[Dict[str, Any
             preds = extract_predictions_from_sentence(s)
             filtered = []
             for p in preds:
-                raw = p["raw"].lower()
-                # Require a money marker ($ or k/m) in the raw match to reduce noise
-                if "$" in raw or re.search(r"\b[km]\b", raw):
+                raw_match = p["raw"].lower()
+                if "$" in raw_match or re.search(r"\b[km]\b", raw_match):
                     filtered.append(p)
             if filtered:
                 for p in filtered:
@@ -330,6 +358,7 @@ def main():
 
     records: List[Dict[str, Any]] = []
     all_candidates: List[Dict[str, Any]] = []
+    seen = set()  # de-dup per comment
 
     for c in comments:
         author = getattr(c, "author", None)
@@ -349,6 +378,12 @@ def main():
                 amt = p["amount_usd"]
                 lower = None
                 upper = None
+            # De-dup key: (comment_id, approx amount bucket, start of sentence)
+            key = (getattr(c, "id", None), round((amt or 0), -1), (h["sentence"] or "")[:160])
+            if key in seen:
+                continue
+            seen.add(key)
+
             records.append({
                 "amount_usd": amt,
                 "lower_usd": lower,
@@ -357,6 +392,7 @@ def main():
                 "sentence": h["sentence"],
                 "comment_id": getattr(c, "id", None),
                 "author": getattr(author, "name", None) if author else None,
+                "accept_reason": p["type"],  # 'single' or 'range'
             })
 
     amounts = [r["amount_usd"] for r in records if isinstance(r["amount_usd"], (int, float)) and r["amount_usd"] > 0]
