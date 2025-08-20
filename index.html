@@ -93,6 +93,10 @@
       <!-- ETH predictions panel above the table -->
       <section class="eth-panel" id="eth-panel">
         <h2>ETH Bull‑Run Top Predictions</h2>
+
+        <!-- NEW: r/ethereum Daily thread link (for the selected day) -->
+        <div id="eth-thread-link" class="link"></div>
+
         <div class="row">
           <div class="card">
             <div class="label">Consensus (last 30 days)</div>
@@ -106,7 +110,7 @@
           </div>
         </div>
 
-        <!-- NEW: predictions used on the selected day -->
+        <!-- Predictions used on the selected day -->
         <div class="eth-list-wrap">
           <div class="eth-list-head">Predictions extracted from r/ethereum daily thread</div>
           <div class="eth-list-controls">
@@ -179,6 +183,7 @@
     const ethPredsTbody      = document.getElementById('eth-preds-tbody');
     const ethListCountEl     = document.getElementById('eth-list-count');
     const ethToggleBtn       = document.getElementById('eth-toggle-limit');
+    const ethThreadLinkEl    = document.getElementById('eth-thread-link');
 
     // App state
     let manifestData = [];
@@ -347,13 +352,11 @@
 
     function buildCommentPermalink(threadUrl, commentId) {
       if (!threadUrl || !commentId) return '';
-      // Expect threadUrl like: https://www.reddit.com/r/ethereum/comments/<postid>/slug/...
       const m = threadUrl.match(/^https?:\/\/(?:www|old)\.reddit\.com\/r\/[^\/]+\/comments\/([a-z0-9]+)\/[^\/]+/i);
       if (m && m[1]) {
         const pid = m[1];
         return `https://www.reddit.com/r/ethereum/comments/${pid}/_/comment/${commentId}/?context=3`;
       }
-      // Fallback
       return `${threadUrl}?context=3`;
     }
 
@@ -414,7 +417,6 @@
     }
 
     async function renderEthForDate(selectedDateIso) {
-      // Load daily predictions if available
       const file = predsDateToFileMap[selectedDateIso];
       if (!file) {
         ethDayMainEl.textContent = 'No predictions found for this date';
@@ -422,6 +424,8 @@
         ethListCountEl.textContent = 'No predictions found';
         ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">No predictions for this date</td></tr>`;
         ethToggleBtn.style.display = 'none';
+        // Clear ETH thread link when no predictions file
+        ethThreadLinkEl.innerHTML = '';
         return;
       }
       try {
@@ -435,6 +439,13 @@
         ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
         ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
 
+        // Set ETH daily thread link above the table
+        if (data.thread_url && data.thread_title) {
+          ethThreadLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
+        } else {
+          ethThreadLinkEl.innerHTML = '';
+        }
+
         // Fill predictions list
         renderEthPredsListForDay(data);
       } catch (e) {
@@ -443,6 +454,8 @@
         ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">Error loading predictions</td></tr>`;
         ethListCountEl.textContent = '';
         ethToggleBtn.style.display = 'none';
+        // On error, clear ETH link
+        ethThreadLinkEl.innerHTML = '';
         console.error(e);
       }
     }
@@ -491,6 +504,7 @@
         tbody.innerHTML = `<tr><td colspan="4" style="color:red;">Error loading data</td></tr>`;
         metaEl.textContent = '';
         threadLinkEl.textContent = '';
+        ethThreadLinkEl.innerHTML = '';
         console.error(e);
       }
     }
@@ -643,7 +657,6 @@
       const date = picker.getDate();
       if (!date) return;
       showAllPreds = !showAllPreds;
-      // Re-render list quickly by refetching file (or we could cache last data)
       const iso = formatLocalDate(date);
       const file = predsDateToFileMap[iso];
       if (file) {
