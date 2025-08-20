@@ -74,11 +74,10 @@
       </select>
       <span id="meta" class="muted"></span>
     </div>
-    <div id="thread-link" class="link"></div>
   </header>
   <main>
     <div class="grid">
-      <!-- NEW: ETH predictions panel appears above the table -->
+      <!-- ETH predictions panel above the table -->
       <section class="eth-panel" id="eth-panel">
         <h2>ETH Bull‑Run Top Predictions</h2>
         <div class="row">
@@ -91,10 +90,12 @@
             <div class="label">Selected day summary</div>
             <div class="value" id="eth-day-main">—</div>
             <div class="small" id="eth-day-sub">—</div>
-            <div class="small" id="eth-day-link"></div>
           </div>
         </div>
       </section>
+
+      <!-- Moved: crypto daily thread link appears UNDER the ETH panel -->
+      <div id="thread-link" class="link"></div>
 
       <section>
         <table>
@@ -140,7 +141,6 @@
     const ethConsensusSubEl  = document.getElementById('eth-consensus-sub');
     const ethDayMainEl       = document.getElementById('eth-day-main');
     const ethDaySubEl        = document.getElementById('eth-day-sub');
-    const ethDayLinkEl       = document.getElementById('eth-day-link');
 
     // App state
     let manifestData = [];
@@ -301,7 +301,7 @@
       if (!file) {
         ethDayMainEl.textContent = 'No predictions found for this date';
         ethDaySubEl.textContent = '';
-        ethDayLinkEl.innerHTML = '';
+        threadLinkEl.innerHTML = '';
         return;
       }
       try {
@@ -314,15 +314,16 @@
         const hi = fmtUSD(sum.max_usd);
         ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
         ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
+        // Move the crypto daily thread link below ETH panel
         if (data.thread_url && data.thread_title) {
-          ethDayLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
+          threadLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
         } else {
-          ethDayLinkEl.innerHTML = '';
+          threadLinkEl.innerHTML = '';
         }
       } catch (e) {
         ethDayMainEl.textContent = 'Error loading predictions';
         ethDaySubEl.textContent = '';
-        ethDayLinkEl.innerHTML = '';
+        threadLinkEl.innerHTML = '';
         console.error(e);
       }
     }
@@ -333,12 +334,10 @@
         // Current day
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
-        // Thread link + meta
+        // Meta (keep updated timestamp in header)
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
-        threadLinkEl.innerHTML = dayData.thread_url
-          ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
-          : (dayData.thread_title || '');
         metaEl.textContent = updated ? `Updated ${updated}` : '';
+
         // Previous day map for % changes
         let prevMap = {};
         const idx = validDateStrs.indexOf(selectedDateIso);
@@ -353,7 +352,7 @@
         }
         // Table (with % change)
         renderTable(list, 100, prevMap);
-        // ETH predictions panel for this date
+        // ETH predictions panel for this date (also sets the thread link now)
         await renderEthForDate(selectedDateIso);
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
