@@ -94,7 +94,7 @@
       <section class="eth-panel" id="eth-panel">
         <h2>ETH Bull‑Run Top Predictions</h2>
 
-        <!-- NEW: r/ethereum Daily thread link (for the selected day) -->
+        <!-- r/ethereum Daily thread link (for the selected day) -->
         <div id="eth-thread-link" class="link"></div>
 
         <div class="row">
@@ -350,14 +350,32 @@
       return `${before}<span class="hit">${mid}</span>${after}`;
     }
 
+    // FIX: build correct reddit comment permalinks
     function buildCommentPermalink(threadUrl, commentId) {
       if (!threadUrl || !commentId) return '';
-      const m = threadUrl.match(/^https?:\/\/(?:www|old)\.reddit\.com\/r\/[^\/]+\/comments\/([a-z0-9]+)\/[^\/]+/i);
-      if (m && m[1]) {
+      const m = threadUrl.match(/^https?:\/\/(?:www|old)\.reddit\.com\/r\/[^\/]+\/comments\/([a-z0-9]+)\/([^\/?#]+)/i);
+      if (m && m[1] && m[2]) {
         const pid = m[1];
-        return `https://www.reddit.com/r/ethereum/comments/${pid}/_/comment/${commentId}/?context=3`;
+        const slug = m[2];
+        return `https://www.reddit.com/r/ethereum/comments/${pid}/${slug}/${commentId}/?context=3`;
       }
-      return `${threadUrl}?context=3`;
+      const m2 = threadUrl.match(/^https?:\/\/(?:www|old)\.reddit\.com\/r\/[^\/]+\/comments\/([a-z0-9]+)/i);
+      if (m2 && m2[1]) {
+        const pid = m2[1];
+        return `https://www.reddit.com/comments/${pid}/comment/${commentId}/?context=3`;
+      }
+      return threadUrl;
+    }
+
+    // Helpers for ETH thread fallback link when no predictions file is present
+    function formatMonthDayYear(iso) {
+      const d = new Date(iso + 'T00:00:00Z');
+      const month = d.toLocaleString('en-US', { month: 'long', timeZone: 'UTC' });
+      return `${month} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+    }
+    function buildEthDailySearchLink(iso) {
+      const q = encodeURIComponent(`"Daily General Discussion" ${formatMonthDayYear(iso)}`);
+      return `https://www.reddit.com/r/ethereum/search/?q=${q}&restrict_sr=1&sort=new`;
     }
 
     function renderEthPredsListForDay(data) {
@@ -417,6 +435,7 @@
     }
 
     async function renderEthForDate(selectedDateIso) {
+      // Load daily predictions if available
       const file = predsDateToFileMap[selectedDateIso];
       if (!file) {
         ethDayMainEl.textContent = 'No predictions found for this date';
@@ -424,8 +443,8 @@
         ethListCountEl.textContent = 'No predictions found';
         ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">No predictions for this date</td></tr>`;
         ethToggleBtn.style.display = 'none';
-        // Clear ETH thread link when no predictions file
-        ethThreadLinkEl.innerHTML = '';
+        // Fallback: link to r/ethereum daily search for that date
+        ethThreadLinkEl.innerHTML = `<a href="${buildEthDailySearchLink(selectedDateIso)}" target="_blank" rel="noopener">Find r/ethereum Daily General Discussion — ${formatMonthDayYear(selectedDateIso)}</a>`;
         return;
       }
       try {
@@ -439,11 +458,11 @@
         ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
         ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
 
-        // Set ETH daily thread link above the table
+        // Set ETH daily thread link above the table (or fallback to search)
         if (data.thread_url && data.thread_title) {
           ethThreadLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
         } else {
-          ethThreadLinkEl.innerHTML = '';
+          ethThreadLinkEl.innerHTML = `<a href="${buildEthDailySearchLink(selectedDateIso)}" target="_blank" rel="noopener">Find r/ethereum Daily General Discussion — ${formatMonthDayYear(selectedDateIso)}</a>`;
         }
 
         // Fill predictions list
@@ -454,8 +473,8 @@
         ethPredsTbody.innerHTML = `<tr><td colspan="4" class="muted">Error loading predictions</td></tr>`;
         ethListCountEl.textContent = '';
         ethToggleBtn.style.display = 'none';
-        // On error, clear ETH link
-        ethThreadLinkEl.innerHTML = '';
+        // Fallback ETH link on error
+        ethThreadLinkEl.innerHTML = `<a href="${buildEthDailySearchLink(selectedDateIso)}" target="_blank" rel="noopener">Find r/ethereum Daily General Discussion — ${formatMonthDayYear(selectedDateIso)}</a>`;
         console.error(e);
       }
     }
