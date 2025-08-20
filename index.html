@@ -19,7 +19,7 @@
     th { background: #f7f7f7; }
     caption { text-align: left; font-weight: 600; margin-bottom: 8px; }
 
-    /* Stack sections; we will place ETH panel above the table */
+    /* Stack sections; ETH panel above the table, thread link below ETH panel */
     .grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
 
     /* Chart sizing: approximately half-panel height on desktop, smaller on mobile */
@@ -94,7 +94,7 @@
         </div>
       </section>
 
-      <!-- Moved: crypto daily thread link appears UNDER the ETH panel -->
+      <!-- Crypto Daily thread link always shown for the selected crypto day -->
       <div id="thread-link" class="link"></div>
 
       <section>
@@ -296,12 +296,11 @@
     }
 
     async function renderEthForDate(selectedDateIso) {
-      // Load daily predictions if available
+      // Only render ETH numbers; do NOT touch the crypto thread link here
       const file = predsDateToFileMap[selectedDateIso];
       if (!file) {
         ethDayMainEl.textContent = 'No predictions found for this date';
         ethDaySubEl.textContent = '';
-        threadLinkEl.innerHTML = '';
         return;
       }
       try {
@@ -314,16 +313,9 @@
         const hi = fmtUSD(sum.max_usd);
         ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
         ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
-        // Move the crypto daily thread link below ETH panel
-        if (data.thread_url && data.thread_title) {
-          threadLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
-        } else {
-          threadLinkEl.innerHTML = '';
-        }
       } catch (e) {
         ethDayMainEl.textContent = 'Error loading predictions';
         ethDaySubEl.textContent = '';
-        threadLinkEl.innerHTML = '';
         console.error(e);
       }
     }
@@ -331,10 +323,18 @@
 
     async function loadDayData(filePath, topN, selectedDateIso) {
       try {
-        // Current day
+        // Current day (crypto daily)
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
-        // Meta (keep updated timestamp in header)
+
+        // Always set the crypto Daily thread link for the selected date
+        if (dayData.thread_url && dayData.thread_title) {
+          threadLinkEl.innerHTML = `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title}</a>`;
+        } else {
+          threadLinkEl.innerHTML = '';
+        }
+
+        // Updated timestamp in header
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
         metaEl.textContent = updated ? `Updated ${updated}` : '';
 
@@ -350,10 +350,13 @@
             prevMap = Object.fromEntries(prevList.map(r => [r.symbol, r.count]));
           }
         }
+
         // Table (with % change)
         renderTable(list, 100, prevMap);
-        // ETH predictions panel for this date (also sets the thread link now)
+
+        // ETH predictions panel for this date
         await renderEthForDate(selectedDateIso);
+
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
         await renderChartUpToDate(focusSymbols);
@@ -366,7 +369,6 @@
     }
 
     async function renderChartUpToDate(focusSymbols) {
-      // Gather historical data for these symbols from manifest
       const promises = manifestData.map(async d => {
         const dayData = await fetchJson(d.file);
         const normalized = normalizeDayList(dayData);
@@ -396,7 +398,7 @@
         data: { labels, datasets },
         options: {
           responsive: true,
-          maintainAspectRatio: false,  // respect container (.chart-container) height
+          maintainAspectRatio: false,
           interaction: { mode: 'nearest', intersect: false },
           plugins: {
             legend: { position: 'top' },
