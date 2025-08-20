@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T01:14:37.922025Z",
+  "generated_at_utc": "2025-08-20T03:06:03.146387Z",
   "results": {
-    "BTC": 10,
+    "BTC": 12,
     "ETH": 8,
     "LTC": 1,
     "XRP": 1,
     "DASH": 1,
-    "FET": 1
+    "FET": 1,
+    "TRUMP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "ETH",
@@ -39,6 +40,11 @@
     {
       "symbol": "FET",
       "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     }
   ]
