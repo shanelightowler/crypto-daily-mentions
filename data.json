@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T22:14:28.710552Z",
+  "generated_at_utc": "2025-08-20T23:14:42.817001Z",
   "results": {
-    "BTC": 47,
-    "ETH": 29,
-    "LINK": 16,
+    "BTC": 50,
+    "ETH": 32,
+    "LINK": 17,
     "ADA": 5,
     "SOL": 5,
-    "XRP": 4,
-    "NEAR": 3,
-    "BNB": 3,
+    "XRP": 5,
+    "NEAR": 4,
+    "BNB": 4,
     "ETC": 3,
     "BIO": 2,
     "XMR": 1,
@@ -24,17 +24,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 47
+      "count": 50
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 29
+      "count": 32
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ADA",
@@ -49,17 +49,17 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ETC",
