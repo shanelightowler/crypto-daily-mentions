@@ -7,7 +7,7 @@ from typing import Any, Dict, List
 
 import praw
 
-# Reuse the parser from the daily script
+# Reuse the parser from the daily script (includes all filters/logic)
 from eth_bullrun_predictions import parse_comment_for_predictions  # type: ignore
 
 USER_AGENT = "eth-bullrun-predictions-backfill"
@@ -135,6 +135,7 @@ def process_one_day(date_str: str, force: bool = False, sleep_secs: float = 0.8)
 
     records: List[Dict[str, Any]] = []
     all_candidates: List[Dict[str, Any]] = []
+    seen = set()
 
     for c in comments:
         author = getattr(c, "author", None)
@@ -154,6 +155,11 @@ def process_one_day(date_str: str, force: bool = False, sleep_secs: float = 0.8)
                 amt = p["amount_usd"]
                 lower = None
                 upper = None
+            key = (getattr(c, "id", None), round((amt or 0), -1), (h["sentence"] or "")[:160])
+            if key in seen:
+                continue
+            seen.add(key)
+
             records.append({
                 "amount_usd": amt,
                 "lower_usd": lower,
@@ -162,6 +168,7 @@ def process_one_day(date_str: str, force: bool = False, sleep_secs: float = 0.8)
                 "sentence": h["sentence"],
                 "comment_id": getattr(c, "id", None),
                 "author": author_name,
+                "accept_reason": p["type"],
             })
 
     amounts = [r["amount_usd"] for r in records if isinstance(r["amount_usd"], (int, float)) and r["amount_usd"] > 0]
