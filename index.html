@@ -19,7 +19,7 @@
     th { background: #f7f7f7; }
     caption { text-align: left; font-weight: 600; margin-bottom: 8px; }
 
-    /* Stack table then chart (graph is underneath the table) */
+    /* Stack sections; we will place ETH panel above the table */
     .grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
 
     /* Chart sizing: approximately half-panel height on desktop, smaller on mobile */
@@ -29,6 +29,17 @@
     }
     /* Let Chart.js use the container height */
     .chart-container canvas { width: 100% !important; height: 100% !important; }
+
+    /* ETH predictions panel styles */
+    .eth-panel { border: 1px solid #ddd; border-radius: 6px; padding: 12px; background: #fafafa; }
+    .eth-panel h2 { margin: 0 0 8px; font-size: 18px; }
+    .eth-panel .row { display: flex; flex-wrap: wrap; gap: 16px; }
+    .eth-panel .card { flex: 1 1 280px; border: 1px solid #e6e6e6; border-radius: 6px; padding: 10px; background: #fff; }
+    .eth-panel .label { color: #666; font-size: 12px; text-transform: uppercase; letter-spacing: .02em; }
+    .eth-panel .value { font-weight: 600; margin-top: 2px; }
+    .eth-panel .small { color: #666; font-size: 12px; margin-top: 6px; }
+    .eth-panel a { color: #1f6feb; text-decoration: none; }
+    .eth-panel a:hover { text-decoration: underline; }
 
     /* Pikaday CSS (minimal to look decent) */
     .pika-single { z-index: 9999; display: block; position: relative; color: #333; background: #fff; border: 1px solid #ccc; box-shadow: 0 1px 3px #bbb; border-radius: 3px; }
@@ -67,6 +78,24 @@
   </header>
   <main>
     <div class="grid">
+      <!-- NEW: ETH predictions panel appears above the table -->
+      <section class="eth-panel" id="eth-panel">
+        <h2>ETH Bull‑Run Top Predictions</h2>
+        <div class="row">
+          <div class="card">
+            <div class="label">Consensus (last 30 days)</div>
+            <div class="value" id="eth-consensus-main">—</div>
+            <div class="small" id="eth-consensus-sub">—</div>
+          </div>
+          <div class="card">
+            <div class="label">Selected day summary</div>
+            <div class="value" id="eth-day-main">—</div>
+            <div class="small" id="eth-day-sub">—</div>
+            <div class="small" id="eth-day-link"></div>
+          </div>
+        </div>
+      </section>
+
       <section>
         <table>
           <caption>Top coins by mentions (selected day)</caption>
@@ -94,9 +123,11 @@
   <script>
   (function() {
     'use strict';
-
     // Endpoints and elements
     const manifestUrl = 'manifest.json';
+    const predsManifestUrl = 'predictions_manifest.json';
+    const consensusUrl = 'predictions/consensus.json';
+
     const datePickerEl = document.getElementById('date-picker');
     const topNEl = document.getElementById('topn-select');
     const tbody = document.getElementById('data-table');
@@ -104,12 +135,24 @@
     const threadLinkEl = document.getElementById('thread-link');
     const ctx = document.getElementById('mentions-chart').getContext('2d');
 
+    // ETH panel elements
+    const ethConsensusMainEl = document.getElementById('eth-consensus-main');
+    const ethConsensusSubEl  = document.getElementById('eth-consensus-sub');
+    const ethDayMainEl       = document.getElementById('eth-day-main');
+    const ethDaySubEl        = document.getElementById('eth-day-sub');
+    const ethDayLinkEl       = document.getElementById('eth-day-link');
+
     // App state
     let manifestData = [];
     let dateToFileMap = {};
     let validDateStrs = [];
     let picker = null;
     let chartInstance = null;
+
+    // ETH predictions state
+    let predsManifestData = [];
+    let predsDateToFileMap = {};
+    let consensusData = null;
 
     // -------- URL state helpers (unique URL per day) --------
     function parseUrlState() {
@@ -121,7 +164,6 @@
         top: Number.isFinite(top) ? top : null
       };
     }
-
     function setUrlState(date, top, { replace = false } = {}) {
       const url = new URL(location.href);
       if (date) url.searchParams.set('date', date); else url.searchParams.delete('date');
@@ -129,7 +171,6 @@
       if (replace) history.replaceState({}, '', url.toString());
       else history.pushState({}, '', url.toString());
     }
-
     window.addEventListener('popstate', () => {
       const { date, top } = parseUrlState();
       const targetDate = (date && validDateStrs.includes(date)) ? date : validDateStrs[validDateStrs.length - 1];
@@ -139,12 +180,10 @@
       const file = dateToFileMap[targetDate];
       if (file) loadDayData(file, targetTop, targetDate);
     });
-
     function validateTop(n) {
       const allowed = [5, 10, 20];
       return allowed.includes(n) ? n : 20;
     }
-
     function setPickerDate(iso) {
       if (!picker || !iso) return;
       const [y, m, d] = iso.split('-').map(Number);
@@ -152,7 +191,6 @@
       datePickerEl.value = iso;
     }
     // --------------------------------------------------------
-
     // Deterministic, consistent colors per symbol
     const COLOR_MAP = {
       BTC:'#F2A900', ETH:'#627EEA', BNB:'#F3BA2F', SOL:'#14F195', ADA:'#0033AD',
@@ -192,12 +230,17 @@
       const idx = hashSymbol(sym) % FALLBACK_PALETTE.length;
       return FALLBACK_PALETTE[idx];
     }
-
     // Fetch JSON with cache-busting
     async function fetchJson(url) {
       const res = await fetch(url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status + ' for ' + url);
       return res.json();
+    }
+    // USD formatting
+    const usd0 = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+    function fmtUSD(n) {
+      if (n === null || n === undefined) return '—';
+      return usd0.format(n);
     }
 
     // Normalize a day's data into a sorted list [{symbol, name, count}]
@@ -219,7 +262,6 @@
       list.sort((a, b) => b.count - a.count);
       return list;
     }
-
     function formatPctChange(curr, prev) {
       if (prev === null) return '—';
       if (prev === 0) return curr > 0 ? 'new' : '—';
@@ -228,7 +270,6 @@
       const sign = rounded > 0 ? '+' : '';
       return `${sign}${rounded}%`;
     }
-
     function renderTable(list, limit, prevMap) {
       const rows = list.slice(0, limit).map(row => {
         const prev = prevMap[row.symbol] ?? null;
@@ -238,19 +279,66 @@
       tbody.innerHTML = rows || '<tr><td colspan="4">No data</td></tr>';
     }
 
+    // ---------- ETH predictions rendering ----------
+    function renderConsensusPanel() {
+      if (!consensusData || !consensusData.pooled_predictions) {
+        ethConsensusMainEl.textContent = 'No consensus yet';
+        ethConsensusSubEl.textContent = '';
+        return;
+      }
+      const pp = consensusData.pooled_predictions;
+      const windowDays = consensusData.window_days || 30;
+      const n = pp.count || 0;
+      const med = fmtUSD(pp.median_usd);
+      const avg = fmtUSD(pp.mean_usd);
+      ethConsensusMainEl.textContent = (n > 0) ? `Median ${med}` : 'No consensus yet';
+      ethConsensusSubEl.textContent = (n > 0) ? `Mean ${avg} • N=${n} • Window ${windowDays}d` : '';
+    }
+
+    async function renderEthForDate(selectedDateIso) {
+      // Load daily predictions if available
+      const file = predsDateToFileMap[selectedDateIso];
+      if (!file) {
+        ethDayMainEl.textContent = 'No predictions found for this date';
+        ethDaySubEl.textContent = '';
+        ethDayLinkEl.innerHTML = '';
+        return;
+      }
+      try {
+        const data = await fetchJson(file);
+        const sum = data.summary || {};
+        const n = sum.count || 0;
+        const med = fmtUSD(sum.median_usd);
+        const avg = fmtUSD(sum.mean_usd);
+        const lo = fmtUSD(sum.min_usd);
+        const hi = fmtUSD(sum.max_usd);
+        ethDayMainEl.textContent = (n > 0) ? `Median ${med}` : 'No predictions found for this date';
+        ethDaySubEl.textContent = (n > 0) ? `Mean ${avg} • Range ${lo} – ${hi} • N=${n}` : '';
+        if (data.thread_url && data.thread_title) {
+          ethDayLinkEl.innerHTML = `<a href="${data.thread_url}" target="_blank" rel="noopener">${data.thread_title}</a>`;
+        } else {
+          ethDayLinkEl.innerHTML = '';
+        }
+      } catch (e) {
+        ethDayMainEl.textContent = 'Error loading predictions';
+        ethDaySubEl.textContent = '';
+        ethDayLinkEl.innerHTML = '';
+        console.error(e);
+      }
+    }
+    // ------------------------------------------------
+
     async function loadDayData(filePath, topN, selectedDateIso) {
       try {
         // Current day
         const dayData = await fetchJson(filePath);
         const list = normalizeDayList(dayData);
-
         // Thread link + meta
         const updated = dayData.generated_at_utc ? new Date(dayData.generated_at_utc).toISOString().replace('T',' ').replace('Z',' UTC') : '';
         threadLinkEl.innerHTML = dayData.thread_url
           ? `<a href="${dayData.thread_url}" target="_blank" rel="noopener">${dayData.thread_title || 'Thread link'}</a>`
           : (dayData.thread_title || '');
         metaEl.textContent = updated ? `Updated ${updated}` : '';
-
         // Previous day map for % changes
         let prevMap = {};
         const idx = validDateStrs.indexOf(selectedDateIso);
@@ -263,10 +351,10 @@
             prevMap = Object.fromEntries(prevList.map(r => [r.symbol, r.count]));
           }
         }
-
         // Table (with % change)
         renderTable(list, 100, prevMap);
-
+        // ETH predictions panel for this date
+        await renderEthForDate(selectedDateIso);
         // Chart for historical trend of the top N symbols from the selected day
         const focusSymbols = list.slice(0, topN).map(r => r.symbol);
         await renderChartUpToDate(focusSymbols);
@@ -303,7 +391,6 @@
           spanGaps: true
         };
       });
-
       if (chartInstance) chartInstance.destroy();
       chartInstance = new Chart(ctx, {
         type: 'line',
@@ -365,8 +452,15 @@
 
     async function init() {
       try {
-        // Load manifest and build date map
-        manifestData = await fetchJson(manifestUrl);
+        // Load manifests (crypto + predictions) and consensus
+        const [cryptoMan, predsMan, cons] = await Promise.all([
+          fetchJson(manifestUrl),
+          (async () => { try { return await fetchJson(predsManifestUrl); } catch { return []; } })(),
+          (async () => { try { return await fetchJson(consensusUrl); } catch { return null; } })()
+        ]);
+
+        // Crypto manifest
+        manifestData = Array.isArray(cryptoMan) ? cryptoMan.slice() : [];
         manifestData.sort((a, b) => a.date.localeCompare(b.date));
         dateToFileMap = {};
         validDateStrs = [];
@@ -377,6 +471,18 @@
           }
         });
 
+        // Predictions manifest
+        predsManifestData = Array.isArray(predsMan) ? predsMan.slice() : [];
+        predsDateToFileMap = {};
+        predsManifestData.forEach(d => {
+          if (d.date && d.file) predsDateToFileMap[d.date] = d.file;
+        });
+
+        // Consensus
+        consensusData = cons;
+        renderConsensusPanel();
+
+        // Setup date picker
         setupDatePicker();
 
         // Determine initial state from URL or default to latest date
