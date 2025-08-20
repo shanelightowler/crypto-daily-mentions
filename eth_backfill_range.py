@@ -3,13 +3,12 @@ import json
 import time
 from datetime import datetime, timedelta
 from statistics import median, mean
+from typing import Any, Dict, List
 
 import praw
 
-# Reuse prediction extraction helpers from your daily script
-from eth_bullrun_predictions import (
-    parse_comment_for_predictions,  # sentence-level extractor
-)
+# Reuse the parser from the daily script
+from eth_bullrun_predictions import parse_comment_for_predictions  # type: ignore
 
 USER_AGENT = "eth-bullrun-predictions-backfill"
 SUBREDDIT = "ethereum"
@@ -20,6 +19,7 @@ PRED_DIR = os.getenv("PRED_DIR", "predictions")
 MANIFEST_PATH = "predictions_manifest.json"
 CONSENSUS_PATH = os.path.join(PRED_DIR, "consensus.json")
 ROLLING_DAYS = int(os.getenv("ROLLING_DAYS", "30"))
+DEBUG_SAVE_CANDIDATES = os.getenv("DEBUG_SAVE_CANDIDATES", "true").lower() == "true"
 
 os.makedirs(PRED_DIR, exist_ok=True)
 
@@ -35,7 +35,9 @@ reddit = praw.Reddit(
     user_agent=USER_AGENT,
 )
 
-def load_json(path, default):
+# ---------------- Utilities ----------------
+
+def load_json(path: str, default: Any) -> Any:
     if not os.path.exists(path):
         return default
     try:
@@ -44,33 +46,11 @@ def load_json(path, default):
     except Exception:
         return default
 
-def save_json(path, obj):
+def save_json(path: str, obj: Any) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2)
 
-def find_daily_thread_by_date(reddit, date_str):
-    """
-    date_str: 'YYYY-MM-DD'
-    Matches titles like: 'Daily General Discussion - August 20, 2025'
-    """
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d")
-    except ValueError:
-        raise ValueError("Date must be in YYYY-MM-DD format")
-
-    month_name = dt.strftime("%B")
-    day_no = dt.day
-    year = dt.year
-    needle = f"{month_name} {day_no}, {year}"
-
-    # Search across all time to be safe
-    for sub in reddit.subreddit(SUBREDDIT).search(THREAD_SEARCH_QUERY, sort="new", time_filter="all", limit=None):
-        title = (sub.title or "").lower()
-        if "daily general discussion" in title and needle.lower() in title:
-            return sub
-    return None
-
-def summarize(amounts):
+def summarize(amounts: List[float]) -> Dict[str, Any]:
     if not amounts:
         return {"count": 0, "mean_usd": None, "median_usd": None, "min_usd": None, "max_usd": None}
     return {
@@ -81,9 +61,9 @@ def summarize(amounts):
         "max_usd": round(max(amounts), 2),
     }
 
-def compute_consensus(manifest, days=30):
+def compute_consensus(manifest: List[Dict[str, str]], days: int = ROLLING_DAYS) -> Dict[str, Any]:
     cutoff = (datetime.utcnow() - timedelta(days=days)).strftime("%Y-%m-%d")
-    pooled = []
+    pooled: List[float] = []
     for entry in manifest:
         d = entry.get("date")
         if not d or d < cutoff:
@@ -103,10 +83,41 @@ def compute_consensus(manifest, days=30):
         "pooled_predictions": s,
     }
 
-def process_one_day(date_str, force=False, sleep_secs=0.8):
+def find_daily_thread_by_date(reddit: praw.Reddit, date_str: str):
+    """
+    date_str: 'YYYY-MM-DD'
+    Title format: 'Daily General Discussion - Month D, YYYY'
+    """
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        raise ValueError("Date must be in YYYY-MM-DD format")
+
+    month_name = dt.strftime("%B")
+    day_no = dt.day
+    year = dt.year
+    needle = f"{month_name} {day_no}, {year}".lower()
+
+    for sub in reddit.subreddit(SUBREDDIT).search(THREAD_SEARCH_QUERY, sort="new", time_filter="all", limit=None):
+        title = (sub.title or "").lower()
+        if "daily general discussion" in title and needle in title:
+            return sub
+    return None
+
+def daterange(start_date: str, end_date: str):
+    start = datetime.strptime(start_date, "%Y-%m-%d").date()
+    end = datetime.strptime(end_date, "%Y-%m-%d").date()
+    d = start
+    while d <= end:
+        yield d.strftime("%Y-%m-%d")
+        d += timedelta(days=1)
+
+# ---------------- Main processing ----------------
+
+def process_one_day(date_str: str, force: bool = False, sleep_secs: float = 0.8) -> bool:
     print(f"\n=== ETH backfill {date_str} ===")
-    out_name = os.path.join(PRED_DIR, f"eth-preds-{date_str}.json")
-    if os.path.exists(out_name) and not force:
+    out_path = os.path.join(PRED_DIR, f"eth-preds-{date_str}.json")
+    if os.path.exists(out_path) and not force:
         print("↪ Skipping (already exists). Use force=true to overwrite.")
         return True
 
@@ -122,15 +133,17 @@ def process_one_day(date_str, force=False, sleep_secs=0.8):
     comments = sub.comments.list()
     print(f"Total comments: {len(comments)}")
 
-    # Extract predictions
-    records = []
+    records: List[Dict[str, Any]] = []
+    all_candidates: List[Dict[str, Any]] = []
+
     for c in comments:
         author = getattr(c, "author", None)
         author_name = getattr(author, "name", None) if author else None
-        if author_name and author_name.lower() == "automoderator":
+        if author_name and author_name.lower() in {"automoderator", "tricky_troll"}:
             continue
         body = getattr(c, "body", "") or ""
-        hits = parse_comment_for_predictions(body)
+        hits, cand = parse_comment_for_predictions(body)
+        all_candidates.extend(cand)
         for h in hits:
             p = h["prediction"]
             if p["type"] == "range":
@@ -163,28 +176,27 @@ def process_one_day(date_str, force=False, sleep_secs=0.8):
         "predictions": records,
     }
 
-    save_json(out_name, output)
-    print(f"✅ Saved {out_name}")
+    save_json(out_path, output)
+    print(f"✅ Saved {out_path}")
+
+    # Save candidates (debug)
+    if DEBUG_SAVE_CANDIDATES:
+        cand_path = os.path.join(PRED_DIR, f"eth-preds-candidates-{date_str}.jsonl")
+        with open(cand_path, "w", encoding="utf-8") as f:
+            for item in all_candidates:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+        print(f"🕵️ Saved candidate log to {cand_path}")
 
     # Update manifest
     manifest = load_json(MANIFEST_PATH, [])
     manifest = [m for m in manifest if m.get("date") != date_str]
-    manifest.append({"date": date_str, "file": out_name})
+    manifest.append({"date": date_str, "file": out_path})
     manifest = sorted(manifest, key=lambda x: x["date"])
     save_json(MANIFEST_PATH, manifest)
     print("📄 Manifest updated")
 
-    # Pause slightly to be polite
     time.sleep(sleep_secs)
     return True
-
-def daterange(start_date, end_date):
-    start = datetime.strptime(start_date, "%Y-%m-%d").date()
-    end = datetime.strptime(end_date, "%Y-%m-%d").date()
-    d = start
-    while d <= end:
-        yield d.strftime("%Y-%m-%d")
-        d += timedelta(days=1)
 
 def main():
     START_DATE = os.getenv("START_DATE", "").strip()
@@ -192,7 +204,7 @@ def main():
     BACKFILL_DAYS = os.getenv("BACKFILL_DAYS", "").strip()
     FORCE = (os.getenv("FORCE", "false").lower() == "true")
 
-    dates = []
+    dates: List[str] = []
     if START_DATE and END_DATE:
         dates = list(daterange(START_DATE, END_DATE))
     elif BACKFILL_DAYS:
