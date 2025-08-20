@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - August 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1muzffw/daily_crypto_discussion_august_20_2025_gmt0/",
-  "generated_at_utc": "2025-08-20T13:27:47.346254Z",
+  "generated_at_utc": "2025-08-20T14:17:11.614194Z",
   "results": {
-    "BTC": 20,
+    "BTC": 22,
     "ETH": 12,
     "LINK": 4,
+    "SOL": 3,
+    "XRP": 2,
+    "BIO": 2,
     "ADA": 1,
-    "SOL": 1,
     "ETC": 1,
     "LTC": 1,
-    "XRP": 1,
     "DASH": 1,
-    "BIO": 1,
     "FET": 1,
     "TRUMP": 1
   },
@@ -20,7 +20,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 22
     },
     {
       "symbol": "ETH",
@@ -33,13 +33,23 @@
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "BIO",
+      "name": "",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
@@ -53,18 +63,8 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 1
-    },
-    {
-      "symbol": "BIO",
-      "name": "",
       "count": 1
     },
     {
