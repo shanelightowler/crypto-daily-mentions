@@ -1,27 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - August 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mvvnn6/daily_crypto_discussion_august_21_2025_gmt0/",
-  "generated_at_utc": "2025-08-21T15:17:26.871002Z",
+  "generated_at_utc": "2025-08-21T16:19:26.687199Z",
   "results": {
-    "BTC": 16,
-    "ETH": 11,
+    "BTC": 17,
+    "ETH": 12,
     "SOL": 8,
-    "BNB": 6,
+    "BNB": 7,
     "XRP": 5,
+    "BONK": 3,
     "LINK": 2,
-    "BONK": 2,
-    "OKB": 1
+    "XMR": 2,
+    "OKB": 1,
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "SOL",
@@ -31,7 +33,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "XRP",
@@ -39,18 +41,28 @@
       "count": 5
     },
     {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 3
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
       "symbol": "OKB",
       "name": "OKB",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
