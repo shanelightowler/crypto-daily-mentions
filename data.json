@@ -1,22 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - August 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mwrfjb/daily_crypto_discussion_august_22_2025_gmt0/",
-  "generated_at_utc": "2025-08-22T08:21:15.342233Z",
+  "generated_at_utc": "2025-08-22T09:17:06.584980Z",
   "results": {
-    "BTC": 9,
+    "BTC": 11,
     "ETH": 4,
     "SOL": 3,
     "OKB": 2,
     "SUI": 1,
+    "CRO": 1,
     "XRP": 1,
     "BNB": 1,
-    "ADA": 1
+    "ADA": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "ETH",
@@ -39,6 +41,11 @@
       "count": 1
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 1
@@ -51,6 +58,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
