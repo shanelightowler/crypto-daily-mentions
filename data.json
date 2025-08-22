@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - August 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mwrfjb/daily_crypto_discussion_august_22_2025_gmt0/",
-  "generated_at_utc": "2025-08-22T16:19:19.169014Z",
+  "generated_at_utc": "2025-08-22T17:14:23.987295Z",
   "results": {
-    "BTC": 46,
-    "ETH": 38,
+    "ETH": 55,
+    "BTC": 49,
     "SOL": 6,
     "ADA": 5,
     "XRP": 4,
+    "NEAR": 3,
     "LINK": 3,
     "DOGE": 3,
     "OKB": 2,
-    "NEAR": 2,
     "ETC": 2,
     "AVAX": 2,
     "HBAR": 1,
@@ -21,14 +21,14 @@
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 46
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 38
+      "count": 55
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 49
     },
     {
       "symbol": "SOL",
@@ -46,6 +46,11 @@
       "count": 4
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
@@ -58,11 +63,6 @@
     {
       "symbol": "OKB",
       "name": "OKB",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 2
     },
     {
