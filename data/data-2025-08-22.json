@@ -1,17 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mwrfjb/daily_crypto_discussion_august_22_2025_gmt0/",
-  "generated_at_utc": "2025-08-22T14:15:33.087839Z",
+  "generated_at_utc": "2025-08-22T15:16:30.858640Z",
   "results": {
-    "BTC": 29,
-    "ETH": 18,
+    "BTC": 40,
+    "ETH": 36,
+    "SOL": 6,
     "XRP": 4,
-    "SOL": 4,
+    "ADA": 3,
+    "DOGE": 3,
     "OKB": 2,
-    "ADA": 2,
+    "NEAR": 2,
     "AVAX": 2,
+    "HBAR": 1,
     "SUI": 1,
-    "DOGE": 1,
+    "ARB": 1,
     "BNB": 1,
     "ETC": 1,
     "LINK": 1
@@ -20,12 +23,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 40
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 36
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 6
     },
     {
       "symbol": "XRP",
@@ -33,9 +41,14 @@
       "count": 4
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
     },
     {
       "symbol": "OKB",
@@ -43,8 +56,8 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -53,13 +66,18 @@
       "count": 2
     },
     {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
