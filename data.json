@@ -1,40 +1,41 @@
 {
   "thread_title": "Daily Crypto Discussion - August 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mwrfjb/daily_crypto_discussion_august_22_2025_gmt0/",
-  "generated_at_utc": "2025-08-22T20:18:02.000322Z",
+  "generated_at_utc": "2025-08-22T21:14:26.983816Z",
   "results": {
-    "ETH": 122,
-    "BTC": 67,
-    "SOL": 9,
+    "ETH": 135,
+    "BTC": 68,
+    "SOL": 10,
     "XRP": 7,
     "NEAR": 5,
     "ADA": 5,
+    "ETC": 4,
     "LINK": 3,
     "DOGE": 3,
-    "ETC": 3,
     "LTC": 2,
     "OKB": 2,
     "AVAX": 2,
     "HBAR": 1,
     "SUI": 1,
     "ARB": 1,
+    "ZORA": 1,
     "BNB": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 122
+      "count": 135
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 67
+      "count": 68
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "XRP",
@@ -52,6 +53,11 @@
       "count": 5
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
@@ -59,11 +65,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -94,6 +95,11 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 1
     },
     {
