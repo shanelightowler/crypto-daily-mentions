@@ -1,34 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - August 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mwrfjb/daily_crypto_discussion_august_22_2025_gmt0/",
-  "generated_at_utc": "2025-08-22T15:16:30.858640Z",
+  "generated_at_utc": "2025-08-22T16:19:19.169014Z",
   "results": {
-    "BTC": 40,
-    "ETH": 36,
+    "BTC": 46,
+    "ETH": 38,
     "SOL": 6,
+    "ADA": 5,
     "XRP": 4,
-    "ADA": 3,
+    "LINK": 3,
     "DOGE": 3,
     "OKB": 2,
     "NEAR": 2,
+    "ETC": 2,
     "AVAX": 2,
     "HBAR": 1,
     "SUI": 1,
     "ARB": 1,
-    "BNB": 1,
-    "ETC": 1,
-    "LINK": 1
+    "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 46
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 38
     },
     {
       "symbol": "SOL",
@@ -36,13 +36,18 @@
       "count": 6
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 3
     },
     {
@@ -58,6 +63,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -83,16 +93,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     }
   ]
