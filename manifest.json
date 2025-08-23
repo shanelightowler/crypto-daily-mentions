@@ -86,5 +86,9 @@
   {
     "date": "2025-08-22",
     "file": "data/data-2025-08-22.json"
+  },
+  {
+    "date": "2025-08-23",
+    "file": "data/data-2025-08-23.json"
   }
 ]
