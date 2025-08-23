@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T15:13:59.058166Z",
+  "generated_at_utc": "2025-08-23T16:16:58.305281Z",
   "results": {
-    "BTC": 50,
-    "ETH": 44,
-    "AVAX": 14,
-    "LINK": 14,
+    "BTC": 57,
+    "ETH": 54,
+    "AVAX": 15,
+    "LINK": 15,
     "SOL": 6,
     "PEPE": 3,
-    "ADA": 3,
     "CRO": 3,
+    "ADA": 3,
     "ETC": 3,
     "BNB": 2,
-    "XRP": 2,
     "AAVE": 2,
+    "XRP": 2,
     "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
@@ -28,22 +28,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 50
+      "count": 57
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 44
+      "count": 54
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "SOL",
@@ -56,13 +56,13 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 3
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
@@ -76,13 +76,13 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 2
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
