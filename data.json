@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T04:18:26.964981Z",
+  "generated_at_utc": "2025-08-23T05:14:21.625419Z",
   "results": {
-    "ETH": 10,
-    "LINK": 9,
-    "AVAX": 9,
-    "BTC": 5,
+    "ETH": 15,
+    "LINK": 11,
+    "AVAX": 10,
+    "BTC": 9,
+    "PEPE": 3,
     "BCH": 2,
-    "PEPE": 2,
     "TRUMP": 2,
     "KAS": 2,
     "ETC": 2,
@@ -23,31 +23,31 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 15
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 2
+      "count": 9
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 3
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
