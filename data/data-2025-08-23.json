@@ -1,30 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T08:18:43.422458Z",
+  "generated_at_utc": "2025-08-23T09:14:54.392579Z",
   "results": {
-    "BTC": 27,
+    "BTC": 28,
     "ETH": 21,
-    "LINK": 11,
+    "LINK": 12,
     "AVAX": 10,
-    "SOL": 3,
+    "SOL": 4,
     "PEPE": 3,
+    "ETC": 3,
     "BNB": 2,
     "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
-    "ETC": 2,
     "NEAR": 1,
     "BONK": 1,
     "CRO": 1,
     "SUI": 1,
+    "LTC": 1,
+    "ADA": 1,
     "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 27
+      "count": 28
     },
     {
       "symbol": "ETH",
@@ -34,7 +36,7 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "AVAX",
@@ -44,11 +46,16 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -72,11 +79,6 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 1
@@ -94,6 +96,16 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
