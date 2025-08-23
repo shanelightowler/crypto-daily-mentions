@@ -1,19 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T03:38:13.297047Z",
+  "generated_at_utc": "2025-08-23T04:18:26.964981Z",
   "results": {
     "ETH": 10,
-    "LINK": 3,
-    "BTC": 3,
+    "LINK": 9,
+    "AVAX": 9,
+    "BTC": 5,
     "BCH": 2,
+    "PEPE": 2,
+    "TRUMP": 2,
     "KAS": 2,
-    "AVAX": 1,
-    "PEPE": 1,
-    "TRUMP": 1,
+    "ETC": 2,
     "NEAR": 1,
+    "BONK": 1,
     "CRO": 1,
     "SUI": 1,
+    "SOL": 1,
     "XRP": 1
   },
   "results_list": [
@@ -25,16 +28,31 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 3
+      "count": 9
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 9
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 2
     },
     {
@@ -43,23 +61,18 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 1
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
@@ -70,6 +83,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
