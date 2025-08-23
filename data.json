@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T19:11:28.145927Z",
+  "generated_at_utc": "2025-08-23T20:15:50.389065Z",
   "results": {
-    "BTC": 81,
-    "ETH": 67,
-    "LINK": 16,
+    "BTC": 80,
+    "ETH": 66,
+    "LINK": 17,
     "AVAX": 16,
     "SOL": 10,
     "ADA": 7,
@@ -19,29 +19,29 @@
     "AAVE": 2,
     "BCH": 2,
     "TRUMP": 2,
+    "NEAR": 2,
     "KAS": 2,
     "SUI": 2,
     "LTC": 2,
     "WIF": 1,
     "OP": 1,
-    "NEAR": 1,
     "BONK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 81
+      "count": 80
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 67
+      "count": 66
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "AVAX",
@@ -109,6 +109,11 @@
       "count": 2
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "KAS",
       "name": "Kaspa",
       "count": 2
@@ -131,11 +136,6 @@
     {
       "symbol": "OP",
       "name": "Optimism",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     },
     {
