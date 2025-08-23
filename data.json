@@ -1,44 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T16:16:58.305281Z",
+  "generated_at_utc": "2025-08-23T17:12:06.183077Z",
   "results": {
-    "BTC": 57,
-    "ETH": 54,
-    "AVAX": 15,
+    "BTC": 72,
+    "ETH": 62,
     "LINK": 15,
-    "SOL": 6,
-    "PEPE": 3,
+    "AVAX": 14,
+    "SOL": 9,
+    "ADA": 6,
+    "PEPE": 4,
     "CRO": 3,
-    "ADA": 3,
     "ETC": 3,
     "BNB": 2,
+    "HBAR": 2,
     "AAVE": 2,
     "XRP": 2,
     "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
-    "NEAR": 1,
+    "SUI": 2,
+    "LTC": 2,
     "DOGE": 1,
-    "SUI": 1,
-    "BONK": 1,
-    "LTC": 1
+    "NEAR": 1,
+    "BONK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 72
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 54
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 15
+      "count": 62
     },
     {
       "symbol": "LINK",
@@ -46,23 +42,28 @@
       "count": 15
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 14
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 9
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 6
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 3
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 3
     },
     {
@@ -73,6 +74,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -101,9 +107,14 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
     },
     {
       "symbol": "DOGE",
@@ -111,18 +122,13 @@
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
       "count": 1
     }
   ]
