@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T20:15:50.389065Z",
+  "generated_at_utc": "2025-08-23T21:13:17.258901Z",
   "results": {
-    "BTC": 80,
+    "BTC": 81,
     "ETH": 66,
-    "LINK": 17,
+    "LINK": 18,
     "AVAX": 16,
     "SOL": 10,
     "ADA": 7,
@@ -24,6 +24,7 @@
     "SUI": 2,
     "LTC": 2,
     "WIF": 1,
+    "DOT": 1,
     "OP": 1,
     "BONK": 1
   },
@@ -31,7 +32,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 80
+      "count": 81
     },
     {
       "symbol": "ETH",
@@ -41,7 +42,7 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 17
+      "count": 18
     },
     {
       "symbol": "AVAX",
@@ -131,6 +132,11 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
