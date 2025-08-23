@@ -1,28 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T18:19:52.671198Z",
+  "generated_at_utc": "2025-08-23T19:11:28.145927Z",
   "results": {
     "BTC": 81,
     "ETH": 67,
-    "AVAX": 15,
-    "LINK": 15,
-    "SOL": 9,
-    "ADA": 6,
+    "LINK": 16,
+    "AVAX": 16,
+    "SOL": 10,
+    "ADA": 7,
+    "ETC": 6,
     "PEPE": 4,
-    "ETC": 4,
+    "XRP": 3,
     "CRO": 3,
+    "DOGE": 2,
     "BNB": 2,
-    "AAVE": 2,
     "HBAR": 2,
-    "XRP": 2,
+    "AAVE": 2,
     "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
     "SUI": 2,
     "LTC": 2,
+    "WIF": 1,
     "OP": 1,
-    "DOGE": 1,
     "NEAR": 1,
     "BONK": 1
   },
@@ -38,23 +39,28 @@
       "count": 67
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 15
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 15
+      "count": 16
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 16
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 6
     },
     {
@@ -63,9 +69,9 @@
       "count": 4
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 4
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
     },
     {
       "symbol": "CRO",
@@ -73,13 +79,13 @@
       "count": 3
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -88,8 +94,8 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 2
     },
     {
@@ -118,13 +124,13 @@
       "count": 2
     },
     {
-      "symbol": "OP",
-      "name": "Optimism",
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
