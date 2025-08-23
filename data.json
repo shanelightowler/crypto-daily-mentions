@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T12:29:48.604963Z",
+  "generated_at_utc": "2025-08-23T13:22:16.540363Z",
   "results": {
-    "BTC": 37,
+    "BTC": 39,
     "ETH": 33,
     "LINK": 12,
     "AVAX": 10,
     "SOL": 6,
     "PEPE": 3,
+    "CRO": 3,
     "ETC": 3,
     "BNB": 2,
     "XRP": 2,
     "BCH": 2,
     "TRUMP": 2,
-    "CRO": 2,
     "KAS": 2,
     "NEAR": 1,
     "SUI": 1,
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 39
     },
     {
       "symbol": "ETH",
@@ -54,6 +54,11 @@
       "count": 3
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 3
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 3
@@ -76,11 +81,6 @@
     {
       "symbol": "TRUMP",
       "name": "",
-      "count": 2
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
       "count": 2
     },
     {
