@@ -1,26 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T17:12:06.183077Z",
+  "generated_at_utc": "2025-08-23T18:19:52.671198Z",
   "results": {
-    "BTC": 72,
-    "ETH": 62,
+    "BTC": 81,
+    "ETH": 67,
+    "AVAX": 15,
     "LINK": 15,
-    "AVAX": 14,
     "SOL": 9,
     "ADA": 6,
     "PEPE": 4,
+    "ETC": 4,
     "CRO": 3,
-    "ETC": 3,
     "BNB": 2,
-    "HBAR": 2,
     "AAVE": 2,
+    "HBAR": 2,
     "XRP": 2,
     "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
     "SUI": 2,
     "LTC": 2,
+    "OP": 1,
     "DOGE": 1,
     "NEAR": 1,
     "BONK": 1
@@ -29,22 +30,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 81
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 62
+      "count": 67
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 15
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 15
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 14
     },
     {
       "symbol": "SOL",
@@ -62,13 +63,13 @@
       "count": 4
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 3
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 3
     },
     {
@@ -77,13 +78,13 @@
       "count": 2
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 2
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -115,6 +116,11 @@
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 1
     },
     {
       "symbol": "DOGE",
