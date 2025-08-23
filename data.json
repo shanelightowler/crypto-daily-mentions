@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T10:15:08.042244Z",
+  "generated_at_utc": "2025-08-23T11:12:14.559166Z",
   "results": {
-    "BTC": 28,
-    "ETH": 21,
+    "BTC": 30,
+    "ETH": 23,
     "LINK": 12,
     "AVAX": 10,
-    "SOL": 4,
+    "SOL": 6,
     "PEPE": 3,
     "ETC": 3,
     "BNB": 2,
     "BCH": 2,
     "TRUMP": 2,
+    "CRO": 2,
     "KAS": 2,
     "NEAR": 1,
-    "BONK": 1,
-    "CRO": 1,
     "SUI": 1,
+    "BONK": 1,
     "LTC": 1,
     "ADA": 1,
     "XRP": 1
@@ -26,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 30
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 23
     },
     {
       "symbol": "LINK",
@@ -46,7 +46,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "PEPE",
@@ -74,6 +74,11 @@
       "count": 2
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
       "symbol": "KAS",
       "name": "Kaspa",
       "count": 2
@@ -84,18 +89,13 @@
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 1
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
