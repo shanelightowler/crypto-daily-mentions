@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - August 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mxmmh7/daily_crypto_discussion_august_23_2025_gmt0/",
-  "generated_at_utc": "2025-08-23T14:13:23.686051Z",
+  "generated_at_utc": "2025-08-23T15:13:59.058166Z",
   "results": {
-    "BTC": 45,
-    "ETH": 36,
+    "BTC": 50,
+    "ETH": 44,
+    "AVAX": 14,
     "LINK": 14,
-    "AVAX": 12,
     "SOL": 6,
     "PEPE": 3,
-    "CRO": 3,
     "ADA": 3,
+    "CRO": 3,
     "ETC": 3,
     "BNB": 2,
-    "BCH": 2,
     "XRP": 2,
+    "AAVE": 2,
+    "BCH": 2,
     "TRUMP": 2,
     "KAS": 2,
-    "AAVE": 1,
     "NEAR": 1,
+    "DOGE": 1,
     "SUI": 1,
     "BONK": 1,
     "LTC": 1
@@ -27,22 +28,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 50
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 44
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 14
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 14
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 12
     },
     {
       "symbol": "SOL",
@@ -55,13 +56,13 @@
       "count": 3
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 3
     },
     {
@@ -75,13 +76,18 @@
       "count": 2
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 2
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
@@ -95,13 +101,13 @@
       "count": 2
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
