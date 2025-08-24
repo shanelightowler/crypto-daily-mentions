@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T16:17:44.562017Z",
+  "generated_at_utc": "2025-08-24T17:12:58.936403Z",
   "results": {
-    "BTC": 37,
-    "ETH": 36,
+    "BTC": 51,
+    "ETH": 41,
+    "LINK": 4,
+    "ALGO": 4,
     "ETC": 3,
-    "ALGO": 3,
-    "LINK": 2,
     "XRP": 1,
     "PEPE": 1,
     "HBAR": 1,
@@ -18,33 +18,34 @@
     "TON": 1,
     "AAVE": 1,
     "APE": 1,
-    "DOT": 1
+    "DOT": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 41
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 4
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 3
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 3
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
     },
     {
       "symbol": "XRP",
@@ -99,6 +100,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
