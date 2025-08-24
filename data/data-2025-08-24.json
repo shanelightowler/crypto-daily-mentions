@@ -1,38 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T21:13:36.641753Z",
+  "generated_at_utc": "2025-08-24T22:14:50.254117Z",
   "results": {
-    "BTC": 141,
-    "ETH": 136,
+    "ETH": 150,
+    "BTC": 147,
     "LINK": 8,
     "ADA": 6,
+    "NEAR": 5,
     "ETC": 4,
     "ALGO": 4,
-    "NEAR": 3,
-    "SOL": 2,
+    "SOL": 3,
+    "XRP": 2,
+    "BNB": 2,
     "LTC": 2,
     "TON": 2,
-    "XRP": 1,
+    "AAVE": 2,
     "PEPE": 1,
     "HBAR": 1,
     "XLM": 1,
-    "BNB": 1,
-    "AAVE": 1,
     "APE": 1,
     "DOT": 1,
     "OP": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 141
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 136
+      "count": 150
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 147
     },
     {
       "symbol": "LINK",
@@ -45,6 +45,11 @@
       "count": 6
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 5
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
@@ -55,13 +60,18 @@
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -75,9 +85,9 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 2
     },
     {
       "symbol": "PEPE",
@@ -92,16 +102,6 @@
     {
       "symbol": "XLM",
       "name": "Stellar",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
       "count": 1
     },
     {
