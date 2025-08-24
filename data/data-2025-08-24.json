@@ -1,35 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T15:14:20.116996Z",
+  "generated_at_utc": "2025-08-24T16:17:44.562017Z",
   "results": {
-    "BTC": 32,
-    "ETH": 27,
+    "BTC": 37,
+    "ETH": 36,
     "ETC": 3,
-    "XRP": 2,
+    "ALGO": 3,
     "LINK": 2,
-    "BNB": 2,
-    "SOL": 2,
+    "XRP": 1,
     "PEPE": 1,
     "HBAR": 1,
     "XLM": 1,
+    "BNB": 1,
     "LTC": 1,
+    "SOL": 1,
     "TON": 1,
     "AAVE": 1,
     "APE": 1,
-    "DOT": 1,
-    "ALGO": 1
+    "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 37
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 36
     },
     {
       "symbol": "ETC",
@@ -37,9 +37,9 @@
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -47,14 +47,9 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
     },
     {
       "symbol": "PEPE",
@@ -72,8 +67,18 @@
       "count": 1
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
@@ -94,11 +99,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 1
     }
   ]
