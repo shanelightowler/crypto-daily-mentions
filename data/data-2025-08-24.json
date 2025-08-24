@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T11:12:19.905192Z",
+  "generated_at_utc": "2025-08-24T12:29:54.532901Z",
   "results": {
-    "BTC": 17,
-    "ETH": 13,
+    "BTC": 22,
+    "ETH": 19,
     "XRP": 2,
     "LINK": 2,
     "BNB": 2,
@@ -14,18 +14,20 @@
     "ETC": 1,
     "TON": 1,
     "AAVE": 1,
-    "DOT": 1
+    "APE": 1,
+    "DOT": 1,
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 17
+      "count": 22
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 19
     },
     {
       "symbol": "XRP",
@@ -73,8 +75,18 @@
       "count": 1
     },
     {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     }
   ]
