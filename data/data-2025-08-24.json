@@ -1,14 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T18:20:25.034930Z",
+  "generated_at_utc": "2025-08-24T19:12:23.337628Z",
   "results": {
-    "BTC": 84,
-    "ETH": 82,
+    "ETH": 107,
+    "BTC": 92,
     "LINK": 5,
+    "ADA": 4,
     "ALGO": 4,
     "ETC": 3,
     "SOL": 2,
+    "NEAR": 2,
     "XRP": 1,
     "PEPE": 1,
     "HBAR": 1,
@@ -19,23 +21,28 @@
     "AAVE": 1,
     "APE": 1,
     "DOT": 1,
-    "NEAR": 1
+    "OP": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 84
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 82
+      "count": 107
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 92
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
     },
     {
       "symbol": "ALGO",
@@ -50,6 +57,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -103,8 +115,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
