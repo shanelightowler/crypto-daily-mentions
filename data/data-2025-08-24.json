@@ -1,17 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T13:22:54.161784Z",
+  "generated_at_utc": "2025-08-24T14:13:10.490224Z",
   "results": {
-    "BTC": 24,
-    "ETH": 20,
+    "BTC": 25,
+    "ETH": 21,
+    "ETC": 3,
     "XRP": 2,
     "LINK": 2,
     "BNB": 2,
     "SOL": 2,
     "PEPE": 1,
+    "HBAR": 1,
+    "XLM": 1,
     "LTC": 1,
-    "ETC": 1,
     "TON": 1,
     "AAVE": 1,
     "APE": 1,
@@ -22,12 +24,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 21
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -55,13 +62,18 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
