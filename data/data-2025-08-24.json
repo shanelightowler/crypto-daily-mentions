@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - August 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1myh3c0/daily_crypto_discussion_august_24_2025_gmt0/",
-  "generated_at_utc": "2025-08-24T10:15:25.586168Z",
+  "generated_at_utc": "2025-08-24T11:12:19.905192Z",
   "results": {
-    "BTC": 13,
-    "ETH": 10,
-    "XRP": 1,
-    "LINK": 1,
+    "BTC": 17,
+    "ETH": 13,
+    "XRP": 2,
+    "LINK": 2,
+    "BNB": 2,
+    "SOL": 2,
     "PEPE": 1,
-    "BNB": 1,
     "LTC": 1,
-    "SOL": 1,
+    "ETC": 1,
     "TON": 1,
     "AAVE": 1,
     "DOT": 1
@@ -19,31 +20,36 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 17
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 13
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
@@ -52,8 +58,8 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
