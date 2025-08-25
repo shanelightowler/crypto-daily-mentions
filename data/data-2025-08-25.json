@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - August 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mzboky/daily_crypto_discussion_august_25_2025_gmt0/",
-  "generated_at_utc": "2025-08-25T19:12:43.735889Z",
+  "generated_at_utc": "2025-08-25T20:17:35.970024Z",
   "results": {
-    "BTC": 66,
-    "ETH": 48,
+    "BTC": 73,
+    "ETH": 52,
     "ADA": 4,
     "ETC": 3,
     "SOL": 2,
@@ -12,24 +12,25 @@
     "ALGO": 2,
     "BONK": 2,
     "XRP": 2,
+    "BNB": 2,
     "LINK": 1,
-    "BNB": 1,
     "HBAR": 1,
     "DOGE": 1,
     "TON": 1,
     "CRO": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 66
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 48
+      "count": 52
     },
     {
       "symbol": "ADA",
@@ -67,13 +68,13 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
@@ -99,6 +100,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
