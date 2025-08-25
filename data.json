@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - August 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mzboky/daily_crypto_discussion_august_25_2025_gmt0/",
-  "generated_at_utc": "2025-08-25T08:23:15.706979Z",
+  "generated_at_utc": "2025-08-25T09:18:23.645388Z",
   "results": {
-    "BTC": 36,
-    "ETH": 23,
+    "BTC": 40,
+    "ETH": 24,
     "ADA": 4,
-    "SOL": 1,
+    "SOL": 2,
     "BNB": 1,
+    "ETC": 1,
     "ALGO": 1,
     "NEAR": 1
   },
@@ -15,12 +16,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 40
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 23
+      "count": 24
     },
     {
       "symbol": "ADA",
@@ -30,11 +31,16 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
