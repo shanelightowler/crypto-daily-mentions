@@ -1,27 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - August 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mzboky/daily_crypto_discussion_august_25_2025_gmt0/",
-  "generated_at_utc": "2025-08-25T10:18:22.857855Z",
+  "generated_at_utc": "2025-08-25T11:14:07.808748Z",
   "results": {
-    "BTC": 48,
-    "ETH": 24,
+    "BTC": 57,
+    "ETH": 32,
     "ADA": 4,
     "SOL": 2,
+    "ETC": 2,
     "BNB": 1,
+    "HBAR": 1,
+    "DOGE": 1,
     "ALGO": 1,
-    "ETC": 1,
     "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 48
+      "count": 57
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 32
     },
     {
       "symbol": "ADA",
@@ -34,18 +36,28 @@
       "count": 2
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
