@@ -1,17 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - August 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1mzboky/daily_crypto_discussion_august_25_2025_gmt0/",
-  "generated_at_utc": "2025-08-25T15:17:15.306798Z",
+  "generated_at_utc": "2025-08-25T16:19:58.591107Z",
   "results": {
     "BTC": 62,
-    "ETH": 40,
+    "ETH": 43,
     "ADA": 4,
+    "ETC": 3,
     "SOL": 2,
-    "ETC": 2,
+    "AVAX": 2,
+    "ALGO": 2,
+    "BONK": 1,
     "BNB": 1,
     "HBAR": 1,
     "DOGE": 1,
-    "ALGO": 1,
     "TON": 1,
     "NEAR": 1
   },
@@ -24,7 +26,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 43
     },
     {
       "symbol": "ADA",
@@ -32,14 +34,29 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
     },
     {
       "symbol": "BNB",
@@ -54,11 +71,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 1
     },
     {
