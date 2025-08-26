@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n06xey/daily_crypto_discussion_august_26_2025_gmt0/",
-  "generated_at_utc": "2025-08-26T19:12:17.355222Z",
+  "generated_at_utc": "2025-08-26T20:17:46.179873Z",
   "results": {
-    "BTC": 57,
+    "BTC": 62,
     "CRO": 29,
-    "ETH": 27,
+    "ETH": 28,
     "ATOM": 4,
     "DOT": 3,
     "ALGO": 3,
@@ -16,13 +16,15 @@
     "TIA": 1,
     "SUI": 1,
     "SEI": 1,
-    "ETC": 1
+    "ETC": 1,
+    "UNI": 1,
+    "CAKE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 62
     },
     {
       "symbol": "CRO",
@@ -32,7 +34,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 28
     },
     {
       "symbol": "ATOM",
@@ -87,6 +89,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 1
     }
   ]
