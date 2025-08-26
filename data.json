@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - August 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n06xey/daily_crypto_discussion_august_26_2025_gmt0/",
-  "generated_at_utc": "2025-08-26T13:29:44.654160Z",
+  "generated_at_utc": "2025-08-26T14:15:10.332239Z",
   "results": {
-    "BTC": 29,
-    "CRO": 17,
+    "BTC": 32,
+    "CRO": 21,
     "ETH": 17,
     "ATOM": 4,
+    "DOT": 3,
     "ALGO": 3,
     "NEAR": 2,
-    "DOT": 2,
     "TRX": 1,
     "ONE": 1,
     "ETC": 1
@@ -18,12 +18,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 32
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 17
+      "count": 21
     },
     {
       "symbol": "ETH",
@@ -36,6 +36,11 @@
       "count": 4
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 3
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 3
@@ -43,11 +48,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 2
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 2
     },
     {
