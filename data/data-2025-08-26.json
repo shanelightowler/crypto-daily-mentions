@@ -1,34 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - August 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n06xey/daily_crypto_discussion_august_26_2025_gmt0/",
-  "generated_at_utc": "2025-08-26T14:15:10.332239Z",
+  "generated_at_utc": "2025-08-26T15:17:06.629876Z",
   "results": {
-    "BTC": 32,
-    "CRO": 21,
-    "ETH": 17,
+    "BTC": 36,
+    "CRO": 22,
+    "ETH": 21,
     "ATOM": 4,
     "DOT": 3,
     "ALGO": 3,
     "NEAR": 2,
     "TRX": 1,
     "ONE": 1,
+    "STX": 1,
+    "TIA": 1,
+    "SUI": 1,
+    "SEI": 1,
     "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 36
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 21
     },
     {
       "symbol": "ATOM",
@@ -58,6 +62,26 @@
     {
       "symbol": "ONE",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "STX",
+      "name": "Stacks",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 1
     },
     {
