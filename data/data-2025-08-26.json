@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - August 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n06xey/daily_crypto_discussion_august_26_2025_gmt0/",
-  "generated_at_utc": "2025-08-26T06:25:07.373738Z",
+  "generated_at_utc": "2025-08-26T07:16:07.666416Z",
   "results": {
     "BTC": 19,
     "ETH": 5,
     "ALGO": 3,
     "DOT": 1,
-    "NEAR": 1,
-    "ETC": 1
+    "ETC": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
@@ -32,13 +32,13 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
