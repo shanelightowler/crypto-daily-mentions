@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T07:15:18.952008Z",
+  "generated_at_utc": "2025-08-27T08:21:04.267285Z",
   "results": {
-    "BTC": 18,
-    "ETH": 12,
+    "BTC": 20,
+    "ETH": 13,
     "CRO": 5,
+    "XRP": 4,
     "SEI": 4,
-    "XRP": 3,
     "SOL": 2,
     "AAVE": 2,
     "MATIC": 1,
@@ -19,12 +19,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "CRO",
@@ -32,14 +32,14 @@
       "count": 5
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 4
     },
     {
       "symbol": "SOL",
