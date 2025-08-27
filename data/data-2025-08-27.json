@@ -1,16 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T05:15:17.850454Z",
+  "generated_at_utc": "2025-08-27T06:22:59.676640Z",
   "results": {
     "BTC": 13,
-    "ETH": 7,
-    "CRO": 3,
+    "ETH": 8,
+    "CRO": 5,
+    "SEI": 4,
     "SOL": 2,
-    "SEI": 1,
+    "AAVE": 2,
+    "XRP": 2,
     "DOGE": 1,
-    "ETC": 1,
-    "XRP": 1
+    "AVAX": 1,
+    "ETC": 1
   },
   "results_list": [
     {
@@ -21,12 +23,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -34,9 +41,14 @@
       "count": 2
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
-      "count": 1
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "DOGE",
@@ -44,13 +56,13 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
