@@ -1,31 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T16:19:22.824704Z",
+  "generated_at_utc": "2025-08-27T17:13:43.806894Z",
   "results": {
-    "BTC": 36,
+    "BTC": 37,
     "CRO": 22,
-    "ETH": 19,
+    "ETH": 20,
     "SOL": 13,
+    "ADA": 8,
     "XRP": 7,
-    "ADA": 5,
     "SEI": 4,
     "BNB": 3,
     "TRX": 3,
     "ETC": 2,
     "BONK": 2,
     "AAVE": 2,
-    "TON": 1,
+    "AVAX": 2,
     "MATIC": 1,
+    "TON": 1,
     "DOGE": 1,
-    "AVAX": 1,
+    "NEAR": 1,
     "ARB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "CRO",
@@ -35,7 +36,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "SOL",
@@ -43,14 +44,14 @@
       "count": 13
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 8
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 7
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 5
     },
     {
       "symbol": "SEI",
@@ -83,13 +84,18 @@
       "count": 2
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
     },
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -98,8 +104,8 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
