@@ -1,41 +1,41 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T15:16:42.405176Z",
+  "generated_at_utc": "2025-08-27T16:19:22.824704Z",
   "results": {
-    "BTC": 35,
-    "CRO": 21,
-    "ETH": 17,
+    "BTC": 36,
+    "CRO": 22,
+    "ETH": 19,
     "SOL": 13,
     "XRP": 7,
-    "ADA": 4,
+    "ADA": 5,
     "SEI": 4,
     "BNB": 3,
     "TRX": 3,
+    "ETC": 2,
     "BONK": 2,
     "AAVE": 2,
-    "MATIC": 1,
     "TON": 1,
+    "MATIC": 1,
     "DOGE": 1,
     "AVAX": 1,
-    "ETC": 1,
     "ARB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 36
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 19
     },
     {
       "symbol": "SOL",
@@ -50,7 +50,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SEI",
@@ -68,6 +68,11 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
@@ -78,13 +83,13 @@
       "count": 2
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
@@ -95,11 +100,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
