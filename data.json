@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T20:17:30.409004Z",
+  "generated_at_utc": "2025-08-27T21:14:29.135634Z",
   "results": {
-    "BTC": 38,
+    "BTC": 42,
     "ETH": 28,
     "CRO": 23,
     "SOL": 16,
@@ -16,8 +16,8 @@
     "BONK": 2,
     "AAVE": 2,
     "AVAX": 2,
-    "MATIC": 1,
     "TON": 1,
+    "MATIC": 1,
     "DOGE": 1,
     "NEAR": 1,
     "ARB": 1
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 38
+      "count": 42
     },
     {
       "symbol": "ETH",
@@ -89,13 +89,13 @@
       "count": 2
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
