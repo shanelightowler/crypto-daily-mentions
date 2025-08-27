@@ -1,7 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - August 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n122vq/daily_crypto_discussion_august_27_2025_gmt0/",
-  "generated_at_utc": "2025-08-27T01:13:02.595301Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-08-27T02:59:51.093518Z",
+  "results": {
+    "SOL": 1,
+    "SEI": 1
+  },
+  "results_list": [
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    }
+  ]
 }
