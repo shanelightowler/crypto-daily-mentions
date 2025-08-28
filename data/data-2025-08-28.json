@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T17:13:43.809733Z",
+  "generated_at_utc": "2025-08-28T18:22:06.005426Z",
   "results": {
-    "CRO": 66,
-    "ETH": 32,
-    "BTC": 31,
-    "SOL": 11,
+    "CRO": 67,
+    "ETH": 42,
+    "BTC": 36,
+    "SOL": 14,
     "LINK": 8,
-    "PYTH": 6,
+    "PYTH": 7,
     "ADA": 4,
     "BNB": 4,
+    "TRUMP": 2,
     "AAVE": 2,
     "ALGO": 1,
     "NEAR": 1,
@@ -21,7 +22,6 @@
     "APE": 1,
     "TON": 1,
     "ATOM": 1,
-    "TRUMP": 1,
     "DOT": 1,
     "PEAQ": 1,
     "ETC": 1
@@ -30,22 +30,22 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 66
+      "count": 67
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 42
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 36
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "LINK",
@@ -55,7 +55,7 @@
     {
       "symbol": "PYTH",
       "name": "Pyth Network",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "ADA",
@@ -66,6 +66,11 @@
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 2
     },
     {
       "symbol": "AAVE",
@@ -115,11 +120,6 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
       "count": 1
     },
     {
