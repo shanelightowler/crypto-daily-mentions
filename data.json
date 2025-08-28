@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T19:12:46.211201Z",
+  "generated_at_utc": "2025-08-28T20:17:22.546112Z",
   "results": {
     "CRO": 68,
-    "ETH": 42,
-    "BTC": 40,
+    "BTC": 46,
+    "ETH": 46,
     "SOL": 14,
     "LINK": 8,
     "PYTH": 7,
+    "BNB": 5,
     "ADA": 4,
-    "BNB": 4,
     "TRUMP": 2,
     "AAVE": 2,
     "ATOM": 2,
@@ -33,14 +33,14 @@
       "count": 68
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 42
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 46
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 46
     },
     {
       "symbol": "SOL",
@@ -58,13 +58,13 @@
       "count": 7
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 4
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 4
     },
     {
