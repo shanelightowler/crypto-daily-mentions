@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T05:15:44.123128Z",
+  "generated_at_utc": "2025-08-28T06:23:45.705059Z",
   "results": {
-    "CRO": 30,
+    "CRO": 32,
     "ETH": 17,
-    "SOL": 4,
+    "SOL": 6,
     "BTC": 3,
     "BNB": 3,
     "ALGO": 1,
@@ -16,7 +16,7 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 30
+      "count": 32
     },
     {
       "symbol": "ETH",
@@ -26,7 +26,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "BTC",
