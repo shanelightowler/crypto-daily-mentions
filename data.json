@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T22:14:34.203717Z",
+  "generated_at_utc": "2025-08-28T23:14:44.198436Z",
   "results": {
-    "CRO": 69,
-    "BTC": 48,
-    "ETH": 48,
+    "CRO": 70,
+    "BTC": 49,
+    "ETH": 49,
     "SOL": 14,
     "LINK": 8,
     "PYTH": 7,
@@ -14,6 +14,7 @@
     "TRUMP": 2,
     "AAVE": 2,
     "ATOM": 2,
+    "ETC": 2,
     "ALGO": 1,
     "NEAR": 1,
     "TRX": 1,
@@ -23,24 +24,23 @@
     "APE": 1,
     "TON": 1,
     "DOT": 1,
-    "PEAQ": 1,
-    "ETC": 1
+    "PEAQ": 1
   },
   "results_list": [
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 69
+      "count": 70
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 48
+      "count": 49
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 48
+      "count": 49
     },
     {
       "symbol": "SOL",
@@ -80,6 +80,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -130,11 +135,6 @@
     {
       "symbol": "PEAQ",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
