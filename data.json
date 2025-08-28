@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T15:16:20.823143Z",
+  "generated_at_utc": "2025-08-28T16:20:06.315899Z",
   "results": {
-    "CRO": 63,
+    "CRO": 64,
     "ETH": 30,
-    "BTC": 21,
+    "BTC": 27,
     "SOL": 9,
     "LINK": 6,
+    "PYTH": 4,
     "BNB": 4,
-    "PYTH": 3,
     "ADA": 3,
     "AAVE": 2,
     "ALGO": 1,
     "NEAR": 1,
     "APE": 1,
+    "TON": 1,
     "ATOM": 1,
     "TRUMP": 1,
     "DOT": 1,
@@ -25,7 +26,7 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 63
+      "count": 64
     },
     {
       "symbol": "ETH",
@@ -35,7 +36,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 27
     },
     {
       "symbol": "SOL",
@@ -48,14 +49,14 @@
       "count": 6
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "PYTH",
+      "name": "Pyth Network",
       "count": 4
     },
     {
-      "symbol": "PYTH",
-      "name": "Pyth Network",
-      "count": 3
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "ADA",
@@ -80,6 +81,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
