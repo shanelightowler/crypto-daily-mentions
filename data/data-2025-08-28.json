@@ -1,19 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - August 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n1xdia/daily_crypto_discussion_august_28_2025_gmt0/",
-  "generated_at_utc": "2025-08-28T16:20:06.315899Z",
+  "generated_at_utc": "2025-08-28T17:13:43.809733Z",
   "results": {
-    "CRO": 64,
-    "ETH": 30,
-    "BTC": 27,
-    "SOL": 9,
-    "LINK": 6,
-    "PYTH": 4,
+    "CRO": 66,
+    "ETH": 32,
+    "BTC": 31,
+    "SOL": 11,
+    "LINK": 8,
+    "PYTH": 6,
+    "ADA": 4,
     "BNB": 4,
-    "ADA": 3,
     "AAVE": 2,
     "ALGO": 1,
     "NEAR": 1,
+    "TRX": 1,
+    "XLM": 1,
+    "AVAX": 1,
+    "MATIC": 1,
     "APE": 1,
     "TON": 1,
     "ATOM": 1,
@@ -26,42 +30,42 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 64
+      "count": 66
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 32
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 27
+      "count": 31
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "PYTH",
       "name": "Pyth Network",
+      "count": 6
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 4
     },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 3
     },
     {
       "symbol": "AAVE",
@@ -76,6 +80,26 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
