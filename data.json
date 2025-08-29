@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - August 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n2sf38/daily_crypto_discussion_august_29_2025_gmt0/",
-  "generated_at_utc": "2025-08-29T14:14:53.383592Z",
+  "generated_at_utc": "2025-08-29T15:13:54.770363Z",
   "results": {
-    "BTC": 63,
-    "ETH": 36,
-    "CRO": 10,
-    "PYTH": 6,
-    "LINK": 5,
+    "BTC": 73,
+    "ETH": 39,
+    "CRO": 11,
+    "PYTH": 7,
+    "LINK": 6,
+    "XRP": 4,
     "SOL": 4,
     "BNB": 2,
-    "XRP": 2,
     "NEAR": 1,
     "ADA": 1,
     "DOGE": 1,
@@ -23,27 +23,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 39
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "PYTH",
       "name": "Pyth Network",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -53,11 +58,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 2
     },
     {
