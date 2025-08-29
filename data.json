@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - August 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n2sf38/daily_crypto_discussion_august_29_2025_gmt0/",
-  "generated_at_utc": "2025-08-29T19:12:09.499394Z",
+  "generated_at_utc": "2025-08-29T20:16:51.095184Z",
   "results": {
-    "BTC": 91,
-    "ETH": 51,
-    "CRO": 15,
+    "BTC": 93,
+    "ETH": 53,
+    "CRO": 17,
     "LINK": 10,
     "PYTH": 7,
     "SOL": 5,
@@ -13,8 +13,8 @@
     "AVAX": 3,
     "NEAR": 3,
     "BNB": 2,
+    "BONK": 2,
     "AR": 1,
-    "BONK": 1,
     "ADA": 1,
     "DOGE": 1,
     "ICP": 1,
@@ -28,17 +28,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 91
+      "count": 93
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 51
+      "count": 53
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 15
+      "count": 17
     },
     {
       "symbol": "LINK",
@@ -76,13 +76,13 @@
       "count": 2
     },
     {
-      "symbol": "AR",
-      "name": "Arweave",
-      "count": 1
-    },
-    {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 2
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
       "count": 1
     },
     {
