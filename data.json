@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - August 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n2sf38/daily_crypto_discussion_august_29_2025_gmt0/",
-  "generated_at_utc": "2025-08-29T18:21:16.007043Z",
+  "generated_at_utc": "2025-08-29T19:12:09.499394Z",
   "results": {
-    "BTC": 88,
-    "ETH": 48,
+    "BTC": 91,
+    "ETH": 51,
     "CRO": 15,
     "LINK": 10,
     "PYTH": 7,
     "SOL": 5,
     "XRP": 4,
+    "AVAX": 3,
+    "NEAR": 3,
     "BNB": 2,
-    "AVAX": 1,
     "AR": 1,
-    "NEAR": 1,
+    "BONK": 1,
     "ADA": 1,
     "DOGE": 1,
     "ICP": 1,
@@ -27,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 88
+      "count": 91
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 48
+      "count": 51
     },
     {
       "symbol": "CRO",
@@ -60,14 +61,19 @@
       "count": 4
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 2
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
     },
     {
       "symbol": "AR",
@@ -75,8 +81,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
