@@ -1,41 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - August 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n3nb6o/daily_crypto_discussion_august_30_2025_gmt0/",
-  "generated_at_utc": "2025-08-30T15:13:35.343645Z",
+  "generated_at_utc": "2025-08-30T16:17:01.152850Z",
   "results": {
-    "BTC": 48,
-    "ETH": 35,
-    "CRO": 14,
+    "BTC": 52,
+    "ETH": 37,
+    "CRO": 16,
     "SOL": 5,
+    "BNB": 4,
     "XRP": 4,
     "LINK": 4,
-    "BNB": 3,
+    "BONK": 3,
     "TRX": 3,
     "ADA": 2,
-    "BONK": 1,
-    "DOGE": 1,
-    "SUI": 1
+    "SUI": 2,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 48
+      "count": 52
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 37
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "XRP",
@@ -48,8 +53,8 @@
       "count": 4
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 3
     },
     {
@@ -63,18 +68,13 @@
       "count": 2
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     }
   ]
