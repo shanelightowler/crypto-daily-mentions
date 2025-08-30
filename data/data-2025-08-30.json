@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - August 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n3nb6o/daily_crypto_discussion_august_30_2025_gmt0/",
-  "generated_at_utc": "2025-08-30T22:13:43.780972Z",
+  "generated_at_utc": "2025-08-30T23:14:03.333071Z",
   "results": {
     "BTC": 58,
-    "ETH": 39,
+    "ETH": 40,
     "CRO": 17,
     "SOL": 5,
     "BONK": 4,
@@ -14,6 +14,8 @@
     "TRX": 3,
     "ADA": 2,
     "SUI": 2,
+    "MATIC": 1,
+    "NEAR": 1,
     "DOGE": 1
   },
   "results_list": [
@@ -25,7 +27,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 39
+      "count": 40
     },
     {
       "symbol": "CRO",
@@ -71,6 +73,16 @@
       "symbol": "SUI",
       "name": "Sui",
       "count": 2
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     },
     {
       "symbol": "DOGE",
