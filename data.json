@@ -1,39 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - August 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n4geh0/daily_crypto_discussion_august_31_2025_gmt0/",
-  "generated_at_utc": "2025-08-31T14:12:41.038890Z",
+  "generated_at_utc": "2025-08-31T15:13:50.983485Z",
   "results": {
-    "BTC": 15,
-    "ETH": 11,
+    "BTC": 18,
+    "ETH": 14,
+    "MATIC": 7,
     "SOL": 5,
-    "MATIC": 5,
     "XRP": 3,
-    "XLM": 1,
-    "TRX": 1,
+    "DOT": 3,
+    "LINK": 2,
     "CRO": 1,
     "ADA": 1,
-    "LINK": 1,
-    "DOT": 1
+    "XLM": 1,
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 18
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 5
+      "count": 14
     },
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 5
     },
     {
@@ -42,14 +42,14 @@
       "count": 3
     },
     {
-      "symbol": "XLM",
-      "name": "Stellar",
-      "count": 1
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 3
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
-      "count": 1
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "CRO",
@@ -62,13 +62,13 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
