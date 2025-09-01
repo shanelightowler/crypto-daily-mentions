@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T17:12:58.718462Z",
+  "generated_at_utc": "2025-09-01T18:21:06.187586Z",
   "results": {
-    "BTC": 42,
+    "BTC": 44,
     "ETH": 31,
     "CRO": 7,
     "ADA": 5,
@@ -13,6 +13,7 @@
     "NEAR": 2,
     "LINK": 2,
     "ETC": 2,
+    "WIF": 2,
     "APE": 1,
     "PEPE": 1,
     "LTC": 1,
@@ -24,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 44
     },
     {
       "symbol": "ETH",
@@ -69,6 +70,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 2
     },
     {
