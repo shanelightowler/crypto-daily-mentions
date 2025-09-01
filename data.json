@@ -1,38 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T13:25:55.610865Z",
+  "generated_at_utc": "2025-09-01T14:15:08.766512Z",
   "results": {
-    "BTC": 30,
-    "ETH": 21,
-    "CRO": 8,
+    "BTC": 33,
+    "ETH": 23,
+    "CRO": 7,
     "ADA": 5,
     "XRP": 3,
     "SOL": 3,
     "SUI": 2,
     "LINK": 2,
+    "NEAR": 2,
+    "ETC": 2,
+    "APE": 1,
     "PEPE": 1,
     "LTC": 1,
-    "APE": 1,
-    "NEAR": 1,
-    "CAKE": 1,
-    "ETC": 1
+    "CAKE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 33
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 23
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 8
+      "count": 7
     },
     {
       "symbol": "ADA",
@@ -60,6 +60,21 @@
       "count": 2
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -70,23 +85,8 @@
       "count": 1
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "CAKE",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
