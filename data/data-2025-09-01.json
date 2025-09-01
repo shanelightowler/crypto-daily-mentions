@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T20:16:15.654104Z",
+  "generated_at_utc": "2025-09-01T21:13:18.564150Z",
   "results": {
-    "BTC": 46,
-    "ETH": 34,
+    "BTC": 51,
+    "ETH": 36,
     "CRO": 10,
     "ADA": 6,
     "XRP": 4,
     "SOL": 4,
     "SUI": 3,
     "LINK": 3,
+    "TRUMP": 2,
     "NEAR": 2,
     "ETC": 2,
     "WIF": 2,
+    "MELANIA": 1,
     "APE": 1,
     "PEPE": 1,
     "LTC": 1,
-    "TRUMP": 1,
     "TON": 1,
     "CAKE": 1,
     "SEI": 1
@@ -26,12 +27,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 34
+      "count": 36
     },
     {
       "symbol": "CRO",
@@ -64,6 +65,11 @@
       "count": 3
     },
     {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
@@ -79,6 +85,11 @@
       "count": 2
     },
     {
+      "symbol": "MELANIA",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "APE",
       "name": "ApeCoin",
       "count": 1
@@ -91,11 +102,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
       "count": 1
     },
     {
