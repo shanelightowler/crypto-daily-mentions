@@ -1,40 +1,52 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T12:33:09.052635Z",
+  "generated_at_utc": "2025-09-01T13:25:55.610865Z",
   "results": {
-    "BTC": 20,
-    "ETH": 12,
-    "CRO": 6,
-    "ADA": 3,
+    "BTC": 30,
+    "ETH": 21,
+    "CRO": 8,
+    "ADA": 5,
+    "XRP": 3,
+    "SOL": 3,
     "SUI": 2,
     "LINK": 2,
+    "PEPE": 1,
+    "LTC": 1,
     "APE": 1,
     "NEAR": 1,
     "CAKE": 1,
-    "XRP": 1,
-    "ETC": 1,
-    "SOL": 1
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 30
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 21
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -46,6 +58,16 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
     },
     {
       "symbol": "APE",
@@ -63,18 +85,8 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     }
   ]
