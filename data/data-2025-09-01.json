@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T22:14:12.900398Z",
+  "generated_at_utc": "2025-09-01T23:14:08.975641Z",
   "results": {
     "BTC": 56,
     "ETH": 40,
-    "CRO": 11,
+    "CRO": 12,
     "ADA": 7,
     "XRP": 4,
     "SOL": 4,
@@ -13,11 +13,12 @@
     "SUI": 3,
     "LINK": 3,
     "NEAR": 2,
+    "ALGO": 2,
     "ETC": 2,
     "WIF": 2,
-    "WLFI": 1,
     "MELANIA": 1,
     "APE": 1,
+    "WLFI": 1,
     "PEPE": 1,
     "LTC": 1,
     "TON": 1,
@@ -38,7 +39,7 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ADA",
@@ -76,6 +77,11 @@
       "count": 2
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 2
@@ -86,11 +92,6 @@
       "count": 2
     },
     {
-      "symbol": "WLFI",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "MELANIA",
       "name": "",
       "count": 1
@@ -98,6 +99,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "WLFI",
+      "name": "",
       "count": 1
     },
     {
