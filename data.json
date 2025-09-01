@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - September 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n5a1og/daily_crypto_discussion_september_1_2025_gmt0/",
-  "generated_at_utc": "2025-09-01T21:13:18.564150Z",
+  "generated_at_utc": "2025-09-01T22:14:12.900398Z",
   "results": {
-    "BTC": 51,
-    "ETH": 36,
-    "CRO": 10,
-    "ADA": 6,
+    "BTC": 56,
+    "ETH": 40,
+    "CRO": 11,
+    "ADA": 7,
     "XRP": 4,
     "SOL": 4,
+    "TRUMP": 3,
     "SUI": 3,
     "LINK": 3,
-    "TRUMP": 2,
     "NEAR": 2,
     "ETC": 2,
     "WIF": 2,
+    "WLFI": 1,
     "MELANIA": 1,
     "APE": 1,
     "PEPE": 1,
@@ -27,22 +28,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 40
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "XRP",
@@ -55,6 +56,11 @@
       "count": 4
     },
     {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 3
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 3
@@ -63,11 +69,6 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -83,6 +84,11 @@
       "symbol": "WIF",
       "name": "dogwifhat",
       "count": 2
+    },
+    {
+      "symbol": "WLFI",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "MELANIA",
