@@ -86,5 +86,9 @@
   {
     "date": "2025-08-31",
     "file": "predictions/eth-preds-2025-08-31.json"
+  },
+  {
+    "date": "2025-09-01",
+    "file": "predictions/eth-preds-2025-09-01.json"
   }
 ]
