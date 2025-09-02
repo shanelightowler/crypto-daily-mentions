@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n64sqn/daily_crypto_discussion_september_2_2025_gmt0/",
-  "generated_at_utc": "2025-09-02T08:21:30.756758Z",
+  "generated_at_utc": "2025-09-02T09:17:10.047155Z",
   "results": {
     "BTC": 3,
+    "ETH": 3,
     "CRO": 3,
     "PUMP": 1
   },
@@ -11,6 +12,11 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 3
     },
     {
