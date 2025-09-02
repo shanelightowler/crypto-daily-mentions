@@ -1,33 +1,42 @@
 {
   "thread_title": "Daily Crypto Discussion - September 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n64sqn/daily_crypto_discussion_september_2_2025_gmt0/",
-  "generated_at_utc": "2025-09-02T13:26:41.461161Z",
+  "generated_at_utc": "2025-09-02T14:16:03.082933Z",
   "results": {
-    "BTC": 21,
-    "ETH": 18,
-    "XRP": 4,
+    "BTC": 26,
+    "ETH": 22,
+    "XRP": 6,
+    "ADA": 6,
     "CRO": 3,
-    "ADA": 3,
+    "BNB": 3,
     "LINK": 2,
-    "BNB": 1,
+    "SOL": 2,
+    "AVAX": 2,
     "PUMP": 1,
-    "SUI": 1
+    "SUI": 1,
+    "BAT": 1,
+    "ARB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 26
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 22
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 4
+      "count": 6
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 6
     },
     {
       "symbol": "CRO",
@@ -35,8 +44,8 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 3
     },
     {
@@ -45,9 +54,14 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
     },
     {
       "symbol": "PUMP",
@@ -57,6 +71,16 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     }
   ]
