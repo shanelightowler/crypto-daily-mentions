@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - September 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n6zty2/daily_crypto_discussion_september_3_2025_gmt0/",
-  "generated_at_utc": "2025-09-03T10:15:54.658328Z",
+  "generated_at_utc": "2025-09-03T11:12:58.269200Z",
   "results": {
-    "ETH": 17,
+    "ETH": 19,
     "BTC": 9,
     "CRO": 6,
+    "ETC": 3,
     "MATIC": 1,
     "OVPP": 1,
-    "ETC": 1,
     "NEAR": 1,
     "DOGE": 1,
     "SOL": 1,
@@ -18,7 +18,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 19
     },
     {
       "symbol": "BTC",
@@ -31,6 +31,11 @@
       "count": 6
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 1
@@ -38,11 +43,6 @@
     {
       "symbol": "OVPP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
