@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - September 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n6zty2/daily_crypto_discussion_september_3_2025_gmt0/",
-  "generated_at_utc": "2025-09-03T16:18:55.814723Z",
+  "generated_at_utc": "2025-09-03T17:13:17.155451Z",
   "results": {
-    "ETH": 27,
+    "ETH": 28,
     "BTC": 16,
-    "CRO": 6,
+    "CRO": 5,
     "SOL": 3,
     "ETC": 3,
     "MATIC": 1,
     "PEPE": 1,
-    "BONK": 1,
     "OVPP": 1,
+    "BONK": 1,
     "NEAR": 1,
     "DOGE": 1,
     "ARB": 1
@@ -20,7 +20,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 28
     },
     {
       "symbol": "BTC",
@@ -30,7 +30,7 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 6
+      "count": 5
     },
     {
       "symbol": "SOL",
@@ -53,13 +53,13 @@
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "OVPP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "OVPP",
-      "name": "",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
