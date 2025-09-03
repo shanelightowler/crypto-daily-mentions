@@ -1,35 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - September 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n6zty2/daily_crypto_discussion_september_3_2025_gmt0/",
-  "generated_at_utc": "2025-09-03T13:24:32.365730Z",
+  "generated_at_utc": "2025-09-03T14:15:48.304380Z",
   "results": {
-    "ETH": 26,
-    "BTC": 14,
-    "CRO": 7,
+    "ETH": 27,
+    "BTC": 16,
+    "CRO": 6,
+    "SOL": 3,
     "ETC": 3,
     "MATIC": 1,
-    "OVPP": 1,
     "PEPE": 1,
+    "OVPP": 1,
     "NEAR": 1,
     "DOGE": 1,
-    "SOL": 1,
     "ARB": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 27
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 7
+      "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -42,13 +47,13 @@
       "count": 1
     },
     {
-      "symbol": "OVPP",
-      "name": "",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "OVPP",
+      "name": "",
       "count": 1
     },
     {
@@ -59,11 +64,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
