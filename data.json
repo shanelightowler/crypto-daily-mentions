@@ -1,39 +1,56 @@
 {
   "thread_title": "Daily Crypto Discussion - September 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n7v6l5/daily_crypto_discussion_september_4_2025_gmt0/",
-  "generated_at_utc": "2025-09-04T13:24:08.867712Z",
+  "generated_at_utc": "2025-09-04T14:14:45.253583Z",
   "results": {
-    "BTC": 27,
-    "ETH": 15,
-    "CRO": 5,
-    "LINK": 4,
+    "BTC": 31,
+    "ETH": 18,
+    "CRO": 6,
+    "LINK": 5,
+    "ADA": 2,
+    "DOGE": 2,
+    "XRP": 2,
     "ALGO": 2,
     "SUI": 2,
     "AAVE": 1,
-    "ADA": 1,
-    "DOGE": 1,
-    "XRP": 1
+    "SOL": 1,
+    "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 27
+      "count": 31
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 18
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "ALGO",
@@ -51,18 +68,13 @@
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     }
   ]
