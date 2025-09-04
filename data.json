@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - September 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n7v6l5/daily_crypto_discussion_september_4_2025_gmt0/",
-  "generated_at_utc": "2025-09-04T11:12:37.073490Z",
+  "generated_at_utc": "2025-09-04T12:31:04.781451Z",
   "results": {
-    "BTC": 18,
+    "BTC": 23,
     "ETH": 15,
     "LINK": 4,
     "CRO": 3,
     "ALGO": 2,
+    "SUI": 2,
     "AAVE": 1,
     "ADA": 1,
-    "XRP": 1,
-    "SUI": 1
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 23
     },
     {
       "symbol": "ETH",
@@ -40,6 +40,11 @@
       "count": 2
     },
     {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
+    },
+    {
       "symbol": "AAVE",
       "name": "Aave",
       "count": 1
@@ -52,11 +57,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     }
   ]
