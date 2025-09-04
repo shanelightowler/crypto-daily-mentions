@@ -1,36 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - September 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n7v6l5/daily_crypto_discussion_september_4_2025_gmt0/",
-  "generated_at_utc": "2025-09-04T14:14:45.253583Z",
+  "generated_at_utc": "2025-09-04T15:15:53.896109Z",
   "results": {
-    "BTC": 31,
-    "ETH": 18,
-    "CRO": 6,
+    "BTC": 36,
+    "ETH": 19,
+    "CRO": 8,
     "LINK": 5,
     "ADA": 2,
-    "DOGE": 2,
     "XRP": 2,
+    "DOGE": 2,
     "ALGO": 2,
     "SUI": 2,
     "AAVE": 1,
+    "ETC": 1,
     "SOL": 1,
+    "MATIC": 1,
     "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 36
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "LINK",
@@ -43,13 +45,13 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -68,8 +70,18 @@
       "count": 1
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
