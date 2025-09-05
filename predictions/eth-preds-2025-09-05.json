@@ -1,0 +1,25 @@
+{
+  "thread_title": "Daily General Discussion September 05, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1n8wdlc/daily_general_discussion_september_05_2025/",
+  "generated_at_utc": "2025-09-05T08:36:17.379238Z",
+  "date": "2025-09-05",
+  "summary": {
+    "count": 1,
+    "mean_usd": 10000.0,
+    "median_usd": 10000.0,
+    "min_usd": 10000.0,
+    "max_usd": 10000.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 10000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$10k",
+      "sentence": "I see a November peak as likely, and I do not think $10k is really on the cards just yet.",
+      "comment_id": "ncil3nn",
+      "author": "RivellaEnthusiast",
+      "accept_reason": "single"
+    }
+  ]
+}

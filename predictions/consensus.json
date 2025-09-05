@@ -1,9 +1,9 @@
 {
   "window_days": 30,
-  "as_of_utc": "2025-09-04T08:35:52.188190Z",
+  "as_of_utc": "2025-09-05T08:36:17.381055Z",
   "pooled_predictions": {
-    "count": 27,
-    "mean_usd": 30778.98,
+    "count": 28,
+    "mean_usd": 30036.88,
     "median_usd": 10000.0,
     "min_usd": 1500.0,
     "max_usd": 150000.0
