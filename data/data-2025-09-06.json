@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1n9l3rc/daily_crypto_discussion_september_6_2025_gmt0/",
-  "generated_at_utc": "2025-09-06T18:18:58.611439Z",
+  "generated_at_utc": "2025-09-06T19:10:27.185748Z",
   "results": {
     "BTC": 17,
     "ETH": 9,
     "LINK": 2,
     "PEPE": 2,
     "OP": 1,
-    "LTC": 1,
     "KTA": 1,
+    "LTC": 1,
     "PUMP": 1
   },
   "results_list": [
@@ -39,13 +39,13 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "KTA",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "KTA",
-      "name": "",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
