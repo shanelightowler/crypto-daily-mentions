@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - September 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1naer38/daily_crypto_discussion_september_7_2025_gmt0/",
-  "generated_at_utc": "2025-09-07T19:10:39.495307Z",
+  "generated_at_utc": "2025-09-07T20:15:10.439726Z",
   "results": {
     "BTC": 17,
     "ETH": 8,
-    "DOGE": 4,
+    "DOGE": 5,
     "NEAR": 2,
     "XRP": 2,
     "BNB": 1,
     "SUI": 1,
+    "SEI": 1,
     "SOL": 1,
     "CRO": 1,
     "APE": 1
@@ -28,7 +29,7 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "NEAR",
@@ -48,6 +49,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 1
     },
     {
