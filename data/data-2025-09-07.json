@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1naer38/daily_crypto_discussion_september_7_2025_gmt0/",
-  "generated_at_utc": "2025-09-07T07:13:14.880312Z",
+  "generated_at_utc": "2025-09-07T08:17:38.453610Z",
   "results": {
-    "BTC": 3,
+    "BTC": 4,
+    "NEAR": 1,
     "PYTH": 1,
     "CRO": 1
   },
@@ -11,7 +12,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     },
     {
       "symbol": "PYTH",
