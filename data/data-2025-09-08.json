@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T21:13:49.257171Z",
+  "generated_at_utc": "2025-09-08T22:14:54.971938Z",
   "results": {
     "BTC": 38,
     "ETH": 21,
     "ADA": 5,
+    "CRO": 3,
     "SOL": 3,
+    "DOGE": 3,
     "XRP": 2,
     "BONK": 2,
-    "CRO": 2,
     "SUI": 2,
     "LINK": 2,
-    "DOGE": 2,
     "WIF": 2,
     "BNB": 1,
     "FET": 1,
@@ -20,7 +20,8 @@
     "TON": 1,
     "CAKE": 1,
     "PEPE": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "ETC": 1
   },
   "results_list": [
     {
@@ -39,8 +40,18 @@
       "count": 5
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 3
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
@@ -54,11 +65,6 @@
       "count": 2
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 2
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 2
@@ -66,11 +72,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -111,6 +112,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
