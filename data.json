@@ -1,12 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T10:17:16.038883Z",
+  "generated_at_utc": "2025-09-08T11:13:09.931329Z",
   "results": {
-    "BTC": 10,
+    "BTC": 19,
+    "ADA": 4,
     "SOL": 2,
-    "ADA": 2,
     "BONK": 2,
+    "DOGE": 1,
+    "WIF": 1,
+    "NEAR": 1,
     "CAKE": 1,
     "ETH": 1
   },
@@ -14,7 +17,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 19
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -22,14 +30,24 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 2
-    },
-    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     },
     {
       "symbol": "CAKE",
