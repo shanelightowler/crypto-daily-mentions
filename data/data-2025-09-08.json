@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T16:18:24.732235Z",
+  "generated_at_utc": "2025-09-08T17:14:04.035654Z",
   "results": {
     "BTC": 34,
     "ETH": 15,
     "ADA": 5,
     "SOL": 3,
-    "BONK": 2,
     "XRP": 2,
+    "BONK": 2,
     "SUI": 2,
     "DOGE": 2,
     "WIF": 2,
     "LINK": 2,
     "BNB": 1,
-    "ZORA": 1,
     "FET": 1,
+    "ZORA": 1,
     "CAKE": 1,
-    "NEAR": 1,
     "PEPE": 1,
+    "NEAR": 1,
     "CRO": 1
   },
   "results_list": [
@@ -43,13 +43,13 @@
       "count": 3
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
@@ -78,13 +78,13 @@
       "count": 1
     },
     {
-      "symbol": "ZORA",
-      "name": "zora",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 1
     },
     {
@@ -93,13 +93,13 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
