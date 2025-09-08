@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T15:15:39.862073Z",
+  "generated_at_utc": "2025-09-08T16:18:24.732235Z",
   "results": {
-    "BTC": 29,
+    "BTC": 34,
     "ETH": 15,
     "ADA": 5,
     "SOL": 3,
-    "XRP": 2,
     "BONK": 2,
+    "XRP": 2,
     "SUI": 2,
+    "DOGE": 2,
     "WIF": 2,
     "LINK": 2,
     "BNB": 1,
+    "ZORA": 1,
     "FET": 1,
-    "DOGE": 1,
     "CAKE": 1,
     "NEAR": 1,
     "PEPE": 1,
@@ -24,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "ETH",
@@ -42,18 +43,23 @@
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -72,13 +78,13 @@
       "count": 1
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     },
     {
