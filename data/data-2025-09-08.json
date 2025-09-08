@@ -1,37 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T19:12:57.865164Z",
+  "generated_at_utc": "2025-09-08T20:17:37.516281Z",
   "results": {
-    "BTC": 37,
-    "ETH": 17,
+    "BTC": 38,
+    "ETH": 20,
     "ADA": 5,
     "SOL": 3,
     "XRP": 2,
     "BONK": 2,
-    "CRO": 2,
     "SUI": 2,
+    "LINK": 2,
     "DOGE": 2,
     "WIF": 2,
-    "LINK": 2,
     "BNB": 1,
-    "TON": 1,
     "FET": 1,
     "ZORA": 1,
+    "TON": 1,
     "CAKE": 1,
     "PEPE": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 38
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 20
     },
     {
       "symbol": "ADA",
@@ -54,13 +54,13 @@
       "count": 2
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -74,18 +74,8 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     },
     {
@@ -96,6 +86,11 @@
     {
       "symbol": "ZORA",
       "name": "zora",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -111,6 +106,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
