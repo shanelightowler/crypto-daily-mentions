@@ -1,23 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T11:13:09.931329Z",
+  "generated_at_utc": "2025-09-08T12:34:14.167322Z",
   "results": {
-    "BTC": 19,
+    "BTC": 20,
     "ADA": 4,
-    "SOL": 2,
+    "SOL": 3,
+    "ETH": 2,
+    "XRP": 2,
     "BONK": 2,
+    "SUI": 1,
+    "BNB": 1,
     "DOGE": 1,
     "WIF": 1,
     "NEAR": 1,
-    "CAKE": 1,
-    "ETH": 1
+    "CAKE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "ADA",
@@ -27,12 +30,32 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
     },
     {
       "symbol": "DOGE",
@@ -52,11 +75,6 @@
     {
       "symbol": "CAKE",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
       "count": 1
     }
   ]
