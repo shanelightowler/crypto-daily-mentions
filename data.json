@@ -1,36 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - September 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nb8y8x/daily_crypto_discussion_september_8_2025_gmt0/",
-  "generated_at_utc": "2025-09-08T13:26:45.699361Z",
+  "generated_at_utc": "2025-09-08T14:16:20.469770Z",
   "results": {
-    "BTC": 22,
-    "ETH": 13,
-    "ADA": 4,
+    "BTC": 24,
+    "ETH": 15,
+    "ADA": 5,
     "SOL": 3,
     "XRP": 2,
     "BONK": 2,
     "SUI": 2,
     "WIF": 2,
     "BNB": 1,
+    "FET": 1,
     "DOGE": 1,
+    "LINK": 1,
     "CAKE": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "CRO": 1,
+    "PEPE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 24
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
@@ -63,8 +67,18 @@
       "count": 1
     },
     {
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "count": 1
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
@@ -75,6 +89,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     }
   ]
