@@ -1,13 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T19:12:27.932176Z",
+  "generated_at_utc": "2025-09-09T20:16:53.246585Z",
   "results": {
     "BTC": 36,
-    "ETH": 11,
+    "ETH": 13,
     "CRO": 8,
+    "DOGE": 5,
     "ADA": 4,
     "SOL": 4,
+    "AAVE": 3,
     "ETC": 3,
     "PEPE": 2,
     "RENDER": 2,
@@ -15,10 +17,10 @@
     "LINK": 2,
     "HBAR": 2,
     "XRP": 2,
-    "DOGE": 1,
     "CAKE": 1,
-    "AAVE": 1,
+    "SUI": 1,
     "LTC": 1,
+    "KAS": 1,
     "XLM": 1,
     "AVAX": 1
   },
@@ -31,12 +33,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 8
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 5
     },
     {
       "symbol": "ADA",
@@ -47,6 +54,11 @@
       "symbol": "SOL",
       "name": "Solana",
       "count": 4
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -84,23 +96,23 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
       "symbol": "CAKE",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 1
     },
     {
