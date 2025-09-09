@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T17:13:20.192256Z",
+  "generated_at_utc": "2025-09-09T18:19:13.370491Z",
   "results": {
     "BTC": 33,
     "ETH": 11,
     "CRO": 6,
+    "ADA": 4,
     "SOL": 4,
     "ETC": 3,
-    "ADA": 3,
+    "PEPE": 2,
+    "LINK": 2,
+    "HBAR": 2,
     "RENDER": 2,
     "BNB": 2,
     "XRP": 2,
-    "PEPE": 1,
     "DOGE": 1,
     "CAKE": 1,
     "AAVE": 1,
-    "LINK": 1,
     "LTC": 1,
-    "HBAR": 1,
     "XLM": 1,
     "AVAX": 1
   },
@@ -39,6 +39,11 @@
       "count": 6
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 4
@@ -49,9 +54,19 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 3
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
     },
     {
       "symbol": "RENDER",
@@ -69,11 +84,6 @@
       "count": 2
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
@@ -89,18 +99,8 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "HBAR",
-      "name": "Hedera",
       "count": 1
     },
     {
