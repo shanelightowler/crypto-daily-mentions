@@ -1,13 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T10:17:06.319647Z",
+  "generated_at_utc": "2025-09-09T11:13:51.812397Z",
   "results": {
-    "BTC": 10,
-    "ETH": 3,
-    "CRO": 3,
+    "BTC": 12,
+    "ETH": 4,
+    "CRO": 4,
     "ADA": 3,
+    "RENDER": 2,
     "SOL": 2,
+    "PEPE": 1,
     "CAKE": 1,
     "LTC": 1,
     "XRP": 1,
@@ -19,17 +21,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
@@ -37,9 +39,19 @@
       "count": 3
     },
     {
+      "symbol": "RENDER",
+      "name": "",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
     },
     {
       "symbol": "CAKE",
