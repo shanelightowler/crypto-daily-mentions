@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T18:19:13.370491Z",
+  "generated_at_utc": "2025-09-09T19:12:27.932176Z",
   "results": {
-    "BTC": 33,
+    "BTC": 36,
     "ETH": 11,
-    "CRO": 6,
+    "CRO": 8,
     "ADA": 4,
     "SOL": 4,
     "ETC": 3,
     "PEPE": 2,
-    "LINK": 2,
-    "HBAR": 2,
     "RENDER": 2,
     "BNB": 2,
+    "LINK": 2,
+    "HBAR": 2,
     "XRP": 2,
     "DOGE": 1,
     "CAKE": 1,
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 36
     },
     {
       "symbol": "ETH",
@@ -36,7 +36,7 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ADA",
@@ -59,16 +59,6 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 2
-    },
-    {
       "symbol": "RENDER",
       "name": "",
       "count": 2
@@ -76,6 +66,16 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
