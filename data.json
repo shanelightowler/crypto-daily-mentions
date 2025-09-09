@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T07:15:28.875785Z",
+  "generated_at_utc": "2025-09-09T08:21:48.017939Z",
   "results": {
-    "BTC": 10,
+    "BTC": 8,
     "ADA": 3,
     "ETH": 2,
+    "CRO": 2,
     "SOL": 2,
     "CAKE": 1,
     "LTC": 1,
-    "CRO": 1,
+    "XRP": 1,
     "HBAR": 1,
     "XLM": 1,
-    "AVAX": 1,
-    "XRP": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 8
     },
     {
       "symbol": "ADA",
@@ -29,6 +29,11 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 2
     },
     {
@@ -47,8 +52,8 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
@@ -64,11 +69,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     }
   ]
