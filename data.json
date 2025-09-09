@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T08:21:48.017939Z",
+  "generated_at_utc": "2025-09-09T09:17:17.679510Z",
   "results": {
     "BTC": 8,
+    "CRO": 3,
     "ADA": 3,
     "ETH": 2,
-    "CRO": 2,
     "SOL": 2,
     "CAKE": 1,
     "LTC": 1,
@@ -22,6 +22,11 @@
       "count": 8
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 3
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 3
@@ -29,11 +34,6 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
       "count": 2
     },
     {
