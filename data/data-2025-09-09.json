@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - September 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nc42hh/daily_crypto_discussion_september_9_2025_gmt0/",
-  "generated_at_utc": "2025-09-09T13:28:03.633305Z",
+  "generated_at_utc": "2025-09-09T14:13:52.957555Z",
   "results": {
     "BTC": 16,
-    "ETH": 8,
+    "ETH": 9,
     "CRO": 6,
+    "SOL": 3,
     "ADA": 3,
     "RENDER": 2,
-    "SOL": 2,
+    "BNB": 2,
     "PEPE": 1,
-    "BNB": 1,
     "DOGE": 1,
     "CAKE": 1,
+    "AAVE": 1,
+    "LINK": 1,
     "LTC": 1,
     "XRP": 1,
     "HBAR": 1,
@@ -28,12 +30,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "ADA",
@@ -46,18 +53,13 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     },
     {
@@ -68,6 +70,16 @@
     {
       "symbol": "CAKE",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
