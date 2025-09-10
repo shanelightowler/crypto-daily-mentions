@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T19:12:39.184611Z",
+  "generated_at_utc": "2025-09-10T20:16:48.399965Z",
   "results": {
     "BTC": 34,
-    "ETH": 18,
+    "ETH": 20,
     "SOL": 17,
     "AVAX": 8,
     "BNB": 3,
@@ -19,6 +19,7 @@
     "XRP": 1,
     "TRX": 1,
     "TON": 1,
+    "LINK": 1,
     "NEAR": 1
   },
   "results_list": [
@@ -30,7 +31,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "SOL",
@@ -100,6 +101,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
