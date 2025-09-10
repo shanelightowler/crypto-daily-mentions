@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T13:23:26.396968Z",
+  "generated_at_utc": "2025-09-10T14:14:41.476510Z",
   "results": {
-    "BTC": 24,
+    "BTC": 27,
     "ETH": 15,
-    "SOL": 9,
+    "SOL": 14,
     "AVAX": 4,
     "DOGE": 2,
     "SKL": 1,
     "SAND": 1,
     "PEPE": 1,
-    "PUMP": 1,
     "ADA": 1,
+    "PUMP": 1,
     "CRO": 1,
     "XRP": 1,
     "TRX": 1,
     "LTC": 1,
+    "TON": 1,
     "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 27
     },
     {
       "symbol": "ETH",
@@ -33,7 +34,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 14
     },
     {
       "symbol": "AVAX",
@@ -61,13 +62,13 @@
       "count": 1
     },
     {
-      "symbol": "PUMP",
-      "name": "",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "PUMP",
+      "name": "",
       "count": 1
     },
     {
@@ -88,6 +89,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
