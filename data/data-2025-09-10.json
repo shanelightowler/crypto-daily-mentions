@@ -1,39 +1,47 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T11:12:34.639047Z",
+  "generated_at_utc": "2025-09-10T12:31:23.144234Z",
   "results": {
-    "BTC": 11,
-    "ETH": 10,
+    "BTC": 16,
+    "ETH": 13,
+    "SOL": 3,
+    "DOGE": 2,
     "AVAX": 2,
-    "SOL": 2,
     "SKL": 1,
     "SAND": 1,
-    "DOGE": 1,
     "PEPE": 1,
     "ADA": 1,
     "PUMP": 1,
-    "CRO": 1
+    "CRO": 1,
+    "XRP": 1,
+    "TRX": 1,
+    "LTC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 11
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 2
+      "count": 13
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -44,11 +52,6 @@
     {
       "symbol": "SAND",
       "name": "The Sandbox",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
@@ -69,6 +72,21 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     }
   ]
