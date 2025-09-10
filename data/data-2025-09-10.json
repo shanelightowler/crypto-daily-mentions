@@ -1,15 +1,51 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T01:10:17.113407Z",
+  "generated_at_utc": "2025-09-10T02:52:47.077348Z",
   "results": {
-    "BTC": 2
+    "BTC": 4,
+    "ETH": 1,
+    "SKL": 1,
+    "SAND": 1,
+    "DOGE": 1,
+    "PEPE": 1,
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 2
+      "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "SKL",
+      "name": "SKALE",
+      "count": 1
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
     }
   ]
 }
