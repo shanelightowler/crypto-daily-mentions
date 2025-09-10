@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T21:13:56.507604Z",
+  "generated_at_utc": "2025-09-10T22:14:08.090105Z",
   "results": {
-    "BTC": 34,
-    "ETH": 20,
+    "BTC": 35,
+    "ETH": 21,
     "SOL": 17,
-    "AVAX": 8,
+    "AVAX": 9,
     "BNB": 3,
     "LTC": 3,
     "DOGE": 2,
@@ -15,9 +15,11 @@
     "PEPE": 1,
     "ADA": 1,
     "PUMP": 1,
+    "ALGO": 1,
     "CRO": 1,
     "XRP": 1,
     "TRX": 1,
+    "BCH": 1,
     "LINK": 1,
     "TON": 1,
     "NEAR": 1
@@ -26,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 35
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "SOL",
@@ -41,7 +43,7 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "BNB",
@@ -84,6 +86,11 @@
       "count": 1
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 1
@@ -96,6 +103,11 @@
     {
       "symbol": "TRX",
       "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
