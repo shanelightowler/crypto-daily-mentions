@@ -1,47 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T12:31:23.144234Z",
+  "generated_at_utc": "2025-09-10T13:23:26.396968Z",
   "results": {
-    "BTC": 16,
-    "ETH": 13,
-    "SOL": 3,
+    "BTC": 24,
+    "ETH": 15,
+    "SOL": 9,
+    "AVAX": 4,
     "DOGE": 2,
-    "AVAX": 2,
     "SKL": 1,
     "SAND": 1,
     "PEPE": 1,
-    "ADA": 1,
     "PUMP": 1,
+    "ADA": 1,
     "CRO": 1,
     "XRP": 1,
     "TRX": 1,
-    "LTC": 1
+    "LTC": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 24
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 2
+      "count": 9
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -60,13 +61,13 @@
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "PUMP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "PUMP",
-      "name": "",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
@@ -87,6 +88,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
