@@ -1,26 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - September 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nczaym/daily_crypto_discussion_september_10_2025_gmt0/",
-  "generated_at_utc": "2025-09-10T07:15:09.221116Z",
+  "generated_at_utc": "2025-09-10T08:21:04.668458Z",
   "results": {
-    "BTC": 9,
-    "ETH": 6,
+    "BTC": 10,
+    "ETH": 7,
+    "AVAX": 2,
+    "SOL": 2,
     "SKL": 1,
     "SAND": 1,
     "DOGE": 1,
     "PEPE": 1,
-    "AVAX": 1
+    "ADA": 1,
+    "PUMP": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "SKL",
@@ -43,8 +57,18 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "PUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
