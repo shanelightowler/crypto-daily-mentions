@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nduakc/daily_crypto_discussion_september_11_2025_gmt0/",
-  "generated_at_utc": "2025-09-11T13:21:11.579578Z",
+  "generated_at_utc": "2025-09-11T14:15:37.435404Z",
   "results": {
+    "BTC": 8,
     "BNB": 8,
     "SOL": 8,
-    "BTC": 6,
-    "ETH": 5,
+    "ETH": 6,
     "LTC": 5,
     "DOGE": 4,
     "AVAX": 2,
@@ -22,6 +22,11 @@
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 8
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 8
@@ -32,14 +37,9 @@
       "count": 8
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 6
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "LTC",
