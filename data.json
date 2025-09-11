@@ -1,20 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nduakc/daily_crypto_discussion_september_11_2025_gmt0/",
-  "generated_at_utc": "2025-09-11T11:12:18.197302Z",
+  "generated_at_utc": "2025-09-11T12:30:49.063853Z",
   "results": {
     "BNB": 8,
-    "SOL": 6,
-    "BTC": 5,
+    "SOL": 8,
+    "BTC": 6,
     "ETH": 5,
     "LTC": 5,
-    "DOGE": 2,
+    "DOGE": 4,
     "AVAX": 2,
     "DOT": 2,
-    "ETC": 1,
     "XMR": 1,
+    "ETC": 1,
     "CRO": 1,
-    "GMX": 1
+    "GMX": 1,
+    "HBAR": 1,
+    "SEI": 1,
+    "LINK": 1,
+    "TON": 1
   },
   "results_list": [
     {
@@ -25,12 +29,12 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETH",
@@ -45,7 +49,7 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "AVAX",
@@ -58,13 +62,13 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
@@ -75,6 +79,26 @@
     {
       "symbol": "GMX",
       "name": "GMX",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
