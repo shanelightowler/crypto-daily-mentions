@@ -1,22 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - September 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nduakc/daily_crypto_discussion_september_11_2025_gmt0/",
-  "generated_at_utc": "2025-09-11T10:15:37.991511Z",
+  "generated_at_utc": "2025-09-11T11:12:18.197302Z",
   "results": {
+    "BNB": 8,
+    "SOL": 6,
+    "BTC": 5,
     "ETH": 5,
     "LTC": 5,
-    "BTC": 4,
     "DOGE": 2,
     "AVAX": 2,
-    "SOL": 2,
     "DOT": 2,
-    "XMR": 1,
     "ETC": 1,
-    "BNB": 1,
+    "XMR": 1,
     "CRO": 1,
     "GMX": 1
   },
   "results_list": [
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 8
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 6
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 5
+    },
     {
       "symbol": "ETH",
       "name": "Ethereum",
@@ -26,11 +41,6 @@
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 5
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 4
     },
     {
       "symbol": "DOGE",
@@ -43,19 +53,9 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 2
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
     },
     {
       "symbol": "ETC",
@@ -63,8 +63,8 @@
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
