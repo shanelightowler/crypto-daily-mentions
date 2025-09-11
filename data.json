@@ -1,25 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - September 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nduakc/daily_crypto_discussion_september_11_2025_gmt0/",
-  "generated_at_utc": "2025-09-11T05:15:27.313783Z",
+  "generated_at_utc": "2025-09-11T06:23:19.636566Z",
   "results": {
-    "ETH": 2,
+    "ETH": 3,
     "DOGE": 2,
+    "AVAX": 2,
     "BTC": 1,
     "ETC": 1,
-    "AVAX": 1,
-    "GMX": 1,
-    "CRO": 1
+    "SOL": 1,
+    "CRO": 1,
+    "GMX": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -33,18 +39,18 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "GMX",
-      "name": "GMX",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "GMX",
+      "name": "GMX",
       "count": 1
     }
   ]
