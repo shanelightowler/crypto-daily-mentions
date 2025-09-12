@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - September 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1neokz3/daily_crypto_discussion_september_12_2025_gmt0/",
-  "generated_at_utc": "2025-09-12T16:15:17.734180Z",
+  "generated_at_utc": "2025-09-12T17:12:44.851101Z",
   "results": {
     "ETH": 24,
     "BTC": 17,
-    "SOL": 16,
+    "SOL": 17,
     "ADA": 5,
+    "DOGE": 4,
     "BNB": 3,
-    "DOGE": 2,
     "LTC": 2,
     "XRP": 2,
     "LINK": 2,
@@ -34,7 +34,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ADA",
@@ -42,14 +42,14 @@
       "count": 5
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 4
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 3
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 2
     },
     {
       "symbol": "LTC",
