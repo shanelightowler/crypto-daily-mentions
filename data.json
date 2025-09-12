@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - September 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1neokz3/daily_crypto_discussion_september_12_2025_gmt0/",
-  "generated_at_utc": "2025-09-12T12:30:36.502031Z",
+  "generated_at_utc": "2025-09-12T13:22:53.025456Z",
   "results": {
-    "ETH": 20,
+    "ETH": 22,
+    "BTC": 13,
     "SOL": 13,
-    "BTC": 12,
+    "ADA": 5,
     "BNB": 3,
-    "ADA": 3,
     "LINK": 2,
     "BAT": 1,
     "DOGE": 1,
     "ALGO": 1,
     "XRP": 1,
+    "ETC": 1,
+    "AAVE": 1,
     "HBAR": 1,
     "SEI": 1
   },
@@ -20,7 +22,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 22
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 13
     },
     {
       "symbol": "SOL",
@@ -28,18 +35,13 @@
       "count": 13
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 12
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 3
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 3
     },
     {
@@ -65,6 +67,16 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
