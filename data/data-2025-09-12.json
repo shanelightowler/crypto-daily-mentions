@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - September 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1neokz3/daily_crypto_discussion_september_12_2025_gmt0/",
-  "generated_at_utc": "2025-09-12T11:12:47.007602Z",
+  "generated_at_utc": "2025-09-12T12:30:36.502031Z",
   "results": {
-    "ETH": 17,
-    "BTC": 10,
-    "SOL": 9,
-    "DOGE": 2,
+    "ETH": 20,
+    "SOL": 13,
+    "BTC": 12,
+    "BNB": 3,
+    "ADA": 3,
     "LINK": 2,
-    "BNB": 1,
     "BAT": 1,
-    "ADA": 1,
+    "DOGE": 1,
     "ALGO": 1,
     "XRP": 1,
     "HBAR": 1,
@@ -20,22 +20,27 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 10
+      "count": 20
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 13
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 2
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 12
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -43,18 +48,13 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
-    },
-    {
       "symbol": "BAT",
       "name": "Basic Attention Token",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
