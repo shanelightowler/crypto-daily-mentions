@@ -1,16 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T05:13:43.583408Z",
+  "generated_at_utc": "2025-09-13T06:19:59.658042Z",
   "results": {
-    "BTC": 12,
-    "ETH": 10,
+    "BTC": 15,
+    "ETH": 11,
     "SOL": 2,
     "BNB": 2,
     "ADA": 2,
     "ETC": 1,
     "AVAX": 1,
     "CRO": 1,
+    "LINK": 1,
+    "SUI": 1,
+    "SEI": 1,
+    "HBAR": 1,
     "PYTH": 1,
     "DOGE": 1,
     "WIF": 1
@@ -19,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "SOL",
@@ -54,6 +58,26 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
