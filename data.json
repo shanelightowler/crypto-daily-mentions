@@ -1,28 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T04:17:30.160279Z",
+  "generated_at_utc": "2025-09-13T05:13:43.583408Z",
   "results": {
-    "ETH": 8,
-    "BTC": 6,
+    "BTC": 12,
+    "ETH": 10,
+    "SOL": 2,
     "BNB": 2,
     "ADA": 2,
-    "AVAX": 1,
     "ETC": 1,
+    "AVAX": 1,
     "CRO": 1,
-    "SOL": 1,
-    "PYTH": 1
+    "PYTH": 1,
+    "DOGE": 1,
+    "WIF": 1
   },
   "results_list": [
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 8
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 12
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 10
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "BNB",
@@ -35,13 +42,13 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
@@ -50,13 +57,18 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "PYTH",
+      "name": "Pyth Network",
       "count": 1
     },
     {
-      "symbol": "PYTH",
-      "name": "Pyth Network",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     }
   ]
