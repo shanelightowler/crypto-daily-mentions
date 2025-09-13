@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T12:27:47.027136Z",
+  "generated_at_utc": "2025-09-13T13:17:46.577952Z",
   "results": {
-    "BTC": 25,
-    "ETH": 15,
+    "BTC": 33,
+    "ETH": 17,
+    "BNB": 5,
     "ADA": 5,
-    "BNB": 4,
+    "DOGE": 3,
     "SOL": 3,
-    "DOGE": 2,
     "DOT": 2,
-    "ETC": 1,
+    "XMR": 2,
     "XRP": 1,
     "AVAX": 1,
+    "ETC": 1,
     "LINK": 1,
     "SUI": 1,
     "SEI": 1,
     "HBAR": 1,
     "NEAR": 1,
     "CRO": 1,
-    "XMR": 1,
     "DSYNC": 1,
     "PIN": 1,
     "PYTH": 1,
@@ -29,12 +29,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 33
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 17
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 5
     },
     {
       "symbol": "ADA",
@@ -42,9 +47,9 @@
       "count": 5
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 4
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
     },
     {
       "symbol": "SOL",
@@ -52,19 +57,14 @@
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
     },
     {
       "symbol": "XRP",
@@ -74,6 +74,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
@@ -104,11 +109,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     },
     {
