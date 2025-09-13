@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T13:17:46.577952Z",
+  "generated_at_utc": "2025-09-13T14:11:31.889607Z",
   "results": {
-    "BTC": 33,
+    "BTC": 38,
     "ETH": 17,
+    "DOGE": 6,
     "BNB": 5,
     "ADA": 5,
-    "DOGE": 3,
-    "SOL": 3,
+    "SOL": 4,
+    "NEAR": 2,
     "DOT": 2,
     "XMR": 2,
-    "XRP": 1,
     "AVAX": 1,
+    "XRP": 1,
     "ETC": 1,
     "LINK": 1,
     "SUI": 1,
     "SEI": 1,
     "HBAR": 1,
-    "NEAR": 1,
     "CRO": 1,
     "DSYNC": 1,
     "PIN": 1,
@@ -29,12 +29,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 38
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 17
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 6
     },
     {
       "symbol": "BNB",
@@ -47,14 +52,14 @@
       "count": 5
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 3
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
     },
     {
       "symbol": "DOT",
@@ -67,13 +72,13 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
@@ -99,11 +104,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     },
     {
