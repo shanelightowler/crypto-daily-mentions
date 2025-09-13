@@ -1,22 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T11:10:53.693246Z",
+  "generated_at_utc": "2025-09-13T12:27:47.027136Z",
   "results": {
-    "BTC": 22,
+    "BTC": 25,
     "ETH": 15,
     "ADA": 5,
+    "BNB": 4,
     "SOL": 3,
     "DOGE": 2,
     "DOT": 2,
-    "BNB": 2,
     "ETC": 1,
+    "XRP": 1,
     "AVAX": 1,
     "LINK": 1,
     "SUI": 1,
     "SEI": 1,
     "HBAR": 1,
+    "NEAR": 1,
     "CRO": 1,
+    "XMR": 1,
     "DSYNC": 1,
     "PIN": 1,
     "PYTH": 1,
@@ -26,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 25
     },
     {
       "symbol": "ETH",
@@ -37,6 +40,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -54,13 +62,13 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 2
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
@@ -89,8 +97,18 @@
       "count": 1
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
