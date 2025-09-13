@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T09:13:34.992661Z",
+  "generated_at_utc": "2025-09-13T10:14:14.807945Z",
   "results": {
-    "BTC": 20,
+    "BTC": 21,
     "ETH": 15,
-    "ADA": 4,
+    "ADA": 5,
+    "DOGE": 2,
     "SOL": 2,
     "BNB": 2,
     "ETC": 1,
@@ -15,17 +16,17 @@
     "SEI": 1,
     "HBAR": 1,
     "CRO": 1,
+    "DOT": 1,
     "DSYNC": 1,
     "PIN": 1,
     "PYTH": 1,
-    "DOGE": 1,
     "WIF": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "ETH",
@@ -35,7 +36,12 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -83,6 +89,11 @@
       "count": 1
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
       "symbol": "DSYNC",
       "name": "",
       "count": 1
@@ -95,11 +106,6 @@
     {
       "symbol": "PYTH",
       "name": "Pyth Network",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
