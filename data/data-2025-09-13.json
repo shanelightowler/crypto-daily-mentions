@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nfizd0/daily_crypto_discussion_september_13_2025_gmt0/",
-  "generated_at_utc": "2025-09-13T02:43:00.989645Z",
+  "generated_at_utc": "2025-09-13T03:18:21.501053Z",
   "results": {
-    "BTC": 5,
-    "ETH": 5,
+    "ETH": 6,
+    "BTC": 6,
     "ADA": 2,
     "BNB": 2,
     "CRO": 1,
@@ -13,14 +13,14 @@
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 5
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 6
     },
     {
       "symbol": "ADA",
