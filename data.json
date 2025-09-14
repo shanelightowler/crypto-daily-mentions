@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T22:13:19.420623Z",
+  "generated_at_utc": "2025-09-14T23:13:06.889439Z",
   "results": {
-    "BTC": 39,
-    "ETH": 34,
+    "BTC": 43,
+    "ETH": 35,
     "SOL": 20,
     "ADA": 11,
     "BNB": 10,
+    "ETC": 7,
+    "XRP": 7,
     "DOGE": 6,
-    "XRP": 6,
-    "ETC": 4,
     "KAS": 4,
     "LINK": 3,
     "SUI": 2,
@@ -20,18 +20,20 @@
     "HBAR": 1,
     "NEO": 1,
     "DOT": 1,
+    "TON": 1,
+    "ALGO": 1,
     "DYOR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 39
+      "count": 43
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 34
+      "count": 35
     },
     {
       "symbol": "SOL",
@@ -49,19 +51,19 @@
       "count": 10
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 6
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 7
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 6
+      "count": 7
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 4
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 6
     },
     {
       "symbol": "KAS",
@@ -106,6 +108,16 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
