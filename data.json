@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T13:17:06.738063Z",
+  "generated_at_utc": "2025-09-14T14:12:08.399344Z",
   "results": {
-    "BTC": 19,
-    "SOL": 14,
-    "ETH": 13,
+    "BTC": 21,
+    "SOL": 15,
+    "ETH": 14,
     "BNB": 7,
-    "ADA": 4,
+    "ADA": 6,
     "KAS": 4,
     "DOGE": 3,
     "LINK": 3,
@@ -18,23 +18,24 @@
     "HBAR": 1,
     "ETC": 1,
     "NEO": 1,
-    "DOT": 1
+    "DOT": 1,
+    "DYOR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "BNB",
@@ -44,7 +45,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "KAS",
@@ -99,6 +100,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "DYOR",
+      "name": "",
       "count": 1
     }
   ]
