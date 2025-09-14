@@ -1,21 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T02:59:49.676063Z",
+  "generated_at_utc": "2025-09-14T03:36:05.140886Z",
   "results": {
-    "SOL": 5,
+    "SOL": 8,
     "ADA": 2,
-    "DOGE": 1,
-    "CRO": 1,
-    "LINK": 1,
+    "LINK": 2,
+    "ETH": 2,
     "ETC": 1,
-    "ETH": 1
+    "CRO": 1,
+    "BTC": 1,
+    "SUI": 1,
+    "KAS": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 8
     },
     {
       "symbol": "ADA",
@@ -23,8 +26,18 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
@@ -33,18 +46,23 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
