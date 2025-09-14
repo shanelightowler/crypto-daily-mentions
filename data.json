@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T19:10:34.254522Z",
+  "generated_at_utc": "2025-09-14T20:15:07.944978Z",
   "results": {
-    "BTC": 28,
-    "ETH": 21,
+    "BTC": 30,
+    "ETH": 23,
     "SOL": 18,
-    "ADA": 10,
+    "ADA": 11,
     "BNB": 9,
     "DOGE": 6,
+    "XRP": 6,
     "KAS": 4,
+    "ETC": 3,
     "LINK": 3,
-    "XRP": 2,
-    "ETC": 2,
     "SUI": 2,
     "PUMP": 1,
     "CRO": 1,
@@ -25,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 30
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 23
     },
     {
       "symbol": "SOL",
@@ -40,7 +40,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "BNB",
@@ -53,24 +53,24 @@
       "count": 6
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 6
+    },
+    {
       "symbol": "KAS",
       "name": "Kaspa",
       "count": 4
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "SUI",
