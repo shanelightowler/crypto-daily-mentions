@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T09:13:38.811322Z",
+  "generated_at_utc": "2025-09-14T10:13:25.281166Z",
   "results": {
-    "SOL": 12,
-    "ETH": 7,
-    "BTC": 6,
-    "BNB": 6,
-    "ADA": 3,
+    "SOL": 13,
+    "ETH": 11,
+    "BTC": 9,
+    "BNB": 7,
+    "ADA": 4,
     "KAS": 3,
     "XRP": 2,
     "DOGE": 2,
@@ -16,33 +16,35 @@
     "SUI": 1,
     "CRO": 1,
     "HBAR": 1,
-    "ETC": 1
+    "ETC": 1,
+    "NEO": 1,
+    "DOT": 1
   },
   "results_list": [
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 11
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 9
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "KAS",
@@ -87,6 +89,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     }
   ]
