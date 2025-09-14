@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T07:13:28.078321Z",
+  "generated_at_utc": "2025-09-14T08:18:04.024548Z",
   "results": {
-    "SOL": 9,
-    "BNB": 5,
-    "BTC": 5,
-    "ETH": 3,
+    "SOL": 10,
+    "ETH": 6,
+    "BTC": 6,
+    "BNB": 6,
+    "KAS": 3,
     "ADA": 2,
-    "LINK": 2,
-    "KAS": 2,
     "DOGE": 2,
+    "LINK": 2,
     "PUMP": 1,
+    "HBAR": 1,
     "SUI": 1,
     "CRO": 1,
     "ETC": 1,
@@ -21,21 +22,26 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 5
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 5
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 6
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 6
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 6
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 3
     },
     {
@@ -44,23 +50,23 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "count": 2
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "PUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
