@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T10:13:25.281166Z",
+  "generated_at_utc": "2025-09-14T11:10:35.654037Z",
   "results": {
-    "SOL": 13,
-    "ETH": 11,
-    "BTC": 9,
+    "BTC": 15,
+    "SOL": 14,
+    "ETH": 13,
     "BNB": 7,
     "ADA": 4,
-    "KAS": 3,
+    "KAS": 4,
+    "LINK": 3,
     "XRP": 2,
     "DOGE": 2,
-    "LINK": 2,
+    "SUI": 2,
     "PUMP": 1,
-    "SUI": 1,
     "CRO": 1,
     "HBAR": 1,
     "ETC": 1,
@@ -22,19 +22,19 @@
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 15
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 9
+      "count": 13
     },
     {
       "symbol": "BNB",
@@ -49,6 +49,11 @@
     {
       "symbol": "KAS",
       "name": "Kaspa",
+      "count": 4
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 3
     },
     {
@@ -62,18 +67,13 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
       "symbol": "PUMP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     },
     {
