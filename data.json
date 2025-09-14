@@ -1,22 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T15:13:03.411468Z",
+  "generated_at_utc": "2025-09-14T16:15:51.535928Z",
   "results": {
-    "BTC": 23,
+    "BTC": 25,
     "SOL": 17,
-    "ETH": 16,
-    "ADA": 8,
+    "ETH": 17,
+    "ADA": 10,
     "BNB": 8,
-    "DOGE": 6,
+    "DOGE": 7,
     "KAS": 4,
     "LINK": 3,
     "XRP": 2,
     "SUI": 2,
     "PUMP": 1,
     "CRO": 1,
-    "HBAR": 1,
     "ETC": 1,
+    "HBAR": 1,
     "NEO": 1,
     "DOT": 1,
     "DYOR": 1
@@ -25,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 25
     },
     {
       "symbol": "SOL",
@@ -35,12 +35,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "BNB",
@@ -50,7 +50,7 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "KAS",
@@ -83,13 +83,13 @@
       "count": 1
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
