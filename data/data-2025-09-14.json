@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T12:27:23.414792Z",
+  "generated_at_utc": "2025-09-14T13:17:06.738063Z",
   "results": {
     "BTC": 19,
     "SOL": 14,
@@ -9,9 +9,9 @@
     "BNB": 7,
     "ADA": 4,
     "KAS": 4,
+    "DOGE": 3,
     "LINK": 3,
     "XRP": 2,
-    "DOGE": 2,
     "SUI": 2,
     "PUMP": 1,
     "CRO": 1,
@@ -52,6 +52,11 @@
       "count": 4
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
@@ -59,11 +64,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 2
     },
     {
