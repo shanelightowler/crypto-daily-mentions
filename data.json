@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T04:17:48.626614Z",
+  "generated_at_utc": "2025-09-14T05:13:44.595741Z",
   "results": {
     "SOL": 8,
     "ADA": 2,
-    "LINK": 2,
     "ETH": 2,
+    "LINK": 2,
     "KAS": 2,
-    "CRO": 1,
+    "PUMP": 1,
     "DOGE": 1,
-    "ETC": 1,
+    "CRO": 1,
     "BTC": 1,
-    "SUI": 1
+    "SUI": 1,
+    "ETC": 1
   },
   "results_list": [
     {
@@ -26,13 +27,13 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -41,8 +42,8 @@
       "count": 2
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "PUMP",
+      "name": "",
       "count": 1
     },
     {
@@ -51,8 +52,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
@@ -63,6 +64,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
