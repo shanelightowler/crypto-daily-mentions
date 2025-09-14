@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T21:12:24.701653Z",
+  "generated_at_utc": "2025-09-14T22:13:19.420623Z",
   "results": {
-    "BTC": 33,
-    "ETH": 27,
-    "SOL": 18,
+    "BTC": 39,
+    "ETH": 34,
+    "SOL": 20,
     "ADA": 11,
-    "BNB": 9,
+    "BNB": 10,
     "DOGE": 6,
     "XRP": 6,
+    "ETC": 4,
     "KAS": 4,
-    "ETC": 3,
     "LINK": 3,
     "SUI": 2,
     "XMR": 1,
@@ -26,17 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 34
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "ADA",
@@ -46,7 +46,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "DOGE",
@@ -59,14 +59,14 @@
       "count": 6
     },
     {
-      "symbol": "KAS",
-      "name": "Kaspa",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 4
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "count": 4
     },
     {
       "symbol": "LINK",
