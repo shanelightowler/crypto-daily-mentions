@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T20:15:07.944978Z",
+  "generated_at_utc": "2025-09-14T21:12:24.701653Z",
   "results": {
-    "BTC": 30,
-    "ETH": 23,
+    "BTC": 33,
+    "ETH": 27,
     "SOL": 18,
     "ADA": 11,
     "BNB": 9,
@@ -14,6 +14,7 @@
     "ETC": 3,
     "LINK": 3,
     "SUI": 2,
+    "XMR": 1,
     "PUMP": 1,
     "CRO": 1,
     "HBAR": 1,
@@ -25,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 33
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 23
+      "count": 27
     },
     {
       "symbol": "SOL",
@@ -76,6 +77,11 @@
       "symbol": "SUI",
       "name": "Sui",
       "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
     },
     {
       "symbol": "PUMP",
