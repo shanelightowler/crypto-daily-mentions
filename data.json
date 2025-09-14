@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ngco73/daily_crypto_discussion_september_14_2025_gmt0/",
-  "generated_at_utc": "2025-09-14T03:36:05.140886Z",
+  "generated_at_utc": "2025-09-14T04:17:48.626614Z",
   "results": {
     "SOL": 8,
     "ADA": 2,
     "LINK": 2,
     "ETH": 2,
-    "ETC": 1,
+    "KAS": 2,
     "CRO": 1,
+    "DOGE": 1,
+    "ETC": 1,
     "BTC": 1,
-    "SUI": 1,
-    "KAS": 1,
-    "DOGE": 1
+    "SUI": 1
   },
   "results_list": [
     {
@@ -36,13 +36,23 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "count": 2
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
@@ -53,16 +63,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     }
   ]
