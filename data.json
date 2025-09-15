@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T09:18:40.625349Z",
+  "generated_at_utc": "2025-09-15T10:16:58.254245Z",
   "results": {
+    "BTC": 30,
     "ETH": 29,
-    "BTC": 26,
     "ADA": 5,
     "SOL": 4,
     "KAS": 3,
+    "CRO": 3,
     "XRP": 2,
-    "CRO": 2,
     "DOGE": 1,
     "ETC": 1,
+    "EGLD": 1,
     "DOT": 1,
     "NEAR": 1,
     "BNB": 1,
@@ -20,14 +21,14 @@
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 30
+    },
+    {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 29
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 26
     },
     {
       "symbol": "ADA",
@@ -45,13 +46,13 @@
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -62,6 +63,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "EGLD",
+      "name": "MultiversX (EGLD)",
       "count": 1
     },
     {
