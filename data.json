@@ -1,33 +1,43 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T08:21:12.936515Z",
+  "generated_at_utc": "2025-09-15T09:18:40.625349Z",
   "results": {
-    "ETH": 27,
-    "BTC": 21,
-    "ADA": 3,
+    "ETH": 29,
+    "BTC": 26,
+    "ADA": 5,
+    "SOL": 4,
     "KAS": 3,
     "XRP": 2,
-    "SOL": 1,
+    "CRO": 2,
+    "DOGE": 1,
     "ETC": 1,
-    "CRO": 1,
-    "NEAR": 1
+    "DOT": 1,
+    "NEAR": 1,
+    "BNB": 1,
+    "SUI": 1,
+    "PEPE": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 29
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 26
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
     },
     {
       "symbol": "KAS",
@@ -40,8 +50,13 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
@@ -50,13 +65,28 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     }
   ]
