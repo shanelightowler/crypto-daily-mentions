@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T19:12:28.604003Z",
+  "generated_at_utc": "2025-09-15T20:16:35.874438Z",
   "results": {
     "BTC": 57,
     "ETH": 47,
@@ -9,10 +9,10 @@
     "SOL": 8,
     "KAS": 3,
     "CRO": 3,
+    "LINK": 3,
     "XRP": 2,
     "ICP": 2,
     "SUI": 2,
-    "LINK": 2,
     "DOGE": 1,
     "ZORA": 1,
     "TON": 1,
@@ -57,6 +57,11 @@
       "count": 3
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
@@ -69,11 +74,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 2
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 2
     },
     {
