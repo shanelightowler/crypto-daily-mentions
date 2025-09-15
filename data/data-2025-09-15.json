@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T13:24:54.019152Z",
+  "generated_at_utc": "2025-09-15T14:16:11.418189Z",
   "results": {
-    "BTC": 41,
-    "ETH": 40,
+    "BTC": 43,
+    "ETH": 41,
+    "ADA": 9,
     "SOL": 8,
-    "ADA": 7,
     "KAS": 3,
     "CRO": 3,
     "XRP": 2,
+    "ICP": 2,
     "SUI": 2,
     "DOGE": 1,
     "TON": 1,
     "ETC": 1,
+    "FLOKI": 1,
     "EGLD": 1,
     "DOT": 1,
     "NEAR": 1,
-    "ICP": 1,
     "BNB": 1,
     "PEPE": 1
   },
@@ -25,22 +26,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 43
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 41
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 9
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 8
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 7
     },
     {
       "symbol": "KAS",
@@ -55,6 +56,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 2
     },
     {
@@ -78,6 +84,11 @@
       "count": 1
     },
     {
+      "symbol": "FLOKI",
+      "name": "Floki",
+      "count": 1
+    },
+    {
       "symbol": "EGLD",
       "name": "MultiversX (EGLD)",
       "count": 1
@@ -90,11 +101,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
       "count": 1
     },
     {
