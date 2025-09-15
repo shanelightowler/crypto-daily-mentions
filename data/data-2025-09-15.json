@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T11:13:00.158407Z",
+  "generated_at_utc": "2025-09-15T12:32:30.682247Z",
   "results": {
-    "ETH": 33,
-    "BTC": 31,
+    "BTC": 39,
+    "ETH": 37,
+    "SOL": 7,
     "ADA": 7,
-    "SOL": 6,
     "KAS": 3,
     "CRO": 3,
     "XRP": 2,
     "SUI": 2,
     "DOGE": 1,
+    "TON": 1,
     "ETC": 1,
     "EGLD": 1,
     "DOT": 1,
@@ -21,24 +22,24 @@
   },
   "results_list": [
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 33
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 39
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 37
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 7
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 6
     },
     {
       "symbol": "KAS",
@@ -63,6 +64,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
