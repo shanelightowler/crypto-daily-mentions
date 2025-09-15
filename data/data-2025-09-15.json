@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - September 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nh6zel/daily_crypto_discussion_september_15_2025_gmt0/",
-  "generated_at_utc": "2025-09-15T16:19:29.544355Z",
+  "generated_at_utc": "2025-09-15T17:13:33.339964Z",
   "results": {
-    "BTC": 51,
+    "BTC": 54,
     "ETH": 45,
     "ADA": 9,
     "SOL": 8,
@@ -13,8 +13,9 @@
     "ICP": 2,
     "SUI": 2,
     "DOGE": 1,
-    "TON": 1,
+    "BONK": 1,
     "ZORA": 1,
+    "TON": 1,
     "ETC": 1,
     "FLOKI": 1,
     "EGLD": 1,
@@ -28,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 54
     },
     {
       "symbol": "ETH",
@@ -76,13 +77,18 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
       "symbol": "ZORA",
       "name": "zora",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
