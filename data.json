@@ -1,29 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - September 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ni2dl0/daily_crypto_discussion_september_16_2025_gmt0/",
-  "generated_at_utc": "2025-09-16T19:12:49.977170Z",
+  "generated_at_utc": "2025-09-16T20:16:57.454369Z",
   "results": {
-    "BTC": 37,
-    "ETH": 21,
+    "BTC": 39,
+    "ETH": 25,
+    "BNB": 5,
+    "SOL": 3,
     "DOT": 3,
-    "BNB": 2,
-    "SOL": 2,
     "AVAX": 2,
+    "LINK": 2,
+    "NEAR": 2,
     "HYPE": 1,
-    "LINK": 1,
-    "NEAR": 1,
-    "PEPE": 1
+    "PEPE": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 25
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 5
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "DOT",
@@ -31,18 +42,18 @@
       "count": 3
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -51,18 +62,13 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
