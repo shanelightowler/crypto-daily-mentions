@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - September 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ni2dl0/daily_crypto_discussion_september_16_2025_gmt0/",
-  "generated_at_utc": "2025-09-16T10:16:32.208667Z",
+  "generated_at_utc": "2025-09-16T11:12:51.573980Z",
   "results": {
-    "BTC": 12,
-    "ETH": 6,
+    "BTC": 14,
+    "ETH": 7,
+    "AVAX": 2,
     "LINK": 1,
     "DOT": 1
   },
@@ -12,12 +13,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
     },
     {
       "symbol": "LINK",
