@@ -1,21 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - September 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1niy0m5/daily_crypto_discussion_september_17_2025_gmt0/",
-  "generated_at_utc": "2025-09-17T12:32:16.442235Z",
+  "generated_at_utc": "2025-09-17T13:24:47.603049Z",
   "results": {
-    "BTC": 13,
+    "BTC": 14,
     "ETH": 10,
     "BNB": 2,
     "GMX": 1,
     "ETC": 1,
-    "LTC": 1,
-    "MKR": 1
+    "MKR": 1,
+    "LTC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "ETH",
@@ -38,13 +38,13 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "MKR",
+      "name": "Maker",
       "count": 1
     },
     {
-      "symbol": "MKR",
-      "name": "Maker",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     }
   ]
