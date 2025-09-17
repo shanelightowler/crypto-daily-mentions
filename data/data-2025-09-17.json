@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - September 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1niy0m5/daily_crypto_discussion_september_17_2025_gmt0/",
-  "generated_at_utc": "2025-09-17T20:16:30.370613Z",
+  "generated_at_utc": "2025-09-17T21:13:28.792765Z",
   "results": {
-    "BTC": 30,
+    "BTC": 31,
     "ETH": 15,
     "BNB": 3,
     "XRP": 3,
     "ADA": 3,
     "DOT": 3,
     "MANA": 3,
+    "DOGE": 2,
     "SOL": 2,
+    "ETC": 2,
     "SAND": 1,
     "GMX": 1,
-    "ETC": 1,
+    "NEAR": 1,
     "ALGO": 1,
     "LINK": 1,
     "HBAR": 1,
@@ -25,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 31
     },
     {
       "symbol": "ETH",
@@ -58,8 +60,18 @@
       "count": 3
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -73,8 +85,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
