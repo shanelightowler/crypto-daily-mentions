@@ -1,31 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - September 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1njtf17/daily_crypto_discussion_september_18_2025_gmt0/",
-  "generated_at_utc": "2025-09-18T17:13:18.084302Z",
+  "generated_at_utc": "2025-09-18T18:22:34.921227Z",
   "results": {
-    "BTC": 22,
+    "BTC": 24,
     "BNB": 20,
-    "ETH": 12,
-    "SOL": 7,
+    "ETH": 14,
+    "SOL": 9,
+    "AVAX": 5,
+    "DOGE": 5,
     "ETC": 4,
-    "AVAX": 3,
+    "NEAR": 3,
     "SUI": 3,
     "ADA": 2,
-    "DOGE": 2,
-    "NEAR": 2,
+    "CRO": 2,
     "LINK": 1,
-    "TON": 1,
     "XRP": 1,
+    "TON": 1,
     "IMX": 1,
     "32": 1,
-    "WIF": 1,
-    "CRO": 1
+    "WIF": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 24
     },
     {
       "symbol": "BNB",
@@ -35,12 +35,22 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 7
+      "count": 9
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 5
     },
     {
       "symbol": "ETC",
@@ -48,8 +58,8 @@
       "count": 4
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 3
     },
     {
@@ -63,13 +73,8 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 2
     },
     {
@@ -78,13 +83,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -100,11 +105,6 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
-      "count": 1
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
       "count": 1
     }
   ]
