@@ -1,31 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - September 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1njtf17/daily_crypto_discussion_september_18_2025_gmt0/",
-  "generated_at_utc": "2025-09-18T18:22:34.921227Z",
+  "generated_at_utc": "2025-09-18T19:12:55.317423Z",
   "results": {
-    "BTC": 24,
+    "BTC": 29,
     "BNB": 20,
     "ETH": 14,
-    "SOL": 9,
-    "AVAX": 5,
-    "DOGE": 5,
+    "SOL": 12,
+    "DOGE": 8,
+    "AVAX": 6,
     "ETC": 4,
-    "NEAR": 3,
     "SUI": 3,
+    "XRP": 3,
+    "NEAR": 3,
     "ADA": 2,
     "CRO": 2,
     "LINK": 1,
-    "XRP": 1,
     "TON": 1,
     "IMX": 1,
     "32": 1,
+    "PLUME": 1,
     "WIF": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 29
     },
     {
       "symbol": "BNB",
@@ -40,17 +41,17 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 5
+      "count": 12
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 5
+      "count": 8
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 6
     },
     {
       "symbol": "ETC",
@@ -58,13 +59,18 @@
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 3
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 3
     },
     {
@@ -83,11 +89,6 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 1
@@ -99,6 +100,11 @@
     },
     {
       "symbol": "32",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "PLUME",
       "name": "",
       "count": 1
     },
