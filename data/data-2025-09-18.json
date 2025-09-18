@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - September 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1njtf17/daily_crypto_discussion_september_18_2025_gmt0/",
-  "generated_at_utc": "2025-09-18T21:14:09.099307Z",
+  "generated_at_utc": "2025-09-18T22:12:48.289857Z",
   "results": {
-    "BTC": 34,
+    "BTC": 35,
     "ETH": 21,
     "BNB": 20,
     "SOL": 14,
+    "AVAX": 9,
     "DOGE": 8,
-    "AVAX": 7,
     "ETC": 6,
     "NEAR": 4,
     "SUI": 3,
@@ -18,15 +18,15 @@
     "LINK": 1,
     "TON": 1,
     "32": 1,
-    "SEI": 1,
     "PLUME": 1,
+    "SEI": 1,
     "WIF": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 35
     },
     {
       "symbol": "ETH",
@@ -44,14 +44,14 @@
       "count": 14
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 9
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 8
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 7
     },
     {
       "symbol": "ETC",
@@ -99,13 +99,13 @@
       "count": 1
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
+      "symbol": "PLUME",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "PLUME",
-      "name": "",
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 1
     },
     {
