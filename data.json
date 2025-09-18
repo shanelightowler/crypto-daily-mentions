@@ -1,48 +1,55 @@
 {
   "thread_title": "Daily Crypto Discussion - September 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1njtf17/daily_crypto_discussion_september_18_2025_gmt0/",
-  "generated_at_utc": "2025-09-18T16:19:26.543946Z",
+  "generated_at_utc": "2025-09-18T17:13:18.084302Z",
   "results": {
+    "BTC": 22,
     "BNB": 20,
-    "BTC": 18,
-    "ETH": 9,
-    "SOL": 5,
-    "ETC": 3,
+    "ETH": 12,
+    "SOL": 7,
+    "ETC": 4,
+    "AVAX": 3,
     "SUI": 3,
     "ADA": 2,
-    "AVAX": 2,
     "DOGE": 2,
     "NEAR": 2,
     "LINK": 1,
-    "IMX": 1,
+    "TON": 1,
     "XRP": 1,
+    "IMX": 1,
     "32": 1,
+    "WIF": 1,
     "CRO": 1
   },
   "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 22
+    },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 20
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 18
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 12
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 3
     },
     {
@@ -53,11 +60,6 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 2
     },
     {
@@ -76,8 +78,8 @@
       "count": 1
     },
     {
-      "symbol": "IMX",
-      "name": "Immutable",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -86,8 +88,18 @@
       "count": 1
     },
     {
+      "symbol": "IMX",
+      "name": "Immutable",
+      "count": 1
+    },
+    {
       "symbol": "32",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
