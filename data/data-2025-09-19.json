@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - September 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nkoi2k/daily_crypto_discussion_september_19_2025_gmt0/",
-  "generated_at_utc": "2025-09-19T15:15:42.619069Z",
+  "generated_at_utc": "2025-09-19T16:18:49.929272Z",
   "results": {
-    "BTC": 31,
-    "ETH": 10,
+    "BTC": 44,
+    "ETH": 12,
     "BNB": 5,
     "SOL": 4,
-    "DOT": 2,
+    "AVAX": 3,
+    "DOT": 3,
+    "LINK": 2,
     "HBAR": 1,
     "ALGO": 1,
-    "AVAX": 1,
-    "LINK": 1,
     "IMX": 1,
+    "DOGE": 1,
     "TON": 1,
     "TRX": 1,
     "XRP": 1
@@ -21,12 +22,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 44
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "BNB",
@@ -39,8 +40,18 @@
       "count": 4
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -54,18 +65,13 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "IMX",
       "name": "Immutable",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
