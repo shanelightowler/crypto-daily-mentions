@@ -1,28 +1,45 @@
 {
   "thread_title": "Daily Crypto Discussion - September 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nkoi2k/daily_crypto_discussion_september_19_2025_gmt0/",
-  "generated_at_utc": "2025-09-19T01:12:18.560375Z",
+  "generated_at_utc": "2025-09-19T02:57:46.559398Z",
   "results": {
-    "BTC": 1,
-    "ETH": 1,
-    "BNB": 1,
+    "ETH": 3,
+    "SOL": 3,
+    "BNB": 2,
+    "BTC": 2,
+    "HBAR": 1,
     "DOT": 1,
-    "LINK": 1
+    "LINK": 1,
+    "AVAX": 1,
+    "IMX": 1,
+    "TON": 1,
+    "TRX": 1,
+    "XRP": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 1
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 1
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
@@ -33,6 +50,31 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "IMX",
+      "name": "Immutable",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
