@@ -1,44 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - September 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nkoi2k/daily_crypto_discussion_september_19_2025_gmt0/",
-  "generated_at_utc": "2025-09-19T17:13:07.884021Z",
+  "generated_at_utc": "2025-09-19T18:21:34.594241Z",
   "results": {
-    "BTC": 45,
-    "ETH": 12,
+    "BTC": 51,
+    "ETH": 14,
+    "SOL": 6,
     "BNB": 5,
-    "SOL": 4,
     "AVAX": 3,
     "DOT": 3,
+    "HBAR": 2,
+    "LINK": 2,
     "NEAR": 2,
-    "HBAR": 1,
+    "TON": 2,
+    "TRX": 2,
+    "XRP": 2,
     "ALGO": 1,
     "IMX": 1,
-    "LINK": 1,
     "DOGE": 1,
-    "TON": 1,
-    "TRX": 1,
-    "XRP": 1
+    "ADA": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 14
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 6
     },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 5
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
     },
     {
       "symbol": "AVAX",
@@ -51,14 +53,34 @@
       "count": 3
     },
     {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 1
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "ALGO",
@@ -71,28 +93,18 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
