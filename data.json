@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - September 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nkoi2k/daily_crypto_discussion_september_19_2025_gmt0/",
-  "generated_at_utc": "2025-09-19T07:14:50.793617Z",
+  "generated_at_utc": "2025-09-19T08:20:32.670290Z",
   "results": {
-    "BTC": 10,
+    "BTC": 11,
     "ETH": 6,
     "BNB": 3,
     "SOL": 3,
+    "DOT": 2,
     "HBAR": 1,
-    "DOT": 1,
     "AVAX": 1,
     "LINK": 1,
     "IMX": 1,
@@ -20,7 +20,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "ETH",
@@ -38,13 +38,13 @@
       "count": 3
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 1
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
