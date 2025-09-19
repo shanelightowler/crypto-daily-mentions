@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - September 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nkoi2k/daily_crypto_discussion_september_19_2025_gmt0/",
-  "generated_at_utc": "2025-09-19T21:13:28.637706Z",
+  "generated_at_utc": "2025-09-19T22:13:55.855713Z",
   "results": {
-    "BTC": 74,
-    "ETH": 19,
-    "SOL": 11,
+    "BTC": 81,
+    "ETH": 26,
+    "SOL": 12,
     "BNB": 5,
     "HBAR": 3,
     "AVAX": 3,
@@ -18,6 +18,7 @@
     "ALGO": 1,
     "IMX": 1,
     "DOGE": 1,
+    "ROSE": 1,
     "ADA": 1,
     "SUI": 1
   },
@@ -25,17 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 74
+      "count": 81
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 26
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "BNB",
@@ -95,6 +96,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     },
     {
