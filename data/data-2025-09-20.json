@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nljimp/daily_crypto_discussion_september_20_2025_gmt0/",
-  "generated_at_utc": "2025-09-20T10:14:22.258161Z",
+  "generated_at_utc": "2025-09-20T11:11:27.869530Z",
   "results": {
     "BTC": 5,
-    "BNB": 1,
+    "ETH": 2,
     "ADA": 1,
-    "ETH": 1
+    "BNB": 1
   },
   "results_list": [
     {
@@ -15,9 +15,9 @@
       "count": 5
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
     },
     {
       "symbol": "ADA",
@@ -25,8 +25,8 @@
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     }
   ]
