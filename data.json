@@ -1,22 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nljimp/daily_crypto_discussion_september_20_2025_gmt0/",
-  "generated_at_utc": "2025-09-20T16:16:34.734601Z",
+  "generated_at_utc": "2025-09-20T17:11:27.045336Z",
   "results": {
-    "BTC": 13,
+    "BTC": 14,
     "BNB": 12,
     "ETH": 10,
     "SOL": 4,
     "ADA": 3,
     "XRP": 2,
     "NEAR": 2,
-    "HYPE": 1
+    "HYPE": 1,
+    "AVAX": 1,
+    "PYTH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "BNB",
@@ -51,6 +53,16 @@
     {
       "symbol": "HYPE",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
       "count": 1
     }
   ]
