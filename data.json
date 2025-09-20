@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - September 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nljimp/daily_crypto_discussion_september_20_2025_gmt0/",
-  "generated_at_utc": "2025-09-20T22:13:06.755378Z",
+  "generated_at_utc": "2025-09-20T23:13:34.504385Z",
   "results": {
+    "BNB": 20,
     "BTC": 18,
-    "BNB": 18,
     "ETH": 10,
     "SOL": 4,
+    "HYPE": 3,
     "ADA": 3,
+    "CAKE": 3,
     "XRP": 2,
-    "CAKE": 2,
-    "HYPE": 2,
+    "ASTER": 1,
     "NEAR": 1,
     "AVAX": 1,
     "PYTH": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 18
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 20
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "count": 18
     },
     {
@@ -37,8 +38,18 @@
       "count": 4
     },
     {
+      "symbol": "HYPE",
+      "name": "",
+      "count": 3
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 3
     },
     {
@@ -47,14 +58,9 @@
       "count": 2
     },
     {
-      "symbol": "CAKE",
+      "symbol": "ASTER",
       "name": "",
-      "count": 2
-    },
-    {
-      "symbol": "HYPE",
-      "name": "",
-      "count": 2
+      "count": 1
     },
     {
       "symbol": "NEAR",
