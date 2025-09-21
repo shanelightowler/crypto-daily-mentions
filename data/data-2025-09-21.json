@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nmdib3/daily_crypto_discussion_september_21_2025_gmt0/",
-  "generated_at_utc": "2025-09-21T05:14:09.271064Z",
+  "generated_at_utc": "2025-09-21T06:21:31.883293Z",
   "results": {
-    "BNB": 7,
+    "BNB": 9,
     "BTC": 6,
     "ETH": 2,
-    "SOL": 1
+    "SOL": 2
   },
   "results_list": [
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 7
+      "count": 9
     },
     {
       "symbol": "BTC",
@@ -27,7 +27,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
+      "count": 2
     }
   ]
 }
