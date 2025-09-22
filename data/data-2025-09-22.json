@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - September 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nn7oxf/daily_crypto_discussion_september_22_2025_gmt0/",
-  "generated_at_utc": "2025-09-22T13:26:09.129705Z",
+  "generated_at_utc": "2025-09-22T14:16:51.401938Z",
   "results": {
-    "BTC": 73,
-    "ETH": 27,
-    "ETC": 4,
-    "SOL": 3,
+    "BTC": 76,
+    "ETH": 33,
+    "ETC": 5,
+    "SOL": 4,
     "CRO": 3,
     "NEAR": 2,
     "BNB": 2,
+    "TSLA": 1,
     "ADA": 1,
     "KTA": 1,
     "QNT": 1,
+    "LTC": 1,
     "BAT": 1,
     "OP": 1
   },
@@ -20,22 +22,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 73
+      "count": 76
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 33
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "CRO",
@@ -53,6 +55,11 @@
       "count": 2
     },
     {
+      "symbol": "TSLA",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 1
@@ -65,6 +72,11 @@
     {
       "symbol": "QNT",
       "name": "Quant",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
