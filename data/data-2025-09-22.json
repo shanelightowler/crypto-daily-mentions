@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nn7oxf/daily_crypto_discussion_september_22_2025_gmt0/",
-  "generated_at_utc": "2025-09-22T12:33:01.036960Z",
+  "generated_at_utc": "2025-09-22T13:26:09.129705Z",
   "results": {
-    "BTC": 69,
-    "ETH": 25,
+    "BTC": 73,
+    "ETH": 27,
     "ETC": 4,
+    "SOL": 3,
+    "CRO": 3,
     "NEAR": 2,
     "BNB": 2,
-    "SOL": 2,
-    "CRO": 2,
     "ADA": 1,
     "KTA": 1,
     "QNT": 1,
@@ -20,17 +20,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 69
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 27
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 3
     },
     {
       "symbol": "NEAR",
@@ -40,16 +50,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
       "count": 2
     },
     {
