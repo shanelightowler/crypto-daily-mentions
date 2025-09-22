@@ -1,0 +1,25 @@
+{
+  "thread_title": "Daily General Discussion September 22, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1nndn3q/daily_general_discussion_september_22_2025/",
+  "generated_at_utc": "2025-09-22T08:39:43.281734Z",
+  "date": "2025-09-22",
+  "summary": {
+    "count": 1,
+    "mean_usd": 125000.0,
+    "median_usd": 125000.0,
+    "min_usd": 125000.0,
+    "max_usd": 125000.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 125000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$125k",
+      "sentence": "Market top @ BTC price of $125k or so followed by a typical bear market (70% or so) correction, I believe.",
+      "comment_id": "nfk0rfi",
+      "author": "invisibullcow",
+      "accept_reason": "single"
+    }
+  ]
+}
