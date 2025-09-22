@@ -1,36 +1,49 @@
 {
   "thread_title": "Daily Crypto Discussion - September 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nn7oxf/daily_crypto_discussion_september_22_2025_gmt0/",
-  "generated_at_utc": "2025-09-22T17:13:33.374039Z",
+  "generated_at_utc": "2025-09-22T18:22:02.569602Z",
   "results": {
-    "BTC": 108,
-    "ETH": 42,
+    "BTC": 118,
+    "ETH": 50,
+    "SOL": 9,
     "ETC": 5,
-    "SOL": 4,
-    "BNB": 3,
+    "BNB": 4,
+    "ADA": 3,
     "CRO": 3,
     "NEAR": 2,
-    "ADA": 2,
+    "LTC": 2,
     "TSLA": 1,
     "SEI": 1,
     "KTA": 1,
     "SUI": 1,
     "QNT": 1,
-    "LTC": 1,
     "BAT": 1,
     "TON": 1,
+    "XRP": 1,
+    "DOGE": 1,
+    "TRX": 1,
+    "LINK": 1,
+    "AVAX": 1,
+    "XLM": 1,
+    "HBAR": 1,
+    "DOT": 1,
     "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 108
+      "count": 118
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 42
+      "count": 50
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 9
     },
     {
       "symbol": "ETC",
@@ -38,13 +51,13 @@
       "count": 5
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 4
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
@@ -58,8 +71,8 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
@@ -88,11 +101,6 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
       "symbol": "BAT",
       "name": "Basic Attention Token",
       "count": 1
@@ -100,6 +108,46 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
