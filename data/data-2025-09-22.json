@@ -1,34 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - September 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nn7oxf/daily_crypto_discussion_september_22_2025_gmt0/",
-  "generated_at_utc": "2025-09-22T15:17:22.076921Z",
+  "generated_at_utc": "2025-09-22T16:20:46.767675Z",
   "results": {
-    "BTC": 90,
-    "ETH": 33,
+    "BTC": 105,
+    "ETH": 41,
     "ETC": 5,
     "SOL": 4,
+    "BNB": 3,
     "CRO": 3,
     "NEAR": 2,
-    "BNB": 2,
+    "ADA": 2,
     "TSLA": 1,
     "SEI": 1,
-    "ADA": 1,
     "KTA": 1,
+    "SUI": 1,
     "QNT": 1,
     "LTC": 1,
     "BAT": 1,
+    "TON": 1,
     "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 90
+      "count": 105
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 33
+      "count": 41
     },
     {
       "symbol": "ETC",
@@ -41,6 +43,11 @@
       "count": 4
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 3
+    },
+    {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 3
@@ -51,8 +58,8 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -66,13 +73,13 @@
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "KTA",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "KTA",
-      "name": "",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
@@ -88,6 +95,11 @@
     {
       "symbol": "BAT",
       "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
