@@ -1,25 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - September 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nn7oxf/daily_crypto_discussion_september_22_2025_gmt0/",
-  "generated_at_utc": "2025-09-22T10:18:00.165027Z",
+  "generated_at_utc": "2025-09-22T11:13:34.397091Z",
   "results": {
-    "BTC": 57,
+    "BTC": 63,
     "ETH": 25,
     "ETC": 3,
-    "NEAR": 2,
     "BNB": 2,
+    "NEAR": 2,
     "SOL": 2,
     "CRO": 2,
     "ADA": 1,
     "KTA": 1,
     "QNT": 1,
+    "BAT": 1,
     "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 63
     },
     {
       "symbol": "ETH",
@@ -32,13 +33,13 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -64,6 +65,11 @@
     {
       "symbol": "QNT",
       "name": "Quant",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 1
     },
     {
