@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - September 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1no2njl/daily_crypto_discussion_september_23_2025_gmt0/",
-  "generated_at_utc": "2025-09-23T18:23:02.739302Z",
+  "generated_at_utc": "2025-09-23T19:12:46.253562Z",
   "results": {
-    "BTC": 46,
-    "ETH": 18,
+    "BTC": 53,
+    "ETH": 21,
     "AVAX": 8,
     "ADA": 5,
-    "SOL": 3,
+    "SOL": 4,
     "TON": 3,
     "ALGO": 1,
     "HEMI": 1,
@@ -16,6 +16,7 @@
     "CRO": 1,
     "SUI": 1,
     "ETC": 1,
+    "ICP": 1,
     "XRP": 1,
     "LINK": 1
   },
@@ -23,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 53
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "AVAX",
@@ -43,7 +44,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "TON",
@@ -83,6 +84,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
