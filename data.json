@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - September 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1no2njl/daily_crypto_discussion_september_23_2025_gmt0/",
-  "generated_at_utc": "2025-09-23T22:13:57.769292Z",
+  "generated_at_utc": "2025-09-23T23:13:26.450316Z",
   "results": {
     "BTC": 61,
     "ETH": 23,
@@ -9,6 +9,7 @@
     "ADA": 6,
     "SOL": 5,
     "TON": 3,
+    "BONK": 2,
     "XRP": 2,
     "ALGO": 1,
     "HEMI": 1,
@@ -55,6 +56,11 @@
       "symbol": "TON",
       "name": "Toncoin",
       "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 2
     },
     {
       "symbol": "XRP",
