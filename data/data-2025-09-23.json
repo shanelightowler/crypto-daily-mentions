@@ -1,32 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - September 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1no2njl/daily_crypto_discussion_september_23_2025_gmt0/",
-  "generated_at_utc": "2025-09-23T13:25:41.147657Z",
+  "generated_at_utc": "2025-09-23T14:16:04.224971Z",
   "results": {
-    "BTC": 29,
-    "ETH": 12,
+    "BTC": 34,
+    "ETH": 15,
     "AVAX": 6,
     "ADA": 4,
-    "SOL": 2,
-    "HEMI": 1,
+    "SOL": 3,
+    "TON": 2,
     "ALGO": 1,
+    "HEMI": 1,
     "FET": 1,
-    "CRO": 1,
     "KTA": 1,
+    "CRO": 1,
     "SUI": 1,
     "ETC": 1,
-    "TON": 1
+    "XRP": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 15
     },
     {
       "symbol": "AVAX",
@@ -41,16 +43,21 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
+      "count": 3
     },
     {
-      "symbol": "HEMI",
-      "name": "",
-      "count": 1
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "HEMI",
+      "name": "",
       "count": 1
     },
     {
@@ -59,13 +66,13 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "KTA",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "KTA",
-      "name": "",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
@@ -79,8 +86,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
