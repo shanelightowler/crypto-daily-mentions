@@ -1,11 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - September 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1no2njl/daily_crypto_discussion_september_23_2025_gmt0/",
-  "generated_at_utc": "2025-09-23T01:10:09.814631Z",
+  "generated_at_utc": "2025-09-23T02:55:15.718734Z",
   "results": {
+    "BTC": 1,
     "FET": 1
   },
   "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    },
     {
       "symbol": "FET",
       "name": "Fetch.ai",
