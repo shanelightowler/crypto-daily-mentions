@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1no2njl/daily_crypto_discussion_september_23_2025_gmt0/",
-  "generated_at_utc": "2025-09-23T19:12:46.253562Z",
+  "generated_at_utc": "2025-09-23T20:17:01.105359Z",
   "results": {
-    "BTC": 53,
-    "ETH": 21,
+    "BTC": 55,
+    "ETH": 22,
     "AVAX": 8,
-    "ADA": 5,
-    "SOL": 4,
+    "ADA": 6,
+    "SOL": 5,
     "TON": 3,
+    "XRP": 2,
     "ALGO": 1,
     "HEMI": 1,
     "FET": 1,
@@ -17,19 +18,21 @@
     "SUI": 1,
     "ETC": 1,
     "ICP": 1,
-    "XRP": 1,
+    "BNB": 1,
+    "DOGE": 1,
+    "TRX": 1,
     "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 53
+      "count": 55
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "AVAX",
@@ -39,17 +42,22 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "ALGO",
@@ -92,8 +100,18 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     },
     {
