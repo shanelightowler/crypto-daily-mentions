@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - September 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1noxje4/daily_crypto_discussion_september_24_2025_gmt0/",
-  "generated_at_utc": "2025-09-24T19:12:48.055217Z",
+  "generated_at_utc": "2025-09-24T20:17:48.755460Z",
   "results": {
-    "BTC": 32,
-    "ETH": 18,
-    "BONK": 6,
+    "BTC": 34,
+    "ETH": 23,
+    "BONK": 8,
     "NEAR": 4,
     "WIF": 4,
     "XRP": 3,
@@ -27,17 +27,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 23
     },
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "NEAR",
