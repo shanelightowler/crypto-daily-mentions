@@ -1,26 +1,56 @@
 {
   "thread_title": "Daily Crypto Discussion - September 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1noxje4/daily_crypto_discussion_september_24_2025_gmt0/",
-  "generated_at_utc": "2025-09-24T01:11:05.980282Z",
+  "generated_at_utc": "2025-09-24T02:56:32.753615Z",
   "results": {
-    "BTC": 1,
-    "ETH": 1,
-    "AVAX": 1
+    "BTC": 10,
+    "ETH": 5,
+    "AVAX": 2,
+    "SOL": 1,
+    "XRP": 1,
+    "ADA": 1,
+    "LINK": 1,
+    "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 1
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 1
+      "count": 5
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     }
   ]
