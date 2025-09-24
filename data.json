@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1noxje4/daily_crypto_discussion_september_24_2025_gmt0/",
-  "generated_at_utc": "2025-09-24T11:13:00.665695Z",
+  "generated_at_utc": "2025-09-24T12:32:54.988623Z",
   "results": {
-    "BTC": 15,
+    "BTC": 16,
     "ETH": 11,
+    "NEAR": 4,
     "AVAX": 2,
     "SOL": 2,
     "ADA": 2,
     "GMX": 2,
-    "HBAR": 1,
     "XRP": 1,
     "LINK": 1,
     "LA": 1,
@@ -21,12 +21,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 11
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
     },
     {
       "symbol": "AVAX",
@@ -47,11 +52,6 @@
       "symbol": "GMX",
       "name": "GMX",
       "count": 2
-    },
-    {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 1
     },
     {
       "symbol": "XRP",
