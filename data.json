@@ -1,24 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T17:13:48.280103Z",
+  "generated_at_utc": "2025-09-25T18:23:11.520626Z",
   "results": {
-    "BTC": 94,
-    "ETH": 58,
-    "SOL": 9,
-    "ETC": 7,
+    "BTC": 116,
+    "ETH": 68,
+    "SOL": 11,
+    "ETC": 9,
     "BNB": 6,
     "XRP": 4,
     "ADA": 4,
+    "AVAX": 3,
     "LTC": 2,
-    "AVAX": 2,
     "XMR": 2,
+    "SUI": 2,
     "NEO": 1,
     "XLM": 1,
     "CRO": 1,
-    "DOT": 1,
-    "NEAR": 1,
     "TON": 1,
+    "NEAR": 1,
+    "DOT": 1,
+    "SEI": 1,
     "LINK": 1,
     "TRX": 1,
     "TROLL": 1,
@@ -30,22 +32,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 94
+      "count": 116
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 58
+      "count": 68
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 7
+      "count": 9
     },
     {
       "symbol": "BNB",
@@ -63,18 +65,23 @@
       "count": 4
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -93,8 +100,8 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -103,8 +110,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 1
     },
     {
