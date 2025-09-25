@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T02:58:40.573787Z",
+  "generated_at_utc": "2025-09-25T03:35:52.493863Z",
   "results": {
-    "BTC": 8,
-    "ETH": 6,
+    "BTC": 9,
+    "ETH": 8,
+    "ADA": 1,
     "XRP": 1,
     "SOL": 1,
     "BONK": 1,
@@ -15,12 +16,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
     },
     {
       "symbol": "XRP",
