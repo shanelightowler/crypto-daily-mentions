@@ -1,48 +1,49 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T15:16:56.022680Z",
+  "generated_at_utc": "2025-09-25T16:19:32.611564Z",
   "results": {
-    "BTC": 69,
-    "ETH": 53,
-    "ETC": 6,
-    "SOL": 6,
+    "BTC": 81,
+    "ETH": 57,
+    "SOL": 9,
+    "ETC": 7,
     "BNB": 5,
     "XRP": 4,
     "ADA": 4,
     "LTC": 2,
+    "AVAX": 2,
     "XMR": 2,
     "NEO": 1,
     "XLM": 1,
     "CRO": 1,
     "DOT": 1,
+    "NEAR": 1,
     "LINK": 1,
     "TRX": 1,
     "BONK": 1,
     "TIBBIR": 1,
-    "ALGO": 1,
-    "AVAX": 1
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 69
+      "count": 81
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 53
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 6
+      "count": 57
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 9
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 7
     },
     {
       "symbol": "BNB",
@@ -62,6 +63,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -90,6 +96,11 @@
       "count": 1
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
@@ -112,11 +123,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     }
   ]
