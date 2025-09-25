@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T16:19:32.611564Z",
+  "generated_at_utc": "2025-09-25T17:13:48.280103Z",
   "results": {
-    "BTC": 81,
-    "ETH": 57,
+    "BTC": 94,
+    "ETH": 58,
     "SOL": 9,
     "ETC": 7,
-    "BNB": 5,
+    "BNB": 6,
     "XRP": 4,
     "ADA": 4,
     "LTC": 2,
@@ -18,8 +18,10 @@
     "CRO": 1,
     "DOT": 1,
     "NEAR": 1,
+    "TON": 1,
     "LINK": 1,
     "TRX": 1,
+    "TROLL": 1,
     "BONK": 1,
     "TIBBIR": 1,
     "ALGO": 1
@@ -28,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 81
+      "count": 94
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 57
+      "count": 58
     },
     {
       "symbol": "SOL",
@@ -48,7 +50,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "XRP",
@@ -101,6 +103,11 @@
       "count": 1
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
@@ -108,6 +115,11 @@
     {
       "symbol": "TRX",
       "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "TROLL",
+      "name": "",
       "count": 1
     },
     {
