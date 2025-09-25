@@ -1,36 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T08:20:51.402753Z",
+  "generated_at_utc": "2025-09-25T09:16:36.366256Z",
   "results": {
-    "ETH": 31,
-    "BTC": 29,
-    "SOL": 3,
+    "ETH": 32,
+    "BTC": 32,
     "ADA": 3,
+    "SOL": 3,
     "XRP": 2,
+    "DOT": 1,
     "LINK": 1,
     "TRX": 1,
     "BONK": 1,
     "TIBBIR": 1,
-    "ALGO": 1,
     "BNB": 1,
+    "ALGO": 1,
     "LTC": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 32
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
+      "count": 32
     },
     {
       "symbol": "ADA",
@@ -38,9 +34,19 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
     },
     {
       "symbol": "LINK",
@@ -63,13 +69,13 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
