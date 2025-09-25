@@ -1,14 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nps4al/daily_crypto_discussion_september_25_2025_gmt0/",
-  "generated_at_utc": "2025-09-25T12:33:56.251950Z",
+  "generated_at_utc": "2025-09-25T13:26:52.574125Z",
   "results": {
-    "BTC": 42,
-    "ETH": 38,
-    "SOL": 4,
-    "BNB": 4,
-    "ADA": 3,
-    "XRP": 3,
+    "BTC": 56,
+    "ETH": 46,
+    "ETC": 6,
+    "SOL": 6,
+    "BNB": 5,
+    "XRP": 4,
+    "ADA": 4,
+    "LTC": 2,
+    "NEO": 1,
+    "XLM": 1,
     "CRO": 1,
     "DOT": 1,
     "LINK": 1,
@@ -16,38 +20,58 @@
     "BONK": 1,
     "TIBBIR": 1,
     "ALGO": 1,
-    "LTC": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 38
+      "count": 46
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
     },
     {
       "symbol": "CRO",
@@ -85,8 +109,8 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     }
   ]
