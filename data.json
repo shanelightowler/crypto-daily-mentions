@@ -1,36 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - September 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nqmotq/daily_crypto_discussion_september_26_2025_gmt0/",
-  "generated_at_utc": "2025-09-26T19:12:19.394429Z",
+  "generated_at_utc": "2025-09-26T20:16:32.694092Z",
   "results": {
-    "BTC": 49,
-    "ETH": 16,
+    "BTC": 50,
+    "ETH": 17,
     "SOL": 6,
     "ETC": 3,
     "XRP": 2,
     "BONK": 2,
+    "PEPE": 2,
     "SUI": 1,
     "SNX": 1,
     "SHIB": 1,
     "IP": 1,
     "NEAR": 1,
     "DOGE": 1,
-    "PEPE": 1,
     "BAT": 1,
     "DASH": 1,
     "MINA": 1,
-    "ATOM": 1
+    "ATOM": 1,
+    "LTC": 1,
+    "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 49
+      "count": 50
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "SOL",
@@ -50,6 +52,11 @@
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 2
     },
     {
@@ -83,11 +90,6 @@
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
-    },
-    {
       "symbol": "BAT",
       "name": "Basic Attention Token",
       "count": 1
@@ -105,6 +107,16 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     }
   ]
