@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - September 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nqmotq/daily_crypto_discussion_september_26_2025_gmt0/",
-  "generated_at_utc": "2025-09-26T17:13:34.937413Z",
+  "generated_at_utc": "2025-09-26T18:20:22.530564Z",
   "results": {
-    "BTC": 45,
-    "ETH": 14,
+    "BTC": 46,
+    "ETH": 15,
     "SOL": 5,
     "ETC": 3,
     "XRP": 2,
@@ -12,6 +12,7 @@
     "SUI": 1,
     "SNX": 1,
     "SHIB": 1,
+    "IP": 1,
     "NEAR": 1,
     "DOGE": 1,
     "PEPE": 1,
@@ -24,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 46
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "SOL",
@@ -64,6 +65,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "IP",
+      "name": "",
       "count": 1
     },
     {
