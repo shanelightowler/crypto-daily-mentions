@@ -1,26 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - September 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nqmotq/daily_crypto_discussion_september_26_2025_gmt0/",
-  "generated_at_utc": "2025-09-26T21:13:08.014208Z",
+  "generated_at_utc": "2025-09-26T22:13:41.213853Z",
   "results": {
-    "BTC": 51,
-    "ETH": 19,
+    "BTC": 55,
+    "ETH": 21,
     "SOL": 6,
     "ETC": 3,
     "XRP": 2,
     "BONK": 2,
+    "NEAR": 2,
+    "ATOM": 2,
     "PEPE": 2,
     "SUI": 1,
     "AVAX": 1,
     "SNX": 1,
     "SHIB": 1,
     "IP": 1,
-    "NEAR": 1,
+    "DOT": 1,
     "DOGE": 1,
     "BAT": 1,
     "DASH": 1,
     "MINA": 1,
-    "ATOM": 1,
     "LTC": 1,
     "XLM": 1
   },
@@ -28,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 55
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "SOL",
@@ -53,6 +54,16 @@
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 2
     },
     {
@@ -86,8 +97,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
@@ -108,11 +119,6 @@
     {
       "symbol": "MINA",
       "name": "Mina",
-      "count": 1
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
       "count": 1
     },
     {
