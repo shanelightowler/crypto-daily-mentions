@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - September 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nqmotq/daily_crypto_discussion_september_26_2025_gmt0/",
-  "generated_at_utc": "2025-09-26T15:16:28.634295Z",
+  "generated_at_utc": "2025-09-26T16:19:19.826321Z",
   "results": {
-    "BTC": 41,
-    "ETH": 13,
+    "BTC": 43,
+    "ETH": 14,
     "SOL": 5,
     "XRP": 2,
+    "ETC": 2,
     "BONK": 2,
     "SUI": 1,
+    "SNX": 1,
     "SHIB": 1,
     "NEAR": 1,
-    "ETC": 1,
     "DOGE": 1,
     "PEPE": 1,
     "BAT": 1,
@@ -23,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 43
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
@@ -38,6 +39,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -51,6 +57,11 @@
       "count": 1
     },
     {
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "count": 1
+    },
+    {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "count": 1
@@ -58,11 +69,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
