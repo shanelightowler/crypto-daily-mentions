@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - September 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nrgx6m/daily_crypto_discussion_september_27_2025_gmt0/",
-  "generated_at_utc": "2025-09-27T17:12:05.526116Z",
+  "generated_at_utc": "2025-09-27T18:19:23.174739Z",
   "results": {
-    "BTC": 23,
+    "BTC": 27,
     "ETH": 3,
     "OP": 2,
     "XMR": 1,
+    "ALGO": 1,
     "CRO": 1,
     "HYPE": 1,
     "SNX": 1,
@@ -16,7 +17,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 27
     },
     {
       "symbol": "ETH",
@@ -31,6 +32,11 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
