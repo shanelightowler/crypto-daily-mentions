@@ -1,29 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - September 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nsa5tr/daily_crypto_discussion_september_28_2025_gmt0/",
-  "generated_at_utc": "2025-09-28T20:15:38.901483Z",
+  "generated_at_utc": "2025-09-28T21:12:40.292138Z",
   "results": {
-    "BTC": 22,
-    "ETH": 10,
+    "BTC": 23,
+    "ETH": 11,
     "XRP": 3,
     "NEAR": 2,
     "SUI": 1,
     "SOL": 1,
     "LINK": 1,
-    "TON": 1,
     "BONK": 1,
+    "TON": 1,
     "BCH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 23
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "XRP",
@@ -51,13 +51,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
