@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - September 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nt3mrh/daily_crypto_discussion_september_29_2025_gmt0/",
-  "generated_at_utc": "2025-09-29T12:33:18.327123Z",
+  "generated_at_utc": "2025-09-29T13:26:26.514084Z",
   "results": {
-    "BTC": 11,
-    "ETH": 5,
+    "BTC": 14,
+    "ETH": 6,
     "BONK": 2,
-    "IMX": 1,
-    "DOGE": 1
+    "DOGE": 1,
+    "IMX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "BONK",
@@ -26,13 +26,13 @@
       "count": 2
     },
     {
-      "symbol": "IMX",
-      "name": "Immutable",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "IMX",
+      "name": "Immutable",
       "count": 1
     }
   ]
