@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - September 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nt3mrh/daily_crypto_discussion_september_29_2025_gmt0/",
-  "generated_at_utc": "2025-09-29T14:16:19.468059Z",
+  "generated_at_utc": "2025-09-29T15:16:10.404544Z",
   "results": {
-    "BTC": 23,
+    "BTC": 34,
     "ETH": 6,
     "BONK": 2,
+    "TON": 1,
     "DOGE": 1,
     "IMX": 1
   },
@@ -13,7 +14,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 34
     },
     {
       "symbol": "ETH",
@@ -24,6 +25,11 @@
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
     },
     {
       "symbol": "DOGE",
