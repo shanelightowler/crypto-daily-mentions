@@ -1,7 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - September 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nt3mrh/daily_crypto_discussion_september_29_2025_gmt0/",
-  "generated_at_utc": "2025-09-29T01:13:19.246530Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-09-29T03:01:36.985546Z",
+  "results": {
+    "BTC": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    }
+  ]
 }
