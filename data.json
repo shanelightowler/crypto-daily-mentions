@@ -1,17 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - September 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nty9tg/daily_crypto_discussion_september_30_2025_gmt0/",
-  "generated_at_utc": "2025-09-30T22:13:57.147687Z",
+  "generated_at_utc": "2025-09-30T23:13:46.908712Z",
   "results": {
-    "BTC": 54,
-    "ETH": 6,
+    "BTC": 56,
+    "ETH": 10,
     "CRO": 3,
     "XRP": 2,
     "ETC": 2,
     "ADA": 1,
+    "AVAX": 1,
+    "NEAR": 1,
+    "SOL": 1,
+    "LINK": 1,
     "SNX": 1,
-    "DOGE": 1,
     "PEPE": 1,
+    "DOGE": 1,
     "HOOD": 1,
     "SHIB": 1
   },
@@ -19,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 54
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 10
     },
     {
       "symbol": "CRO",
@@ -47,18 +51,38 @@
       "count": 1
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
       "symbol": "SNX",
       "name": "Synthetix",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
