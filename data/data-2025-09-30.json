@@ -1,22 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - September 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nty9tg/daily_crypto_discussion_september_30_2025_gmt0/",
-  "generated_at_utc": "2025-09-30T17:14:20.154174Z",
+  "generated_at_utc": "2025-09-30T18:21:15.170977Z",
   "results": {
-    "BTC": 34,
+    "BTC": 42,
+    "ETH": 4,
     "CRO": 3,
-    "ETH": 2,
+    "ETC": 3,
     "XRP": 2,
     "ADA": 1,
     "SNX": 1,
-    "ETC": 1,
     "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 42
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
     },
     {
       "symbol": "CRO",
@@ -24,9 +29,9 @@
       "count": 3
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 2
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -41,11 +46,6 @@
     {
       "symbol": "SNX",
       "name": "Synthetix",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
