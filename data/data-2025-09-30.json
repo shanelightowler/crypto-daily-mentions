@@ -1,20 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - September 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nty9tg/daily_crypto_discussion_september_30_2025_gmt0/",
-  "generated_at_utc": "2025-09-30T10:17:08.011251Z",
+  "generated_at_utc": "2025-09-30T11:13:31.729906Z",
   "results": {
-    "BTC": 11,
-    "ETH": 1
+    "BTC": 14,
+    "ETH": 1,
+    "SNX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix",
       "count": 1
     }
   ]
