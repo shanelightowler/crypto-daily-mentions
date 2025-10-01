@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nutdlv/daily_crypto_discussion_october_1_2025_gmt0/",
-  "generated_at_utc": "2025-10-01T16:19:49.791429Z",
+  "generated_at_utc": "2025-10-01T17:14:21.138121Z",
   "results": {
-    "BTC": 28,
-    "ETH": 11,
+    "BTC": 34,
+    "ETH": 12,
     "ATOM": 6,
     "ADA": 4,
     "ETC": 3,
+    "NEAR": 2,
+    "ROSE": 1,
     "MATIC": 1,
     "DOT": 1,
     "HBAR": 1,
-    "NEAR": 1,
     "CAKE": 1,
     "PEPE": 1
   },
@@ -19,12 +20,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ATOM",
@@ -42,6 +43,16 @@
       "count": 3
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 1
@@ -54,11 +65,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     },
     {
