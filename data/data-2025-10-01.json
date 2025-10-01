@@ -1,29 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - October 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nutdlv/daily_crypto_discussion_october_1_2025_gmt0/",
-  "generated_at_utc": "2025-10-01T14:16:35.826740Z",
+  "generated_at_utc": "2025-10-01T15:16:07.810407Z",
   "results": {
-    "BTC": 23,
-    "ETH": 8,
+    "BTC": 27,
+    "ETH": 11,
     "ATOM": 6,
     "ADA": 4,
+    "ETC": 3,
     "DOT": 1,
     "HBAR": 1,
     "NEAR": 1,
     "CAKE": 1,
-    "PEPE": 1,
-    "ETC": 1
+    "PEPE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 11
     },
     {
       "symbol": "ATOM",
@@ -34,6 +34,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "DOT",
@@ -58,11 +63,6 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
