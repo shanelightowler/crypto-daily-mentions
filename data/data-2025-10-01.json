@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nutdlv/daily_crypto_discussion_october_1_2025_gmt0/",
-  "generated_at_utc": "2025-10-01T13:26:26.024285Z",
+  "generated_at_utc": "2025-10-01T14:16:35.826740Z",
   "results": {
-    "BTC": 20,
-    "ETH": 6,
-    "ATOM": 5,
+    "BTC": 23,
+    "ETH": 8,
+    "ATOM": 6,
     "ADA": 4,
     "DOT": 1,
     "HBAR": 1,
@@ -18,17 +18,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 23
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
