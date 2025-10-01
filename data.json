@@ -1,7 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nutdlv/daily_crypto_discussion_october_1_2025_gmt0/",
-  "generated_at_utc": "2025-10-01T01:19:32.446256Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-10-01T03:08:21.781115Z",
+  "results": {
+    "ETH": 2
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    }
+  ]
 }
