@@ -1,15 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nvoreh/daily_crypto_discussion_october_2_2025_gmt0/",
-  "generated_at_utc": "2025-10-02T19:12:37.915116Z",
+  "generated_at_utc": "2025-10-02T20:17:11.852182Z",
   "results": {
-    "BTC": 35,
-    "ETH": 7,
-    "XRP": 3,
-    "LTC": 3,
+    "BTC": 40,
+    "ETH": 8,
+    "XRP": 5,
+    "LTC": 4,
+    "ETC": 3,
     "ADA": 3,
     "ATOM": 3,
-    "ETC": 2,
+    "XMR": 1,
+    "DOGE": 1,
+    "PEPE": 1,
     "ZEC": 1,
     "BIRB": 1,
     "BONK": 1,
@@ -26,21 +29,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 40
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -54,9 +62,19 @@
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
     },
     {
       "symbol": "ZEC",
