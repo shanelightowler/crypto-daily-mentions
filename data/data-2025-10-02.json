@@ -1,22 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - October 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nvoreh/daily_crypto_discussion_october_2_2025_gmt0/",
-  "generated_at_utc": "2025-10-02T18:21:42.443268Z",
+  "generated_at_utc": "2025-10-02T19:12:37.915116Z",
   "results": {
-    "BTC": 28,
-    "ETH": 6,
+    "BTC": 35,
+    "ETH": 7,
     "XRP": 3,
     "LTC": 3,
     "ADA": 3,
+    "ATOM": 3,
+    "ETC": 2,
     "ZEC": 1,
     "BIRB": 1,
     "BONK": 1,
-    "ETC": 1,
     "XLM": 1,
     "NEAR": 1,
-    "ATOM": 1,
     "ALGO": 1,
     "ROSE": 1,
+    "OSMO": 1,
+    "CRO": 1,
     "DASH": 1,
     "GRASS": 1
   },
@@ -24,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 35
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "XRP",
@@ -47,6 +49,16 @@
       "count": 3
     },
     {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 1
@@ -62,11 +74,6 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 1
@@ -77,11 +84,6 @@
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 1
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 1
@@ -89,6 +91,16 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "OSMO",
+      "name": "Osmosis",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
