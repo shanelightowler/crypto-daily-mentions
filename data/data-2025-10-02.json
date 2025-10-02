@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nvoreh/daily_crypto_discussion_october_2_2025_gmt0/",
-  "generated_at_utc": "2025-10-02T20:17:11.852182Z",
+  "generated_at_utc": "2025-10-02T21:13:21.035616Z",
   "results": {
-    "BTC": 40,
-    "ETH": 8,
+    "BTC": 47,
+    "ETH": 10,
     "XRP": 5,
     "LTC": 4,
     "ETC": 3,
     "ADA": 3,
     "ATOM": 3,
-    "XMR": 1,
+    "PEPE": 2,
     "DOGE": 1,
-    "PEPE": 1,
+    "XMR": 1,
     "ZEC": 1,
     "BIRB": 1,
     "BONK": 1,
     "XLM": 1,
     "NEAR": 1,
     "ALGO": 1,
+    "SOL": 1,
     "ROSE": 1,
     "OSMO": 1,
     "CRO": 1,
@@ -29,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 47
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "XRP",
@@ -62,9 +63,9 @@
       "count": 3
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
     },
     {
       "symbol": "DOGE",
@@ -72,8 +73,8 @@
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
@@ -104,6 +105,11 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
