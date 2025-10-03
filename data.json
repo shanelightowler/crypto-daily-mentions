@@ -1,26 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nwk7vf/daily_crypto_discussion_october_3_2025_gmt0/",
-  "generated_at_utc": "2025-10-03T17:13:11.496559Z",
+  "generated_at_utc": "2025-10-03T18:21:21.782439Z",
   "results": {
-    "BTC": 70,
+    "BTC": 79,
     "ETH": 21,
     "SOL": 10,
     "BNB": 7,
+    "LTC": 7,
     "PEPE": 3,
     "NEAR": 2,
     "CAKE": 2,
     "BONK": 2,
     "ETC": 2,
     "DOGE": 1,
-    "1MIL": 1,
-    "LTC": 1
+    "1MIL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 70
+      "count": 79
     },
     {
       "symbol": "ETH",
@@ -35,6 +35,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 7
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 7
     },
     {
@@ -70,11 +75,6 @@
     {
       "symbol": "1MIL",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
       "count": 1
     }
   ]
