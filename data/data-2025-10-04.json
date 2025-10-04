@@ -1,32 +1,78 @@
 {
   "thread_title": "Daily Crypto Discussion - October 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nxfa8d/daily_crypto_discussion_october_4_2025_gmt0/",
-  "generated_at_utc": "2025-10-04T07:13:01.894277Z",
+  "generated_at_utc": "2025-10-04T08:17:54.656771Z",
   "results": {
-    "BTC": 8,
-    "ETH": 2,
-    "BNB": 2,
+    "BTC": 39,
+    "ETH": 6,
+    "BNB": 6,
+    "SOL": 4,
+    "ADA": 4,
+    "XRP": 3,
+    "DOGE": 3,
+    "TRX": 3,
+    "AVAX": 3,
+    "XLM": 3,
+    "BCH": 3,
     "NEAR": 1,
-    "SOL": 1,
     "SUI": 1,
-    "ADA": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
+      "count": 6
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
+      "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 3
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 3
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 3
     },
     {
       "symbol": "NEAR",
@@ -34,18 +80,8 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
