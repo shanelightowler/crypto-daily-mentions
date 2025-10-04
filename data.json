@@ -1,24 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - October 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nxfa8d/daily_crypto_discussion_october_4_2025_gmt0/",
-  "generated_at_utc": "2025-10-04T06:20:57.595036Z",
+  "generated_at_utc": "2025-10-04T07:13:01.894277Z",
   "results": {
-    "BTC": 5,
+    "BTC": 8,
     "ETH": 2,
+    "BNB": 2,
     "NEAR": 1,
-    "BNB": 1,
+    "SOL": 1,
     "SUI": 1,
+    "ADA": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 8
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -27,13 +34,18 @@
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
