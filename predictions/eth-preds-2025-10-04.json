@@ -1,0 +1,25 @@
+{
+  "thread_title": "Daily General Discussion October 04, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1nxl4ov/daily_general_discussion_october_04_2025/",
+  "generated_at_utc": "2025-10-04T08:32:33.709602Z",
+  "date": "2025-10-04",
+  "summary": {
+    "count": 1,
+    "mean_usd": 1400.0,
+    "median_usd": 1400.0,
+    "min_usd": 1400.0,
+    "max_usd": 1400.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 1400.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$1,400",
+      "sentence": "I\u2019ll be honest - ETH\u2019s dip to $1,400 in April was tough to watch.",
+      "comment_id": "nho9lg4",
+      "author": "Numerous_Ruin_4947",
+      "accept_reason": "single"
+    }
+  ]
+}
