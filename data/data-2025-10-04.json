@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nxfa8d/daily_crypto_discussion_october_4_2025_gmt0/",
-  "generated_at_utc": "2025-10-04T11:11:37.447888Z",
+  "generated_at_utc": "2025-10-04T12:28:07.350823Z",
   "results": {
-    "BTC": 61,
-    "ETH": 12,
+    "BTC": 75,
+    "ETH": 20,
+    "XRP": 7,
     "BNB": 6,
-    "SOL": 5,
-    "ADA": 4,
-    "XRP": 3,
+    "SOL": 6,
+    "ADA": 5,
     "DOGE": 3,
     "TRX": 3,
     "AVAX": 3,
     "XLM": 3,
     "BCH": 3,
+    "BONK": 1,
     "NEAR": 1,
     "ETC": 1,
     "SUI": 1,
@@ -23,12 +24,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 61
+      "count": 75
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 20
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 7
     },
     {
       "symbol": "BNB",
@@ -38,17 +44,12 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "DOGE",
@@ -74,6 +75,11 @@
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
     },
     {
       "symbol": "NEAR",
