@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nxfa8d/daily_crypto_discussion_october_4_2025_gmt0/",
-  "generated_at_utc": "2025-10-04T20:15:17.989923Z",
+  "generated_at_utc": "2025-10-04T21:12:30.579348Z",
   "results": {
-    "BTC": 102,
-    "ETH": 26,
+    "BTC": 108,
+    "ETH": 27,
     "XRP": 8,
     "SOL": 7,
     "BNB": 6,
@@ -14,23 +14,25 @@
     "TRX": 3,
     "XLM": 3,
     "BCH": 3,
-    "ETC": 2,
-    "BONK": 1,
+    "ETC": 3,
+    "BONK": 2,
     "NEAR": 1,
     "ALGO": 1,
+    "DMTR": 1,
     "SUI": 1,
+    "SHIB": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 102
+      "count": 108
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 27
     },
     {
       "symbol": "XRP",
@@ -80,12 +82,12 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -98,8 +100,18 @@
       "count": 1
     },
     {
+      "symbol": "DMTR",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
