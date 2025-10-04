@@ -1,38 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - October 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nxfa8d/daily_crypto_discussion_october_4_2025_gmt0/",
-  "generated_at_utc": "2025-10-04T22:13:04.282077Z",
+  "generated_at_utc": "2025-10-04T23:13:44.628475Z",
   "results": {
-    "BTC": 108,
-    "ETH": 27,
+    "BTC": 110,
+    "ETH": 31,
     "XRP": 8,
-    "SOL": 7,
-    "BNB": 6,
+    "SOL": 8,
     "ADA": 6,
+    "BNB": 6,
     "AVAX": 6,
+    "ETC": 5,
+    "BONK": 4,
     "DOGE": 4,
+    "MATIC": 4,
     "TRX": 3,
     "XLM": 3,
     "BCH": 3,
-    "ETC": 3,
-    "BONK": 2,
     "NEAR": 1,
     "ALGO": 1,
     "DMTR": 1,
     "SUI": 1,
     "SHIB": 1,
+    "ATOM": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 108
+      "count": 110
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 31
     },
     {
       "symbol": "XRP",
@@ -42,16 +44,16 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 7
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 6
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 6
     },
     {
@@ -60,8 +62,23 @@
       "count": 6
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 4
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 4
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 4
     },
     {
@@ -78,16 +95,6 @@
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -112,6 +119,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
