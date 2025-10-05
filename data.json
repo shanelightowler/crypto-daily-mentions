@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ny9k7u/daily_crypto_discussion_october_5_2025_gmt0/",
-  "generated_at_utc": "2025-10-05T22:13:25.239219Z",
+  "generated_at_utc": "2025-10-05T23:12:34.471096Z",
   "results": {
     "BTC": 117,
-    "ETH": 27,
+    "ETH": 31,
+    "CRO": 11,
     "BNB": 4,
     "AVAX": 4,
     "ETC": 4,
@@ -33,7 +34,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 31
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 11
     },
     {
       "symbol": "BNB",
