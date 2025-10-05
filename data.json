@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ny9k7u/daily_crypto_discussion_october_5_2025_gmt0/",
-  "generated_at_utc": "2025-10-05T17:11:53.554944Z",
+  "generated_at_utc": "2025-10-05T18:19:51.271035Z",
   "results": {
-    "BTC": 101,
-    "ETH": 24,
+    "BTC": 110,
+    "ETH": 27,
+    "BNB": 4,
     "AVAX": 4,
     "ETC": 4,
-    "BNB": 3,
     "ADA": 2,
     "SOL": 2,
     "DOGE": 2,
@@ -26,12 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 101
+      "count": 110
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 27
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "AVAX",
@@ -42,11 +47,6 @@
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 3
     },
     {
       "symbol": "ADA",
