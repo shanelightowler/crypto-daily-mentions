@@ -1,21 +1,69 @@
 {
   "thread_title": "Daily Crypto Discussion - October 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ny9k7u/daily_crypto_discussion_october_5_2025_gmt0/",
-  "generated_at_utc": "2025-10-05T05:14:06.516013Z",
+  "generated_at_utc": "2025-10-05T06:20:59.223227Z",
   "results": {
-    "BTC": 18,
-    "ETH": 2
+    "BTC": 29,
+    "ETH": 3,
+    "AVAX": 2,
+    "ALGO": 1,
+    "DOT": 1,
+    "LINK": 1,
+    "ADA": 1,
+    "SOL": 1,
+    "SUI": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 29
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 3
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
     }
   ]
 }
