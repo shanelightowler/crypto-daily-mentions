@@ -1,24 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ny9k7u/daily_crypto_discussion_october_5_2025_gmt0/",
-  "generated_at_utc": "2025-10-05T06:20:59.223227Z",
+  "generated_at_utc": "2025-10-05T07:12:54.880094Z",
   "results": {
-    "BTC": 29,
+    "BTC": 34,
     "ETH": 3,
-    "AVAX": 2,
+    "AVAX": 3,
     "ALGO": 1,
     "DOT": 1,
+    "SOL": 1,
     "LINK": 1,
     "ADA": 1,
-    "SOL": 1,
-    "SUI": 1,
-    "NEAR": 1
+    "DOGE": 1,
+    "XRP": 1,
+    "NEAR": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "ETH",
@@ -28,7 +30,7 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ALGO",
@@ -38,6 +40,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
@@ -51,18 +58,23 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
