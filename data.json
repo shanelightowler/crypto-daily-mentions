@@ -1,18 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ny9k7u/daily_crypto_discussion_october_5_2025_gmt0/",
-  "generated_at_utc": "2025-10-05T13:18:59.052651Z",
+  "generated_at_utc": "2025-10-05T14:12:45.252605Z",
   "results": {
-    "BTC": 78,
-    "ETH": 13,
+    "BTC": 87,
+    "ETH": 15,
     "AVAX": 4,
+    "ETC": 3,
     "ADA": 2,
-    "ETC": 2,
+    "SOL": 2,
+    "DOGE": 2,
+    "BNB": 1,
     "ALGO": 1,
     "DOT": 1,
-    "SOL": 1,
+    "PEPE": 1,
+    "WIF": 1,
     "LINK": 1,
-    "DOGE": 1,
     "XRP": 1,
     "NEAR": 1,
     "SUI": 1
@@ -21,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 78
+      "count": 87
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "AVAX",
@@ -34,14 +37,29 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
     },
     {
       "symbol": "ALGO",
@@ -54,18 +72,18 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
