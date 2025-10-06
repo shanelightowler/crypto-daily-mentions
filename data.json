@@ -1,25 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T15:16:17.817694Z",
+  "generated_at_utc": "2025-10-06T16:19:20.092483Z",
   "results": {
-    "BTC": 58,
+    "BTC": 63,
+    "ETH": 29,
     "BNB": 28,
-    "ETH": 27,
-    "ADA": 12,
+    "ADA": 13,
     "LINK": 5,
     "HBAR": 4,
     "SOL": 4,
     "XRP": 3,
-    "DOT": 2,
+    "DOT": 3,
+    "MATIC": 3,
+    "ALGO": 2,
     "AVAX": 2,
     "ETC": 2,
     "BONK": 1,
-    "ALGO": 1,
+    "HIVE": 1,
     "DOGE": 1,
     "XMR": 1,
     "ATOM": 1,
-    "MATIC": 1,
     "AAVE": 1,
     "NEO": 1
   },
@@ -27,7 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 58
+      "count": 63
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 29
     },
     {
       "symbol": "BNB",
@@ -35,14 +41,9 @@
       "count": 28
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 27
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "LINK",
@@ -67,6 +68,16 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 3
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 3
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 2
     },
     {
@@ -85,8 +96,8 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "HIVE",
+      "name": "",
       "count": 1
     },
     {
@@ -102,11 +113,6 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
