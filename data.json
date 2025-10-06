@@ -1,28 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T05:15:37.405997Z",
+  "generated_at_utc": "2025-10-06T06:24:30.321967Z",
   "results": {
-    "BTC": 17,
+    "BTC": 21,
     "LINK": 4,
+    "ETC": 2,
     "XRP": 1,
     "ADA": 1,
     "DOT": 1,
     "ETH": 1,
     "DOGE": 1,
-    "SOL": 1,
-    "ETC": 1
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 17
+      "count": 21
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "XRP",
@@ -52,11 +57,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
