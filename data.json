@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T14:15:57.301908Z",
+  "generated_at_utc": "2025-10-06T15:16:17.817694Z",
   "results": {
-    "BTC": 50,
+    "BTC": 58,
     "BNB": 28,
-    "ETH": 25,
-    "ADA": 9,
+    "ETH": 27,
+    "ADA": 12,
     "LINK": 5,
+    "HBAR": 4,
     "SOL": 4,
     "XRP": 3,
     "DOT": 2,
     "AVAX": 2,
     "ETC": 2,
     "BONK": 1,
-    "HBAR": 1,
     "ALGO": 1,
     "DOGE": 1,
+    "XMR": 1,
     "ATOM": 1,
     "MATIC": 1,
     "AAVE": 1,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 50
+      "count": 58
     },
     {
       "symbol": "BNB",
@@ -36,17 +37,22 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 27
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 9
+      "count": 12
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 5
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -79,11 +85,6 @@
       "count": 1
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 1
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 1
@@ -91,6 +92,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
