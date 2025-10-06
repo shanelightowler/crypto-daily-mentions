@@ -1,26 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T16:19:20.092483Z",
+  "generated_at_utc": "2025-10-06T17:14:34.836249Z",
   "results": {
-    "BTC": 63,
-    "ETH": 29,
+    "BTC": 69,
+    "ETH": 34,
     "BNB": 28,
-    "ADA": 13,
-    "LINK": 5,
+    "ADA": 14,
+    "LINK": 6,
+    "SOL": 5,
     "HBAR": 4,
-    "SOL": 4,
     "XRP": 3,
     "DOT": 3,
+    "ETC": 3,
     "MATIC": 3,
+    "BONK": 2,
     "ALGO": 2,
     "AVAX": 2,
-    "ETC": 2,
-    "BONK": 1,
     "HIVE": 1,
     "DOGE": 1,
     "XMR": 1,
     "ATOM": 1,
+    "OP": 1,
     "AAVE": 1,
     "NEO": 1
   },
@@ -28,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 69
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "BNB",
@@ -43,21 +44,21 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 5
     },
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 4
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 4
     },
     {
@@ -71,9 +72,19 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 2
     },
     {
       "symbol": "ALGO",
@@ -84,16 +95,6 @@
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
     },
     {
       "symbol": "HIVE",
@@ -113,6 +114,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
