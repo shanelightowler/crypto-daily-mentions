@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T22:14:06.372610Z",
+  "generated_at_utc": "2025-10-06T23:13:46.990706Z",
   "results": {
-    "BTC": 106,
+    "BTC": 109,
     "ETH": 44,
     "BNB": 28,
     "ADA": 15,
     "LINK": 9,
     "SOL": 6,
+    "OP": 5,
     "HBAR": 4,
     "ETC": 4,
     "XRP": 3,
     "DOT": 3,
     "MATIC": 3,
-    "OP": 2,
     "BONK": 2,
+    "LTC": 2,
     "ALGO": 2,
     "AVAX": 2,
     "HIVE": 1,
@@ -30,7 +31,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 106
+      "count": 109
     },
     {
       "symbol": "ETH",
@@ -58,6 +59,11 @@
       "count": 6
     },
     {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 5
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 4
@@ -83,13 +89,13 @@
       "count": 3
     },
     {
-      "symbol": "OP",
-      "name": "Optimism",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
