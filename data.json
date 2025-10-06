@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T20:17:24.777162Z",
+  "generated_at_utc": "2025-10-06T21:13:26.451943Z",
   "results": {
-    "BTC": 85,
-    "ETH": 38,
+    "BTC": 91,
+    "ETH": 43,
     "BNB": 28,
     "ADA": 15,
-    "LINK": 8,
-    "SOL": 5,
+    "LINK": 9,
+    "SOL": 6,
     "HBAR": 4,
     "ETC": 4,
     "XRP": 3,
@@ -17,8 +17,8 @@
     "BONK": 2,
     "ALGO": 2,
     "AVAX": 2,
-    "LOCKIN": 1,
     "HIVE": 1,
+    "LOCKIN": 1,
     "DOGE": 1,
     "XMR": 1,
     "ATOM": 1,
@@ -30,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 85
+      "count": 91
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 38
+      "count": 43
     },
     {
       "symbol": "BNB",
@@ -50,12 +50,12 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "HBAR",
@@ -98,12 +98,12 @@
       "count": 2
     },
     {
-      "symbol": "LOCKIN",
+      "symbol": "HIVE",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "HIVE",
+      "symbol": "LOCKIN",
       "name": "",
       "count": 1
     },
