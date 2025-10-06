@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T21:13:26.451943Z",
+  "generated_at_utc": "2025-10-06T22:14:06.372610Z",
   "results": {
-    "BTC": 91,
-    "ETH": 43,
+    "BTC": 106,
+    "ETH": 44,
     "BNB": 28,
     "ADA": 15,
     "LINK": 9,
@@ -14,6 +14,7 @@
     "XRP": 3,
     "DOT": 3,
     "MATIC": 3,
+    "OP": 2,
     "BONK": 2,
     "ALGO": 2,
     "AVAX": 2,
@@ -22,7 +23,6 @@
     "DOGE": 1,
     "XMR": 1,
     "ATOM": 1,
-    "OP": 1,
     "AAVE": 1,
     "NEO": 1
   },
@@ -30,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 91
+      "count": 106
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 43
+      "count": 44
     },
     {
       "symbol": "BNB",
@@ -83,6 +83,11 @@
       "count": 3
     },
     {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 2
+    },
+    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
@@ -120,11 +125,6 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "OP",
-      "name": "Optimism",
       "count": 1
     },
     {
