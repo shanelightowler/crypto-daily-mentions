@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T08:21:09.107995Z",
+  "generated_at_utc": "2025-10-06T09:19:31.455450Z",
   "results": {
-    "BTC": 28,
-    "BNB": 13,
-    "LINK": 5,
+    "BTC": 33,
+    "BNB": 14,
     "ADA": 5,
-    "ETH": 4,
+    "LINK": 5,
+    "ETH": 5,
+    "AVAX": 2,
     "ETC": 2,
     "XRP": 1,
     "DOT": 1,
     "ALGO": 1,
-    "AVAX": 1,
     "DOGE": 1,
     "SOL": 1,
     "AAVE": 1
@@ -21,17 +21,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 33
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 13
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 5
+      "count": 14
     },
     {
       "symbol": "ADA",
@@ -39,9 +34,19 @@
       "count": 5
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 5
+    },
+    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
     },
     {
       "symbol": "ETC",
@@ -61,11 +66,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     },
     {
