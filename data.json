@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nz47e4/daily_crypto_discussion_october_6_2025_gmt0/",
-  "generated_at_utc": "2025-10-06T19:12:35.577915Z",
+  "generated_at_utc": "2025-10-06T20:17:24.777162Z",
   "results": {
-    "BTC": 83,
-    "ETH": 35,
+    "BTC": 85,
+    "ETH": 38,
     "BNB": 28,
     "ADA": 15,
     "LINK": 8,
     "SOL": 5,
     "HBAR": 4,
+    "ETC": 4,
     "XRP": 3,
     "DOT": 3,
-    "ETC": 3,
     "MATIC": 3,
     "BONK": 2,
     "ALGO": 2,
     "AVAX": 2,
+    "LOCKIN": 1,
     "HIVE": 1,
     "DOGE": 1,
     "XMR": 1,
@@ -29,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 83
+      "count": 85
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 38
     },
     {
       "symbol": "BNB",
@@ -62,6 +63,11 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 3
@@ -69,11 +75,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -95,6 +96,11 @@
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
+    },
+    {
+      "symbol": "LOCKIN",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "HIVE",
