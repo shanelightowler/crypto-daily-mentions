@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T15:17:26.890080Z",
+  "generated_at_utc": "2025-10-07T16:19:34.684088Z",
   "results": {
-    "BTC": 76,
-    "BNB": 51,
-    "ETH": 35,
-    "XRP": 10,
+    "BTC": 83,
+    "BNB": 52,
+    "ETH": 43,
+    "XRP": 11,
     "SOL": 8,
+    "ADA": 7,
     "CAKE": 6,
-    "ADA": 5,
     "BONK": 3,
+    "SUI": 2,
     "APE": 2,
     "ALGO": 2,
-    "SUI": 1,
     "TON": 1,
+    "AVAX": 1,
     "DOGE": 1,
-    "DOT": 1,
     "ATOM": 1,
+    "DOT": 1,
     "TRX": 1,
     "SHIB": 1
   },
@@ -25,22 +26,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 76
+      "count": 83
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 51
+      "count": 52
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 43
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "SOL",
@@ -48,19 +49,24 @@
       "count": 8
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 7
+    },
+    {
       "symbol": "CAKE",
       "name": "",
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 5
-    },
-    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
     },
     {
       "symbol": "APE",
@@ -73,13 +79,13 @@
       "count": 2
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
@@ -88,13 +94,13 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
