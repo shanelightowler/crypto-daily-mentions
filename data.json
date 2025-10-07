@@ -1,26 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T06:23:30.695610Z",
+  "generated_at_utc": "2025-10-07T07:15:36.155796Z",
   "results": {
-    "BTC": 21,
-    "ETH": 8,
+    "BTC": 27,
+    "ETH": 12,
     "BNB": 5,
+    "XRP": 2,
+    "SOL": 2,
     "CAKE": 2,
-    "APE": 1,
-    "SOL": 1,
-    "XRP": 1
+    "SUI": 1,
+    "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 12
     },
     {
       "symbol": "BNB",
@@ -28,23 +29,28 @@
       "count": 5
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "CAKE",
       "name": "",
       "count": 2
     },
     {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     }
   ]
