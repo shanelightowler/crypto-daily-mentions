@@ -1,48 +1,49 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T10:16:37.348953Z",
+  "generated_at_utc": "2025-10-07T11:12:54.774519Z",
   "results": {
-    "BTC": 28,
-    "ETH": 14,
-    "BNB": 10,
-    "XRP": 3,
+    "BTC": 32,
+    "BNB": 22,
+    "ETH": 16,
+    "XRP": 7,
+    "SOL": 3,
     "ADA": 2,
-    "SOL": 2,
     "CAKE": 2,
     "SUI": 1,
     "APE": 1,
-    "DOGE": 1
+    "DOGE": 1,
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 14
+      "count": 32
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 10
+      "count": 22
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 16
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 2
     },
     {
@@ -63,6 +64,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
