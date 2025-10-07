@@ -230,5 +230,9 @@
   {
     "date": "2025-10-06",
     "file": "predictions/eth-preds-2025-10-06.json"
+  },
+  {
+    "date": "2025-10-07",
+    "file": "predictions/eth-preds-2025-10-07.json"
   }
 ]
