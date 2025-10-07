@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T19:12:35.346436Z",
+  "generated_at_utc": "2025-10-07T20:17:08.004399Z",
   "results": {
-    "BTC": 116,
-    "BNB": 54,
+    "BTC": 118,
+    "BNB": 55,
     "ETH": 46,
     "XRP": 13,
     "SOL": 8,
@@ -18,6 +18,7 @@
     "AVAX": 1,
     "69": 1,
     "DOGE": 1,
+    "NEAR": 1,
     "ATOM": 1,
     "DOT": 1,
     "TRX": 1,
@@ -27,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 116
+      "count": 118
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 54
+      "count": 55
     },
     {
       "symbol": "ETH",
@@ -97,6 +98,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
