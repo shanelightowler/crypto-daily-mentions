@@ -1,40 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T13:26:25.111324Z",
+  "generated_at_utc": "2025-10-07T14:16:40.792334Z",
   "results": {
-    "BNB": 45,
-    "BTC": 42,
-    "ETH": 25,
+    "BTC": 55,
+    "BNB": 50,
+    "ETH": 31,
     "XRP": 10,
-    "SOL": 6,
+    "SOL": 8,
+    "CAKE": 5,
     "ADA": 4,
     "BONK": 3,
-    "CAKE": 2,
+    "APE": 2,
+    "ALGO": 2,
     "SUI": 1,
-    "APE": 1,
     "DOGE": 1,
-    "ALGO": 1,
-    "ATOM": 1,
     "DOT": 1,
+    "ATOM": 1,
     "TRX": 1,
     "SHIB": 1
   },
   "results_list": [
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 45
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 55
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 50
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 31
     },
     {
       "symbol": "XRP",
@@ -44,7 +44,12 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
+      "count": 5
     },
     {
       "symbol": "ADA",
@@ -57,8 +62,13 @@
       "count": 3
     },
     {
-      "symbol": "CAKE",
-      "name": "",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 2
     },
     {
@@ -67,28 +77,18 @@
       "count": 1
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
-      "count": 1
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     },
     {
