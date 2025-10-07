@@ -1,28 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T21:13:32.923920Z",
+  "generated_at_utc": "2025-10-07T22:14:51.310933Z",
   "results": {
     "BTC": 119,
     "BNB": 57,
-    "ETH": 48,
+    "ETH": 49,
     "XRP": 14,
+    "ADA": 11,
     "SOL": 9,
-    "ADA": 9,
-    "CAKE": 6,
+    "CAKE": 7,
     "BONK": 3,
-    "SUI": 2,
     "DOGE": 2,
+    "TRX": 2,
+    "SUI": 2,
     "APE": 2,
+    "NEAR": 2,
     "ALGO": 2,
+    "ICP": 2,
     "LINK": 1,
     "TON": 1,
     "AVAX": 1,
     "69": 1,
-    "NEAR": 1,
     "ATOM": 1,
     "DOT": 1,
-    "TRX": 1,
+    "ETC": 1,
     "SHIB": 1
   },
   "results_list": [
@@ -39,7 +41,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 48
+      "count": 49
     },
     {
       "symbol": "XRP",
@@ -47,19 +49,19 @@
       "count": 14
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 11
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 9
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 9
-    },
-    {
       "symbol": "CAKE",
       "name": "",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "BONK",
@@ -67,13 +69,18 @@
       "count": 3
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -82,8 +89,18 @@
       "count": 2
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 2
     },
     {
@@ -107,11 +124,6 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 1
@@ -122,8 +134,8 @@
       "count": 1
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
