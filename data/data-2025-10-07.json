@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T17:14:04.592283Z",
+  "generated_at_utc": "2025-10-07T18:23:22.132903Z",
   "results": {
-    "BTC": 92,
-    "BNB": 53,
-    "ETH": 43,
-    "XRP": 11,
+    "BTC": 112,
+    "BNB": 54,
+    "ETH": 45,
+    "XRP": 13,
     "SOL": 8,
-    "ADA": 7,
+    "ADA": 8,
     "CAKE": 6,
     "BONK": 3,
     "SUI": 2,
@@ -16,6 +16,7 @@
     "ALGO": 2,
     "TON": 1,
     "AVAX": 1,
+    "69": 1,
     "DOGE": 1,
     "ATOM": 1,
     "DOT": 1,
@@ -26,22 +27,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 92
+      "count": 112
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 53
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 43
+      "count": 45
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "SOL",
@@ -51,7 +52,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "CAKE",
@@ -86,6 +87,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "69",
+      "name": "",
       "count": 1
     },
     {
