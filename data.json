@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1nzzo0y/daily_crypto_discussion_october_7_2025_gmt0/",
-  "generated_at_utc": "2025-10-07T14:16:40.792334Z",
+  "generated_at_utc": "2025-10-07T15:17:26.890080Z",
   "results": {
-    "BTC": 55,
-    "BNB": 50,
-    "ETH": 31,
+    "BTC": 76,
+    "BNB": 51,
+    "ETH": 35,
     "XRP": 10,
     "SOL": 8,
-    "CAKE": 5,
-    "ADA": 4,
+    "CAKE": 6,
+    "ADA": 5,
     "BONK": 3,
     "APE": 2,
     "ALGO": 2,
     "SUI": 1,
+    "TON": 1,
     "DOGE": 1,
     "DOT": 1,
     "ATOM": 1,
@@ -24,17 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 55
+      "count": 76
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 50
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 35
     },
     {
       "symbol": "XRP",
@@ -49,12 +50,12 @@
     {
       "symbol": "CAKE",
       "name": "",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "BONK",
@@ -74,6 +75,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
