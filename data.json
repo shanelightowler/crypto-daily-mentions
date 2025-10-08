@@ -1,42 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T17:14:04.285299Z",
+  "generated_at_utc": "2025-10-08T18:23:28.914826Z",
   "results": {
-    "BTC": 105,
-    "ETH": 25,
+    "BTC": 120,
+    "ETH": 35,
     "ADA": 11,
     "SOL": 11,
     "BNB": 8,
     "XRP": 7,
+    "MATIC": 6,
     "CAKE": 5,
     "NEAR": 5,
     "DOGE": 5,
     "ALGO": 4,
     "SUI": 3,
-    "MATIC": 3,
     "LINK": 2,
     "DOT": 2,
     "AVAX": 2,
     "PEPE": 2,
+    "ETC": 2,
+    "XMR": 2,
     "ATOM": 1,
-    "WIF": 1,
     "SFP": 1,
-    "ETC": 1,
+    "WIF": 1,
     "APE": 1,
     "XLM": 1,
-    "OP": 1
+    "OP": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 105
+      "count": 120
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 35
     },
     {
       "symbol": "ADA",
@@ -57,6 +59,11 @@
       "symbol": "XRP",
       "name": "XRP",
       "count": 7
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 6
     },
     {
       "symbol": "CAKE",
@@ -84,11 +91,6 @@
       "count": 3
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
-      "count": 3
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
@@ -109,13 +111,18 @@
       "count": 2
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 1
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
-      "symbol": "WIF",
-      "name": "dogwifhat",
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
@@ -124,8 +131,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
@@ -141,6 +148,11 @@
     {
       "symbol": "OP",
       "name": "Optimism",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
