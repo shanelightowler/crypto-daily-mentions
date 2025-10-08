@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T03:28:03.753083Z",
+  "generated_at_utc": "2025-10-08T04:19:00.087383Z",
   "results": {
-    "BTC": 8,
-    "ETH": 5,
+    "BTC": 13,
+    "ETH": 7,
     "CAKE": 5,
     "ALGO": 4,
-    "SOL": 2,
+    "SOL": 3,
     "BNB": 2,
     "AVAX": 2,
     "DOGE": 1,
     "DOT": 1,
     "ATOM": 1,
-    "SFP": 1,
     "PEPE": 1,
+    "SFP": 1,
+    "APE": 1,
     "MATIC": 1,
     "XLM": 1
   },
@@ -22,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 13
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "CAKE",
@@ -42,7 +43,7 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BNB",
@@ -70,13 +71,18 @@
       "count": 1
     },
     {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
       "symbol": "SFP",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
