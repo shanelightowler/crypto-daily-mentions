@@ -1,25 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T15:16:44.361452Z",
+  "generated_at_utc": "2025-10-08T16:19:37.400490Z",
   "results": {
-    "BTC": 65,
-    "ETH": 20,
-    "ADA": 9,
+    "BTC": 76,
+    "ETH": 22,
+    "ADA": 10,
+    "SOL": 7,
+    "BNB": 7,
+    "XRP": 6,
     "CAKE": 5,
-    "BNB": 5,
     "ALGO": 4,
-    "SOL": 4,
+    "NEAR": 4,
     "DOGE": 4,
-    "XRP": 4,
-    "NEAR": 3,
+    "SUI": 3,
     "MATIC": 3,
+    "LINK": 2,
     "DOT": 2,
     "AVAX": 2,
     "ATOM": 1,
     "PEPE": 1,
     "SFP": 1,
-    "SUI": 1,
     "APE": 1,
     "XLM": 1,
     "OP": 1
@@ -28,26 +29,36 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 65
+      "count": 76
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 22
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 9
+      "count": 10
     },
     {
-      "symbol": "CAKE",
-      "name": "",
-      "count": 5
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 7
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 7
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 6
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 5
     },
     {
@@ -56,8 +67,8 @@
       "count": 4
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 4
     },
     {
@@ -66,19 +77,19 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 4
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 3
     },
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "DOT",
@@ -103,11 +114,6 @@
     {
       "symbol": "SFP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 1
     },
     {
