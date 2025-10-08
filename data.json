@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T20:17:23.483020Z",
+  "generated_at_utc": "2025-10-08T21:14:05.580511Z",
   "results": {
-    "BTC": 126,
+    "BTC": 127,
     "ETH": 39,
     "ADA": 11,
     "SOL": 11,
@@ -15,15 +15,16 @@
     "DOGE": 5,
     "ALGO": 4,
     "SUI": 3,
+    "ETC": 3,
     "LINK": 2,
     "DOT": 2,
     "AVAX": 2,
     "PEPE": 2,
-    "ETC": 2,
     "XMR": 2,
     "ATOM": 1,
     "SFP": 1,
     "WIF": 1,
+    "AAVE": 1,
     "APE": 1,
     "XLM": 1,
     "OP": 1,
@@ -33,7 +34,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 126
+      "count": 127
     },
     {
       "symbol": "ETH",
@@ -91,6 +92,11 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
@@ -111,11 +117,6 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 2
@@ -133,6 +134,11 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
