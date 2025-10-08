@@ -1,12 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T01:10:41.813204Z",
+  "generated_at_utc": "2025-10-08T02:54:57.518710Z",
   "results": {
-    "BTC": 4,
-    "CAKE": 4,
-    "ETH": 2,
-    "BNB": 1,
+    "BTC": 8,
+    "CAKE": 5,
+    "ETH": 4,
+    "BNB": 2,
+    "DOT": 1,
+    "ATOM": 1,
+    "AVAX": 1,
+    "ALGO": 1,
+    "SOL": 1,
+    "DOGE": 1,
     "SFP": 1,
     "PEPE": 1
   },
@@ -14,21 +20,51 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
+      "count": 8
     },
     {
       "symbol": "CAKE",
       "name": "",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
