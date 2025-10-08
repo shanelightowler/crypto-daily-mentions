@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T09:17:06.574476Z",
+  "generated_at_utc": "2025-10-08T10:16:36.786615Z",
   "results": {
-    "BTC": 39,
+    "BTC": 41,
     "ETH": 16,
     "CAKE": 5,
+    "ADA": 4,
     "ALGO": 4,
     "SOL": 4,
+    "BNB": 4,
     "DOGE": 4,
     "XRP": 4,
     "NEAR": 3,
-    "BNB": 3,
-    "ADA": 3,
     "MATIC": 3,
     "DOT": 2,
     "AVAX": 2,
@@ -20,13 +20,14 @@
     "PEPE": 1,
     "SFP": 1,
     "APE": 1,
+    "SUI": 1,
     "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 39
+      "count": 41
     },
     {
       "symbol": "ETH",
@@ -39,6 +40,11 @@
       "count": 5
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 4
@@ -46,6 +52,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 4
     },
     {
@@ -61,16 +72,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 3
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 3
     },
     {
@@ -106,6 +107,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
