@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T07:15:05.083166Z",
+  "generated_at_utc": "2025-10-08T08:21:28.299279Z",
   "results": {
-    "BTC": 32,
+    "BTC": 36,
     "ETH": 15,
     "CAKE": 5,
-    "NEAR": 4,
     "ALGO": 4,
     "SOL": 4,
+    "XRP": 4,
+    "NEAR": 3,
     "BNB": 3,
     "DOGE": 3,
     "MATIC": 3,
-    "XRP": 3,
     "DOT": 2,
     "AVAX": 2,
     "ATOM": 1,
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 36
     },
     {
       "symbol": "ETH",
@@ -39,11 +39,6 @@
       "count": 5
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 4
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 4
@@ -52,6 +47,16 @@
       "symbol": "SOL",
       "name": "Solana",
       "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "BNB",
@@ -66,11 +71,6 @@
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
-      "count": 3
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 3
     },
     {
