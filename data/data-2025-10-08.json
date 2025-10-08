@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T12:33:32.344363Z",
+  "generated_at_utc": "2025-10-08T14:16:18.791281Z",
   "results": {
-    "BTC": 42,
-    "ETH": 18,
+    "BTC": 58,
+    "ETH": 19,
+    "ADA": 9,
     "CAKE": 5,
-    "ADA": 5,
     "BNB": 5,
     "ALGO": 4,
     "SOL": 4,
@@ -21,27 +21,28 @@
     "SFP": 1,
     "SUI": 1,
     "APE": 1,
-    "XLM": 1
+    "XLM": 1,
+    "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 58
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
-    },
-    {
-      "symbol": "CAKE",
-      "name": "",
-      "count": 5
+      "count": 19
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 9
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 5
     },
     {
@@ -117,6 +118,11 @@
     {
       "symbol": "XLM",
       "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
