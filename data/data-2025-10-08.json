@@ -1,20 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T02:54:57.518710Z",
+  "generated_at_utc": "2025-10-08T03:28:03.753083Z",
   "results": {
     "BTC": 8,
+    "ETH": 5,
     "CAKE": 5,
-    "ETH": 4,
+    "ALGO": 4,
+    "SOL": 2,
     "BNB": 2,
+    "AVAX": 2,
+    "DOGE": 1,
     "DOT": 1,
     "ATOM": 1,
-    "AVAX": 1,
-    "ALGO": 1,
-    "SOL": 1,
-    "DOGE": 1,
     "SFP": 1,
-    "PEPE": 1
+    "PEPE": 1,
+    "MATIC": 1,
+    "XLM": 1
   },
   "results_list": [
     {
@@ -23,19 +25,39 @@
       "count": 8
     },
     {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 5
+    },
+    {
       "symbol": "CAKE",
       "name": "",
       "count": 5
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
     },
     {
       "symbol": "DOT",
@@ -48,26 +70,6 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
       "symbol": "SFP",
       "name": "",
       "count": 1
@@ -75,6 +77,16 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     }
   ]
