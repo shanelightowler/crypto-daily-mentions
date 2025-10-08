@@ -1,26 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T16:19:37.400490Z",
+  "generated_at_utc": "2025-10-08T17:14:04.285299Z",
   "results": {
-    "BTC": 76,
-    "ETH": 22,
-    "ADA": 10,
-    "SOL": 7,
-    "BNB": 7,
-    "XRP": 6,
+    "BTC": 105,
+    "ETH": 25,
+    "ADA": 11,
+    "SOL": 11,
+    "BNB": 8,
+    "XRP": 7,
     "CAKE": 5,
+    "NEAR": 5,
+    "DOGE": 5,
     "ALGO": 4,
-    "NEAR": 4,
-    "DOGE": 4,
     "SUI": 3,
     "MATIC": 3,
     "LINK": 2,
     "DOT": 2,
     "AVAX": 2,
+    "PEPE": 2,
     "ATOM": 1,
-    "PEPE": 1,
+    "WIF": 1,
     "SFP": 1,
+    "ETC": 1,
     "APE": 1,
     "XLM": 1,
     "OP": 1
@@ -29,32 +31,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 76
+      "count": 105
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 25
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 7
+      "count": 11
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "CAKE",
@@ -62,18 +64,18 @@
       "count": 5
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 4
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 5
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 4
     },
     {
@@ -102,18 +104,28 @@
       "count": 2
     },
     {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
       "symbol": "SFP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
