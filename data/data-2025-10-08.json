@@ -1,35 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T05:15:08.746507Z",
+  "generated_at_utc": "2025-10-08T06:23:55.476530Z",
   "results": {
-    "BTC": 17,
-    "ETH": 10,
+    "BTC": 31,
+    "ETH": 15,
     "CAKE": 5,
+    "NEAR": 4,
     "ALGO": 4,
-    "NEAR": 3,
-    "SOL": 3,
+    "SOL": 4,
     "BNB": 3,
+    "DOGE": 3,
+    "MATIC": 3,
+    "XRP": 3,
+    "DOT": 2,
     "AVAX": 2,
-    "DOT": 1,
     "ATOM": 1,
-    "DOGE": 1,
     "PEPE": 1,
     "SFP": 1,
     "APE": 1,
-    "MATIC": 1,
+    "ADA": 1,
     "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 17
+      "count": 31
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 15
     },
     {
       "symbol": "CAKE",
@@ -37,19 +39,19 @@
       "count": 5
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 3
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "BNB",
@@ -57,23 +59,33 @@
       "count": 3
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 1
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
@@ -92,8 +104,8 @@
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
