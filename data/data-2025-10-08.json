@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T22:14:47.227612Z",
+  "generated_at_utc": "2025-10-08T23:13:45.350562Z",
   "results": {
     "BTC": 130,
-    "ETH": 40,
+    "ETH": 41,
     "ADA": 11,
     "SOL": 11,
     "BNB": 8,
-    "XRP": 7,
+    "XRP": 8,
     "MATIC": 6,
     "CAKE": 5,
     "NEAR": 5,
@@ -38,7 +38,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 41
     },
     {
       "symbol": "ADA",
@@ -58,7 +58,7 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "MATIC",
