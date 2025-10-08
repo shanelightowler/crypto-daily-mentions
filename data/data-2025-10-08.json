@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T10:16:36.786615Z",
+  "generated_at_utc": "2025-10-08T11:13:12.249834Z",
   "results": {
-    "BTC": 41,
+    "BTC": 42,
     "ETH": 16,
     "CAKE": 5,
-    "ADA": 4,
+    "ADA": 5,
     "ALGO": 4,
     "SOL": 4,
     "BNB": 4,
@@ -19,15 +19,15 @@
     "ATOM": 1,
     "PEPE": 1,
     "SFP": 1,
-    "APE": 1,
     "SUI": 1,
+    "APE": 1,
     "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 42
     },
     {
       "symbol": "ETH",
@@ -42,7 +42,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ALGO",
@@ -105,13 +105,13 @@
       "count": 1
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
