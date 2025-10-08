@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o0viv8/daily_crypto_discussion_october_8_2025_gmt0/",
-  "generated_at_utc": "2025-10-08T08:21:28.299279Z",
+  "generated_at_utc": "2025-10-08T09:17:06.574476Z",
   "results": {
-    "BTC": 36,
-    "ETH": 15,
+    "BTC": 39,
+    "ETH": 16,
     "CAKE": 5,
     "ALGO": 4,
     "SOL": 4,
+    "DOGE": 4,
     "XRP": 4,
     "NEAR": 3,
     "BNB": 3,
-    "DOGE": 3,
+    "ADA": 3,
     "MATIC": 3,
     "DOT": 2,
     "AVAX": 2,
@@ -19,19 +20,18 @@
     "PEPE": 1,
     "SFP": 1,
     "APE": 1,
-    "ADA": 1,
     "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "CAKE",
@@ -46,6 +46,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 4
     },
     {
@@ -64,8 +69,8 @@
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
@@ -101,11 +106,6 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
