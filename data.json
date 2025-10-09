@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T12:33:01.462686Z",
+  "generated_at_utc": "2025-10-09T13:27:15.586328Z",
   "results": {
-    "BTC": 51,
-    "ETH": 18,
-    "BNB": 8,
+    "BTC": 64,
+    "ETH": 19,
+    "BNB": 11,
     "ADA": 7,
-    "SOL": 6,
+    "SOL": 7,
+    "ETC": 3,
     "ATOM": 3,
-    "ETC": 2,
     "XRP": 2,
+    "ZEC": 2,
     "DOT": 2,
     "MATIC": 2,
     "NEAR": 2,
@@ -25,17 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 64
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 8
+      "count": 11
     },
     {
       "symbol": "ADA",
@@ -45,7 +46,12 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "ATOM",
@@ -53,13 +59,13 @@
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
