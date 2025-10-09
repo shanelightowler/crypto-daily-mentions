@@ -1,50 +1,50 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T09:16:57.706497Z",
+  "generated_at_utc": "2025-10-09T10:17:37.108525Z",
   "results": {
-    "BTC": 34,
-    "ETH": 8,
-    "BNB": 6,
-    "SOL": 5,
-    "ADA": 4,
+    "BTC": 38,
+    "ETH": 14,
+    "BNB": 8,
+    "SOL": 6,
+    "ADA": 5,
     "ATOM": 3,
+    "XRP": 2,
     "MATIC": 2,
-    "XRP": 1,
+    "NEAR": 2,
+    "APE": 2,
     "DOT": 1,
     "MANA": 1,
     "TFUEL": 1,
     "AVAX": 1,
-    "NEAR": 1,
     "ALGO": 1,
-    "APE": 1,
     "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 38
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 14
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ATOM",
@@ -52,14 +52,24 @@
       "count": 3
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 2
     },
     {
       "symbol": "DOT",
@@ -82,18 +92,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "APE",
-      "name": "ApeCoin",
       "count": 1
     },
     {
