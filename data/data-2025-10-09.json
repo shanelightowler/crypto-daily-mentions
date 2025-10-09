@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T14:16:11.373648Z",
+  "generated_at_utc": "2025-10-09T15:28:57.597652Z",
   "results": {
-    "BTC": 68,
-    "ETH": 21,
-    "BNB": 13,
+    "BTC": 76,
+    "ETH": 27,
+    "BNB": 14,
     "ADA": 8,
     "SOL": 7,
     "ZEC": 4,
+    "ETC": 4,
     "ATOM": 4,
-    "ETC": 3,
     "XRP": 2,
     "DOT": 2,
     "MATIC": 2,
     "NEAR": 2,
     "APE": 2,
     "ALGO": 2,
+    "DMTR": 1,
     "MANA": 1,
     "TFUEL": 1,
     "AVAX": 1,
@@ -26,17 +27,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 76
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 27
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "ADA",
@@ -54,14 +55,14 @@
       "count": 4
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 4
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 4
     },
     {
       "symbol": "XRP",
@@ -92,6 +93,11 @@
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
+    },
+    {
+      "symbol": "DMTR",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "MANA",
