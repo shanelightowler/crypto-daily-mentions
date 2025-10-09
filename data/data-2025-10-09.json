@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T17:14:17.828169Z",
+  "generated_at_utc": "2025-10-09T18:22:20.079103Z",
   "results": {
-    "BTC": 102,
-    "ETH": 35,
+    "BTC": 108,
+    "ETH": 37,
     "BNB": 14,
     "ADA": 11,
     "SOL": 9,
+    "ETC": 5,
     "ZEC": 4,
-    "ETC": 4,
     "ATOM": 4,
     "NEAR": 4,
     "XRP": 2,
-    "AVAX": 2,
     "DOT": 2,
+    "AVAX": 2,
     "MATIC": 2,
     "APE": 2,
     "ALGO": 2,
@@ -28,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 102
+      "count": 108
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 37
     },
     {
       "symbol": "BNB",
@@ -51,13 +51,13 @@
       "count": 9
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 4
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 4
     },
     {
@@ -76,13 +76,13 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
