@@ -1,33 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T07:15:14.317861Z",
+  "generated_at_utc": "2025-10-09T08:21:07.532525Z",
   "results": {
-    "BTC": 26,
-    "ETH": 7,
+    "BTC": 31,
+    "ETH": 8,
     "BNB": 6,
     "SOL": 5,
+    "ADA": 4,
     "ATOM": 3,
-    "ADA": 2,
     "MATIC": 2,
+    "NEAR": 2,
     "XRP": 1,
     "DOT": 1,
     "MANA": 1,
     "TFUEL": 1,
     "AVAX": 1,
     "ALGO": 1,
-    "APE": 1
+    "APE": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 26
+      "count": 31
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "BNB",
@@ -40,18 +42,23 @@
       "count": 5
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 2
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -87,6 +94,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
