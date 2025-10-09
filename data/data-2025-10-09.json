@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T10:17:37.108525Z",
+  "generated_at_utc": "2025-10-09T11:13:19.313567Z",
   "results": {
-    "BTC": 38,
-    "ETH": 14,
+    "BTC": 40,
+    "ETH": 15,
     "BNB": 8,
+    "ADA": 7,
     "SOL": 6,
-    "ADA": 5,
     "ATOM": 3,
     "XRP": 2,
+    "DOT": 2,
     "MATIC": 2,
     "NEAR": 2,
     "APE": 2,
-    "DOT": 1,
+    "ETC": 1,
     "MANA": 1,
     "TFUEL": 1,
     "AVAX": 1,
@@ -24,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 38
+      "count": 40
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "BNB",
@@ -37,14 +38,14 @@
       "count": 8
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 7
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 6
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 5
     },
     {
       "symbol": "ATOM",
@@ -54,6 +55,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
@@ -72,8 +78,8 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
