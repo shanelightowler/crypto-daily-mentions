@@ -1,40 +1,43 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T22:14:38.424232Z",
+  "generated_at_utc": "2025-10-09T23:14:19.609581Z",
   "results": {
-    "BTC": 115,
-    "ETH": 37,
+    "BTC": 118,
+    "ETH": 39,
     "BNB": 14,
     "ADA": 11,
     "SOL": 9,
-    "ZEC": 6,
+    "ZEC": 7,
+    "LTC": 6,
     "ETC": 5,
     "ATOM": 4,
     "NEAR": 4,
-    "XRP": 2,
+    "XRP": 3,
+    "XLM": 3,
+    "XMR": 2,
     "DOT": 2,
     "AVAX": 2,
     "MATIC": 2,
     "APE": 2,
     "ALGO": 2,
-    "XMR": 1,
-    "LTC": 1,
+    "HBAR": 1,
     "DMTR": 1,
     "MANA": 1,
     "TFUEL": 1,
-    "LINK": 1
+    "LINK": 1,
+    "QNT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 115
+      "count": 118
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 37
+      "count": 39
     },
     {
       "symbol": "BNB",
@@ -54,6 +57,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 7
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 6
     },
     {
@@ -74,6 +82,16 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 3
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
@@ -102,13 +120,8 @@
       "count": 2
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
@@ -129,6 +142,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "QNT",
+      "name": "Quant",
       "count": 1
     }
   ]
