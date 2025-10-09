@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o1rerc/daily_crypto_discussion_october_9_2025_gmt0/",
-  "generated_at_utc": "2025-10-09T16:20:33.881484Z",
+  "generated_at_utc": "2025-10-09T17:14:17.828169Z",
   "results": {
-    "BTC": 87,
-    "ETH": 28,
+    "BTC": 102,
+    "ETH": 35,
     "BNB": 14,
-    "ADA": 8,
-    "SOL": 8,
+    "ADA": 11,
+    "SOL": 9,
     "ZEC": 4,
     "ETC": 4,
     "ATOM": 4,
-    "NEAR": 3,
+    "NEAR": 4,
     "XRP": 2,
+    "AVAX": 2,
     "DOT": 2,
     "MATIC": 2,
     "APE": 2,
@@ -21,19 +22,18 @@
     "DMTR": 1,
     "MANA": 1,
     "TFUEL": 1,
-    "AVAX": 1,
     "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 87
+      "count": 102
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 35
     },
     {
       "symbol": "BNB",
@@ -43,12 +43,12 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 8
+      "count": 11
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ZEC",
@@ -68,11 +68,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -113,11 +118,6 @@
     {
       "symbol": "TFUEL",
       "name": "Theta Fuel",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     },
     {
