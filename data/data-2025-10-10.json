@@ -1,23 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T12:32:40.425568Z",
+  "generated_at_utc": "2025-10-10T13:25:19.072067Z",
   "results": {
-    "BTC": 20,
+    "BTC": 19,
     "LTC": 11,
-    "NEAR": 3,
     "ZEC": 3,
+    "NEAR": 3,
     "XMR": 3,
     "FET": 1,
     "DASH": 1,
     "DOGE": 1,
+    "ADA": 1,
+    "ETH": 1,
     "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 19
     },
     {
       "symbol": "LTC",
@@ -25,13 +27,13 @@
       "count": 11
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 3
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 3
     },
     {
@@ -52,6 +54,16 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
