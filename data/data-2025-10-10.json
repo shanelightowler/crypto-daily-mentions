@@ -1,30 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T15:15:37.345676Z",
+  "generated_at_utc": "2025-10-10T16:19:12.834860Z",
   "results": {
-    "BTC": 30,
-    "LTC": 14,
+    "BTC": 57,
+    "LTC": 17,
+    "ETH": 7,
     "ZEC": 3,
     "XMR": 3,
     "NEAR": 3,
+    "ADA": 2,
     "FET": 1,
+    "TRUMP": 1,
+    "XRP": 1,
+    "SOL": 1,
     "DASH": 1,
     "DOGE": 1,
-    "ETH": 1,
-    "ADA": 1,
     "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 57
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 14
+      "count": 17
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 7
     },
     {
       "symbol": "ZEC",
@@ -42,8 +50,28 @@
       "count": 3
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
@@ -54,16 +82,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
