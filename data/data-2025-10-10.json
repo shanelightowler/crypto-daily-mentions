@@ -1,41 +1,54 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T17:14:06.311723Z",
+  "generated_at_utc": "2025-10-10T18:22:36.305465Z",
   "results": {
-    "BTC": 73,
-    "LTC": 16,
-    "ETH": 13,
+    "BTC": 111,
+    "LTC": 19,
+    "ETH": 16,
+    "NEAR": 5,
+    "ZEC": 4,
     "BONK": 4,
-    "ZEC": 3,
     "XMR": 3,
-    "NEAR": 3,
+    "TRUMP": 2,
     "SOL": 2,
     "ADA": 2,
+    "ZORA": 1,
     "FET": 1,
-    "TRUMP": 1,
     "XRP": 1,
     "DASH": 1,
     "DOGE": 1,
     "BNB": 1,
     "PEPE": 1,
-    "ETC": 1
+    "BAT": 1,
+    "ETC": 1,
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 73
+      "count": 111
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 16
+      "count": 19
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 16
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 5
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 4
     },
     {
       "symbol": "BONK",
@@ -43,19 +56,14 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 3
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 3
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -68,13 +76,13 @@
       "count": 2
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 1
     },
     {
-      "symbol": "TRUMP",
-      "name": "",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     },
     {
@@ -103,8 +111,18 @@
       "count": 1
     },
     {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
