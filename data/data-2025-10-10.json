@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T11:13:34.237764Z",
+  "generated_at_utc": "2025-10-10T12:32:40.425568Z",
   "results": {
-    "BTC": 18,
-    "LTC": 10,
+    "BTC": 20,
+    "LTC": 11,
+    "NEAR": 3,
     "ZEC": 3,
     "XMR": 3,
     "FET": 1,
@@ -16,12 +17,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 10
+      "count": 11
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "ZEC",
