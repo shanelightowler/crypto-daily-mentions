@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T20:17:16.373897Z",
+  "generated_at_utc": "2025-10-10T21:13:18.484213Z",
   "results": {
-    "BTC": 129,
-    "LTC": 20,
-    "ETH": 20,
+    "BTC": 152,
+    "ETH": 26,
+    "LTC": 21,
     "ZEC": 5,
     "NEAR": 5,
     "BONK": 4,
@@ -14,7 +14,9 @@
     "SOL": 2,
     "ADA": 2,
     "ZORA": 1,
+    "3000": 1,
     "FET": 1,
+    "MINA": 1,
     "XRP": 1,
     "DASH": 1,
     "DOGE": 1,
@@ -22,23 +24,24 @@
     "PEPE": 1,
     "BAT": 1,
     "ETC": 1,
-    "ROSE": 1
+    "ROSE": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 129
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 20
+      "count": 152
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 26
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 21
     },
     {
       "symbol": "ZEC",
@@ -81,8 +84,18 @@
       "count": 1
     },
     {
+      "symbol": "3000",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "MINA",
+      "name": "Mina",
       "count": 1
     },
     {
@@ -123,6 +136,11 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
