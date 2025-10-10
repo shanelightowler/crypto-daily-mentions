@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T03:33:41.690575Z",
+  "generated_at_utc": "2025-10-10T04:18:43.407113Z",
   "results": {
-    "BTC": 6,
+    "BTC": 7,
+    "DOGE": 1,
     "DASH": 1,
     "BNB": 1
   },
@@ -11,7 +12,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
     },
     {
       "symbol": "DASH",
