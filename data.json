@@ -1,38 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T16:19:12.834860Z",
+  "generated_at_utc": "2025-10-10T17:14:06.311723Z",
   "results": {
-    "BTC": 57,
-    "LTC": 17,
-    "ETH": 7,
+    "BTC": 73,
+    "LTC": 16,
+    "ETH": 13,
+    "BONK": 4,
     "ZEC": 3,
     "XMR": 3,
     "NEAR": 3,
+    "SOL": 2,
     "ADA": 2,
     "FET": 1,
     "TRUMP": 1,
     "XRP": 1,
-    "SOL": 1,
     "DASH": 1,
     "DOGE": 1,
-    "BNB": 1
+    "BNB": 1,
+    "PEPE": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 73
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 17
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 13
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 4
     },
     {
       "symbol": "ZEC",
@@ -48,6 +56,11 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "ADA",
@@ -70,11 +83,6 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
       "symbol": "DASH",
       "name": "Dash",
       "count": 1
@@ -87,6 +95,16 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
