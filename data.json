@@ -1,44 +1,45 @@
 {
   "thread_title": "Daily Crypto Discussion - October 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o2lz83/daily_crypto_discussion_october_10_2025_gmt0/",
-  "generated_at_utc": "2025-10-10T22:14:44.346642Z",
+  "generated_at_utc": "2025-10-10T23:14:23.158398Z",
   "results": {
-    "BTC": 207,
-    "ETH": 57,
+    "BTC": 229,
+    "ETH": 69,
+    "ADA": 29,
     "LTC": 26,
-    "ADA": 23,
-    "XRP": 17,
-    "LINK": 9,
-    "DOGE": 9,
-    "NEAR": 6,
+    "XRP": 19,
+    "DOGE": 11,
+    "LINK": 10,
+    "SUI": 8,
+    "NEAR": 8,
+    "ATOM": 6,
+    "ETC": 6,
     "ZEC": 5,
-    "SUI": 4,
+    "ARB": 5,
+    "AVAX": 4,
     "XMR": 4,
-    "BONK": 4,
     "BNB": 4,
-    "AVAX": 3,
+    "BONK": 4,
     "HBAR": 3,
     "MINA": 3,
     "TRUMP": 3,
     "SOL": 3,
+    "DASH": 3,
     "USELESS": 2,
-    "ARB": 2,
+    "WIF": 2,
     "CRV": 2,
-    "ETC": 2,
-    "DASH": 2,
+    "PEPE": 2,
+    "DOT": 2,
     "TIA": 2,
-    "KAS": 2,
     "ZORA": 1,
     "ALGO": 1,
     "CAKE": 1,
-    "ATOM": 1,
     "3000": 1,
     "INJ": 1,
     "69": 1,
     "FET": 1,
-    "DOT": 1,
     "FLOKI": 1,
-    "PEPE": 1,
+    "KAS": 1,
     "BAT": 1,
     "NEO": 1,
     "ROSE": 1
@@ -47,12 +48,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 207
+      "count": 229
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 57
+      "count": 69
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 29
     },
     {
       "symbol": "LTC",
@@ -60,28 +66,38 @@
       "count": 26
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 23
-    },
-    {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 17
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 9
+      "count": 19
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 9
+      "count": 11
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 10
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 8
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 8
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 6
     },
     {
@@ -90,8 +106,13 @@
       "count": 5
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 5
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 4
     },
     {
@@ -100,19 +121,14 @@
       "count": 4
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 4
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 3
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 4
     },
     {
       "symbol": "HBAR",
@@ -135,13 +151,18 @@
       "count": 3
     },
     {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 3
+    },
+    {
       "symbol": "USELESS",
       "name": "",
       "count": 2
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 2
     },
     {
@@ -150,23 +171,18 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 2
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
       "symbol": "TIA",
       "name": "Celestia",
-      "count": 2
-    },
-    {
-      "symbol": "KAS",
-      "name": "Kaspa",
       "count": 2
     },
     {
@@ -182,11 +198,6 @@
     {
       "symbol": "CAKE",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
       "count": 1
     },
     {
@@ -210,18 +221,13 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 1
-    },
-    {
       "symbol": "FLOKI",
       "name": "Floki",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 1
     },
     {
