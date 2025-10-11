@@ -1,25 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T04:17:39.148756Z",
+  "generated_at_utc": "2025-10-11T05:14:18.763352Z",
   "results": {
     "BTC": 54,
     "ETH": 19,
+    "DOT": 7,
     "NEAR": 6,
-    "DOT": 5,
     "ADA": 4,
     "HBAR": 4,
     "SUI": 3,
-    "TON": 3,
+    "XRP": 3,
     "LINK": 3,
     "DOGE": 3,
+    "ATOM": 3,
+    "TON": 3,
     "ZORA": 2,
-    "ATOM": 2,
-    "XRP": 2,
     "SEI": 2,
     "LTC": 2,
     "USELESS": 1,
     "SHIB": 1,
+    "TRUMP": 1,
+    "3000": 1,
     "HIVE": 1,
     "ROSE": 1,
     "ICP": 1,
@@ -46,14 +48,14 @@
       "count": 19
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 7
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 6
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
     },
     {
       "symbol": "ADA",
@@ -71,8 +73,8 @@
       "count": 3
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
@@ -86,18 +88,18 @@
       "count": 3
     },
     {
-      "symbol": "ZORA",
-      "name": "zora",
-      "count": 2
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 2
+      "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
+    },
+    {
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 2
     },
     {
@@ -118,6 +120,16 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "3000",
+      "name": "",
       "count": 1
     },
     {
