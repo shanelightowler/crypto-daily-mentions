@@ -1,29 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T01:08:52.101082Z",
+  "generated_at_utc": "2025-10-11T02:51:05.696460Z",
   "results": {
-    "BTC": 10,
-    "ETH": 9,
+    "BTC": 52,
+    "ETH": 18,
     "DOT": 5,
+    "NEAR": 4,
+    "ADA": 4,
+    "LINK": 3,
+    "DOGE": 3,
+    "HBAR": 3,
     "ZORA": 2,
-    "NEAR": 1,
-    "SUI": 1,
+    "SUI": 2,
+    "LTC": 2,
+    "USELESS": 1,
     "SHIB": 1,
     "ATOM": 1,
     "UNI": 1,
-    "TON": 1
+    "HIVE": 1,
+    "SEI": 1,
+    "ICP": 1,
+    "ARB": 1,
+    "TON": 1,
+    "OP": 1,
+    "FET": 1,
+    "LDO": 1,
+    "BONK": 1,
+    "GALA": 1,
+    "SAND": 1,
+    "APT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 52
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 18
     },
     {
       "symbol": "DOT",
@@ -31,18 +48,48 @@
       "count": 5
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 3
+    },
+    {
       "symbol": "ZORA",
       "name": "zora",
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "USELESS",
+      "name": "",
       "count": 1
     },
     {
@@ -61,8 +108,63 @@
       "count": 1
     },
     {
+      "symbol": "HIVE",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 1
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "LDO",
+      "name": "Lido DAO",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "GALA",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
       "count": 1
     }
   ]
