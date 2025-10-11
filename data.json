@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T17:12:18.338254Z",
+  "generated_at_utc": "2025-10-11T18:18:59.728057Z",
   "results": {
-    "BTC": 158,
+    "BTC": 162,
     "ETH": 44,
     "ADA": 10,
     "SUI": 9,
@@ -20,12 +20,13 @@
     "ZEC": 3,
     "TRX": 3,
     "DOGE": 3,
-    "ZORA": 2,
     "SHIB": 2,
+    "ZORA": 2,
     "BNB": 2,
     "SEI": 2,
     "BONK": 2,
     "AVAX": 2,
+    "APT": 2,
     "USELESS": 1,
     "GME": 1,
     "TRUMP": 1,
@@ -36,20 +37,19 @@
     "ICP": 1,
     "UNI": 1,
     "XMR": 1,
-    "PEPE": 1,
     "ETC": 1,
+    "PEPE": 1,
     "ARB": 1,
     "FET": 1,
     "LDO": 1,
     "GALA": 1,
-    "SAND": 1,
-    "APT": 1
+    "SAND": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 158
+      "count": 162
     },
     {
       "symbol": "ETH",
@@ -132,13 +132,13 @@
       "count": 3
     },
     {
-      "symbol": "ZORA",
-      "name": "zora",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 2
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "symbol": "ZORA",
+      "name": "zora",
       "count": 2
     },
     {
@@ -159,6 +159,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
       "count": 2
     },
     {
@@ -212,13 +217,13 @@
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
@@ -244,11 +249,6 @@
     {
       "symbol": "SAND",
       "name": "The Sandbox",
-      "count": 1
-    },
-    {
-      "symbol": "APT",
-      "name": "Aptos",
       "count": 1
     }
   ]
