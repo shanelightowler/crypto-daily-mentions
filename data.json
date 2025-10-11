@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T20:15:14.738767Z",
+  "generated_at_utc": "2025-10-11T21:13:01.827544Z",
   "results": {
-    "BTC": 174,
-    "ETH": 48,
+    "BTC": 183,
+    "ETH": 52,
+    "ADA": 11,
     "SUI": 10,
-    "ADA": 10,
+    "NEAR": 9,
     "DOT": 8,
-    "NEAR": 8,
+    "SOL": 8,
+    "XRP": 8,
     "TRX": 8,
     "ATOM": 8,
-    "XRP": 7,
-    "SOL": 6,
+    "BNB": 7,
     "LINK": 5,
     "HBAR": 5,
+    "TON": 5,
     "DOGE": 4,
-    "BNB": 4,
     "ZEC": 4,
     "LTC": 4,
-    "TON": 4,
     "OP": 4,
     "SHIB": 2,
     "ZORA": 2,
@@ -49,12 +49,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 174
+      "count": 183
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 48
+      "count": 52
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 11
     },
     {
       "symbol": "SUI",
@@ -62,9 +67,9 @@
       "count": 10
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 10
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 9
     },
     {
       "symbol": "DOT",
@@ -72,8 +77,13 @@
       "count": 8
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 8
     },
     {
@@ -87,14 +97,9 @@
       "count": 8
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 7
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 6
     },
     {
       "symbol": "LINK",
@@ -107,13 +112,13 @@
       "count": 5
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 4
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 5
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 4
     },
     {
@@ -124,11 +129,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 4
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 4
     },
     {
