@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T13:19:17.989714Z",
+  "generated_at_utc": "2025-10-11T14:12:59.982464Z",
   "results": {
-    "BTC": 113,
+    "BTC": 122,
     "ETH": 40,
     "SUI": 9,
     "DOT": 8,
-    "ADA": 7,
+    "ADA": 8,
     "NEAR": 6,
     "ATOM": 6,
+    "LINK": 5,
     "HBAR": 5,
     "XRP": 5,
     "SOL": 5,
     "LTC": 4,
-    "LINK": 4,
     "TON": 4,
     "ZEC": 3,
     "DOGE": 3,
+    "OP": 3,
     "ZORA": 2,
     "SHIB": 2,
     "BNB": 2,
@@ -25,7 +26,6 @@
     "SEI": 2,
     "BONK": 2,
     "AVAX": 2,
-    "OP": 2,
     "USELESS": 1,
     "GME": 1,
     "TRUMP": 1,
@@ -47,7 +47,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 113
+      "count": 122
     },
     {
       "symbol": "ETH",
@@ -67,7 +67,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "NEAR",
@@ -78,6 +78,11 @@
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 6
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 5
     },
     {
       "symbol": "HBAR",
@@ -100,11 +105,6 @@
       "count": 4
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 4
-    },
-    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 4
@@ -117,6 +117,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 3
     },
     {
@@ -152,11 +157,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 2
-    },
-    {
-      "symbol": "OP",
-      "name": "Optimism",
       "count": 2
     },
     {
