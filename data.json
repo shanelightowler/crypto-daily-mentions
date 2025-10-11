@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T10:14:24.915265Z",
+  "generated_at_utc": "2025-10-11T11:11:55.132400Z",
   "results": {
-    "BTC": 90,
+    "BTC": 92,
     "ETH": 33,
     "DOT": 8,
     "ADA": 7,
@@ -14,9 +14,9 @@
     "XRP": 5,
     "LINK": 4,
     "LTC": 4,
+    "TON": 4,
     "SOL": 4,
     "DOGE": 3,
-    "TON": 3,
     "ZORA": 2,
     "SHIB": 2,
     "BNB": 2,
@@ -46,7 +46,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 90
+      "count": 92
     },
     {
       "symbol": "ETH",
@@ -99,6 +99,11 @@
       "count": 4
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 4
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 4
@@ -106,11 +111,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 3
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 3
     },
     {
