@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T08:18:11.871525Z",
+  "generated_at_utc": "2025-10-11T09:14:14.587258Z",
   "results": {
-    "BTC": 80,
-    "ETH": 28,
+    "BTC": 85,
+    "ETH": 33,
     "DOT": 8,
+    "ADA": 7,
     "NEAR": 6,
-    "ADA": 6,
     "SUI": 5,
     "HBAR": 5,
     "XRP": 5,
@@ -18,26 +18,26 @@
     "DOGE": 3,
     "TON": 3,
     "ZORA": 2,
-    "SEI": 2,
+    "SHIB": 2,
+    "ZEC": 2,
     "TRX": 2,
+    "SEI": 2,
+    "BONK": 2,
     "AVAX": 2,
     "OP": 2,
     "USELESS": 1,
     "GME": 1,
-    "TRUMP": 1,
     "TIA": 1,
-    "ZEC": 1,
-    "SHIB": 1,
+    "TRUMP": 1,
+    "BNB": 1,
     "3000": 1,
     "HIVE": 1,
     "ROSE": 1,
     "ICP": 1,
     "UNI": 1,
-    "ETC": 1,
     "ARB": 1,
     "FET": 1,
     "LDO": 1,
-    "BONK": 1,
     "GALA": 1,
     "SAND": 1,
     "APT": 1
@@ -46,12 +46,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 80
+      "count": 85
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 33
     },
     {
       "symbol": "DOT",
@@ -59,13 +59,13 @@
       "count": 8
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 6
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 7
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 6
     },
     {
@@ -119,13 +119,28 @@
       "count": 2
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
       "symbol": "TRX",
       "name": "TRON",
+      "count": 2
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 2
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
@@ -149,23 +164,18 @@
       "count": 1
     },
     {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "TIA",
       "name": "Celestia",
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
@@ -194,11 +204,6 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 1
@@ -211,11 +216,6 @@
     {
       "symbol": "LDO",
       "name": "Lido DAO",
-      "count": 1
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
       "count": 1
     },
     {
