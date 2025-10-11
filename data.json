@@ -1,31 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T05:14:18.763352Z",
+  "generated_at_utc": "2025-10-11T06:21:01.883354Z",
   "results": {
-    "BTC": 54,
-    "ETH": 19,
+    "BTC": 61,
+    "ETH": 21,
     "DOT": 7,
     "NEAR": 6,
     "ADA": 4,
     "HBAR": 4,
     "SUI": 3,
-    "XRP": 3,
     "LINK": 3,
     "DOGE": 3,
-    "ATOM": 3,
+    "XRP": 3,
     "TON": 3,
+    "ATOM": 3,
     "ZORA": 2,
     "SEI": 2,
     "LTC": 2,
     "USELESS": 1,
-    "SHIB": 1,
     "TRUMP": 1,
+    "SHIB": 1,
     "3000": 1,
     "HIVE": 1,
     "ROSE": 1,
     "ICP": 1,
     "UNI": 1,
+    "SOL": 1,
     "AVAX": 1,
     "ARB": 1,
     "OP": 1,
@@ -40,12 +41,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 54
+      "count": 61
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "DOT",
@@ -73,11 +74,6 @@
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
@@ -88,13 +84,18 @@
       "count": 3
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 3
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 3
     },
     {
@@ -118,13 +119,13 @@
       "count": 1
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "TRUMP",
-      "name": "",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
@@ -150,6 +151,11 @@
     {
       "symbol": "UNI",
       "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
