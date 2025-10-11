@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T14:12:59.982464Z",
+  "generated_at_utc": "2025-10-11T15:13:04.878751Z",
   "results": {
-    "BTC": 122,
-    "ETH": 40,
+    "BTC": 129,
+    "ETH": 42,
+    "ADA": 10,
     "SUI": 9,
     "DOT": 8,
-    "ADA": 8,
     "NEAR": 6,
     "ATOM": 6,
     "LINK": 5,
@@ -17,12 +17,12 @@
     "LTC": 4,
     "TON": 4,
     "ZEC": 3,
+    "TRX": 3,
     "DOGE": 3,
     "OP": 3,
     "ZORA": 2,
     "SHIB": 2,
     "BNB": 2,
-    "TRX": 2,
     "SEI": 2,
     "BONK": 2,
     "AVAX": 2,
@@ -35,6 +35,7 @@
     "ROSE": 1,
     "ICP": 1,
     "UNI": 1,
+    "XMR": 1,
     "PEPE": 1,
     "ARB": 1,
     "FET": 1,
@@ -47,12 +48,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 122
+      "count": 129
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 42
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 10
     },
     {
       "symbol": "SUI",
@@ -62,11 +68,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 8
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 8
     },
     {
@@ -115,6 +116,11 @@
       "count": 3
     },
     {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 3
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 3
@@ -137,11 +143,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 2
-    },
-    {
-      "symbol": "TRX",
-      "name": "TRON",
       "count": 2
     },
     {
@@ -202,6 +203,11 @@
     {
       "symbol": "UNI",
       "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
