@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T06:21:01.883354Z",
+  "generated_at_utc": "2025-10-11T07:13:08.787137Z",
   "results": {
-    "BTC": 61,
-    "ETH": 21,
+    "BTC": 64,
+    "ETH": 22,
     "DOT": 7,
     "NEAR": 6,
     "ADA": 4,
@@ -13,12 +13,15 @@
     "LINK": 3,
     "DOGE": 3,
     "XRP": 3,
-    "TON": 3,
     "ATOM": 3,
+    "TON": 3,
     "ZORA": 2,
     "SEI": 2,
+    "SOL": 2,
     "LTC": 2,
+    "AVAX": 2,
     "USELESS": 1,
+    "GME": 1,
     "TRUMP": 1,
     "SHIB": 1,
     "3000": 1,
@@ -26,8 +29,6 @@
     "ROSE": 1,
     "ICP": 1,
     "UNI": 1,
-    "SOL": 1,
-    "AVAX": 1,
     "ARB": 1,
     "OP": 1,
     "FET": 1,
@@ -41,12 +42,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 61
+      "count": 64
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "DOT",
@@ -89,13 +90,13 @@
       "count": 3
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 3
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 3
     },
     {
@@ -109,12 +110,27 @@
       "count": 2
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
       "symbol": "USELESS",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "GME",
       "name": "",
       "count": 1
     },
@@ -151,16 +167,6 @@
     {
       "symbol": "UNI",
       "name": "Uniswap",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     },
     {
