@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T09:14:14.587258Z",
+  "generated_at_utc": "2025-10-11T10:14:24.915265Z",
   "results": {
-    "BTC": 85,
+    "BTC": 90,
     "ETH": 33,
     "DOT": 8,
     "ADA": 7,
     "NEAR": 6,
-    "SUI": 5,
+    "SUI": 6,
+    "ATOM": 6,
     "HBAR": 5,
     "XRP": 5,
-    "ATOM": 5,
     "LINK": 4,
     "LTC": 4,
     "SOL": 4,
@@ -19,6 +19,7 @@
     "TON": 3,
     "ZORA": 2,
     "SHIB": 2,
+    "BNB": 2,
     "ZEC": 2,
     "TRX": 2,
     "SEI": 2,
@@ -29,7 +30,6 @@
     "GME": 1,
     "TIA": 1,
     "TRUMP": 1,
-    "BNB": 1,
     "3000": 1,
     "HIVE": 1,
     "ROSE": 1,
@@ -46,7 +46,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 85
+      "count": 90
     },
     {
       "symbol": "ETH",
@@ -71,7 +71,12 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 6
     },
     {
       "symbol": "HBAR",
@@ -81,11 +86,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
       "count": 5
     },
     {
@@ -121,6 +121,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -171,11 +176,6 @@
     {
       "symbol": "TRUMP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     },
     {
