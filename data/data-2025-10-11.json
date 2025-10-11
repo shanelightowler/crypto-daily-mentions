@@ -1,36 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T07:13:08.787137Z",
+  "generated_at_utc": "2025-10-11T08:18:11.871525Z",
   "results": {
-    "BTC": 64,
-    "ETH": 22,
-    "DOT": 7,
+    "BTC": 80,
+    "ETH": 28,
+    "DOT": 8,
     "NEAR": 6,
-    "ADA": 4,
-    "HBAR": 4,
-    "SUI": 3,
-    "LINK": 3,
+    "ADA": 6,
+    "SUI": 5,
+    "HBAR": 5,
+    "XRP": 5,
+    "ATOM": 5,
+    "LINK": 4,
+    "LTC": 4,
+    "SOL": 4,
     "DOGE": 3,
-    "XRP": 3,
-    "ATOM": 3,
     "TON": 3,
     "ZORA": 2,
     "SEI": 2,
-    "SOL": 2,
-    "LTC": 2,
+    "TRX": 2,
     "AVAX": 2,
+    "OP": 2,
     "USELESS": 1,
     "GME": 1,
     "TRUMP": 1,
+    "TIA": 1,
+    "ZEC": 1,
     "SHIB": 1,
     "3000": 1,
     "HIVE": 1,
     "ROSE": 1,
     "ICP": 1,
     "UNI": 1,
+    "ETC": 1,
     "ARB": 1,
-    "OP": 1,
     "FET": 1,
     "LDO": 1,
     "BONK": 1,
@@ -42,17 +46,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 64
+      "count": 80
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 28
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "NEAR",
@@ -62,36 +66,46 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 4
-    },
-    {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 3
+      "count": 5
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 3
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 3
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 5
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 5
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
@@ -110,18 +124,18 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 2
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 2
     },
     {
@@ -137,6 +151,16 @@
     {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
@@ -170,13 +194,13 @@
       "count": 1
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "OP",
-      "name": "Optimism",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
