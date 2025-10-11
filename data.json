@@ -1,28 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T02:51:05.696460Z",
+  "generated_at_utc": "2025-10-11T03:23:55.724240Z",
   "results": {
-    "BTC": 52,
+    "BTC": 53,
     "ETH": 18,
     "DOT": 5,
-    "NEAR": 4,
+    "NEAR": 5,
     "ADA": 4,
+    "HBAR": 4,
     "LINK": 3,
     "DOGE": 3,
-    "HBAR": 3,
     "ZORA": 2,
     "SUI": 2,
+    "TON": 2,
+    "XRP": 2,
     "LTC": 2,
     "USELESS": 1,
     "SHIB": 1,
+    "HIVE": 1,
     "ATOM": 1,
     "UNI": 1,
-    "HIVE": 1,
     "SEI": 1,
     "ICP": 1,
     "ARB": 1,
-    "TON": 1,
     "OP": 1,
     "FET": 1,
     "LDO": 1,
@@ -35,7 +36,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 53
     },
     {
       "symbol": "ETH",
@@ -50,11 +51,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 4
     },
     {
@@ -68,11 +74,6 @@
       "count": 3
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 3
-    },
-    {
       "symbol": "ZORA",
       "name": "zora",
       "count": 2
@@ -80,6 +81,16 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -98,6 +109,11 @@
       "count": 1
     },
     {
+      "symbol": "HIVE",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 1
@@ -105,11 +121,6 @@
     {
       "symbol": "UNI",
       "name": "Uniswap",
-      "count": 1
-    },
-    {
-      "symbol": "HIVE",
-      "name": "",
       "count": 1
     },
     {
@@ -125,11 +136,6 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     },
     {
