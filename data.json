@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T21:13:01.827544Z",
+  "generated_at_utc": "2025-10-11T22:13:45.472354Z",
   "results": {
-    "BTC": 183,
-    "ETH": 52,
+    "BTC": 191,
+    "ETH": 54,
+    "SUI": 11,
     "ADA": 11,
-    "SUI": 10,
+    "TRX": 11,
+    "ATOM": 10,
     "NEAR": 9,
+    "XRP": 9,
     "DOT": 8,
     "SOL": 8,
-    "XRP": 8,
-    "TRX": 8,
-    "ATOM": 8,
     "BNB": 7,
+    "DOGE": 6,
+    "ZEC": 5,
     "LINK": 5,
     "HBAR": 5,
     "TON": 5,
-    "DOGE": 4,
-    "ZEC": 4,
     "LTC": 4,
     "OP": 4,
     "SHIB": 2,
@@ -49,12 +49,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 183
+      "count": 191
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 52
+      "count": 54
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 11
     },
     {
       "symbol": "ADA",
@@ -62,13 +67,23 @@
       "count": 11
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 11
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 10
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 9
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 9
     },
     {
@@ -82,24 +97,19 @@
       "count": 8
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 8
-    },
-    {
-      "symbol": "TRX",
-      "name": "TRON",
-      "count": 8
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 8
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 7
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 6
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 5
     },
     {
       "symbol": "LINK",
@@ -115,16 +125,6 @@
       "symbol": "TON",
       "name": "Toncoin",
       "count": 5
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 4
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 4
     },
     {
       "symbol": "LTC",
