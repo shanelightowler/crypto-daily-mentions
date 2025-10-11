@@ -1,28 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T03:23:55.724240Z",
+  "generated_at_utc": "2025-10-11T04:17:39.148756Z",
   "results": {
-    "BTC": 53,
-    "ETH": 18,
+    "BTC": 54,
+    "ETH": 19,
+    "NEAR": 6,
     "DOT": 5,
-    "NEAR": 5,
     "ADA": 4,
     "HBAR": 4,
+    "SUI": 3,
+    "TON": 3,
     "LINK": 3,
     "DOGE": 3,
     "ZORA": 2,
-    "SUI": 2,
-    "TON": 2,
+    "ATOM": 2,
     "XRP": 2,
+    "SEI": 2,
     "LTC": 2,
     "USELESS": 1,
     "SHIB": 1,
     "HIVE": 1,
-    "ATOM": 1,
-    "UNI": 1,
-    "SEI": 1,
+    "ROSE": 1,
     "ICP": 1,
+    "UNI": 1,
+    "AVAX": 1,
     "ARB": 1,
     "OP": 1,
     "FET": 1,
@@ -36,21 +38,21 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 53
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
+      "count": 19
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 6
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
@@ -62,6 +64,16 @@
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 4
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 3
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -79,18 +91,18 @@
       "count": 2
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 2
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 2
     },
     {
@@ -114,8 +126,13 @@
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
@@ -124,13 +141,8 @@
       "count": 1
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
-      "count": 1
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
