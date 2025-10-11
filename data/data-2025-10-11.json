@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o3h44p/daily_crypto_discussion_october_11_2025_gmt0/",
-  "generated_at_utc": "2025-10-11T16:17:12.725309Z",
+  "generated_at_utc": "2025-10-11T17:12:18.338254Z",
   "results": {
-    "BTC": 142,
+    "BTC": 158,
     "ETH": 44,
     "ADA": 10,
     "SUI": 9,
     "DOT": 8,
-    "NEAR": 6,
+    "NEAR": 7,
+    "XRP": 6,
     "ATOM": 6,
     "LINK": 5,
     "HBAR": 5,
-    "XRP": 5,
     "SOL": 5,
     "LTC": 4,
     "TON": 4,
+    "OP": 4,
     "ZEC": 3,
     "TRX": 3,
     "DOGE": 3,
-    "OP": 3,
     "ZORA": 2,
     "SHIB": 2,
     "BNB": 2,
@@ -37,6 +37,7 @@
     "UNI": 1,
     "XMR": 1,
     "PEPE": 1,
+    "ETC": 1,
     "ARB": 1,
     "FET": 1,
     "LDO": 1,
@@ -48,7 +49,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 142
+      "count": 158
     },
     {
       "symbol": "ETH",
@@ -73,6 +74,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 7
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 6
     },
     {
@@ -91,11 +97,6 @@
       "count": 5
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 5
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 5
@@ -111,6 +112,11 @@
       "count": 4
     },
     {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 4
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 3
@@ -123,11 +129,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 3
-    },
-    {
-      "symbol": "OP",
-      "name": "Optimism",
       "count": 3
     },
     {
@@ -213,6 +214,11 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
