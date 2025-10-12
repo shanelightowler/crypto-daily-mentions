@@ -1,46 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T15:13:14.665173Z",
+  "generated_at_utc": "2025-10-12T16:16:47.301567Z",
   "results": {
-    "BTC": 56,
-    "BNB": 22,
-    "ETH": 19,
+    "BTC": 63,
+    "BNB": 23,
+    "ETH": 20,
     "CRO": 6,
     "ATOM": 6,
+    "ADA": 4,
     "ETC": 4,
-    "ADA": 3,
+    "ICP": 4,
+    "ZEC": 3,
     "DOT": 2,
     "ALGO": 2,
-    "ZEC": 2,
     "DASH": 2,
     "XRP": 2,
     "NEAR": 2,
+    "LINK": 2,
     "SUI": 1,
     "DOGE": 1,
+    "LTC": 1,
     "QNT": 1,
     "WLFI": 1,
     "ROSE": 1,
     "JELLY": 1,
     "ZEREBRO": 1,
-    "SOL": 1,
-    "LINK": 1
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 56
+      "count": 63
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 22
+      "count": 23
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "CRO",
@@ -53,13 +55,23 @@
       "count": 6
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 4
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 3
     },
     {
@@ -70,11 +82,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 2
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
       "count": 2
     },
     {
@@ -93,6 +100,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 1
@@ -100,6 +112,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
@@ -130,11 +147,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     }
   ]
