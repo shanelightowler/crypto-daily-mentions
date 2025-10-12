@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T08:18:16.101394Z",
+  "generated_at_utc": "2025-10-12T09:14:17.541718Z",
   "results": {
-    "BTC": 35,
-    "ETH": 10,
+    "BTC": 41,
+    "ETH": 12,
     "CRO": 5,
+    "BNB": 3,
     "ETC": 3,
     "DOT": 2,
     "ALGO": 2,
-    "BNB": 2,
     "ATOM": 2,
     "ADA": 1,
     "SUI": 1,
@@ -25,17 +25,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 41
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -50,11 +55,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 2
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 2
     },
     {
