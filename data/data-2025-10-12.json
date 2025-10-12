@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T20:15:58.767062Z",
+  "generated_at_utc": "2025-10-12T21:13:08.851854Z",
   "results": {
     "BTC": 78,
     "ETH": 28,
     "BNB": 27,
     "CRO": 6,
+    "ETC": 6,
     "ATOM": 6,
-    "ETC": 5,
     "ADA": 4,
     "ICP": 4,
     "LTC": 4,
@@ -26,12 +26,12 @@
     "QNT": 1,
     "WLFI": 1,
     "ROSE": 1,
+    "WIF": 1,
     "JELLY": 1,
     "ZEREBRO": 1,
-    "WIF": 1,
     "AVAX": 1,
-    "PEPE": 1,
-    "MATIC": 1
+    "MATIC": 1,
+    "PEPE": 1
   },
   "results_list": [
     {
@@ -55,14 +55,14 @@
       "count": 6
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 6
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 5
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 6
     },
     {
       "symbol": "ADA",
@@ -150,6 +150,11 @@
       "count": 1
     },
     {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 1
+    },
+    {
       "symbol": "JELLY",
       "name": "",
       "count": 1
@@ -160,23 +165,18 @@
       "count": 1
     },
     {
-      "symbol": "WIF",
-      "name": "dogwifhat",
-      "count": 1
-    },
-    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     }
   ]
