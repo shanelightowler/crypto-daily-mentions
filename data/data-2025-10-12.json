@@ -1,29 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T18:19:44.059787Z",
+  "generated_at_utc": "2025-10-12T19:11:39.503352Z",
   "results": {
-    "BTC": 74,
-    "ETH": 27,
-    "BNB": 24,
+    "BTC": 77,
+    "ETH": 28,
+    "BNB": 27,
     "CRO": 6,
     "ATOM": 6,
     "ADA": 4,
     "ETC": 4,
     "ICP": 4,
     "ZEC": 3,
+    "LTC": 3,
+    "SOL": 3,
     "DOT": 2,
     "ALGO": 2,
     "DASH": 2,
     "XRP": 2,
     "NEAR": 2,
-    "SOL": 2,
     "LINK": 2,
-    "TON": 1,
     "SUI": 1,
     "DOGE": 1,
+    "TON": 1,
     "QNT": 1,
-    "LTC": 1,
     "WLFI": 1,
     "ROSE": 1,
     "JELLY": 1,
@@ -35,17 +35,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 74
+      "count": 77
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 28
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 24
+      "count": 27
     },
     {
       "symbol": "CRO",
@@ -78,6 +78,16 @@
       "count": 3
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 2
@@ -103,19 +113,9 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
     },
     {
       "symbol": "SUI",
@@ -128,13 +128,13 @@
       "count": 1
     },
     {
-      "symbol": "QNT",
-      "name": "Quant",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "QNT",
+      "name": "Quant",
       "count": 1
     },
     {
