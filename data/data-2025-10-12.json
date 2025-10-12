@@ -1,11 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T04:18:07.744226Z",
+  "generated_at_utc": "2025-10-12T05:14:16.813915Z",
   "results": {
-    "BTC": 20,
-    "ETH": 8,
+    "BTC": 21,
+    "ETH": 9,
     "CRO": 2,
+    "ADA": 1,
+    "SUI": 1,
+    "DOGE": 1,
     "QNT": 1,
     "NEAR": 1,
     "JELLY": 1,
@@ -15,17 +18,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
     },
     {
       "symbol": "QNT",
