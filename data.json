@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T16:16:47.301567Z",
+  "generated_at_utc": "2025-10-12T17:12:19.209350Z",
   "results": {
-    "BTC": 63,
-    "BNB": 23,
-    "ETH": 20,
+    "BTC": 68,
+    "BNB": 24,
+    "ETH": 23,
     "CRO": 6,
     "ATOM": 6,
     "ADA": 4,
@@ -20,29 +20,30 @@
     "LINK": 2,
     "SUI": 1,
     "DOGE": 1,
-    "LTC": 1,
     "QNT": 1,
+    "LTC": 1,
     "WLFI": 1,
     "ROSE": 1,
     "JELLY": 1,
     "ZEREBRO": 1,
-    "SOL": 1
+    "SOL": 1,
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 68
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 23
+      "count": 24
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 23
     },
     {
       "symbol": "CRO",
@@ -115,13 +116,13 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "QNT",
+      "name": "Quant",
       "count": 1
     },
     {
-      "symbol": "QNT",
-      "name": "Quant",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
@@ -147,6 +148,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     }
   ]
