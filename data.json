@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T17:12:19.209350Z",
+  "generated_at_utc": "2025-10-12T18:19:44.059787Z",
   "results": {
-    "BTC": 68,
+    "BTC": 74,
+    "ETH": 27,
     "BNB": 24,
-    "ETH": 23,
     "CRO": 6,
     "ATOM": 6,
     "ADA": 4,
@@ -17,7 +17,9 @@
     "DASH": 2,
     "XRP": 2,
     "NEAR": 2,
+    "SOL": 2,
     "LINK": 2,
+    "TON": 1,
     "SUI": 1,
     "DOGE": 1,
     "QNT": 1,
@@ -26,24 +28,24 @@
     "ROSE": 1,
     "JELLY": 1,
     "ZEREBRO": 1,
-    "SOL": 1,
-    "AVAX": 1
+    "AVAX": 1,
+    "MATIC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 74
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 27
     },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 24
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 23
     },
     {
       "symbol": "CRO",
@@ -101,9 +103,19 @@
       "count": 2
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
     },
     {
       "symbol": "SUI",
@@ -146,13 +158,13 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     }
   ]
