@@ -1,16 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T06:21:00.322638Z",
+  "generated_at_utc": "2025-10-12T07:13:27.993867Z",
   "results": {
-    "BTC": 29,
+    "BTC": 32,
     "ETH": 9,
-    "CRO": 2,
+    "CRO": 4,
+    "DOT": 2,
+    "ALGO": 2,
+    "ATOM": 2,
     "ADA": 1,
     "SUI": 1,
     "DOGE": 1,
     "QNT": 1,
-    "ATOM": 1,
+    "WLFI": 1,
+    "ROSE": 1,
     "NEAR": 1,
     "JELLY": 1,
     "ZEREBRO": 1
@@ -19,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 32
     },
     {
       "symbol": "ETH",
@@ -29,6 +33,21 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 4
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 2
     },
     {
@@ -52,8 +71,13 @@
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "WLFI",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     },
     {
