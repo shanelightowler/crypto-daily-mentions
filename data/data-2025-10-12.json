@@ -1,36 +1,43 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T09:14:17.541718Z",
+  "generated_at_utc": "2025-10-12T10:14:25.604657Z",
   "results": {
-    "BTC": 41,
-    "ETH": 12,
+    "BTC": 43,
+    "ETH": 15,
+    "ATOM": 6,
     "CRO": 5,
-    "BNB": 3,
+    "BNB": 5,
     "ETC": 3,
     "DOT": 2,
     "ALGO": 2,
-    "ATOM": 2,
+    "NEAR": 2,
     "ADA": 1,
     "SUI": 1,
     "DOGE": 1,
+    "DASH": 1,
     "QNT": 1,
     "WLFI": 1,
     "ROSE": 1,
-    "NEAR": 1,
     "JELLY": 1,
-    "ZEREBRO": 1
+    "ZEREBRO": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 43
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 15
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 6
     },
     {
       "symbol": "CRO",
@@ -40,7 +47,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "ETC",
@@ -58,8 +65,8 @@
       "count": 2
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -78,6 +85,11 @@
       "count": 1
     },
     {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
       "symbol": "QNT",
       "name": "Quant",
       "count": 1
@@ -93,11 +105,6 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "JELLY",
       "name": "",
       "count": 1
@@ -105,6 +112,11 @@
     {
       "symbol": "ZEREBRO",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
