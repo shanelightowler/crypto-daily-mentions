@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T19:11:39.503352Z",
+  "generated_at_utc": "2025-10-12T20:15:58.767062Z",
   "results": {
-    "BTC": 77,
+    "BTC": 78,
     "ETH": 28,
     "BNB": 27,
     "CRO": 6,
     "ATOM": 6,
+    "ETC": 5,
     "ADA": 4,
-    "ETC": 4,
     "ICP": 4,
+    "LTC": 4,
     "ZEC": 3,
-    "LTC": 3,
     "SOL": 3,
     "DOT": 2,
     "ALGO": 2,
@@ -28,14 +28,16 @@
     "ROSE": 1,
     "JELLY": 1,
     "ZEREBRO": 1,
+    "WIF": 1,
     "AVAX": 1,
+    "PEPE": 1,
     "MATIC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 77
+      "count": 78
     },
     {
       "symbol": "ETH",
@@ -58,13 +60,13 @@
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 4
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 4
     },
     {
@@ -73,13 +75,13 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 3
-    },
-    {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 4
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 3
     },
     {
@@ -158,8 +160,18 @@
       "count": 1
     },
     {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 1
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
