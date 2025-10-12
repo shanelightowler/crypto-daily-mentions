@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T22:13:34.493532Z",
+  "generated_at_utc": "2025-10-12T23:13:36.304202Z",
   "results": {
     "BTC": 82,
     "ETH": 32,
@@ -9,13 +9,13 @@
     "CRO": 6,
     "ETC": 6,
     "ATOM": 6,
+    "ICP": 6,
+    "ALGO": 4,
     "ADA": 4,
-    "ICP": 4,
     "LTC": 4,
     "ZEC": 3,
     "SOL": 3,
     "DOT": 2,
-    "ALGO": 2,
     "TON": 2,
     "DASH": 2,
     "XRP": 2,
@@ -65,13 +65,18 @@
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 6
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 4
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 4
     },
     {
@@ -92,11 +97,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 2
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 2
     },
     {
