@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T12:28:58.441585Z",
+  "generated_at_utc": "2025-10-12T13:19:31.839723Z",
   "results": {
-    "BTC": 48,
+    "BTC": 50,
+    "BNB": 18,
     "ETH": 17,
-    "BNB": 16,
     "CRO": 6,
     "ATOM": 6,
     "ETC": 4,
     "DOT": 2,
     "ALGO": 2,
     "ZEC": 2,
+    "DASH": 2,
     "XRP": 2,
     "NEAR": 2,
     "ADA": 1,
     "SUI": 1,
     "DOGE": 1,
-    "DASH": 1,
     "QNT": 1,
     "WLFI": 1,
     "ROSE": 1,
@@ -29,17 +29,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 48
+      "count": 50
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 18
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 17
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 16
     },
     {
       "symbol": "CRO",
@@ -72,6 +72,11 @@
       "count": 2
     },
     {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 2
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
@@ -94,11 +99,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
       "count": 1
     },
     {
