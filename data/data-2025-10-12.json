@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o4apld/daily_crypto_discussion_october_12_2025_gmt0/",
-  "generated_at_utc": "2025-10-12T11:11:40.968860Z",
+  "generated_at_utc": "2025-10-12T12:28:58.441585Z",
   "results": {
-    "BTC": 46,
-    "ETH": 15,
+    "BTC": 48,
+    "ETH": 17,
+    "BNB": 16,
+    "CRO": 6,
     "ATOM": 6,
-    "CRO": 5,
-    "BNB": 5,
-    "ETC": 3,
+    "ETC": 4,
     "DOT": 2,
     "ALGO": 2,
+    "ZEC": 2,
     "XRP": 2,
     "NEAR": 2,
     "ADA": 1,
@@ -28,12 +29,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 48
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 17
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 16
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 6
     },
     {
       "symbol": "ATOM",
@@ -41,19 +52,9 @@
       "count": 6
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 5
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 5
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "DOT",
@@ -63,6 +64,11 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
