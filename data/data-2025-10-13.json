@@ -1,38 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T22:14:39.946465Z",
+  "generated_at_utc": "2025-10-13T23:13:32.717757Z",
   "results": {
-    "BTC": 92,
-    "ETH": 28,
+    "BTC": 103,
+    "ETH": 33,
     "ZEC": 6,
+    "NEAR": 5,
     "SOL": 4,
-    "NEAR": 4,
     "BNB": 3,
     "BAT": 3,
     "SNX": 3,
     "DOGE": 3,
+    "LINK": 3,
+    "ETC": 2,
     "LTC": 2,
     "ADA": 2,
-    "LINK": 2,
     "TRUMP": 1,
     "SHIB": 1,
     "DASH": 1,
     "NEO": 1,
     "BONK": 1,
-    "ETC": 1,
     "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 92
+      "count": 103
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 33
     },
     {
       "symbol": "ZEC",
@@ -40,13 +40,13 @@
       "count": 6
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 5
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 4
     },
     {
@@ -70,6 +70,16 @@
       "count": 3
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
@@ -77,11 +87,6 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 2
     },
     {
@@ -107,11 +112,6 @@
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
