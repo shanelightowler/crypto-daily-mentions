@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T17:13:56.803237Z",
+  "generated_at_utc": "2025-10-13T18:21:40.721848Z",
   "results": {
-    "BTC": 68,
-    "ETH": 14,
+    "BTC": 87,
+    "ETH": 22,
     "ZEC": 6,
+    "NEAR": 4,
     "BNB": 3,
     "BAT": 3,
-    "NEAR": 3,
+    "SOL": 3,
     "SNX": 3,
     "DOGE": 3,
     "LTC": 2,
     "ADA": 2,
     "LINK": 2,
-    "SOL": 2,
     "TRUMP": 1,
     "SHIB": 1,
     "DASH": 1,
@@ -26,17 +26,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 87
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 22
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 6
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
     },
     {
       "symbol": "BNB",
@@ -49,8 +54,8 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -76,11 +81,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 2
     },
     {
