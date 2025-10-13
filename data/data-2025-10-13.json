@@ -1,28 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T12:33:21.734397Z",
+  "generated_at_utc": "2025-10-13T13:27:22.359921Z",
   "results": {
-    "BTC": 50,
-    "ETH": 11,
+    "BTC": 51,
+    "ETH": 12,
+    "ZEC": 6,
     "BNB": 3,
-    "ZEC": 3,
     "NEAR": 2,
+    "LTC": 2,
+    "ADA": 2,
+    "LINK": 2,
     "BAT": 1,
     "SNX": 1,
-    "DOGE": 1,
-    "NEO": 1
+    "NEO": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 50
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 12
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 6
     },
     {
       "symbol": "BNB",
@@ -30,13 +38,23 @@
       "count": 3
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 3
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -50,13 +68,13 @@
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "NEO",
+      "name": "NEO",
       "count": 1
     },
     {
-      "symbol": "NEO",
-      "name": "NEO",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
