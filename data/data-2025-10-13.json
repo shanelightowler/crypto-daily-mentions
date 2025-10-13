@@ -1,33 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T14:16:43.926394Z",
+  "generated_at_utc": "2025-10-13T15:16:04.405596Z",
   "results": {
-    "BTC": 52,
-    "ETH": 12,
+    "BTC": 53,
+    "ETH": 13,
     "ZEC": 6,
     "BNB": 3,
     "BAT": 3,
+    "DOGE": 3,
     "NEAR": 2,
-    "DOGE": 2,
+    "SNX": 2,
     "LTC": 2,
     "ADA": 2,
     "LINK": 2,
     "SOL": 2,
+    "TRUMP": 1,
     "SHIB": 1,
-    "SNX": 1,
-    "NEO": 1
+    "NEO": 1,
+    "BONK": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 53
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "ZEC",
@@ -45,13 +48,18 @@
       "count": 3
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "SNX",
+      "name": "Synthetix",
       "count": 2
     },
     {
@@ -75,18 +83,28 @@
       "count": 2
     },
     {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "count": 1
     },
     {
-      "symbol": "SNX",
-      "name": "Synthetix",
+      "symbol": "NEO",
+      "name": "NEO",
       "count": 1
     },
     {
-      "symbol": "NEO",
-      "name": "NEO",
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
