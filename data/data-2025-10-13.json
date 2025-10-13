@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T20:17:52.970636Z",
+  "generated_at_utc": "2025-10-13T21:13:33.028404Z",
   "results": {
-    "BTC": 87,
-    "ETH": 25,
+    "BTC": 89,
+    "ETH": 28,
     "ZEC": 6,
     "NEAR": 4,
     "BNB": 3,
@@ -20,19 +20,19 @@
     "DASH": 1,
     "NEO": 1,
     "BONK": 1,
-    "XRP": 1,
-    "ETC": 1
+    "ETC": 1,
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 87
+      "count": 89
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 28
     },
     {
       "symbol": "ZEC",
@@ -110,13 +110,13 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
