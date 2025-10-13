@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T15:16:04.405596Z",
+  "generated_at_utc": "2025-10-13T16:19:29.599891Z",
   "results": {
-    "BTC": 53,
-    "ETH": 13,
+    "BTC": 54,
+    "ETH": 14,
     "ZEC": 6,
     "BNB": 3,
     "BAT": 3,
@@ -17,6 +17,7 @@
     "SOL": 2,
     "TRUMP": 1,
     "SHIB": 1,
+    "DASH": 1,
     "NEO": 1,
     "BONK": 1,
     "ETC": 1
@@ -25,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 53
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "ZEC",
@@ -90,6 +91,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     },
     {
