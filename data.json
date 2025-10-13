@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T11:14:01.356414Z",
+  "generated_at_utc": "2025-10-13T12:33:21.734397Z",
   "results": {
-    "BTC": 46,
+    "BTC": 50,
     "ETH": 11,
     "BNB": 3,
     "ZEC": 3,
+    "NEAR": 2,
     "BAT": 1,
-    "NEAR": 1,
     "SNX": 1,
-    "NEO": 1,
-    "DOGE": 1
+    "DOGE": 1,
+    "NEO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 50
     },
     {
       "symbol": "ETH",
@@ -35,13 +35,13 @@
       "count": 3
     },
     {
-      "symbol": "BAT",
-      "name": "Basic Attention Token",
-      "count": 1
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 1
     },
     {
@@ -50,13 +50,13 @@
       "count": 1
     },
     {
-      "symbol": "NEO",
-      "name": "NEO",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "NEO",
+      "name": "NEO",
       "count": 1
     }
   ]
