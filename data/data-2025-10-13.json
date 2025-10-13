@@ -1,26 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - October 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o54tdm/daily_crypto_discussion_october_13_2025_gmt0/",
-  "generated_at_utc": "2025-10-13T13:27:22.359921Z",
+  "generated_at_utc": "2025-10-13T14:16:43.926394Z",
   "results": {
-    "BTC": 51,
+    "BTC": 52,
     "ETH": 12,
     "ZEC": 6,
     "BNB": 3,
+    "BAT": 3,
     "NEAR": 2,
+    "DOGE": 2,
     "LTC": 2,
     "ADA": 2,
     "LINK": 2,
-    "BAT": 1,
+    "SOL": 2,
+    "SHIB": 1,
     "SNX": 1,
-    "NEO": 1,
-    "DOGE": 1
+    "NEO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 52
     },
     {
       "symbol": "ETH",
@@ -38,8 +40,18 @@
       "count": 3
     },
     {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 3
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -58,8 +70,13 @@
       "count": 2
     },
     {
-      "symbol": "BAT",
-      "name": "Basic Attention Token",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
@@ -70,11 +87,6 @@
     {
       "symbol": "NEO",
       "name": "NEO",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     }
   ]
