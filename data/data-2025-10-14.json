@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T06:24:18.208685Z",
+  "generated_at_utc": "2025-10-14T07:16:20.590446Z",
   "results": {
     "BTC": 40,
-    "ETH": 10,
+    "ETH": 12,
     "BNB": 6,
     "ARB": 5,
-    "ETC": 1,
-    "GMX": 1,
+    "LINK": 2,
     "ZEC": 1,
+    "GMX": 1,
+    "ETC": 1,
     "XRP": 1
   },
   "results_list": [
@@ -21,7 +22,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "BNB",
@@ -34,8 +35,13 @@
       "count": 5
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
@@ -44,8 +50,8 @@
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
