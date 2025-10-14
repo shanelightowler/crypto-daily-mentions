@@ -1,14 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T08:19:42.010222Z",
+  "generated_at_utc": "2025-10-14T09:17:52.785082Z",
   "results": {
-    "BTC": 52,
-    "ETH": 14,
-    "BNB": 6,
+    "BTC": 59,
+    "ETH": 16,
+    "BNB": 8,
     "ARB": 5,
-    "SOL": 2,
-    "LINK": 2,
+    "SOL": 4,
+    "LINK": 3,
+    "NEO": 1,
+    "SUI": 1,
     "ZEC": 1,
     "GMX": 1,
     "ETC": 1,
@@ -18,17 +20,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 59
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ARB",
@@ -38,12 +40,22 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
+      "count": 3
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
     },
     {
       "symbol": "ZEC",
