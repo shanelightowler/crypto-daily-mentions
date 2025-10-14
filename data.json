@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T16:20:59.579394Z",
+  "generated_at_utc": "2025-10-14T17:14:15.451538Z",
   "results": {
-    "BTC": 122,
-    "ETH": 34,
-    "ATOM": 20,
-    "BNB": 10,
-    "SOL": 8,
+    "BTC": 127,
+    "ETH": 41,
+    "ATOM": 21,
+    "BNB": 12,
+    "SOL": 10,
     "ARB": 5,
+    "ETC": 3,
     "LINK": 3,
     "ADA": 2,
+    "ROSE": 1,
     "NEO": 1,
     "SUI": 1,
     "ZEC": 1,
     "USELESS": 1,
     "GMX": 1,
-    "ETC": 1,
     "XRP": 1,
     "TRUMP": 1,
     "SNX": 1,
@@ -30,32 +31,37 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 122
+      "count": 127
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 34
+      "count": 41
     },
     {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 5
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -66,6 +72,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
     },
     {
       "symbol": "NEO",
@@ -90,11 +101,6 @@
     {
       "symbol": "GMX",
       "name": "GMX",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
