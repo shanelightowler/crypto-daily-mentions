@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T21:14:01.713897Z",
+  "generated_at_utc": "2025-10-14T22:15:37.024782Z",
   "results": {
-    "BTC": 136,
+    "BTC": 140,
     "ETH": 42,
     "ATOM": 21,
-    "BNB": 14,
+    "BNB": 15,
     "SOL": 9,
     "ARB": 5,
     "ETC": 4,
@@ -32,7 +32,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 136
+      "count": 140
     },
     {
       "symbol": "ETH",
@@ -47,7 +47,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "SOL",
