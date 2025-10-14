@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T22:15:37.024782Z",
+  "generated_at_utc": "2025-10-14T23:14:18.488121Z",
   "results": {
     "BTC": 140,
-    "ETH": 42,
+    "ETH": 43,
     "ATOM": 21,
-    "BNB": 15,
+    "BNB": 14,
     "SOL": 9,
     "ARB": 5,
     "ETC": 4,
     "LINK": 3,
     "ADA": 3,
     "ALGO": 2,
+    "TON": 2,
     "ROSE": 1,
     "NEO": 1,
     "SUI": 1,
@@ -25,7 +26,6 @@
     "DASH": 1,
     "PEPE": 1,
     "DOGE": 1,
-    "TON": 1,
     "NEAR": 1
   },
   "results_list": [
@@ -37,7 +37,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 42
+      "count": 43
     },
     {
       "symbol": "ATOM",
@@ -47,7 +47,7 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 15
+      "count": 14
     },
     {
       "symbol": "SOL",
@@ -77,6 +77,11 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 2
     },
     {
@@ -137,11 +142,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     },
     {
