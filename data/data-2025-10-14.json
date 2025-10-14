@@ -1,31 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T09:17:52.785082Z",
+  "generated_at_utc": "2025-10-14T10:17:11.154017Z",
   "results": {
-    "BTC": 59,
-    "ETH": 16,
+    "BTC": 69,
+    "ETH": 17,
     "BNB": 8,
+    "SOL": 5,
     "ARB": 5,
-    "SOL": 4,
     "LINK": 3,
+    "ADA": 2,
     "NEO": 1,
     "SUI": 1,
     "ZEC": 1,
     "GMX": 1,
     "ETC": 1,
-    "XRP": 1
+    "XRP": 1,
+    "TRUMP": 1,
+    "PEPE": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 59
+      "count": 69
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "BNB",
@@ -33,19 +37,24 @@
       "count": 8
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
+    },
+    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 5
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
     },
     {
       "symbol": "NEO",
@@ -75,6 +84,21 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
