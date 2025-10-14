@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T14:17:14.333301Z",
+  "generated_at_utc": "2025-10-14T15:18:09.318804Z",
   "results": {
-    "BTC": 98,
-    "ETH": 28,
+    "BTC": 105,
+    "ETH": 29,
     "BNB": 10,
     "SOL": 6,
     "ARB": 5,
@@ -13,6 +13,7 @@
     "NEO": 1,
     "SUI": 1,
     "ZEC": 1,
+    "USELESS": 1,
     "GMX": 1,
     "ETC": 1,
     "XRP": 1,
@@ -21,18 +22,19 @@
     "DASH": 1,
     "PEPE": 1,
     "DOGE": 1,
-    "TON": 1
+    "TON": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 98
+      "count": 105
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 29
     },
     {
       "symbol": "BNB",
@@ -72,6 +74,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "USELESS",
+      "name": "",
       "count": 1
     },
     {
@@ -117,6 +124,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
