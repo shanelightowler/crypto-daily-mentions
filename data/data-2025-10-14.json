@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o60gyb/daily_crypto_discussion_october_14_2025_gmt0/",
-  "generated_at_utc": "2025-10-14T19:12:51.125946Z",
+  "generated_at_utc": "2025-10-14T20:17:43.482792Z",
   "results": {
-    "BTC": 129,
-    "ETH": 41,
+    "BTC": 133,
+    "ETH": 42,
     "ATOM": 21,
-    "BNB": 12,
-    "SOL": 10,
+    "BNB": 14,
+    "SOL": 9,
     "ARB": 5,
     "ETC": 3,
     "LINK": 3,
-    "ADA": 2,
+    "ADA": 3,
     "ROSE": 1,
     "NEO": 1,
     "SUI": 1,
@@ -21,6 +21,7 @@
     "XRP": 1,
     "TRUMP": 1,
     "SNX": 1,
+    "ALGO": 1,
     "DASH": 1,
     "PEPE": 1,
     "DOGE": 1,
@@ -31,12 +32,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 129
+      "count": 133
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 41
+      "count": 42
     },
     {
       "symbol": "ATOM",
@@ -46,12 +47,12 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 12
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 10
+      "count": 9
     },
     {
       "symbol": "ARB",
@@ -71,7 +72,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ROSE",
@@ -116,6 +117,11 @@
     {
       "symbol": "SNX",
       "name": "Synthetix",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
