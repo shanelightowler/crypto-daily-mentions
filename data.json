@@ -1,41 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T14:17:17.867644Z",
+  "generated_at_utc": "2025-10-15T15:15:59.162508Z",
   "results": {
-    "BTC": 82,
-    "ETH": 11,
+    "BTC": 109,
+    "ETH": 15,
+    "ATOM": 9,
     "SOL": 6,
     "SUI": 4,
     "LINK": 4,
     "DOT": 4,
+    "XRP": 4,
     "BNB": 4,
     "FET": 3,
     "ETC": 2,
-    "XRP": 2,
     "AVAX": 2,
     "SAND": 1,
     "ALGO": 1,
-    "ATOM": 1,
     "REACT": 1,
     "ADA": 1,
     "NEAR": 1,
     "MATIC": 1,
     "LTC": 1,
+    "AAVE": 1,
     "PEPE": 1,
-    "BONK": 1,
-    "AAVE": 1
+    "BONK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 82
+      "count": 109
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 15
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 9
     },
     {
       "symbol": "SOL",
@@ -58,6 +63,11 @@
       "count": 4
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
@@ -73,11 +83,6 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
@@ -90,11 +95,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
       "count": 1
     },
     {
@@ -123,6 +123,11 @@
       "count": 1
     },
     {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -130,11 +135,6 @@
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
       "count": 1
     }
   ]
