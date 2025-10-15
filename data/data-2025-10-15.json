@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T07:16:16.414157Z",
+  "generated_at_utc": "2025-10-15T08:22:22.597198Z",
   "results": {
-    "BTC": 43,
+    "BTC": 51,
+    "ETH": 4,
+    "SOL": 4,
     "FET": 3,
-    "SOL": 3,
-    "ETH": 2,
-    "SUI": 2,
+    "SUI": 3,
+    "AVAX": 2,
     "BNB": 2,
     "SAND": 1,
     "LINK": 1,
@@ -15,13 +16,27 @@
     "DOT": 1,
     "ATOM": 1,
     "REACT": 1,
-    "ETC": 1
+    "XRP": 1,
+    "MATIC": 1,
+    "LTC": 1,
+    "ETC": 1,
+    "AAVE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 51
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
     },
     {
       "symbol": "FET",
@@ -29,18 +44,13 @@
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 3
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 2
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -79,8 +89,28 @@
       "count": 1
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     }
   ]
