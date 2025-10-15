@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T15:15:59.162508Z",
+  "generated_at_utc": "2025-10-15T16:17:37.483798Z",
   "results": {
-    "BTC": 109,
-    "ETH": 15,
+    "BTC": 121,
+    "ETH": 16,
     "ATOM": 9,
-    "SOL": 6,
+    "SOL": 7,
+    "DOT": 6,
+    "BNB": 5,
+    "XRP": 5,
     "SUI": 4,
     "LINK": 4,
-    "DOT": 4,
-    "XRP": 4,
-    "BNB": 4,
     "FET": 3,
     "ETC": 2,
     "AVAX": 2,
@@ -30,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 109
+      "count": 121
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "ATOM",
@@ -45,7 +45,22 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 7
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 6
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 5
     },
     {
       "symbol": "SUI",
@@ -55,21 +70,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 4
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 4
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 4
     },
     {
