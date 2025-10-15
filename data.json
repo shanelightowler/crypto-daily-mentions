@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T17:14:45.173058Z",
+  "generated_at_utc": "2025-10-15T18:23:50.387306Z",
   "results": {
-    "BTC": 127,
-    "ETH": 19,
+    "BTC": 151,
+    "ETH": 20,
     "ATOM": 9,
     "SOL": 8,
     "DOT": 7,
-    "BNB": 6,
+    "BNB": 7,
     "XRP": 5,
+    "ETC": 4,
     "SUI": 4,
     "LINK": 4,
     "FET": 3,
-    "ETC": 2,
     "AVAX": 2,
     "ADA": 2,
     "SAND": 1,
@@ -23,6 +23,7 @@
     "CRO": 1,
     "MATIC": 1,
     "LTC": 1,
+    "TON": 1,
     "AAVE": 1,
     "PEPE": 1,
     "BONK": 1
@@ -31,12 +32,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 127
+      "count": 151
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "ATOM",
@@ -56,12 +57,17 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 5
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
     },
     {
       "symbol": "SUI",
@@ -77,11 +83,6 @@
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
     },
     {
       "symbol": "AVAX",
@@ -126,6 +127,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
