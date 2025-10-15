@@ -1,28 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T03:02:07.052912Z",
+  "generated_at_utc": "2025-10-15T04:19:09.918826Z",
   "results": {
-    "BTC": 22,
+    "BTC": 24,
     "FET": 3,
+    "SOL": 3,
     "ETH": 2,
-    "SOL": 2,
+    "BNB": 2,
     "SAND": 1,
     "LINK": 1,
     "ALGO": 1,
     "DOT": 1,
     "ATOM": 1,
-    "REACT": 1
+    "REACT": 1,
+    "SUI": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
+      "count": 24
     },
     {
       "symbol": "FET",
       "name": "Fetch.ai",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -31,8 +39,8 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -63,6 +71,16 @@
     {
       "symbol": "REACT",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
