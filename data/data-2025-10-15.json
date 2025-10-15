@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T20:18:37.160874Z",
+  "generated_at_utc": "2025-10-15T21:14:30.561027Z",
   "results": {
-    "BTC": 164,
-    "ETH": 20,
+    "BTC": 178,
+    "ETH": 23,
     "ATOM": 9,
     "SOL": 8,
     "DOT": 7,
@@ -13,9 +13,9 @@
     "ETC": 4,
     "SUI": 4,
     "LINK": 4,
+    "ADA": 3,
     "FET": 3,
     "AVAX": 2,
-    "ADA": 2,
     "SAND": 1,
     "ALGO": 1,
     "REACT": 1,
@@ -32,12 +32,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 164
+      "count": 178
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 23
     },
     {
       "symbol": "ATOM",
@@ -80,6 +80,11 @@
       "count": 4
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 3
@@ -87,11 +92,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 2
     },
     {
