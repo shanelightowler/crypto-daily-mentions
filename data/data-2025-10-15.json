@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o6w048/daily_crypto_discussion_october_15_2025_gmt0/",
-  "generated_at_utc": "2025-10-15T11:13:50.081165Z",
+  "generated_at_utc": "2025-10-15T12:34:55.335974Z",
   "results": {
-    "BTC": 52,
-    "ETH": 4,
-    "SOL": 4,
+    "BTC": 63,
+    "ETH": 9,
+    "SOL": 5,
     "DOT": 4,
     "FET": 3,
     "SUI": 3,
+    "ETC": 2,
     "AVAX": 2,
     "BNB": 2,
     "SAND": 1,
@@ -17,28 +18,28 @@
     "ATOM": 1,
     "REACT": 1,
     "XRP": 1,
+    "NEAR": 1,
     "MATIC": 1,
     "LTC": 1,
-    "ETC": 1,
-    "AAVE": 1,
     "PEPE": 1,
-    "BONK": 1
+    "BONK": 1,
+    "AAVE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 63
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 9
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOT",
@@ -54,6 +55,11 @@
       "symbol": "SUI",
       "name": "Sui",
       "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "AVAX",
@@ -96,6 +102,11 @@
       "count": 1
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 1
@@ -106,16 +117,6 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
-      "count": 1
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -123,6 +124,11 @@
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     }
   ]
