@@ -1,39 +1,50 @@
 {
   "thread_title": "Daily Crypto Discussion - October 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o7rfxw/daily_crypto_discussion_october_16_2025_gmt0/",
-  "generated_at_utc": "2025-10-16T21:14:30.720132Z",
+  "generated_at_utc": "2025-10-16T22:12:47.782435Z",
   "results": {
-    "BTC": 130,
-    "ETH": 39,
+    "BTC": 146,
+    "ETH": 43,
+    "TON": 5,
     "BNB": 5,
+    "NEAR": 5,
     "ETC": 5,
-    "TON": 4,
     "SOL": 4,
-    "NEAR": 4,
     "XRP": 2,
     "LTC": 2,
     "ATOM": 2,
-    "ALGO": 1,
+    "LINK": 2,
     "FET": 1,
     "FLOKI": 1,
+    "ALGO": 1,
     "3000": 1,
-    "LINK": 1,
+    "AVAX": 1,
     "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 130
+      "count": 146
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 39
+      "count": 43
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 5
     },
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 5
     },
     {
@@ -42,18 +53,8 @@
       "count": 5
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 4
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 4
     },
     {
@@ -72,9 +73,9 @@
       "count": 2
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 1
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "FET",
@@ -87,13 +88,18 @@
       "count": 1
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
       "symbol": "3000",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
