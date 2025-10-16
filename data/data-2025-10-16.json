@@ -1,33 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - October 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o7rfxw/daily_crypto_discussion_october_16_2025_gmt0/",
-  "generated_at_utc": "2025-10-16T17:14:32.538389Z",
+  "generated_at_utc": "2025-10-16T18:23:14.759497Z",
   "results": {
-    "BTC": 72,
-    "ETH": 25,
+    "BTC": 87,
+    "ETH": 26,
     "BNB": 5,
     "SOL": 4,
+    "ETC": 4,
     "TON": 3,
     "XRP": 2,
+    "NEAR": 2,
+    "ATOM": 2,
     "ALGO": 1,
     "LTC": 1,
     "3000": 1,
-    "ATOM": 1,
     "LINK": 1,
-    "NEAR": 1,
-    "SUI": 1,
-    "ETC": 1
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 87
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 26
     },
     {
       "symbol": "BNB",
@@ -40,6 +40,11 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 3
@@ -47,6 +52,16 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 2
     },
     {
@@ -65,28 +80,13 @@
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 1
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
