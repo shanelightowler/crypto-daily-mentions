@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o7rfxw/daily_crypto_discussion_october_16_2025_gmt0/",
-  "generated_at_utc": "2025-10-16T05:15:57.110894Z",
+  "generated_at_utc": "2025-10-16T06:24:15.717473Z",
   "results": {
-    "BTC": 5,
+    "BTC": 11,
     "XRP": 1,
-    "BNB": 1,
     "ETH": 1,
+    "BNB": 1,
     "LTC": 1,
     "SUI": 1
   },
@@ -14,7 +14,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 11
     },
     {
       "symbol": "XRP",
@@ -22,13 +22,13 @@
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
