@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o7rfxw/daily_crypto_discussion_october_16_2025_gmt0/",
-  "generated_at_utc": "2025-10-16T20:18:11.263085Z",
+  "generated_at_utc": "2025-10-16T21:14:30.720132Z",
   "results": {
-    "BTC": 112,
-    "ETH": 30,
+    "BTC": 130,
+    "ETH": 39,
     "BNB": 5,
     "ETC": 5,
     "TON": 4,
     "SOL": 4,
     "NEAR": 4,
     "XRP": 2,
+    "LTC": 2,
     "ATOM": 2,
     "ALGO": 1,
-    "LTC": 1,
+    "FET": 1,
+    "FLOKI": 1,
     "3000": 1,
     "LINK": 1,
     "SUI": 1
@@ -22,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 112
+      "count": 130
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 39
     },
     {
       "symbol": "BNB",
@@ -60,6 +62,11 @@
       "count": 2
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 2
@@ -70,8 +77,13 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "Floki",
       "count": 1
     },
     {
