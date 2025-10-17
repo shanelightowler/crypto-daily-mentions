@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T17:14:09.264329Z",
+  "generated_at_utc": "2025-10-17T18:22:19.970854Z",
   "results": {
-    "BTC": 200,
-    "ETH": 39,
+    "BTC": 203,
+    "ETH": 40,
     "SOL": 10,
     "SUI": 7,
     "XRP": 6,
-    "ETC": 5,
+    "ETC": 6,
     "NEAR": 5,
     "ADA": 3,
+    "TON": 3,
     "BNB": 3,
     "OP": 2,
     "DOGE": 2,
     "LINK": 2,
     "BONK": 2,
     "PEPE": 2,
-    "TON": 2,
     "LTC": 1,
     "AVAX": 1,
     "DOT": 1,
@@ -34,12 +34,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 200
+      "count": 203
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 39
+      "count": 40
     },
     {
       "symbol": "SOL",
@@ -59,7 +59,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "NEAR",
@@ -69,6 +69,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 3
     },
     {
@@ -99,11 +104,6 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 2
     },
     {
