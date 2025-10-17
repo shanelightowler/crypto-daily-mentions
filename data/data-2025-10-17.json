@@ -1,22 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T13:25:32.281662Z",
+  "generated_at_utc": "2025-10-17T14:15:53.916701Z",
   "results": {
-    "BTC": 154,
-    "ETH": 30,
+    "BTC": 155,
+    "ETH": 31,
     "SUI": 6,
-    "XRP": 5,
-    "SOL": 5,
-    "ETC": 4,
+    "XRP": 6,
+    "SOL": 6,
+    "ETC": 5,
+    "NEAR": 3,
     "BNB": 3,
     "ADA": 2,
+    "BONK": 2,
     "PEPE": 2,
-    "NEAR": 2,
     "CRO": 1,
     "MATIC": 1,
     "DOGE": 1,
-    "BONK": 1,
     "ZEC": 1,
     "ATOM": 1,
     "SEI": 1,
@@ -31,12 +31,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 154
+      "count": 155
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 31
     },
     {
       "symbol": "SUI",
@@ -46,17 +46,22 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "BNB",
@@ -69,13 +74,13 @@
       "count": 2
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 2
     },
     {
@@ -91,11 +96,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
       "count": 1
     },
     {
