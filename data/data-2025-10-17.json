@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T08:21:51.184737Z",
+  "generated_at_utc": "2025-10-17T09:17:40.556023Z",
   "results": {
-    "BTC": 95,
-    "ETH": 19,
+    "BTC": 114,
+    "ETH": 22,
+    "XRP": 3,
     "ETC": 3,
     "SUI": 3,
     "SOL": 3,
@@ -15,24 +16,29 @@
     "DOGE": 1,
     "ATOM": 1,
     "SEI": 1,
-    "XRP": 1,
+    "ZEC": 1,
     "PEPE": 1,
-    "LINK": 1,
-    "KAS": 1,
     "OP": 1,
     "ARB": 1,
+    "LINK": 1,
+    "TON": 1,
     "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 95
+      "count": 114
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 22
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -85,23 +91,13 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "KAS",
-      "name": "Kaspa",
       "count": 1
     },
     {
@@ -112,6 +108,16 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
