@@ -1,0 +1,35 @@
+{
+  "thread_title": "Daily General Discussion October 17, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1o8shbl/daily_general_discussion_october_17_2025/",
+  "generated_at_utc": "2025-10-17T08:39:11.978269Z",
+  "date": "2025-10-17",
+  "summary": {
+    "count": 2,
+    "mean_usd": 11000.0,
+    "median_usd": 11000.0,
+    "min_usd": 10000.0,
+    "max_usd": 12000.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 12000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$12,000",
+      "sentence": "*BitMine chair Tom Lee said that Ether going to $12,000 wouldn\u2019t be a \u201cblow off top,\u201d it will just be price discovery at a new level.*",
+      "comment_id": "njxit0u",
+      "author": "Numerous_Ruin_4947",
+      "accept_reason": "single"
+    },
+    {
+      "amount_usd": 10000.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$10,000",
+      "sentence": "*BitMine chair Tom Lee and BitMEX co-founder Arthur Hayes are holding strong on their prediction that Ether will hit $10,000 this year, despite the recent crypto crash, and there being less than three months left on the clock.*",
+      "comment_id": "njxit0u",
+      "author": "Numerous_Ruin_4947",
+      "accept_reason": "single"
+    }
+  ]
+}
