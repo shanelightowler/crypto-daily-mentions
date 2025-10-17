@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T16:19:44.347474Z",
+  "generated_at_utc": "2025-10-17T17:14:09.264329Z",
   "results": {
-    "BTC": 195,
-    "ETH": 37,
-    "SOL": 9,
+    "BTC": 200,
+    "ETH": 39,
+    "SOL": 10,
     "SUI": 7,
     "XRP": 6,
     "ETC": 5,
@@ -18,10 +18,10 @@
     "BONK": 2,
     "PEPE": 2,
     "TON": 2,
-    "CRO": 1,
     "LTC": 1,
     "AVAX": 1,
     "DOT": 1,
+    "CRO": 1,
     "MATIC": 1,
     "ZEC": 1,
     "ATOM": 1,
@@ -34,17 +34,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 195
+      "count": 200
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 37
+      "count": 39
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "SUI",
@@ -107,11 +107,6 @@
       "count": 2
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 1
-    },
-    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 1
@@ -124,6 +119,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
