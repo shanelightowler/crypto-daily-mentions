@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T10:17:29.255328Z",
+  "generated_at_utc": "2025-10-17T11:13:13.712108Z",
   "results": {
-    "BTC": 128,
+    "BTC": 133,
     "ETH": 23,
+    "SUI": 6,
     "ETC": 4,
     "XRP": 3,
-    "SUI": 3,
     "SOL": 3,
+    "ADA": 2,
+    "PEPE": 2,
     "BNB": 2,
     "NEAR": 2,
-    "ADA": 1,
+    "CRO": 1,
     "MATIC": 1,
     "DOGE": 1,
-    "CRO": 1,
-    "ZEC": 1,
     "BONK": 1,
+    "ZEC": 1,
     "ATOM": 1,
     "SEI": 1,
-    "PEPE": 1,
     "OP": 1,
     "ARB": 1,
     "LINK": 1,
@@ -31,12 +31,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 128
+      "count": 133
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 23
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 6
     },
     {
       "symbol": "ETC",
@@ -49,14 +54,19 @@
       "count": 3
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 3
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
     },
     {
       "symbol": "BNB",
@@ -69,8 +79,8 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
@@ -84,18 +94,13 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 1
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
       "count": 1
     },
     {
@@ -106,11 +111,6 @@
     {
       "symbol": "SEI",
       "name": "Sei",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
       "count": 1
     },
     {
