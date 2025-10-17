@@ -1,22 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T21:14:19.503646Z",
+  "generated_at_utc": "2025-10-17T22:14:56.291315Z",
   "results": {
-    "BTC": 216,
+    "BTC": 220,
     "ETH": 43,
     "SOL": 10,
     "SUI": 7,
+    "ETC": 7,
     "XRP": 6,
-    "ETC": 6,
     "NEAR": 4,
     "ADA": 3,
     "TON": 3,
+    "BONK": 3,
     "BNB": 3,
     "OP": 2,
     "DOGE": 2,
     "LINK": 2,
-    "BONK": 2,
     "PEPE": 2,
     "LTC": 1,
     "AVAX": 1,
@@ -34,7 +34,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 216
+      "count": 220
     },
     {
       "symbol": "ETH",
@@ -52,13 +52,13 @@
       "count": 7
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 6
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 7
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 6
     },
     {
@@ -74,6 +74,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 3
     },
     {
@@ -94,11 +99,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
       "count": 2
     },
     {
