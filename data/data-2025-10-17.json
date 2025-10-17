@@ -1,28 +1,42 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T06:23:08.443950Z",
+  "generated_at_utc": "2025-10-17T07:15:32.969290Z",
   "results": {
-    "BTC": 34,
-    "ETH": 10,
+    "BTC": 59,
+    "ETH": 12,
+    "ETC": 2,
+    "SUI": 2,
     "SOL": 2,
     "ADA": 1,
     "MATIC": 1,
     "DOGE": 1,
-    "ETC": 1,
+    "ATOM": 1,
+    "SEI": 1,
     "PEPE": 1,
-    "BNB": 1
+    "BNB": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 59
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -45,8 +59,13 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
       "count": 1
     },
     {
@@ -57,6 +76,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
