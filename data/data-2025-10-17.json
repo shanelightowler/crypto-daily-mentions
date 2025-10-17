@@ -1,29 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - October 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o8mezy/daily_crypto_discussion_october_17_2025_gmt0/",
-  "generated_at_utc": "2025-10-17T15:16:35.056154Z",
+  "generated_at_utc": "2025-10-17T16:19:44.347474Z",
   "results": {
-    "BTC": 173,
-    "ETH": 35,
-    "SOL": 8,
-    "SUI": 6,
+    "BTC": 195,
+    "ETH": 37,
+    "SOL": 9,
+    "SUI": 7,
     "XRP": 6,
     "ETC": 5,
-    "NEAR": 3,
+    "NEAR": 5,
+    "ADA": 3,
     "BNB": 3,
-    "ADA": 2,
+    "OP": 2,
+    "DOGE": 2,
+    "LINK": 2,
     "BONK": 2,
     "PEPE": 2,
     "TON": 2,
     "CRO": 1,
+    "LTC": 1,
+    "AVAX": 1,
+    "DOT": 1,
     "MATIC": 1,
-    "DOGE": 1,
     "ZEC": 1,
     "ATOM": 1,
     "SEI": 1,
-    "OP": 1,
     "ARB": 1,
-    "LINK": 1,
     "DASH": 1,
     "SHIB": 1
   },
@@ -31,22 +34,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 173
+      "count": 195
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 37
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "XRP",
@@ -61,6 +64,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
@@ -69,8 +77,18 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -94,13 +112,23 @@
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
@@ -119,18 +147,8 @@
       "count": 1
     },
     {
-      "symbol": "OP",
-      "name": "Optimism",
-      "count": 1
-    },
-    {
       "symbol": "ARB",
       "name": "Arbitrum",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     },
     {
