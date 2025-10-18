@@ -1,37 +1,47 @@
 {
   "thread_title": "Daily Crypto Discussion - October 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1o9h8ef/daily_crypto_discussion_october_18_2025_gmt0/",
-  "generated_at_utc": "2025-10-18T20:15:33.338256Z",
+  "generated_at_utc": "2025-10-18T21:12:49.256352Z",
   "results": {
-    "BTC": 44,
-    "ETH": 6,
-    "LTC": 4,
+    "BTC": 50,
+    "LTC": 9,
+    "ETH": 8,
     "XRP": 3,
+    "BNB": 2,
+    "XMR": 2,
     "SOL": 2,
-    "OP": 1,
-    "XMR": 1,
-    "BNB": 1
+    "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 44
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 6
+      "count": 50
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 4
+      "count": 9
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 8
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 3
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -41,16 +51,6 @@
     {
       "symbol": "OP",
       "name": "Optimism",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     }
   ]
