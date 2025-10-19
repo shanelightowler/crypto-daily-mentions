@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oabea2/daily_crypto_discussion_october_19_2025_gmt0/",
-  "generated_at_utc": "2025-10-19T22:13:53.641152Z",
+  "generated_at_utc": "2025-10-19T23:13:46.182167Z",
   "results": {
     "BTC": 42,
-    "ETH": 15,
+    "ETH": 16,
     "NEAR": 6,
+    "XRP": 3,
+    "ETC": 3,
     "SOL": 2,
-    "XRP": 2,
-    "ETC": 2,
     "BNB": 2,
     "SPX": 2,
     "TROLL": 2,
@@ -30,7 +30,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "NEAR",
@@ -38,18 +38,18 @@
       "count": 6
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
