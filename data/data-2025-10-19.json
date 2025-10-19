@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oabea2/daily_crypto_discussion_october_19_2025_gmt0/",
-  "generated_at_utc": "2025-10-19T17:12:37.417748Z",
+  "generated_at_utc": "2025-10-19T18:20:03.355967Z",
   "results": {
-    "BTC": 29,
-    "ETH": 11,
-    "NEAR": 3,
+    "BTC": 35,
+    "ETH": 14,
+    "NEAR": 6,
     "SOL": 2,
     "ETC": 2,
     "SPX": 2,
@@ -16,6 +16,10 @@
     "LIGHT": 1,
     "BTCUSD": 1,
     "TON": 1,
+    "TRUMP": 1,
+    "WLFI": 1,
+    "LUNC": 1,
+    "FARTCOIN": 1,
     "TRX": 1,
     "FET": 1,
     "DOGE": 1
@@ -24,17 +28,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 35
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "SOL",
@@ -84,6 +88,26 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "WLFI",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "LUNC",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "FARTCOIN",
+      "name": "",
       "count": 1
     },
     {
