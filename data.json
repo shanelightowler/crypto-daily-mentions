@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oabea2/daily_crypto_discussion_october_19_2025_gmt0/",
-  "generated_at_utc": "2025-10-19T21:13:06.204368Z",
+  "generated_at_utc": "2025-10-19T22:13:53.641152Z",
   "results": {
-    "BTC": 40,
+    "BTC": 42,
     "ETH": 15,
     "NEAR": 6,
     "SOL": 2,
     "XRP": 2,
     "ETC": 2,
+    "BNB": 2,
     "SPX": 2,
     "TROLL": 2,
     "SUI": 1,
@@ -18,14 +19,13 @@
     "TON": 1,
     "TRX": 1,
     "FET": 1,
-    "DOGE": 1,
-    "BNB": 1
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 42
     },
     {
       "symbol": "ETH",
@@ -50,6 +50,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -100,11 +105,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     }
   ]
