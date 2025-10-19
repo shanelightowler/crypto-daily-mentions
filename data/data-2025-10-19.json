@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oabea2/daily_crypto_discussion_october_19_2025_gmt0/",
-  "generated_at_utc": "2025-10-19T18:20:03.355967Z",
+  "generated_at_utc": "2025-10-19T19:11:56.944932Z",
   "results": {
     "BTC": 35,
     "ETH": 14,
@@ -16,10 +16,6 @@
     "LIGHT": 1,
     "BTCUSD": 1,
     "TON": 1,
-    "TRUMP": 1,
-    "WLFI": 1,
-    "LUNC": 1,
-    "FARTCOIN": 1,
     "TRX": 1,
     "FET": 1,
     "DOGE": 1
@@ -88,26 +84,6 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
-      "count": 1
-    },
-    {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "WLFI",
-      "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "LUNC",
-      "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "FARTCOIN",
-      "name": "",
       "count": 1
     },
     {
