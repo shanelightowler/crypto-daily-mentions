@@ -1,14 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - October 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oabea2/daily_crypto_discussion_october_19_2025_gmt0/",
-  "generated_at_utc": "2025-10-19T01:20:48.787533Z",
+  "generated_at_utc": "2025-10-19T03:13:17.457598Z",
   "results": {
-    "BTCUSD": 1
+    "BTC": 4,
+    "ETH": 2,
+    "LIGHT": 1,
+    "BTCUSD": 1,
+    "TRX": 1
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "LIGHT",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "BTCUSD",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
