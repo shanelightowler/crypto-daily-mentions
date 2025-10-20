@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - October 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ob581b/daily_crypto_discussion_october_20_2025_gmt0/",
-  "generated_at_utc": "2025-10-20T13:26:27.688613Z",
+  "generated_at_utc": "2025-10-20T14:15:33.365939Z",
   "results": {
-    "BTC": 50,
-    "ETH": 6,
+    "BTC": 51,
+    "ETH": 7,
     "LINK": 4,
     "ALGO": 2,
     "DOGE": 2,
     "MATIC": 2,
-    "BNB": 1,
     "ATOM": 1,
+    "BNB": 1,
     "NEAR": 1,
     "TON": 1,
     "FLOKI": 1
@@ -19,12 +19,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 50
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "LINK",
@@ -47,13 +47,13 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
