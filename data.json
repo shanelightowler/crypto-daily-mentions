@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ob581b/daily_crypto_discussion_october_20_2025_gmt0/",
-  "generated_at_utc": "2025-10-20T15:16:30.720947Z",
+  "generated_at_utc": "2025-10-20T16:20:01.784397Z",
   "results": {
     "BTC": 52,
     "ETH": 7,
@@ -13,6 +13,8 @@
     "BNB": 1,
     "ZEC": 1,
     "NEAR": 1,
+    "BIO": 1,
+    "VITA": 1,
     "TON": 1,
     "FLOKI": 1
   },
@@ -65,6 +67,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "BIO",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "VITA",
+      "name": "",
       "count": 1
     },
     {
