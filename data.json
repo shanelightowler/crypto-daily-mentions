@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ob581b/daily_crypto_discussion_october_20_2025_gmt0/",
-  "generated_at_utc": "2025-10-20T20:18:28.684555Z",
+  "generated_at_utc": "2025-10-20T21:14:56.875382Z",
   "results": {
     "BTC": 51,
     "ETH": 7,
@@ -11,6 +11,7 @@
     "MATIC": 2,
     "ATOM": 1,
     "BNB": 1,
+    "ICP": 1,
     "ZEC": 1,
     "NEAR": 1,
     "BIO": 1,
@@ -57,6 +58,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
