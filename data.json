@@ -1,25 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - October 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oby0g7/daily_crypto_discussion_october_21_2025_gmt0/",
-  "generated_at_utc": "2025-10-21T14:15:07.480611Z",
+  "generated_at_utc": "2025-10-21T15:17:15.160003Z",
   "results": {
-    "BTC": 40,
+    "BTC": 51,
     "ETH": 8,
     "SOL": 4,
+    "ADA": 4,
     "XRP": 3,
-    "ADA": 3,
     "ETC": 2,
     "LINK": 2,
     "ZEC": 1,
+    "APE": 1,
     "ALGO": 1,
     "BNB": 1,
-    "TIBBIR": 1
+    "TIBBIR": 1,
+    "DASH": 1,
+    "ATOM": 1,
+    "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 51
     },
     {
       "symbol": "ETH",
@@ -32,13 +36,13 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
@@ -57,6 +61,11 @@
       "count": 1
     },
     {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 1
@@ -69,6 +78,21 @@
     {
       "symbol": "TIBBIR",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     }
   ]
