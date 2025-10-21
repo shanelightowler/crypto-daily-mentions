@@ -1,14 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - October 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oby0g7/daily_crypto_discussion_october_21_2025_gmt0/",
-  "generated_at_utc": "2025-10-21T01:14:48.874238Z",
+  "generated_at_utc": "2025-10-21T03:03:05.359081Z",
   "results": {
-    "BTC": 1
+    "BTC": 4,
+    "SOL": 3,
+    "ETH": 3,
+    "LINK": 2,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     }
   ]
