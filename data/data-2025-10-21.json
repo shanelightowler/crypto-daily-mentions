@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - October 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oby0g7/daily_crypto_discussion_october_21_2025_gmt0/",
-  "generated_at_utc": "2025-10-21T17:15:34.610979Z",
+  "generated_at_utc": "2025-10-21T18:22:24.038713Z",
   "results": {
-    "BTC": 67,
+    "BTC": 71,
     "ETH": 11,
     "ETC": 5,
+    "LINK": 4,
     "SOL": 4,
     "ADA": 4,
     "XRP": 3,
-    "LINK": 3,
     "ZEC": 2,
     "APE": 1,
     "ALGO": 1,
-    "KTA": 1,
     "BNB": 1,
+    "KTA": 1,
     "TIBBIR": 1,
     "DASH": 1,
     "ATOM": 1,
@@ -24,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 67
+      "count": 71
     },
     {
       "symbol": "ETH",
@@ -35,6 +35,11 @@
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 5
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -49,11 +54,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 3
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 3
     },
     {
@@ -72,13 +72,13 @@
       "count": 1
     },
     {
-      "symbol": "KTA",
-      "name": "",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "KTA",
+      "name": "",
       "count": 1
     },
     {
