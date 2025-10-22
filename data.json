@@ -1,13 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T04:19:09.664602Z",
+  "generated_at_utc": "2025-10-22T05:16:24.498484Z",
   "results": {
-    "BTC": 32,
+    "BTC": 33,
     "ADA": 6,
     "ETH": 5,
+    "KDA": 2,
     "XRP": 1,
     "NEAR": 1,
+    "ZEC": 1,
     "FET": 1,
     "RENDER": 1,
     "ETC": 1
@@ -16,7 +18,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 33
     },
     {
       "symbol": "ADA",
@@ -29,6 +31,11 @@
       "count": 5
     },
     {
+      "symbol": "KDA",
+      "name": "Kadena",
+      "count": 2
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 1
@@ -36,6 +43,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
