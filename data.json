@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T09:18:42.810623Z",
+  "generated_at_utc": "2025-10-22T10:18:13.332859Z",
   "results": {
-    "BTC": 43,
+    "BTC": 50,
     "ETH": 16,
     "ADA": 7,
-    "SUI": 4,
+    "SUI": 5,
     "KDA": 3,
     "XRP": 2,
     "SOL": 2,
@@ -24,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 50
     },
     {
       "symbol": "ETH",
@@ -39,7 +39,7 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "KDA",
