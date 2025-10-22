@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T11:14:28.688300Z",
+  "generated_at_utc": "2025-10-22T12:35:14.608338Z",
   "results": {
-    "BTC": 52,
-    "ETH": 17,
-    "ADA": 7,
+    "BTC": 60,
+    "ETH": 20,
+    "ADA": 13,
     "SUI": 5,
     "KDA": 3,
+    "ETC": 3,
+    "SOL": 3,
     "XRP": 2,
-    "ETC": 2,
-    "SOL": 2,
-    "NEAR": 1,
+    "NEAR": 2,
+    "TON": 2,
     "BNB": 1,
-    "TON": 1,
     "ZEC": 1,
     "LINK": 1,
     "FET": 1,
@@ -24,17 +24,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 60
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 20
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 7
+      "count": 13
     },
     {
       "symbol": "SUI",
@@ -47,33 +47,33 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
