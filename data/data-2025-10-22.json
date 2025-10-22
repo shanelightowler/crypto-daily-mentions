@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T17:14:43.678250Z",
+  "generated_at_utc": "2025-10-22T18:25:05.416015Z",
   "results": {
-    "BTC": 89,
-    "ETH": 25,
-    "ADA": 16,
+    "BTC": 91,
+    "ETH": 27,
+    "ADA": 17,
     "SUI": 5,
     "SOL": 4,
+    "ETC": 4,
     "BNB": 4,
     "KDA": 3,
-    "ETC": 3,
     "NEAR": 3,
     "TON": 2,
     "XRP": 2,
     "ZEC": 1,
     "LINK": 1,
     "LTC": 1,
+    "CAKE": 1,
     "FET": 1,
     "RENDER": 1,
     "OP": 1
@@ -25,17 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 89
+      "count": 91
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 27
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "SUI",
@@ -48,6 +49,11 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
@@ -55,11 +61,6 @@
     {
       "symbol": "KDA",
       "name": "Kadena",
-      "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -90,6 +91,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 1
     },
     {
