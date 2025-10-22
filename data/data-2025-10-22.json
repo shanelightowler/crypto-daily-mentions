@@ -1,33 +1,51 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T01:16:14.372725Z",
+  "generated_at_utc": "2025-10-22T03:08:16.581744Z",
   "results": {
-    "BTC": 12,
-    "ETH": 4,
-    "ADA": 2,
+    "BTC": 28,
+    "ETH": 5,
+    "ADA": 5,
     "XRP": 1,
+    "NEAR": 1,
+    "FET": 1,
+    "RENDER": 1,
     "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 28
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
+      "count": 5
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "count": 1
+    },
+    {
+      "symbol": "RENDER",
+      "name": "",
       "count": 1
     },
     {
