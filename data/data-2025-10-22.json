@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T14:17:34.806685Z",
+  "generated_at_utc": "2025-10-22T15:15:50.904657Z",
   "results": {
-    "BTC": 63,
+    "BTC": 69,
     "ETH": 20,
     "ADA": 13,
     "SUI": 5,
+    "SOL": 4,
     "KDA": 3,
     "ETC": 3,
-    "SOL": 3,
     "TON": 2,
     "XRP": 2,
     "NEAR": 2,
     "BNB": 1,
     "ZEC": 1,
     "LINK": 1,
+    "LTC": 1,
     "FET": 1,
     "RENDER": 1,
     "OP": 1
@@ -24,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 69
     },
     {
       "symbol": "ETH",
@@ -42,6 +43,11 @@
       "count": 5
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
       "symbol": "KDA",
       "name": "Kadena",
       "count": 3
@@ -49,11 +55,6 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 3
     },
     {
@@ -84,6 +85,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
