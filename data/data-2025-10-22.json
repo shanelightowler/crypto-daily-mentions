@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T19:12:36.777206Z",
+  "generated_at_utc": "2025-10-22T20:19:36.890067Z",
   "results": {
-    "BTC": 94,
-    "ETH": 27,
+    "BTC": 106,
+    "ETH": 29,
     "ADA": 17,
     "SUI": 5,
     "BNB": 5,
@@ -16,8 +16,8 @@
     "XRP": 2,
     "ZEC": 1,
     "LINK": 1,
-    "LTC": 1,
     "CAKE": 1,
+    "LTC": 1,
     "FET": 1,
     "RENDER": 1,
     "OP": 1
@@ -26,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 94
+      "count": 106
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 29
     },
     {
       "symbol": "ADA",
@@ -89,13 +89,13 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "CAKE",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "CAKE",
-      "name": "",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
