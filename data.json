@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oct8t8/daily_crypto_discussion_october_22_2025_gmt0/",
-  "generated_at_utc": "2025-10-22T15:15:50.904657Z",
+  "generated_at_utc": "2025-10-22T16:21:30.003304Z",
   "results": {
-    "BTC": 69,
-    "ETH": 20,
-    "ADA": 13,
+    "BTC": 85,
+    "ETH": 21,
+    "ADA": 14,
     "SUI": 5,
     "SOL": 4,
+    "BNB": 4,
     "KDA": 3,
     "ETC": 3,
+    "NEAR": 3,
     "TON": 2,
     "XRP": 2,
-    "NEAR": 2,
-    "BNB": 1,
     "ZEC": 1,
     "LINK": 1,
     "LTC": 1,
@@ -25,17 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 69
+      "count": 85
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SUI",
@@ -45,6 +45,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 4
     },
     {
@@ -58,6 +63,11 @@
       "count": 3
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 2
@@ -66,16 +76,6 @@
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 1
     },
     {
       "symbol": "ZEC",
