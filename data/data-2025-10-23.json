@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1odonf7/daily_crypto_discussion_october_23_2025_gmt0/",
-  "generated_at_utc": "2025-10-23T18:23:30.566139Z",
+  "generated_at_utc": "2025-10-23T19:13:01.164133Z",
   "results": {
-    "BTC": 68,
-    "ETH": 22,
-    "LTC": 12,
+    "BTC": 77,
+    "ETH": 26,
+    "LTC": 21,
+    "ETC": 7,
     "SOL": 7,
-    "ETC": 6,
-    "DOGE": 3,
+    "DOGE": 6,
     "LINK": 2,
     "BONK": 1,
+    "HONEY": 1,
     "CRO": 1,
     "ADA": 1,
     "TON": 1
@@ -19,17 +20,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 77
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 26
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 12
+      "count": 21
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 7
     },
     {
       "symbol": "SOL",
@@ -37,14 +43,9 @@
       "count": 7
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 6
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "LINK",
@@ -54,6 +55,11 @@
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "HONEY",
+      "name": "",
       "count": 1
     },
     {
