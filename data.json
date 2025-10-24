@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - October 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oej7zu/daily_crypto_discussion_october_24_2025_gmt0/",
-  "generated_at_utc": "2025-10-24T22:15:12.953280Z",
+  "generated_at_utc": "2025-10-24T23:14:46.318300Z",
   "results": {
     "BTC": 80,
     "ETH": 10,
     "MATIC": 6,
+    "LINK": 2,
     "SOL": 2,
     "DOGE": 2,
     "LTC": 1,
-    "LINK": 1,
     "ALGO": 1,
     "ETC": 1,
     "BNB": 1,
@@ -32,6 +32,11 @@
       "count": 6
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 2
@@ -44,11 +49,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     },
     {
