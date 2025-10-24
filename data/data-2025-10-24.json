@@ -1,24 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - October 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oej7zu/daily_crypto_discussion_october_24_2025_gmt0/",
-  "generated_at_utc": "2025-10-24T16:19:47.809064Z",
+  "generated_at_utc": "2025-10-24T17:14:20.598720Z",
   "results": {
-    "BTC": 34,
+    "BTC": 47,
+    "ETH": 6,
     "MATIC": 6,
-    "ETH": 5,
+    "SOL": 2,
     "DOGE": 2,
     "LTC": 1,
     "LINK": 1,
+    "ALGO": 1,
     "ETC": 1,
     "BNB": 1,
-    "SOL": 1,
     "BONK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 47
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 6
     },
     {
       "symbol": "MATIC",
@@ -26,9 +32,9 @@
       "count": 6
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 5
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "DOGE",
@@ -46,6 +52,11 @@
       "count": 1
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 1
@@ -53,11 +64,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
