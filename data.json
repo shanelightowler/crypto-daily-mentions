@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oej7zu/daily_crypto_discussion_october_24_2025_gmt0/",
-  "generated_at_utc": "2025-10-24T09:18:12.663298Z",
+  "generated_at_utc": "2025-10-24T10:18:17.888730Z",
   "results": {
     "BTC": 7,
     "MATIC": 5,
     "ETH": 2,
-    "BNB": 1,
-    "ETC": 1
+    "ETC": 1,
+    "BNB": 1
   },
   "results_list": [
     {
@@ -26,13 +26,13 @@
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     }
   ]
