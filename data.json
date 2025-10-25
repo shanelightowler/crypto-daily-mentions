@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ofdcb5/daily_crypto_discussion_october_25_2025_gmt0/",
-  "generated_at_utc": "2025-10-25T10:14:49.672529Z",
+  "generated_at_utc": "2025-10-25T11:11:46.957000Z",
   "results": {
     "BTC": 10,
     "ETH": 5,
     "LTC": 2,
     "XRP": 2,
     "SUI": 1,
+    "AVAX": 1,
     "NEAR": 1,
     "CRO": 1
   },
@@ -35,6 +36,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
