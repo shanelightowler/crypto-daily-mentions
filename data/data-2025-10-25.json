@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ofdcb5/daily_crypto_discussion_october_25_2025_gmt0/",
-  "generated_at_utc": "2025-10-25T22:13:39.432513Z",
+  "generated_at_utc": "2025-10-25T23:13:28.119267Z",
   "results": {
     "BTC": 25,
     "XRP": 14,
@@ -13,6 +13,7 @@
     "DOGE": 2,
     "NEAR": 2,
     "AVAX": 1,
+    "HYPE": 1,
     "CRO": 1,
     "TON": 1
   },
@@ -65,6 +66,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "HYPE",
+      "name": "",
       "count": 1
     },
     {
