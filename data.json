@@ -1,7 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ofdcb5/daily_crypto_discussion_october_25_2025_gmt0/",
-  "generated_at_utc": "2025-10-25T03:37:25.789060Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-10-25T04:18:32.327059Z",
+  "results": {
+    "BTC": 1,
+    "CRO": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    }
+  ]
 }
