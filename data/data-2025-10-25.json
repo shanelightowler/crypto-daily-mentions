@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ofdcb5/daily_crypto_discussion_october_25_2025_gmt0/",
-  "generated_at_utc": "2025-10-25T14:13:18.315455Z",
+  "generated_at_utc": "2025-10-25T15:13:48.064601Z",
   "results": {
-    "BTC": 18,
-    "ETH": 9,
-    "XRP": 5,
+    "BTC": 20,
+    "ETH": 10,
+    "XRP": 6,
     "SUI": 3,
     "ADA": 3,
     "LTC": 2,
@@ -13,23 +13,24 @@
     "AVAX": 1,
     "SOL": 1,
     "DOGE": 1,
-    "CRO": 1
+    "CRO": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SUI",
@@ -69,6 +70,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
