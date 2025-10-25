@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ofdcb5/daily_crypto_discussion_october_25_2025_gmt0/",
-  "generated_at_utc": "2025-10-25T06:21:23.374404Z",
+  "generated_at_utc": "2025-10-25T07:14:08.552026Z",
   "results": {
     "BTC": 3,
     "XRP": 2,
+    "LTC": 2,
     "SUI": 1,
-    "LTC": 1,
+    "NEAR": 1,
     "CRO": 1
   },
   "results_list": [
@@ -21,13 +22,18 @@
       "count": 2
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
