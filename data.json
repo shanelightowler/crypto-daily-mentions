@@ -1,15 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1og6i61/daily_crypto_discussion_october_26_2025_gmt0/",
-  "generated_at_utc": "2025-10-26T08:19:27.540773Z",
+  "generated_at_utc": "2025-10-26T09:14:25.400490Z",
   "results": {
+    "ZEC": 4,
     "BTC": 3,
     "XRP": 2,
+    "DASH": 2,
     "BNB": 1,
     "ETC": 1,
     "SOL": 1
   },
   "results_list": [
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 4
+    },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
@@ -18,6 +25,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
