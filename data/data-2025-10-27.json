@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - October 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oh193f/daily_crypto_discussion_october_27_2025_gmt0/",
-  "generated_at_utc": "2025-10-27T20:16:04.525077Z",
+  "generated_at_utc": "2025-10-27T21:14:06.177869Z",
   "results": {
-    "BTC": 18,
-    "ETH": 15,
+    "BTC": 21,
+    "ETH": 16,
     "OP": 5,
     "DOGE": 4,
     "ETC": 4,
@@ -12,6 +12,8 @@
     "LTC": 2,
     "CVX": 2,
     "LINK": 1,
+    "AAVE": 1,
+    "MATIC": 1,
     "SOL": 1,
     "NEAR": 1,
     "ZEC": 1
@@ -20,12 +22,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "OP",
@@ -60,6 +62,16 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
