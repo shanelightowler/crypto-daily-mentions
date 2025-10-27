@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - October 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oh193f/daily_crypto_discussion_october_27_2025_gmt0/",
-  "generated_at_utc": "2025-10-27T19:12:40.997699Z",
+  "generated_at_utc": "2025-10-27T20:16:04.525077Z",
   "results": {
     "BTC": 18,
     "ETH": 15,
@@ -10,11 +10,11 @@
     "ETC": 4,
     "DOT": 3,
     "LTC": 2,
+    "CVX": 2,
     "LINK": 1,
     "SOL": 1,
     "NEAR": 1,
-    "ZEC": 1,
-    "CVX": 1
+    "ZEC": 1
   },
   "results_list": [
     {
@@ -53,6 +53,11 @@
       "count": 2
     },
     {
+      "symbol": "CVX",
+      "name": "Convex Finance",
+      "count": 2
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
@@ -70,11 +75,6 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 1
-    },
-    {
-      "symbol": "CVX",
-      "name": "Convex Finance",
       "count": 1
     }
   ]
