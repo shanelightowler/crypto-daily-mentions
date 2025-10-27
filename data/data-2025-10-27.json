@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - October 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oh193f/daily_crypto_discussion_october_27_2025_gmt0/",
-  "generated_at_utc": "2025-10-27T21:14:06.177869Z",
+  "generated_at_utc": "2025-10-27T22:14:39.073939Z",
   "results": {
-    "BTC": 21,
+    "BTC": 24,
     "ETH": 16,
     "OP": 5,
     "DOGE": 4,
     "ETC": 4,
     "DOT": 3,
     "LTC": 2,
+    "KDA": 2,
     "CVX": 2,
     "LINK": 1,
     "AAVE": 1,
@@ -22,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 24
     },
     {
       "symbol": "ETH",
@@ -52,6 +53,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "KDA",
+      "name": "Kadena",
       "count": 2
     },
     {
