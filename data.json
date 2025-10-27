@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oh193f/daily_crypto_discussion_october_27_2025_gmt0/",
-  "generated_at_utc": "2025-10-27T22:14:39.073939Z",
+  "generated_at_utc": "2025-10-27T23:14:08.756765Z",
   "results": {
-    "BTC": 24,
+    "BTC": 27,
     "ETH": 16,
     "OP": 5,
     "DOGE": 4,
     "ETC": 4,
+    "LTC": 3,
     "DOT": 3,
-    "LTC": 2,
+    "SOL": 3,
     "KDA": 2,
+    "HBAR": 2,
     "CVX": 2,
     "LINK": 1,
     "AAVE": 1,
     "MATIC": 1,
-    "SOL": 1,
     "NEAR": 1,
     "ZEC": 1
   },
@@ -23,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 27
     },
     {
       "symbol": "ETH",
@@ -46,18 +47,28 @@
       "count": 4
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 3
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 3
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "KDA",
       "name": "Kadena",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -78,11 +89,6 @@
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
