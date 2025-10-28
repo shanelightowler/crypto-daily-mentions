@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ohw4qf/daily_crypto_discussion_october_28_2025_gmt0/",
-  "generated_at_utc": "2025-10-28T19:13:05.170923Z",
+  "generated_at_utc": "2025-10-28T20:18:52.597718Z",
   "results": {
-    "BTC": 32,
+    "BTC": 40,
     "HBAR": 15,
-    "ETH": 12,
+    "ETH": 15,
+    "SOL": 11,
     "LTC": 6,
-    "ETC": 5,
-    "SOL": 3,
+    "ETC": 6,
     "ZEC": 3,
     "NEAR": 1,
+    "BONK": 1,
     "CRO": 1,
     "TRUMP": 1,
     "ADA": 1,
@@ -22,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 40
     },
     {
       "symbol": "HBAR",
@@ -32,7 +33,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 15
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 11
     },
     {
       "symbol": "LTC",
@@ -42,12 +48,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "ZEC",
@@ -57,6 +58,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
