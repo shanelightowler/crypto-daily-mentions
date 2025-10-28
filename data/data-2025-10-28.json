@@ -1,14 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ohw4qf/daily_crypto_discussion_october_28_2025_gmt0/",
-  "generated_at_utc": "2025-10-28T13:27:52.956642Z",
+  "generated_at_utc": "2025-10-28T14:17:03.033887Z",
   "results": {
-    "HBAR": 13,
+    "HBAR": 15,
     "BTC": 10,
     "ETH": 9,
     "ETC": 5,
-    "LTC": 3,
+    "LTC": 4,
     "ZEC": 3,
+    "SOL": 1,
+    "CRO": 1,
+    "ADA": 1,
     "DOT": 1,
     "MATIC": 1,
     "XMR": 1
@@ -17,7 +20,7 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "BTC",
@@ -37,12 +40,27 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
     },
     {
       "symbol": "DOT",
