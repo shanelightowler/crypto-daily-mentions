@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ohw4qf/daily_crypto_discussion_october_28_2025_gmt0/",
-  "generated_at_utc": "2025-10-28T14:17:03.033887Z",
+  "generated_at_utc": "2025-10-28T15:18:29.380341Z",
   "results": {
     "HBAR": 15,
-    "BTC": 10,
-    "ETH": 9,
+    "BTC": 14,
+    "ETH": 10,
     "ETC": 5,
     "LTC": 4,
     "ZEC": 3,
+    "NEAR": 1,
     "SOL": 1,
     "CRO": 1,
-    "ADA": 1,
+    "TRUMP": 1,
     "DOT": 1,
     "MATIC": 1,
+    "ADA": 1,
     "XMR": 1
   },
   "results_list": [
@@ -25,12 +27,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ETC",
@@ -48,6 +50,11 @@
       "count": 3
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 1
@@ -58,8 +65,8 @@
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
@@ -70,6 +77,11 @@
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
