@@ -1,7 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - October 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ohw4qf/daily_crypto_discussion_october_28_2025_gmt0/",
-  "generated_at_utc": "2025-10-28T01:12:57.133033Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-10-28T03:04:38.708387Z",
+  "results": {
+    "HBAR": 1,
+    "ETH": 1,
+    "ETC": 1,
+    "DOT": 1,
+    "MATIC": 1
+  },
+  "results_list": [
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    }
+  ]
 }
