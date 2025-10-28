@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - October 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ohw4qf/daily_crypto_discussion_october_28_2025_gmt0/",
-  "generated_at_utc": "2025-10-28T20:18:52.597718Z",
+  "generated_at_utc": "2025-10-28T21:14:41.290137Z",
   "results": {
-    "BTC": 40,
+    "BTC": 44,
+    "ETH": 16,
     "HBAR": 15,
-    "ETH": 15,
-    "SOL": 11,
-    "LTC": 6,
+    "SOL": 12,
+    "LTC": 8,
     "ETC": 6,
     "ZEC": 3,
     "NEAR": 1,
@@ -15,6 +15,7 @@
     "CRO": 1,
     "TRUMP": 1,
     "ADA": 1,
+    "SUI": 1,
     "DOT": 1,
     "MATIC": 1,
     "XMR": 1
@@ -23,7 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 44
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 16
     },
     {
       "symbol": "HBAR",
@@ -31,19 +37,14 @@
       "count": 15
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 15
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ETC",
@@ -78,6 +79,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
