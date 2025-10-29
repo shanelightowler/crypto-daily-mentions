@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T18:24:28.324962Z",
+  "generated_at_utc": "2025-10-29T19:12:46.140389Z",
   "results": {
-    "BTC": 66,
-    "ETH": 22,
+    "BTC": 81,
+    "ETH": 24,
     "SOL": 14,
+    "ADA": 5,
+    "LTC": 3,
     "ETC": 3,
     "DOT": 2,
     "NEAR": 2,
-    "LTC": 2,
     "HBAR": 2,
-    "ADA": 2,
     "CAKE": 2,
     "AVAX": 1,
     "TRUMP": 1
@@ -20,17 +20,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 66
+      "count": 81
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 24
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 14
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -48,18 +58,8 @@
       "count": 2
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
-    },
-    {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 2
     },
     {
