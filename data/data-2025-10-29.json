@@ -1,14 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T01:17:55.224495Z",
+  "generated_at_utc": "2025-10-29T03:12:51.265516Z",
   "results": {
-    "TRUMP": 1
+    "BTC": 5,
+    "TRUMP": 1,
+    "ETH": 1
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 5
+    },
+    {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     }
   ]
