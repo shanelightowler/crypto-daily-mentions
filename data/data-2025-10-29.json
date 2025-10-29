@@ -1,41 +1,60 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T19:12:46.140389Z",
+  "generated_at_utc": "2025-10-29T20:18:31.470828Z",
   "results": {
-    "BTC": 81,
-    "ETH": 24,
-    "SOL": 14,
-    "ADA": 5,
+    "BTC": 90,
+    "ETH": 26,
+    "SOL": 15,
+    "ADA": 9,
+    "ETC": 5,
+    "DOT": 4,
     "LTC": 3,
-    "ETC": 3,
-    "DOT": 2,
+    "HBAR": 3,
+    "AVAX": 2,
     "NEAR": 2,
-    "HBAR": 2,
+    "LINK": 2,
     "CAKE": 2,
-    "AVAX": 1,
-    "TRUMP": 1
+    "BNB": 1,
+    "XRP": 1,
+    "TRX": 1,
+    "DOGE": 1,
+    "MATIC": 1,
+    "CRO": 1,
+    "ALGO": 1,
+    "TRUMP": 1,
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 81
+      "count": 90
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 26
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 9
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 5
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 4
     },
     {
       "symbol": "LTC",
@@ -43,13 +62,13 @@
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 3
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -58,8 +77,8 @@
       "count": 2
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -68,13 +87,48 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
