@@ -1,31 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T15:18:52.734272Z",
+  "generated_at_utc": "2025-10-29T16:21:30.042477Z",
   "results": {
-    "BTC": 26,
-    "ETH": 18,
+    "BTC": 34,
+    "ETH": 22,
     "SOL": 14,
-    "ETC": 2,
+    "ETC": 3,
+    "NEAR": 2,
     "CAKE": 2,
     "DOT": 1,
+    "AVAX": 1,
     "LTC": 1,
     "HBAR": 1,
-    "AVAX": 1,
     "TRUMP": 1,
-    "NEAR": 1,
     "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 26
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 22
     },
     {
       "symbol": "SOL",
@@ -35,6 +35,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -48,6 +53,11 @@
       "count": 1
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 1
@@ -58,18 +68,8 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
       "symbol": "TRUMP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     },
     {
