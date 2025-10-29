@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T10:18:06.379781Z",
+  "generated_at_utc": "2025-10-29T11:14:26.610516Z",
   "results": {
-    "BTC": 19,
+    "BTC": 20,
     "ETH": 11,
     "CAKE": 2,
+    "SOL": 1,
     "TRUMP": 1,
     "ADA": 1
   },
@@ -13,7 +14,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "ETH",
@@ -24,6 +25,11 @@
       "symbol": "CAKE",
       "name": "",
       "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
     },
     {
       "symbol": "TRUMP",
