@@ -1,26 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - October 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oir3x2/daily_crypto_discussion_october_29_2025_gmt0/",
-  "generated_at_utc": "2025-10-29T17:15:38.750399Z",
+  "generated_at_utc": "2025-10-29T18:24:28.324962Z",
   "results": {
-    "BTC": 41,
+    "BTC": 66,
     "ETH": 22,
     "SOL": 14,
     "ETC": 3,
+    "DOT": 2,
     "NEAR": 2,
+    "LTC": 2,
+    "HBAR": 2,
+    "ADA": 2,
     "CAKE": 2,
-    "DOT": 1,
     "AVAX": 1,
-    "LTC": 1,
-    "HBAR": 1,
-    "TRUMP": 1,
-    "ADA": 1
+    "TRUMP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 66
     },
     {
       "symbol": "ETH",
@@ -38,8 +38,28 @@
       "count": 3
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -48,33 +68,13 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 1
-    },
-    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 1
-    },
-    {
       "symbol": "TRUMP",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     }
   ]
