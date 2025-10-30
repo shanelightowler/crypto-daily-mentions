@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T13:28:11.179450Z",
+  "generated_at_utc": "2025-10-30T14:16:34.440817Z",
   "results": {
-    "BTC": 61,
-    "ETH": 9,
-    "NEAR": 5,
+    "BTC": 65,
+    "ETH": 12,
+    "NEAR": 6,
     "ADA": 2,
+    "ETC": 2,
     "XLM": 2,
-    "ETC": 1,
     "BCH": 1,
     "DOGE": 1,
     "DOT": 1
@@ -17,17 +17,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 61
+      "count": 65
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 12
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
@@ -35,14 +35,14 @@
       "count": 2
     },
     {
-      "symbol": "XLM",
-      "name": "Stellar",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 2
     },
     {
       "symbol": "BCH",
