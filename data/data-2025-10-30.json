@@ -1,23 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T20:18:03.290849Z",
+  "generated_at_utc": "2025-10-30T21:14:45.123037Z",
   "results": {
-    "BTC": 125,
-    "ETH": 25,
+    "BTC": 137,
+    "ETH": 29,
     "NEAR": 9,
-    "ETC": 5,
-    "ADA": 5,
+    "ETC": 6,
+    "ADA": 6,
     "LINK": 4,
+    "SOL": 4,
     "BCH": 3,
     "DOT": 2,
+    "XRP": 2,
+    "DOGE": 2,
     "XLM": 2,
     "AVAX": 1,
     "MELANIA": 1,
+    "XMR": 1,
     "ZEC": 1,
-    "SOL": 1,
-    "DOGE": 1,
-    "XRP": 1,
+    "ATOM": 1,
     "TON": 1,
     "HBAR": 1,
     "BNB": 1
@@ -26,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 125
+      "count": 137
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 29
     },
     {
       "symbol": "NEAR",
@@ -41,16 +43,21 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 4
     },
     {
@@ -61,6 +68,16 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -79,23 +96,18 @@
       "count": 1
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
