@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T07:15:33.169110Z",
+  "generated_at_utc": "2025-10-30T08:21:30.587453Z",
   "results": {
-    "BTC": 28,
-    "ETH": 3,
-    "NEAR": 3,
+    "BTC": 31,
+    "ETH": 4,
+    "NEAR": 4,
     "ADA": 2,
     "XLM": 2,
     "BCH": 1,
@@ -15,17 +15,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 31
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
