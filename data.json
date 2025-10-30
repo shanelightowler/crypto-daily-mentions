@@ -1,7 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T01:17:28.522874Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-10-30T03:08:28.482214Z",
+  "results": {
+    "BTC": 2,
+    "XLM": 2
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 2
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 2
+    }
+  ]
 }
