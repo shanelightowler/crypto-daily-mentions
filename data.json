@@ -1,34 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T18:23:35.237592Z",
+  "generated_at_utc": "2025-10-30T19:13:03.806669Z",
   "results": {
-    "BTC": 112,
-    "ETH": 21,
+    "BTC": 118,
+    "ETH": 24,
     "NEAR": 9,
     "ADA": 5,
-    "LINK": 3,
-    "ETC": 3,
+    "ETC": 5,
+    "LINK": 4,
     "BCH": 3,
     "DOT": 2,
     "XLM": 2,
+    "AVAX": 1,
+    "MELANIA": 1,
     "ZEC": 1,
     "SOL": 1,
     "DOGE": 1,
     "XRP": 1,
     "TON": 1,
+    "HBAR": 1,
     "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 112
+      "count": 118
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 24
     },
     {
       "symbol": "NEAR",
@@ -41,14 +44,14 @@
       "count": 5
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 3
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
     },
     {
       "symbol": "BCH",
@@ -64,6 +67,16 @@
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "MELANIA",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "ZEC",
@@ -88,6 +101,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
