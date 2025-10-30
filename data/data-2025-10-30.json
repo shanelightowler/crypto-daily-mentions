@@ -1,37 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T17:15:16.769163Z",
+  "generated_at_utc": "2025-10-30T18:23:35.237592Z",
   "results": {
-    "BTC": 97,
-    "ETH": 18,
-    "NEAR": 7,
+    "BTC": 112,
+    "ETH": 21,
+    "NEAR": 9,
     "ADA": 5,
-    "LINK": 2,
-    "ETC": 2,
-    "BCH": 2,
+    "LINK": 3,
+    "ETC": 3,
+    "BCH": 3,
+    "DOT": 2,
     "XLM": 2,
+    "ZEC": 1,
+    "SOL": 1,
     "DOGE": 1,
     "XRP": 1,
     "TON": 1,
-    "BNB": 1,
-    "DOT": 1
+    "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 97
+      "count": 112
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 7
+      "count": 9
     },
     {
       "symbol": "ADA",
@@ -41,22 +43,37 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 3
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
     },
     {
       "symbol": "DOGE",
@@ -76,11 +93,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     }
   ]
