@@ -1,35 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - October 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ojm7mx/daily_crypto_discussion_october_30_2025_gmt0/",
-  "generated_at_utc": "2025-10-30T16:20:46.735554Z",
+  "generated_at_utc": "2025-10-30T17:15:16.769163Z",
   "results": {
-    "BTC": 87,
-    "ETH": 17,
-    "NEAR": 6,
+    "BTC": 97,
+    "ETH": 18,
+    "NEAR": 7,
     "ADA": 5,
+    "LINK": 2,
     "ETC": 2,
+    "BCH": 2,
     "XLM": 2,
-    "BCH": 1,
     "DOGE": 1,
     "XRP": 1,
     "TON": 1,
+    "BNB": 1,
     "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 87
+      "count": 97
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 18
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "ADA",
@@ -37,19 +39,24 @@
       "count": 5
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 1
     },
     {
       "symbol": "DOGE",
@@ -64,6 +71,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
