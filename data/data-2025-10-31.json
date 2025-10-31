@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - October 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1okh65k/daily_crypto_discussion_october_31_2025_gmt0/",
-  "generated_at_utc": "2025-10-31T22:15:26.386742Z",
+  "generated_at_utc": "2025-10-31T23:14:51.306278Z",
   "results": {
     "BTC": 39,
     "ETH": 15,
-    "SOL": 6,
+    "SOL": 8,
+    "XRP": 5,
     "ADA": 5,
-    "XRP": 4,
     "BNB": 4,
+    "ZEC": 3,
     "DOGE": 3,
+    "SEI": 3,
+    "XMR": 2,
     "CRV": 2,
     "NEAR": 2,
-    "SEI": 2,
-    "DOT": 1,
-    "ZEC": 1,
     "ETC": 1,
+    "DOT": 1,
     "MATIC": 1,
     "UNI": 1,
     "TON": 1,
@@ -35,7 +36,12 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 5
     },
     {
       "symbol": "ADA",
@@ -43,19 +49,29 @@
       "count": 5
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 4
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 3
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 3
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 3
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
     },
     {
       "symbol": "CRV",
@@ -68,23 +84,13 @@
       "count": 2
     },
     {
-      "symbol": "SEI",
-      "name": "Sei",
-      "count": 2
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 1
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
