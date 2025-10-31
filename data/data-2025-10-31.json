@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - October 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1okh65k/daily_crypto_discussion_october_31_2025_gmt0/",
-  "generated_at_utc": "2025-10-31T14:16:26.167575Z",
+  "generated_at_utc": "2025-10-31T15:15:26.451651Z",
   "results": {
-    "BTC": 18,
+    "BTC": 20,
     "ETH": 10,
     "SOL": 6,
     "ADA": 5,
@@ -11,6 +11,7 @@
     "BNB": 3,
     "DOGE": 3,
     "CRV": 2,
+    "ZEC": 1,
     "MATIC": 1,
     "NEAR": 1,
     "UNI": 1,
@@ -21,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "ETH",
@@ -57,6 +58,11 @@
       "symbol": "CRV",
       "name": "Curve DAO",
       "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
     },
     {
       "symbol": "MATIC",
