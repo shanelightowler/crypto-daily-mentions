@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - October 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1okh65k/daily_crypto_discussion_october_31_2025_gmt0/",
-  "generated_at_utc": "2025-10-31T21:13:47.204220Z",
+  "generated_at_utc": "2025-10-31T22:15:26.386742Z",
   "results": {
-    "BTC": 37,
+    "BTC": 39,
     "ETH": 15,
     "SOL": 6,
     "ADA": 5,
@@ -15,6 +15,7 @@
     "SEI": 2,
     "DOT": 1,
     "ZEC": 1,
+    "ETC": 1,
     "MATIC": 1,
     "UNI": 1,
     "TON": 1,
@@ -24,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 39
     },
     {
       "symbol": "ETH",
@@ -79,6 +80,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
