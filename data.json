@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - October 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1okh65k/daily_crypto_discussion_october_31_2025_gmt0/",
-  "generated_at_utc": "2025-10-31T11:13:39.055415Z",
+  "generated_at_utc": "2025-10-31T12:34:00.442455Z",
   "results": {
-    "BTC": 9,
-    "ETH": 7,
-    "SOL": 5,
+    "BTC": 14,
+    "ETH": 8,
+    "SOL": 6,
+    "XRP": 4,
+    "ADA": 4,
+    "BNB": 3,
     "DOGE": 3,
-    "ADA": 2,
-    "BNB": 2,
+    "CRV": 2,
     "MATIC": 1,
-    "CRV": 1,
-    "XRP": 1,
     "NEAR": 1,
+    "UNI": 1,
     "TON": 1,
     "APE": 1
   },
@@ -20,17 +21,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 14
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 3
     },
     {
       "symbol": "DOGE",
@@ -38,13 +54,8 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 2
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "CRV",
+      "name": "Curve DAO",
       "count": 2
     },
     {
@@ -53,18 +64,13 @@
       "count": 1
     },
     {
-      "symbol": "CRV",
-      "name": "Curve DAO",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
       "count": 1
     },
     {
