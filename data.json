@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T12:29:49.622284Z",
+  "generated_at_utc": "2025-11-01T13:20:59.959625Z",
   "results": {
-    "BTC": 16,
-    "ZEC": 3,
-    "ICP": 3,
-    "ETH": 3,
+    "BTC": 18,
+    "ZEC": 5,
+    "ETH": 5,
+    "ICP": 4,
     "XMR": 2,
     "FET": 1,
     "NEAR": 1,
+    "AAVE": 1,
     "CRO": 1,
     "BNB": 1,
     "OKB": 1,
@@ -23,22 +24,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 18
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 3
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 3
+      "count": 5
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 4
     },
     {
       "symbol": "XMR",
@@ -53,6 +54,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
