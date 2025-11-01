@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T05:14:43.992907Z",
+  "generated_at_utc": "2025-11-01T06:21:44.338502Z",
   "results": {
-    "BTC": 6,
+    "BTC": 8,
     "ZEC": 3,
     "XMR": 1,
     "FET": 1,
     "ETH": 1,
     "SOL": 1,
     "TRUMP": 1,
+    "TIA": 1,
     "MATIC": 1,
     "ETC": 1
   },
@@ -17,7 +18,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ZEC",
@@ -47,6 +48,11 @@
     {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
       "count": 1
     },
     {
