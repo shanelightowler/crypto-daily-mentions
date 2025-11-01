@@ -1,21 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T22:14:02.698625Z",
+  "generated_at_utc": "2025-11-01T23:13:48.673453Z",
   "results": {
     "BTC": 41,
     "ETH": 12,
     "ZEC": 9,
+    "ICP": 5,
     "DASH": 5,
-    "ICP": 4,
     "XMR": 3,
-    "AAVE": 2,
     "XRP": 2,
     "SUI": 2,
+    "AAVE": 2,
+    "LINK": 2,
     "SOL": 2,
     "FET": 1,
     "MINA": 1,
     "NEAR": 1,
+    "ALGO": 1,
     "CRO": 1,
     "LTC": 1,
     "BNB": 1,
@@ -42,24 +44,19 @@
       "count": 9
     },
     {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 5
+    },
+    {
       "symbol": "DASH",
       "name": "Dash",
       "count": 5
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 4
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 3
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
-      "count": 2
     },
     {
       "symbol": "XRP",
@@ -69,6 +66,16 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -89,6 +96,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
