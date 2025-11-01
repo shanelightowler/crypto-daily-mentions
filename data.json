@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T16:16:57.616632Z",
+  "generated_at_utc": "2025-11-01T17:11:54.429930Z",
   "results": {
-    "BTC": 32,
+    "BTC": 33,
     "ETH": 9,
     "ZEC": 5,
     "ICP": 4,
     "XMR": 3,
     "DASH": 3,
     "AAVE": 2,
+    "SOL": 2,
     "FET": 1,
     "NEAR": 1,
+    "MINA": 1,
     "LTC": 1,
     "CRO": 1,
     "BNB": 1,
     "OKB": 1,
-    "SOL": 1,
     "TRUMP": 1,
     "TIA": 1,
     "MATIC": 1,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 33
     },
     {
       "symbol": "ETH",
@@ -59,6 +60,11 @@
       "count": 2
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 1
@@ -66,6 +72,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "MINA",
+      "name": "Mina",
       "count": 1
     },
     {
@@ -86,11 +97,6 @@
     {
       "symbol": "OKB",
       "name": "OKB",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
