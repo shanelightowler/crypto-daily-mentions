@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T10:15:07.645401Z",
+  "generated_at_utc": "2025-11-01T11:11:49.303238Z",
   "results": {
-    "BTC": 10,
+    "BTC": 12,
     "ZEC": 3,
+    "ETH": 3,
     "XMR": 2,
     "FET": 1,
+    "ICP": 1,
     "CRO": 1,
-    "ETH": 1,
     "SOL": 1,
     "TRUMP": 1,
     "TIA": 1,
@@ -19,11 +20,16 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 3
     },
     {
@@ -37,13 +43,13 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
