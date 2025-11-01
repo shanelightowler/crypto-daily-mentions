@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T06:21:44.338502Z",
+  "generated_at_utc": "2025-11-01T07:14:14.646980Z",
   "results": {
     "BTC": 8,
     "ZEC": 3,
-    "XMR": 1,
     "FET": 1,
+    "XMR": 1,
     "ETH": 1,
     "SOL": 1,
     "TRUMP": 1,
@@ -26,13 +26,13 @@
       "count": 3
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
