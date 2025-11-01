@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - November 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1olbanq/daily_crypto_discussion_november_1_2025_gmt0/",
-  "generated_at_utc": "2025-11-01T19:11:13.892235Z",
+  "generated_at_utc": "2025-11-01T20:15:06.777121Z",
   "results": {
     "BTC": 36,
     "ETH": 10,
@@ -9,11 +9,13 @@
     "DASH": 5,
     "ICP": 4,
     "XMR": 3,
+    "XRP": 2,
     "AAVE": 2,
     "SOL": 2,
     "FET": 1,
     "MINA": 1,
     "NEAR": 1,
+    "SUI": 1,
     "LTC": 1,
     "CRO": 1,
     "BNB": 1,
@@ -55,6 +57,11 @@
       "count": 3
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "AAVE",
       "name": "Aave",
       "count": 2
@@ -77,6 +84,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
