@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1om4ahw/daily_crypto_discussion_november_2_2025_gmt0/",
-  "generated_at_utc": "2025-11-02T19:11:25.465978Z",
+  "generated_at_utc": "2025-11-02T20:15:47.931254Z",
   "results": {
-    "BTC": 35,
+    "BTC": 37,
     "ETH": 11,
     "NEAR": 4,
     "DASH": 2,
     "TIA": 1,
-    "MINA": 1
+    "MINA": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 37
     },
     {
       "symbol": "ETH",
@@ -39,6 +40,11 @@
     {
       "symbol": "MINA",
       "name": "Mina",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
