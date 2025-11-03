@@ -1,28 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T16:19:52.015906Z",
+  "generated_at_utc": "2025-11-03T17:14:58.162041Z",
   "results": {
-    "BTC": 154,
-    "ETH": 14,
+    "BTC": 170,
+    "ETH": 20,
     "SUI": 7,
     "LINK": 5,
+    "DOT": 4,
     "CRO": 4,
-    "DOT": 3,
-    "ETC": 3,
-    "AVAX": 3,
+    "ETC": 4,
+    "AVAX": 4,
+    "SOL": 3,
     "DOGE": 3,
     "LTC": 2,
+    "ATOM": 2,
     "NEAR": 2,
-    "SOL": 2,
+    "ADA": 2,
     "HBAR": 2,
+    "ZEC": 2,
+    "DASH": 2,
     "XRP": 2,
-    "ATOM": 1,
-    "ADA": 1,
-    "ZEC": 1,
-    "DASH": 1,
+    "3000": 1,
     "TRUMP": 1,
     "XMR": 1,
+    "TON": 1,
+    "TIA": 1,
     "MINA": 1,
     "TRX": 1,
     "OP": 1,
@@ -32,12 +35,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 154
+      "count": 170
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 20
     },
     {
       "symbol": "SUI",
@@ -50,23 +53,28 @@
       "count": 5
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 4
+    },
+    {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 4
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 3
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -80,13 +88,18 @@
       "count": 2
     },
     {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -95,28 +108,23 @@
       "count": 2
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 2
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 1
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "3000",
+      "name": "",
       "count": 1
     },
     {
@@ -127,6 +135,16 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
       "count": 1
     },
     {
