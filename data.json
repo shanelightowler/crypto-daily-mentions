@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T21:15:38.572101Z",
+  "generated_at_utc": "2025-11-03T22:16:22.109165Z",
   "results": {
-    "BTC": 204,
-    "ETH": 25,
+    "BTC": 217,
+    "ETH": 30,
     "DASH": 10,
-    "SUI": 7,
-    "ETC": 6,
+    "NEAR": 9,
+    "SUI": 8,
+    "ETC": 7,
     "LINK": 6,
     "DOT": 5,
     "SOL": 5,
     "CRO": 4,
     "AVAX": 4,
-    "NEAR": 4,
+    "DOGE": 4,
+    "XRP": 4,
     "ZEC": 4,
     "LTC": 3,
-    "DOGE": 3,
-    "ADA": 3,
-    "XRP": 3,
     "ATOM": 2,
+    "ADA": 2,
     "HBAR": 2,
     "TON": 2,
     "OP": 2,
@@ -39,12 +39,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 204
+      "count": 217
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 30
     },
     {
       "symbol": "DASH",
@@ -52,14 +52,19 @@
       "count": 10
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 9
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "LINK",
@@ -87,8 +92,13 @@
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 4
     },
     {
@@ -102,23 +112,13 @@
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 3
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
-    },
-    {
-      "symbol": "ATOM",
-      "name": "Cosmos",
       "count": 2
     },
     {
