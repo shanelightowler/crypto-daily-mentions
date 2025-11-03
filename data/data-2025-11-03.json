@@ -1,29 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T22:16:22.109165Z",
+  "generated_at_utc": "2025-11-03T23:15:14.100044Z",
   "results": {
-    "BTC": 217,
-    "ETH": 30,
+    "BTC": 223,
+    "ETH": 33,
     "DASH": 10,
     "NEAR": 9,
+    "LINK": 9,
     "SUI": 8,
-    "ETC": 7,
-    "LINK": 6,
+    "ETC": 8,
+    "SOL": 7,
     "DOT": 5,
-    "SOL": 5,
     "CRO": 4,
     "AVAX": 4,
     "DOGE": 4,
     "XRP": 4,
     "ZEC": 4,
     "LTC": 3,
+    "TON": 3,
     "ATOM": 2,
     "ADA": 2,
     "HBAR": 2,
-    "TON": 2,
     "OP": 2,
     "3000": 1,
+    "WIF": 1,
+    "BONK": 1,
+    "RUNE": 1,
+    "FLOKI": 1,
     "FIL": 1,
     "TRUMP": 1,
     "XMR": 1,
@@ -39,12 +43,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 217
+      "count": 223
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 33
     },
     {
       "symbol": "DASH",
@@ -57,6 +61,11 @@
       "count": 9
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 9
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 8
@@ -64,21 +73,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 7
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 6
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
+      "count": 8
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 7
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
@@ -112,6 +116,11 @@
       "count": 3
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 2
@@ -127,11 +136,6 @@
       "count": 2
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 2
-    },
-    {
       "symbol": "OP",
       "name": "Optimism",
       "count": 2
@@ -139,6 +143,26 @@
     {
       "symbol": "3000",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "RUNE",
+      "name": "THORChain",
+      "count": 1
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "Floki",
       "count": 1
     },
     {
