@@ -1,33 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T17:14:58.162041Z",
+  "generated_at_utc": "2025-11-03T18:23:30.053224Z",
   "results": {
-    "BTC": 170,
+    "BTC": 176,
     "ETH": 20,
     "SUI": 7,
-    "LINK": 5,
+    "DASH": 7,
+    "LINK": 6,
+    "ETC": 5,
     "DOT": 4,
     "CRO": 4,
-    "ETC": 4,
     "AVAX": 4,
     "SOL": 3,
     "DOGE": 3,
+    "ZEC": 3,
+    "XRP": 3,
     "LTC": 2,
     "ATOM": 2,
     "NEAR": 2,
     "ADA": 2,
     "HBAR": 2,
-    "ZEC": 2,
-    "DASH": 2,
-    "XRP": 2,
+    "TON": 2,
     "3000": 1,
     "TRUMP": 1,
     "XMR": 1,
-    "TON": 1,
     "TIA": 1,
     "MINA": 1,
     "TRX": 1,
+    "ICP": 1,
     "OP": 1,
     "SEI": 1
   },
@@ -35,7 +36,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 170
+      "count": 176
     },
     {
       "symbol": "ETH",
@@ -48,8 +49,18 @@
       "count": 7
     },
     {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 7
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 5
     },
     {
@@ -60,11 +71,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 4
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 4
     },
     {
@@ -80,6 +86,16 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
@@ -108,18 +124,8 @@
       "count": 2
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 2
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 2
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 2
     },
     {
@@ -138,11 +144,6 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
-    },
-    {
       "symbol": "TIA",
       "name": "Celestia",
       "count": 1
@@ -155,6 +156,11 @@
     {
       "symbol": "TRX",
       "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
