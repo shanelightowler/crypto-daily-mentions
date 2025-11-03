@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T07:16:47.530829Z",
+  "generated_at_utc": "2025-11-03T08:23:42.554178Z",
   "results": {
-    "BTC": 56,
-    "ETH": 6,
+    "BTC": 69,
+    "ETH": 8,
     "SUI": 5,
-    "LTC": 2,
     "ETC": 2,
+    "LTC": 2,
     "SOL": 2,
     "HBAR": 2,
     "XRP": 2,
@@ -24,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 56
+      "count": 69
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "SUI",
@@ -37,13 +37,13 @@
       "count": 5
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
