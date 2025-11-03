@@ -1,26 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T15:17:47.248348Z",
+  "generated_at_utc": "2025-11-03T16:19:52.015906Z",
   "results": {
-    "BTC": 132,
-    "ETH": 8,
-    "SUI": 6,
-    "LINK": 4,
+    "BTC": 154,
+    "ETH": 14,
+    "SUI": 7,
+    "LINK": 5,
+    "CRO": 4,
     "DOT": 3,
     "ETC": 3,
+    "AVAX": 3,
+    "DOGE": 3,
     "LTC": 2,
-    "CRO": 2,
     "NEAR": 2,
     "SOL": 2,
     "HBAR": 2,
     "XRP": 2,
-    "AVAX": 2,
     "ATOM": 1,
     "ADA": 1,
-    "DOGE": 1,
+    "ZEC": 1,
+    "DASH": 1,
     "TRUMP": 1,
     "XMR": 1,
+    "MINA": 1,
     "TRX": 1,
     "OP": 1,
     "SEI": 1
@@ -29,21 +32,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 132
+      "count": 154
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 14
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 5
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 4
     },
     {
@@ -57,13 +65,18 @@
       "count": 3
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 3
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
@@ -87,11 +100,6 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 2
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 1
@@ -102,8 +110,13 @@
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     },
     {
@@ -114,6 +127,11 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "MINA",
+      "name": "Mina",
       "count": 1
     },
     {
