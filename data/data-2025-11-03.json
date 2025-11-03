@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T11:14:12.468856Z",
+  "generated_at_utc": "2025-11-03T12:35:28.282053Z",
   "results": {
-    "BTC": 83,
+    "BTC": 98,
     "ETH": 8,
     "SUI": 5,
-    "LINK": 3,
-    "ETC": 2,
+    "LINK": 4,
     "LTC": 2,
+    "ETC": 2,
     "NEAR": 2,
     "SOL": 2,
     "HBAR": 2,
     "XRP": 2,
     "AVAX": 2,
     "ADA": 1,
+    "CRO": 1,
     "TRUMP": 1,
     "TRX": 1,
     "OP": 1,
@@ -24,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 83
+      "count": 98
     },
     {
       "symbol": "ETH",
@@ -39,16 +40,16 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -79,6 +80,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
