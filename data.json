@@ -1,25 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T04:25:13.853045Z",
+  "generated_at_utc": "2025-11-03T05:17:19.879943Z",
   "results": {
-    "BTC": 24,
+    "BTC": 32,
+    "ETH": 5,
     "LTC": 2,
-    "ETH": 2,
+    "ETC": 2,
+    "SOL": 2,
+    "HBAR": 2,
     "XRP": 2,
-    "SOL": 1,
+    "AVAX": 2,
     "NEAR": 1,
     "ADA": 1,
     "TRUMP": 1,
-    "ETC": 1,
     "TRX": 1,
-    "LINK": 1
+    "LINK": 1,
+    "SEI": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 32
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 5
     },
     {
       "symbol": "LTC",
@@ -27,8 +36,18 @@
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -37,9 +56,9 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -57,11 +76,6 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "TRX",
       "name": "TRON",
       "count": 1
@@ -69,6 +83,16 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
