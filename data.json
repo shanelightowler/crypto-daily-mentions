@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T05:17:19.879943Z",
+  "generated_at_utc": "2025-11-03T06:26:09.969422Z",
   "results": {
-    "BTC": 32,
+    "BTC": 49,
     "ETH": 5,
     "LTC": 2,
     "ETC": 2,
     "SOL": 2,
     "HBAR": 2,
     "XRP": 2,
+    "LINK": 2,
     "AVAX": 2,
     "NEAR": 1,
     "ADA": 1,
     "TRUMP": 1,
     "TRX": 1,
-    "LINK": 1,
+    "OP": 1,
     "SEI": 1,
     "SUI": 1
   },
@@ -23,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 49
     },
     {
       "symbol": "ETH",
@@ -56,6 +57,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
@@ -81,8 +87,8 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
