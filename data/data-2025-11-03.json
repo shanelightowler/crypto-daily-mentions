@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T20:19:26.586273Z",
+  "generated_at_utc": "2025-11-03T21:15:38.572101Z",
   "results": {
-    "BTC": 193,
+    "BTC": 204,
     "ETH": 25,
     "DASH": 10,
     "SUI": 7,
+    "ETC": 6,
     "LINK": 6,
-    "ADA": 6,
-    "ETC": 5,
-    "DOT": 4,
+    "DOT": 5,
+    "SOL": 5,
     "CRO": 4,
     "AVAX": 4,
     "NEAR": 4,
-    "SOL": 4,
     "ZEC": 4,
     "LTC": 3,
     "DOGE": 3,
+    "ADA": 3,
     "XRP": 3,
     "ATOM": 2,
     "HBAR": 2,
@@ -39,7 +39,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 193
+      "count": 204
     },
     {
       "symbol": "ETH",
@@ -57,24 +57,24 @@
       "count": 7
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 6
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 4
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
     },
     {
       "symbol": "CRO",
@@ -92,11 +92,6 @@
       "count": 4
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
-    },
-    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 4
@@ -109,6 +104,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
