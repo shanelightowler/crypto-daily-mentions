@@ -1,0 +1,25 @@
+{
+  "thread_title": "Daily General Discussion November 03, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1on460t/daily_general_discussion_november_03_2025/",
+  "generated_at_utc": "2025-11-03T08:42:42.031964Z",
+  "date": "2025-11-03",
+  "summary": {
+    "count": 1,
+    "mean_usd": 7700.0,
+    "median_usd": 7700.0,
+    "min_usd": 7700.0,
+    "max_usd": 7700.0
+  },
+  "predictions": [
+    {
+      "amount_usd": 7700.0,
+      "lower_usd": null,
+      "upper_usd": null,
+      "raw_match": "$7.7k",
+      "sentence": "Let\u2019s be real - ETH still needs to double from here, to around $7.7k, just to match where BTC is relative to its 2021 ATH.",
+      "comment_id": "nmufsvx",
+      "author": "Numerous_Ruin_4947",
+      "accept_reason": "single"
+    }
+  ]
+}
