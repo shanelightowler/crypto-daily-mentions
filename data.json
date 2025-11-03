@@ -1,27 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - November 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1omybyu/daily_crypto_discussion_november_3_2025_gmt0/",
-  "generated_at_utc": "2025-11-03T19:13:33.469960Z",
+  "generated_at_utc": "2025-11-03T20:19:26.586273Z",
   "results": {
-    "BTC": 181,
-    "ETH": 22,
+    "BTC": 193,
+    "ETH": 25,
     "DASH": 10,
     "SUI": 7,
     "LINK": 6,
+    "ADA": 6,
     "ETC": 5,
     "DOT": 4,
     "CRO": 4,
     "AVAX": 4,
-    "ZEC": 4,
+    "NEAR": 4,
     "SOL": 4,
+    "ZEC": 4,
+    "LTC": 3,
     "DOGE": 3,
     "XRP": 3,
-    "LTC": 2,
     "ATOM": 2,
-    "NEAR": 2,
-    "ADA": 2,
     "HBAR": 2,
     "TON": 2,
+    "OP": 2,
     "3000": 1,
     "FIL": 1,
     "TRUMP": 1,
@@ -31,7 +32,6 @@
     "TRX": 1,
     "BCH": 1,
     "ICP": 1,
-    "OP": 1,
     "ROSE": 1,
     "SEI": 1
   },
@@ -39,12 +39,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 181
+      "count": 193
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 25
     },
     {
       "symbol": "DASH",
@@ -59,6 +59,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 6
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 6
     },
     {
@@ -82,14 +87,24 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 4
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 4
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 4
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 3
     },
     {
       "symbol": "DOGE",
@@ -102,23 +117,8 @@
       "count": 3
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 2
     },
     {
@@ -129,6 +129,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 2
     },
     {
@@ -174,11 +179,6 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 1
-    },
-    {
-      "symbol": "OP",
-      "name": "Optimism",
       "count": 1
     },
     {
