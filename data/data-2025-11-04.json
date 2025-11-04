@@ -1,21 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T15:18:24.188690Z",
+  "generated_at_utc": "2025-11-04T16:20:59.727791Z",
   "results": {
-    "BTC": 91,
+    "BTC": 102,
     "ETH": 22,
-    "ICP": 18,
+    "ICP": 19,
     "DASH": 11,
-    "ZEC": 10,
+    "ZEC": 11,
     "SOL": 5,
+    "DOT": 5,
     "XRP": 4,
-    "DOT": 4,
     "NEAR": 4,
+    "BAT": 3,
     "DOGE": 3,
     "ETC": 2,
     "LTC": 2,
-    "BAT": 2,
     "XMR": 2,
     "TON": 2,
     "SUI": 2,
@@ -24,6 +24,7 @@
     "OP": 1,
     "MSTR": 1,
     "TIRED": 1,
+    "ADA": 1,
     "BNB": 1,
     "CRO": 1
   },
@@ -31,7 +32,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 91
+      "count": 102
     },
     {
       "symbol": "ETH",
@@ -41,7 +42,7 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "DASH",
@@ -51,11 +52,16 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 5
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
@@ -64,14 +70,14 @@
       "count": 4
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 4
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 4
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 3
     },
     {
       "symbol": "DOGE",
@@ -86,11 +92,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 2
-    },
-    {
-      "symbol": "BAT",
-      "name": "Basic Attention Token",
       "count": 2
     },
     {
@@ -131,6 +132,11 @@
     {
       "symbol": "TIRED",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
