@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T17:16:21.706185Z",
+  "generated_at_utc": "2025-11-04T18:24:16.611135Z",
   "results": {
-    "BTC": 125,
-    "ETH": 25,
-    "ICP": 22,
+    "BTC": 144,
+    "ETH": 28,
+    "ICP": 23,
     "DASH": 11,
     "ZEC": 11,
     "SOL": 6,
+    "DOT": 6,
+    "ETC": 5,
     "NEAR": 5,
-    "DOT": 5,
-    "ETC": 4,
     "XRP": 4,
     "BAT": 4,
-    "DOGE": 3,
+    "DOGE": 4,
+    "ADA": 3,
     "LTC": 2,
     "XMR": 2,
     "TON": 2,
@@ -24,7 +25,7 @@
     "OP": 1,
     "MSTR": 1,
     "TIRED": 1,
-    "ADA": 1,
+    "TRUMP": 1,
     "BNB": 1,
     "CRO": 1
   },
@@ -32,17 +33,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 125
+      "count": 144
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 28
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 22
+      "count": 23
     },
     {
       "symbol": "DASH",
@@ -60,19 +61,19 @@
       "count": 6
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 5
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 5
     },
     {
       "symbol": "XRP",
@@ -87,6 +88,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 4
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 3
     },
     {
@@ -135,8 +141,8 @@
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
