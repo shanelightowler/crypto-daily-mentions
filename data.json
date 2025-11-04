@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T11:14:50.188678Z",
+  "generated_at_utc": "2025-11-04T13:31:26.083879Z",
   "results": {
-    "BTC": 65,
-    "ETH": 20,
-    "ICP": 17,
-    "DASH": 8,
+    "BTC": 73,
+    "ETH": 22,
+    "ICP": 18,
+    "DASH": 9,
+    "ZEC": 7,
     "SOL": 5,
-    "ZEC": 5,
     "XRP": 4,
     "NEAR": 4,
     "ETC": 2,
@@ -19,6 +19,8 @@
     "DOGE": 2,
     "SUI": 2,
     "SAND": 1,
+    "ATOM": 1,
+    "OP": 1,
     "MSTR": 1,
     "BAT": 1,
     "TIRED": 1,
@@ -29,31 +31,31 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 65
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 22
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 17
+      "count": 18
     },
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 8
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 5
+      "count": 9
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 5
     },
     {
@@ -104,6 +106,16 @@
     {
       "symbol": "SAND",
       "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
