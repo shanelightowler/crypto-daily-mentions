@@ -1,41 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T04:19:13.262290Z",
+  "generated_at_utc": "2025-11-04T05:16:33.470763Z",
   "results": {
-    "ICP": 9,
-    "BTC": 8,
-    "DASH": 4,
-    "ETH": 2,
-    "ZEC": 2,
+    "ICP": 12,
+    "BTC": 9,
+    "ETH": 6,
+    "DASH": 5,
+    "ZEC": 3,
     "SOL": 2,
-    "DOGE": 2
+    "XMR": 2,
+    "DOGE": 2,
+    "SUI": 2,
+    "LTC": 1
   },
   "results_list": [
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 9
+      "count": 12
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 4
+      "count": 9
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
+      "count": 6
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 5
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "SOL",
@@ -43,9 +46,24 @@
       "count": 2
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
     }
   ]
 }
