@@ -1,27 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T10:19:46.426929Z",
+  "generated_at_utc": "2025-11-04T11:14:50.188678Z",
   "results": {
-    "BTC": 60,
+    "BTC": 65,
     "ETH": 20,
-    "ICP": 16,
+    "ICP": 17,
     "DASH": 8,
     "SOL": 5,
     "ZEC": 5,
     "XRP": 4,
-    "NEAR": 3,
+    "NEAR": 4,
+    "ETC": 2,
     "LTC": 2,
     "XMR": 2,
     "DOT": 2,
+    "TON": 2,
     "DOGE": 2,
     "SUI": 2,
-    "ETC": 1,
     "SAND": 1,
     "MSTR": 1,
     "BAT": 1,
     "TIRED": 1,
-    "TON": 1,
     "BNB": 1,
     "CRO": 1
   },
@@ -29,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 60
+      "count": 65
     },
     {
       "symbol": "ETH",
@@ -39,7 +39,7 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "DASH",
@@ -64,7 +64,12 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "LTC",
@@ -82,6 +87,11 @@
       "count": 2
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
@@ -90,11 +100,6 @@
       "symbol": "SUI",
       "name": "Sui",
       "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
     },
     {
       "symbol": "SAND",
@@ -114,11 +119,6 @@
     {
       "symbol": "TIRED",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     },
     {
