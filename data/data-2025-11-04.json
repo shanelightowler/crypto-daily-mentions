@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T14:17:12.519239Z",
+  "generated_at_utc": "2025-11-04T15:18:24.188690Z",
   "results": {
-    "BTC": 89,
+    "BTC": 91,
     "ETH": 22,
     "ICP": 18,
-    "DASH": 10,
-    "ZEC": 8,
+    "DASH": 11,
+    "ZEC": 10,
     "SOL": 5,
     "XRP": 4,
+    "DOT": 4,
     "NEAR": 4,
-    "DOT": 3,
     "DOGE": 3,
     "ETC": 2,
     "LTC": 2,
+    "BAT": 2,
     "XMR": 2,
     "TON": 2,
     "SUI": 2,
@@ -22,7 +23,6 @@
     "ATOM": 1,
     "OP": 1,
     "MSTR": 1,
-    "BAT": 1,
     "TIRED": 1,
     "BNB": 1,
     "CRO": 1
@@ -31,7 +31,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 89
+      "count": 91
     },
     {
       "symbol": "ETH",
@@ -46,12 +46,12 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "SOL",
@@ -64,14 +64,14 @@
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 4
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 3
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
     },
     {
       "symbol": "DOGE",
@@ -86,6 +86,11 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 2
     },
     {
@@ -121,11 +126,6 @@
     {
       "symbol": "MSTR",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "BAT",
-      "name": "Basic Attention Token",
       "count": 1
     },
     {
