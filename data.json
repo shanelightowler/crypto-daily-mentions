@@ -1,37 +1,42 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T07:16:22.017971Z",
+  "generated_at_utc": "2025-11-04T08:22:27.116228Z",
   "results": {
-    "BTC": 25,
-    "ICP": 15,
-    "ETH": 9,
+    "BTC": 39,
+    "ICP": 16,
+    "ETH": 16,
     "DASH": 5,
-    "XRP": 3,
-    "SOL": 3,
+    "SOL": 5,
+    "XRP": 4,
     "ZEC": 3,
     "XMR": 2,
+    "NEAR": 2,
     "DOGE": 2,
     "SUI": 2,
     "ETC": 1,
     "LTC": 1,
-    "DOT": 1
+    "TIRED": 1,
+    "DOT": 1,
+    "TON": 1,
+    "BNB": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 39
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 16
     },
     {
       "symbol": "DASH",
@@ -39,14 +44,14 @@
       "count": 5
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "ZEC",
@@ -56,6 +61,11 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -79,8 +89,28 @@
       "count": 1
     },
     {
+      "symbol": "TIRED",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
