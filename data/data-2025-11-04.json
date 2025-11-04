@@ -1,34 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T22:16:00.240938Z",
+  "generated_at_utc": "2025-11-04T23:15:51.660312Z",
   "results": {
-    "BTC": 224,
-    "ETH": 76,
+    "BTC": 237,
+    "ETH": 82,
     "ICP": 26,
     "DASH": 14,
-    "ZEC": 13,
-    "SOL": 10,
+    "ZEC": 14,
+    "SOL": 13,
     "NEAR": 9,
     "ETC": 8,
     "ADA": 7,
+    "BNB": 6,
     "DOT": 6,
-    "BNB": 5,
+    "DOGE": 5,
+    "XRP": 5,
     "LTC": 4,
-    "XRP": 4,
     "BAT": 4,
-    "DOGE": 4,
+    "TON": 3,
     "SUI": 3,
     "XMR": 3,
+    "SAND": 2,
     "OP": 2,
-    "TON": 2,
-    "SAND": 1,
     "ATOM": 1,
     "MSTR": 1,
     "AERO": 1,
     "HBAR": 1,
     "LINK": 1,
     "PEPE": 1,
+    "TRX": 1,
     "TIRED": 1,
     "APE": 1,
     "TRUMP": 1,
@@ -39,12 +40,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 224
+      "count": 237
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 76
+      "count": 82
     },
     {
       "symbol": "ICP",
@@ -59,12 +60,12 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 10
+      "count": 13
     },
     {
       "symbol": "NEAR",
@@ -82,13 +83,23 @@
       "count": 7
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 6
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 6
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 5
     },
     {
@@ -97,19 +108,14 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 4
-    },
-    {
       "symbol": "BAT",
       "name": "Basic Attention Token",
       "count": 4
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 4
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
     },
     {
       "symbol": "SUI",
@@ -122,19 +128,14 @@
       "count": 3
     },
     {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 2
+    },
+    {
       "symbol": "OP",
       "name": "Optimism",
       "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 2
-    },
-    {
-      "symbol": "SAND",
-      "name": "The Sandbox",
-      "count": 1
     },
     {
       "symbol": "ATOM",
@@ -164,6 +165,11 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     },
     {
