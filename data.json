@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T18:24:16.611135Z",
+  "generated_at_utc": "2025-11-04T19:13:56.268685Z",
   "results": {
-    "BTC": 144,
-    "ETH": 28,
+    "BTC": 168,
+    "ETH": 45,
     "ICP": 23,
-    "DASH": 11,
-    "ZEC": 11,
-    "SOL": 6,
+    "DASH": 14,
+    "ZEC": 13,
+    "SOL": 10,
     "DOT": 6,
     "ETC": 5,
     "NEAR": 5,
+    "BNB": 5,
     "XRP": 4,
     "BAT": 4,
     "DOGE": 4,
@@ -24,21 +25,23 @@
     "ATOM": 1,
     "OP": 1,
     "MSTR": 1,
+    "AERO": 1,
     "TIRED": 1,
+    "APE": 1,
     "TRUMP": 1,
-    "BNB": 1,
+    "JUP": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 144
+      "count": 168
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 45
     },
     {
       "symbol": "ICP",
@@ -48,17 +51,17 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 10
     },
     {
       "symbol": "DOT",
@@ -73,6 +76,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 5
     },
     {
@@ -136,8 +144,18 @@
       "count": 1
     },
     {
+      "symbol": "AERO",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "TIRED",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
@@ -146,8 +164,8 @@
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "count": 1
     },
     {
