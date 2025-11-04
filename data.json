@@ -1,23 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T08:22:27.116228Z",
+  "generated_at_utc": "2025-11-04T09:19:04.044926Z",
   "results": {
-    "BTC": 39,
+    "BTC": 53,
+    "ETH": 20,
     "ICP": 16,
-    "ETH": 16,
-    "DASH": 5,
+    "DASH": 6,
     "SOL": 5,
     "XRP": 4,
     "ZEC": 3,
+    "NEAR": 3,
     "XMR": 2,
-    "NEAR": 2,
+    "DOT": 2,
     "DOGE": 2,
     "SUI": 2,
     "ETC": 1,
     "LTC": 1,
+    "MSTR": 1,
+    "BAT": 1,
     "TIRED": 1,
-    "DOT": 1,
     "TON": 1,
     "BNB": 1,
     "CRO": 1
@@ -26,7 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 39
+      "count": 53
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 20
     },
     {
       "symbol": "ICP",
@@ -34,14 +41,9 @@
       "count": 16
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 16
-    },
-    {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SOL",
@@ -59,13 +61,18 @@
       "count": 3
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
@@ -89,13 +96,18 @@
       "count": 1
     },
     {
-      "symbol": "TIRED",
+      "symbol": "MSTR",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "TIRED",
+      "name": "",
       "count": 1
     },
     {
