@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T21:15:34.235296Z",
+  "generated_at_utc": "2025-11-04T22:16:00.240938Z",
   "results": {
-    "BTC": 212,
-    "ETH": 60,
+    "BTC": 224,
+    "ETH": 76,
     "ICP": 26,
     "DASH": 14,
     "ZEC": 13,
     "SOL": 10,
-    "ETC": 7,
+    "NEAR": 9,
+    "ETC": 8,
     "ADA": 7,
     "DOT": 6,
-    "NEAR": 5,
     "BNB": 5,
     "LTC": 4,
     "XRP": 4,
@@ -39,12 +39,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 212
+      "count": 224
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 60
+      "count": 76
     },
     {
       "symbol": "ICP",
@@ -67,9 +67,14 @@
       "count": 10
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 9
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ADA",
@@ -80,11 +85,6 @@
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 6
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 5
     },
     {
       "symbol": "BNB",
