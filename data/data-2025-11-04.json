@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T09:19:04.044926Z",
+  "generated_at_utc": "2025-11-04T10:19:46.426929Z",
   "results": {
-    "BTC": 53,
+    "BTC": 60,
     "ETH": 20,
     "ICP": 16,
-    "DASH": 6,
+    "DASH": 8,
     "SOL": 5,
+    "ZEC": 5,
     "XRP": 4,
-    "ZEC": 3,
     "NEAR": 3,
+    "LTC": 2,
     "XMR": 2,
     "DOT": 2,
     "DOGE": 2,
     "SUI": 2,
     "ETC": 1,
-    "LTC": 1,
+    "SAND": 1,
     "MSTR": 1,
     "BAT": 1,
     "TIRED": 1,
@@ -28,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 53
+      "count": 60
     },
     {
       "symbol": "ETH",
@@ -43,11 +44,16 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 5
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 5
     },
     {
@@ -56,14 +62,14 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 3
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
     },
     {
       "symbol": "XMR",
@@ -91,8 +97,8 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "SAND",
+      "name": "The Sandbox",
       "count": 1
     },
     {
