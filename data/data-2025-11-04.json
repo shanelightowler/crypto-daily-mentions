@@ -1,19 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T03:07:24.053286Z",
+  "generated_at_utc": "2025-11-04T04:19:13.262290Z",
   "results": {
-    "BTC": 5,
+    "ICP": 9,
+    "BTC": 8,
+    "DASH": 4,
     "ETH": 2,
-    "DASH": 2,
-    "SOL": 1,
-    "ICP": 1
+    "ZEC": 2,
+    "SOL": 2,
+    "DOGE": 2
   },
   "results_list": [
     {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 9
+    },
+    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 8
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 4
     },
     {
       "symbol": "ETH",
@@ -21,19 +33,19 @@
       "count": 2
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
+      "count": 2
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 1
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     }
   ]
 }
