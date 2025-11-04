@@ -1,22 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T06:25:37.593967Z",
+  "generated_at_utc": "2025-11-04T07:16:22.017971Z",
   "results": {
     "BTC": 25,
-    "ICP": 12,
+    "ICP": 15,
     "ETH": 9,
     "DASH": 5,
-    "SOL": 4,
+    "XRP": 3,
+    "SOL": 3,
     "ZEC": 3,
-    "XRP": 2,
     "XMR": 2,
     "DOGE": 2,
     "SUI": 2,
     "ETC": 1,
     "LTC": 1,
-    "DOT": 1,
-    "NEAR": 1
+    "DOT": 1
   },
   "results_list": [
     {
@@ -27,7 +26,7 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 12
+      "count": 15
     },
     {
       "symbol": "ETH",
@@ -40,19 +39,19 @@
       "count": 5
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 3
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 3
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
     },
     {
       "symbol": "XMR",
@@ -82,11 +81,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     }
   ]
