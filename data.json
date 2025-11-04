@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1onttbm/daily_crypto_discussion_november_4_2025_gmt0/",
-  "generated_at_utc": "2025-11-04T16:20:59.727791Z",
+  "generated_at_utc": "2025-11-04T17:16:21.706185Z",
   "results": {
-    "BTC": 102,
-    "ETH": 22,
-    "ICP": 19,
+    "BTC": 125,
+    "ETH": 25,
+    "ICP": 22,
     "DASH": 11,
     "ZEC": 11,
-    "SOL": 5,
+    "SOL": 6,
+    "NEAR": 5,
     "DOT": 5,
+    "ETC": 4,
     "XRP": 4,
-    "NEAR": 4,
-    "BAT": 3,
+    "BAT": 4,
     "DOGE": 3,
-    "ETC": 2,
     "LTC": 2,
     "XMR": 2,
     "TON": 2,
@@ -32,17 +32,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 102
+      "count": 125
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 25
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 19
+      "count": 22
     },
     {
       "symbol": "DASH",
@@ -57,6 +57,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 6
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 5
     },
     {
@@ -65,29 +70,24 @@
       "count": 5
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 4
-    },
-    {
       "symbol": "BAT",
       "name": "Basic Attention Token",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 3
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
     },
     {
       "symbol": "LTC",
