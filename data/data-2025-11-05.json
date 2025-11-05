@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oop3j8/daily_crypto_discussion_november_5_2025_gmt0/",
-  "generated_at_utc": "2025-11-05T18:23:28.108715Z",
+  "generated_at_utc": "2025-11-05T19:13:27.010569Z",
   "results": {
-    "BTC": 71,
+    "BTC": 74,
     "ETH": 31,
     "XRP": 5,
     "BNB": 4,
@@ -16,18 +16,19 @@
     "DOT": 2,
     "ETC": 2,
     "MATIC": 1,
-    "XNO": 1,
-    "DASH": 1,
     "ADA": 1,
     "AVAX": 1,
     "ALGO": 1,
-    "HBAR": 1
+    "HBAR": 1,
+    "XNO": 1,
+    "DASH": 1,
+    "AAVE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 71
+      "count": 74
     },
     {
       "symbol": "ETH",
@@ -90,16 +91,6 @@
       "count": 1
     },
     {
-      "symbol": "XNO",
-      "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 1
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 1
@@ -117,6 +108,21 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "XNO",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     }
   ]
