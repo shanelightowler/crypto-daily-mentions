@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - November 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oop3j8/daily_crypto_discussion_november_5_2025_gmt0/",
-  "generated_at_utc": "2025-11-05T22:15:34.247507Z",
+  "generated_at_utc": "2025-11-05T23:15:22.480007Z",
   "results": {
-    "BTC": 86,
+    "BTC": 87,
     "ETH": 35,
     "XRP": 6,
     "ZEC": 5,
     "BNB": 4,
+    "DOGE": 3,
     "SOL": 3,
     "QNT": 3,
     "LINK": 2,
-    "DOGE": 2,
     "ICP": 2,
+    "SHIB": 2,
     "DOT": 2,
     "ETC": 2,
     "MATIC": 1,
@@ -28,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 86
+      "count": 87
     },
     {
       "symbol": "ETH",
@@ -51,6 +52,11 @@
       "count": 4
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
@@ -66,13 +72,13 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 2
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 2
     },
     {
