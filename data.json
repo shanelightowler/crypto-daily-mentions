@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oop3j8/daily_crypto_discussion_november_5_2025_gmt0/",
-  "generated_at_utc": "2025-11-05T21:15:16.944447Z",
+  "generated_at_utc": "2025-11-05T22:15:34.247507Z",
   "results": {
     "BTC": 86,
     "ETH": 35,
     "XRP": 6,
-    "ZEC": 4,
+    "ZEC": 5,
     "BNB": 4,
     "SOL": 3,
     "QNT": 3,
@@ -43,7 +43,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "BNB",
