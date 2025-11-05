@@ -1,0 +1,25 @@
+{
+  "thread_title": "Daily General Discussion November 05, 2025",
+  "thread_url": "https://www.reddit.com/r/ethereum/comments/1oov5id/daily_general_discussion_november_05_2025/",
+  "generated_at_utc": "2025-11-05T08:42:36.432583Z",
+  "date": "2025-11-05",
+  "summary": {
+    "count": 1,
+    "mean_usd": 1960.5,
+    "median_usd": 1960.5,
+    "min_usd": 1960.5,
+    "max_usd": 1960.5
+  },
+  "predictions": [
+    {
+      "amount_usd": 1960.5,
+      "lower_usd": 1530.0,
+      "upper_usd": 2391.0,
+      "raw_match": "from $1,530 to $2,391",
+      "sentence": "My average cost went from $1,530 to $2,391 due to my little fiasco...",
+      "comment_id": "nn7gn2y",
+      "author": "JarateSnacks",
+      "accept_reason": "range"
+    }
+  ]
+}
