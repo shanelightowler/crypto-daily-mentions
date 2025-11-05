@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oop3j8/daily_crypto_discussion_november_5_2025_gmt0/",
-  "generated_at_utc": "2025-11-05T19:13:27.010569Z",
+  "generated_at_utc": "2025-11-05T20:18:33.005512Z",
   "results": {
-    "BTC": 74,
-    "ETH": 31,
-    "XRP": 5,
+    "BTC": 80,
+    "ETH": 35,
+    "XRP": 6,
+    "ZEC": 4,
     "BNB": 4,
-    "ZEC": 3,
+    "SOL": 3,
     "QNT": 3,
     "LINK": 2,
     "DOGE": 2,
     "ICP": 2,
-    "SOL": 2,
     "DOT": 2,
     "ETC": 2,
     "MATIC": 1,
@@ -28,17 +28,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 74
+      "count": 80
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 35
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 4
     },
     {
       "symbol": "BNB",
@@ -46,8 +51,8 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -68,11 +73,6 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 2
     },
     {
