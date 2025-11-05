@@ -1,34 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - November 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oop3j8/daily_crypto_discussion_november_5_2025_gmt0/",
-  "generated_at_utc": "2025-11-05T17:16:07.236038Z",
+  "generated_at_utc": "2025-11-05T18:23:28.108715Z",
   "results": {
-    "BTC": 58,
-    "ETH": 30,
+    "BTC": 71,
+    "ETH": 31,
+    "XRP": 5,
+    "BNB": 4,
     "ZEC": 3,
     "QNT": 3,
+    "LINK": 2,
     "DOGE": 2,
     "ICP": 2,
-    "XRP": 2,
-    "BNB": 2,
+    "SOL": 2,
+    "DOT": 2,
     "ETC": 2,
-    "LINK": 1,
     "MATIC": 1,
-    "SOL": 1,
     "XNO": 1,
     "DASH": 1,
-    "DOT": 1
+    "ADA": 1,
+    "AVAX": 1,
+    "ALGO": 1,
+    "HBAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 58
+      "count": 71
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 31
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "ZEC",
@@ -41,6 +55,11 @@
       "count": 3
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
@@ -51,13 +70,13 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
@@ -66,18 +85,8 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
@@ -91,8 +100,23 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     }
   ]
