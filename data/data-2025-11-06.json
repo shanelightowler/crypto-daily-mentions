@@ -1,45 +1,53 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T16:21:45.111994Z",
+  "generated_at_utc": "2025-11-06T17:16:33.583713Z",
   "results": {
-    "BTC": 49,
-    "ETH": 13,
-    "ICP": 12,
-    "DASH": 5,
+    "BTC": 60,
+    "ICP": 16,
+    "ETH": 15,
+    "ZEC": 8,
+    "DASH": 7,
     "SUI": 4,
-    "ZEC": 4,
+    "ETC": 4,
     "XRP": 3,
+    "SOL": 2,
+    "PEPE": 2,
     "DOGE": 2,
+    "TRX": 1,
     "LTC": 1,
     "HBAR": 1,
     "67": 1,
-    "SOL": 1,
-    "TRX": 1,
-    "PEPE": 1,
+    "FLOKI": 1,
+    "BAT": 1,
     "BCH": 1,
-    "ETC": 1
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 49
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 13
+      "count": 60
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 12
+      "count": 16
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 15
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 8
     },
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "SUI",
@@ -47,8 +55,8 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 4
     },
     {
@@ -57,9 +65,24 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
     },
     {
       "symbol": "LTC",
@@ -77,18 +100,13 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "FLOKI",
+      "name": "Floki",
       "count": 1
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 1
     },
     {
@@ -97,8 +115,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
