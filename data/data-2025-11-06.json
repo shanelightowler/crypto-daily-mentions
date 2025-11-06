@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T22:15:37.100454Z",
+  "generated_at_utc": "2025-11-06T23:15:07.868873Z",
   "results": {
-    "BTC": 97,
+    "BTC": 101,
     "ETH": 38,
     "ICP": 34,
     "ZEC": 9,
@@ -19,15 +19,17 @@
     "SAND": 1,
     "MANA": 1,
     "TRX": 1,
+    "AR": 1,
+    "FIL": 1,
     "LTC": 1,
     "HBAR": 1,
     "67": 1,
-    "AR": 1,
-    "FIL": 1,
+    "KAS": 1,
     "FLOKI": 1,
     "BAT": 1,
     "TON": 1,
     "ADA": 1,
+    "SHIB": 1,
     "BTT": 1,
     "BCH": 1,
     "ROSE": 1,
@@ -37,7 +39,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 97
+      "count": 101
     },
     {
       "symbol": "ETH",
@@ -115,6 +117,16 @@
       "count": 1
     },
     {
+      "symbol": "AR",
+      "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 1
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 1
@@ -130,13 +142,8 @@
       "count": 1
     },
     {
-      "symbol": "AR",
-      "name": "Arweave",
-      "count": 1
-    },
-    {
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 1
     },
     {
@@ -157,6 +164,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
