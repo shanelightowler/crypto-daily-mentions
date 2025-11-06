@@ -1,10 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T07:15:48.812713Z",
+  "generated_at_utc": "2025-11-06T08:22:02.424580Z",
   "results": {
     "BTC": 14,
-    "ICP": 4
+    "ICP": 4,
+    "ETH": 1,
+    "DASH": 1
   },
   "results_list": [
     {
@@ -16,6 +18,16 @@
       "symbol": "ICP",
       "name": "Internet Computer",
       "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
     }
   ]
 }
