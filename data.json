@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T21:14:35.679613Z",
+  "generated_at_utc": "2025-11-06T22:15:37.100454Z",
   "results": {
-    "BTC": 92,
+    "BTC": 97,
     "ETH": 38,
-    "ICP": 33,
+    "ICP": 34,
     "ZEC": 9,
     "DASH": 7,
     "SOL": 7,
@@ -22,6 +22,8 @@
     "LTC": 1,
     "HBAR": 1,
     "67": 1,
+    "AR": 1,
+    "FIL": 1,
     "FLOKI": 1,
     "BAT": 1,
     "TON": 1,
@@ -35,7 +37,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 92
+      "count": 97
     },
     {
       "symbol": "ETH",
@@ -45,7 +47,7 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 33
+      "count": 34
     },
     {
       "symbol": "ZEC",
@@ -125,6 +127,16 @@
     {
       "symbol": "67",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 1
     },
     {
