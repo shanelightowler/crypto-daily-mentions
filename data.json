@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T20:18:25.573515Z",
+  "generated_at_utc": "2025-11-06T21:14:35.679613Z",
   "results": {
-    "BTC": 88,
-    "ETH": 37,
+    "BTC": 92,
+    "ETH": 38,
     "ICP": 33,
     "ZEC": 9,
     "DASH": 7,
     "SOL": 7,
-    "ETC": 5,
+    "ETC": 6,
+    "NEAR": 5,
     "SUI": 4,
-    "NEAR": 4,
     "XRP": 3,
     "PEPE": 2,
     "DOGE": 2,
@@ -24,7 +24,9 @@
     "67": 1,
     "FLOKI": 1,
     "BAT": 1,
+    "TON": 1,
     "ADA": 1,
+    "BTT": 1,
     "BCH": 1,
     "ROSE": 1,
     "LINK": 1
@@ -33,12 +35,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 88
+      "count": 92
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 37
+      "count": 38
     },
     {
       "symbol": "ICP",
@@ -63,16 +65,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 6
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 5
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 4
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 4
     },
     {
@@ -136,8 +138,18 @@
       "count": 1
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "BTT",
+      "name": "BitTorrent",
       "count": 1
     },
     {
