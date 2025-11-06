@@ -1,14 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T13:28:55.203658Z",
+  "generated_at_utc": "2025-11-06T14:16:43.203119Z",
   "results": {
-    "BTC": 32,
-    "ICP": 6,
+    "BTC": 36,
+    "ICP": 11,
+    "ETH": 7,
     "DASH": 5,
-    "ETH": 4,
     "SUI": 3,
-    "ZEC": 2,
+    "ZEC": 3,
+    "LTC": 1,
+    "HBAR": 1,
+    "67": 1,
+    "SOL": 1,
     "PEPE": 1,
     "BCH": 1
   },
@@ -16,22 +20,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 36
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 6
+      "count": 11
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 7
     },
     {
       "symbol": "DASH",
       "name": "Dash",
       "count": 5
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 4
     },
     {
       "symbol": "SUI",
@@ -41,7 +45,27 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
+      "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "67",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
     },
     {
       "symbol": "PEPE",
