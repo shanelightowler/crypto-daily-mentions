@@ -1,14 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T14:16:43.203119Z",
+  "generated_at_utc": "2025-11-06T15:18:29.701079Z",
   "results": {
-    "BTC": 36,
-    "ICP": 11,
-    "ETH": 7,
+    "BTC": 37,
+    "ICP": 12,
+    "ETH": 10,
     "DASH": 5,
-    "SUI": 3,
-    "ZEC": 3,
+    "SUI": 4,
+    "ZEC": 4,
+    "XRP": 3,
+    "DOGE": 2,
     "LTC": 1,
     "HBAR": 1,
     "67": 1,
@@ -20,17 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 10
     },
     {
       "symbol": "DASH",
@@ -40,12 +42,22 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "LTC",
