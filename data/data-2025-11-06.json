@@ -1,26 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T19:13:38.234352Z",
+  "generated_at_utc": "2025-11-06T20:18:25.573515Z",
   "results": {
-    "BTC": 82,
-    "ICP": 32,
-    "ETH": 29,
-    "ZEC": 8,
+    "BTC": 88,
+    "ETH": 37,
+    "ICP": 33,
+    "ZEC": 9,
     "DASH": 7,
+    "SOL": 7,
     "ETC": 5,
-    "SOL": 5,
     "SUI": 4,
     "NEAR": 4,
     "XRP": 3,
     "PEPE": 2,
     "DOGE": 2,
+    "NEO": 1,
+    "SAND": 1,
+    "MANA": 1,
     "TRX": 1,
     "LTC": 1,
     "HBAR": 1,
     "67": 1,
     "FLOKI": 1,
     "BAT": 1,
+    "ADA": 1,
     "BCH": 1,
     "ROSE": 1,
     "LINK": 1
@@ -29,22 +33,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 82
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 32
+      "count": 88
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 29
+      "count": 37
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 33
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "DASH",
@@ -52,13 +56,13 @@
       "count": 7
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 5
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 5
     },
     {
@@ -85,6 +89,21 @@
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "count": 1
     },
     {
       "symbol": "TRX",
@@ -114,6 +133,11 @@
     {
       "symbol": "BAT",
       "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
