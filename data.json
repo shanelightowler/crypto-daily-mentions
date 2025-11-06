@@ -1,23 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T09:18:05.082161Z",
+  "generated_at_utc": "2025-11-06T10:19:18.292924Z",
   "results": {
-    "BTC": 17,
-    "ICP": 4,
+    "BTC": 23,
+    "ICP": 5,
+    "DASH": 3,
+    "SUI": 1,
     "ETH": 1,
-    "DASH": 1
+    "PEPE": 1,
+    "BCH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 17
+      "count": 23
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
     },
     {
       "symbol": "ETH",
@@ -25,8 +38,13 @@
       "count": 1
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     }
   ]
