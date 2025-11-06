@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1opl2ic/daily_crypto_discussion_november_6_2025_gmt0/",
-  "generated_at_utc": "2025-11-06T15:18:29.701079Z",
+  "generated_at_utc": "2025-11-06T16:21:45.111994Z",
   "results": {
-    "BTC": 37,
+    "BTC": 49,
+    "ETH": 13,
     "ICP": 12,
-    "ETH": 10,
     "DASH": 5,
     "SUI": 4,
     "ZEC": 4,
@@ -15,24 +15,26 @@
     "HBAR": 1,
     "67": 1,
     "SOL": 1,
+    "TRX": 1,
     "PEPE": 1,
-    "BCH": 1
+    "BCH": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 49
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 13
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
       "count": 12
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 10
     },
     {
       "symbol": "DASH",
@@ -80,6 +82,11 @@
       "count": 1
     },
     {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -87,6 +94,11 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
