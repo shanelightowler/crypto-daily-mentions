@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T19:13:43.681894Z",
+  "generated_at_utc": "2025-11-07T20:16:41.439264Z",
   "results": {
-    "BTC": 67,
-    "ZEC": 35,
+    "BTC": 72,
+    "ZEC": 36,
     "ICP": 30,
-    "ETH": 19,
+    "ETH": 20,
+    "NEAR": 12,
     "LTC": 11,
-    "NEAR": 11,
     "FET": 7,
     "DOT": 5,
     "SOL": 5,
@@ -18,25 +18,25 @@
     "APE": 2,
     "AR": 2,
     "DOGE": 2,
+    "ADA": 2,
     "XRP": 2,
     "ALGO": 1,
-    "ETC": 1,
     "XMR": 1,
-    "ADA": 1,
-    "NIGHT": 1,
+    "ETC": 1,
     "CVX": 1,
+    "NIGHT": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 67
+      "count": 72
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 35
+      "count": 36
     },
     {
       "symbol": "ICP",
@@ -46,16 +46,16 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 11
+      "count": 20
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 12
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 11
     },
     {
@@ -104,6 +104,11 @@
       "count": 2
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 2
@@ -114,28 +119,23 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "NIGHT",
-      "name": "",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
       "symbol": "CVX",
       "name": "Convex Finance",
+      "count": 1
+    },
+    {
+      "symbol": "NIGHT",
+      "name": "",
       "count": 1
     },
     {
