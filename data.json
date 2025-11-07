@@ -1,38 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T05:16:19.374581Z",
+  "generated_at_utc": "2025-11-07T06:25:04.165308Z",
   "results": {
-    "BTC": 9,
-    "ZEC": 8,
-    "ICP": 3,
-    "ETH": 3,
+    "BTC": 24,
+    "ZEC": 12,
+    "ICP": 10,
+    "ETH": 4,
     "LINK": 1,
     "DASH": 1,
     "FIL": 1,
     "DOT": 1,
-    "AR": 1
+    "AR": 1,
+    "NEAR": 1,
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 24
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 8
+      "count": 12
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 3
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "LINK",
@@ -57,6 +59,16 @@
     {
       "symbol": "AR",
       "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
