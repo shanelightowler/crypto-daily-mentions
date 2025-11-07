@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T12:33:22.819470Z",
+  "generated_at_utc": "2025-11-07T13:25:34.957597Z",
   "results": {
-    "BTC": 39,
+    "BTC": 43,
     "ICP": 23,
-    "ZEC": 17,
-    "ETH": 4,
+    "ZEC": 19,
+    "ETH": 5,
     "APE": 2,
     "DASH": 2,
     "DOT": 2,
@@ -23,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 39
+      "count": 43
     },
     {
       "symbol": "ICP",
@@ -33,12 +33,12 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 17
+      "count": 19
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "APE",
