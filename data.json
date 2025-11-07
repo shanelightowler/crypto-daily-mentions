@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T10:18:25.572367Z",
+  "generated_at_utc": "2025-11-07T11:13:56.812252Z",
   "results": {
-    "BTC": 35,
-    "ICP": 21,
+    "BTC": 36,
+    "ICP": 22,
     "ZEC": 15,
     "ETH": 4,
     "APE": 2,
     "DASH": 2,
     "DOT": 2,
     "LINK": 1,
-    "LTC": 1,
     "FIL": 1,
     "CVX": 1,
     "SOL": 1,
+    "LTC": 1,
     "AR": 1,
     "NEAR": 1,
     "XRP": 1
@@ -23,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 36
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "ZEC",
@@ -61,11 +61,6 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
       "symbol": "FIL",
       "name": "Filecoin",
       "count": 1
@@ -78,6 +73,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
