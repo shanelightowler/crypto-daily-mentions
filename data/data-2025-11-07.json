@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T07:15:47.238145Z",
+  "generated_at_utc": "2025-11-07T08:22:04.196007Z",
   "results": {
-    "BTC": 28,
+    "BTC": 30,
+    "ICP": 16,
     "ZEC": 15,
-    "ICP": 13,
     "ETH": 4,
     "APE": 2,
+    "DOT": 2,
     "LINK": 1,
+    "CVX": 1,
     "DASH": 1,
     "FIL": 1,
-    "DOT": 1,
-    "AR": 1,
     "SOL": 1,
+    "AR": 1,
     "NEAR": 1,
     "XRP": 1
   },
@@ -21,17 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 30
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 16
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 15
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 13
     },
     {
       "symbol": "ETH",
@@ -44,8 +45,18 @@
       "count": 2
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "CVX",
+      "name": "Convex Finance",
       "count": 1
     },
     {
@@ -59,18 +70,13 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
       "symbol": "AR",
       "name": "Arweave",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
