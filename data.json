@@ -1,38 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T22:15:05.960689Z",
+  "generated_at_utc": "2025-11-07T23:14:46.482680Z",
   "results": {
-    "BTC": 77,
+    "BTC": 80,
     "ZEC": 36,
     "ICP": 30,
-    "ETH": 21,
+    "ETH": 23,
     "NEAR": 13,
-    "LTC": 11,
+    "LTC": 12,
+    "SOL": 8,
     "FET": 7,
-    "SOL": 7,
     "DOT": 5,
     "DASH": 4,
     "FIL": 4,
+    "LINK": 3,
     "XRP": 3,
-    "LINK": 2,
     "APE": 2,
     "AR": 2,
     "ADA": 2,
     "DOGE": 2,
+    "TON": 2,
     "ALGO": 1,
     "XMR": 1,
     "ETC": 1,
+    "TIA": 1,
     "CVX": 1,
     "NIGHT": 1,
-    "ATOM": 1,
-    "TON": 1
+    "HBAR": 1,
+    "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 77
+      "count": 80
     },
     {
       "symbol": "ZEC",
@@ -47,7 +49,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 23
     },
     {
       "symbol": "NEAR",
@@ -57,16 +59,16 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 11
-    },
-    {
-      "symbol": "FET",
-      "name": "Fetch.ai",
-      "count": 7
+      "count": 12
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 8
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 7
     },
     {
@@ -85,14 +87,14 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 3
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
     },
     {
       "symbol": "APE",
@@ -115,6 +117,11 @@
       "count": 2
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 1
@@ -130,6 +137,11 @@
       "count": 1
     },
     {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 1
+    },
+    {
       "symbol": "CVX",
       "name": "Convex Finance",
       "count": 1
@@ -140,13 +152,13 @@
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     }
   ]
