@@ -1,38 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T17:14:27.909353Z",
+  "generated_at_utc": "2025-11-07T18:22:52.610153Z",
   "results": {
-    "BTC": 63,
-    "ZEC": 29,
+    "BTC": 65,
+    "ZEC": 35,
     "ICP": 28,
-    "ETH": 18,
+    "ETH": 19,
     "LTC": 11,
-    "NEAR": 8,
-    "FET": 4,
-    "DOT": 3,
+    "NEAR": 11,
+    "FET": 6,
+    "SOL": 5,
+    "DASH": 4,
+    "DOT": 4,
+    "FIL": 3,
+    "LINK": 2,
     "APE": 2,
     "AR": 2,
-    "DASH": 2,
-    "FIL": 2,
+    "XRP": 2,
     "ETC": 1,
     "ALGO": 1,
-    "LINK": 1,
+    "XMR": 1,
     "CVX": 1,
-    "SOL": 1,
-    "XRP": 1,
+    "DOGE": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 65
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 29
+      "count": 35
     },
     {
       "symbol": "ICP",
@@ -42,7 +44,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "LTC",
@@ -52,17 +54,37 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 8
+      "count": 11
     },
     {
       "symbol": "FET",
       "name": "Fetch.ai",
+      "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 4
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 4
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "APE",
@@ -75,13 +97,8 @@
       "count": 2
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 2
-    },
-    {
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -95,8 +112,8 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
@@ -105,13 +122,8 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
