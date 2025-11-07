@@ -1,30 +1,42 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T03:07:55.978704Z",
+  "generated_at_utc": "2025-11-07T04:18:39.141651Z",
   "results": {
-    "BTC": 3,
-    "ETH": 1,
-    "AR": 1,
+    "ZEC": 5,
+    "BTC": 4,
+    "ETH": 2,
+    "ICP": 1,
+    "LINK": 1,
     "DOT": 1,
     "DASH": 1,
-    "ZEC": 1,
-    "FIL": 1
+    "FIL": 1,
+    "AR": 1
   },
   "results_list": [
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 5
+    },
+    {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
-      "symbol": "AR",
-      "name": "Arweave",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
@@ -38,13 +50,13 @@
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 1
     },
     {
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "symbol": "AR",
+      "name": "Arweave",
       "count": 1
     }
   ]
