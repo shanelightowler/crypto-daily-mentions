@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T20:16:41.439264Z",
+  "generated_at_utc": "2025-11-07T21:12:10.790688Z",
   "results": {
-    "BTC": 72,
+    "BTC": 75,
     "ZEC": 36,
     "ICP": 30,
     "ETH": 20,
-    "NEAR": 12,
+    "NEAR": 13,
     "LTC": 11,
     "FET": 7,
+    "SOL": 6,
     "DOT": 5,
-    "SOL": 5,
     "DASH": 4,
     "FIL": 4,
     "LINK": 2,
     "APE": 2,
     "AR": 2,
-    "DOGE": 2,
     "ADA": 2,
+    "DOGE": 2,
     "XRP": 2,
     "ALGO": 1,
     "XMR": 1,
@@ -31,7 +31,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 75
     },
     {
       "symbol": "ZEC",
@@ -51,7 +51,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "LTC",
@@ -64,13 +64,13 @@
       "count": 7
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 6
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
@@ -99,13 +99,13 @@
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
