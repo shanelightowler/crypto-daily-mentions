@@ -1,23 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T13:25:34.957597Z",
+  "generated_at_utc": "2025-11-07T14:16:18.275782Z",
   "results": {
     "BTC": 43,
-    "ICP": 23,
-    "ZEC": 19,
-    "ETH": 5,
+    "ICP": 25,
+    "ZEC": 22,
+    "ETH": 6,
+    "DOT": 3,
     "APE": 2,
     "DASH": 2,
-    "DOT": 2,
+    "FIL": 2,
+    "NEAR": 2,
     "LINK": 1,
-    "FIL": 1,
     "CVX": 1,
     "SOL": 1,
-    "LTC": 1,
     "AR": 1,
-    "NEAR": 1,
-    "XRP": 1
+    "LTC": 1,
+    "XRP": 1,
+    "ATOM": 1,
+    "FET": 1
   },
   "results_list": [
     {
@@ -28,17 +30,22 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 23
+      "count": 25
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 19
+      "count": 22
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 3
     },
     {
       "symbol": "APE",
@@ -51,18 +58,18 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "FIL",
-      "name": "Filecoin",
       "count": 1
     },
     {
@@ -76,23 +83,28 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
       "symbol": "AR",
       "name": "Arweave",
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     }
   ]
