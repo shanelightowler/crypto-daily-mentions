@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T08:22:04.196007Z",
+  "generated_at_utc": "2025-11-07T09:16:59.733831Z",
   "results": {
-    "BTC": 30,
-    "ICP": 16,
+    "BTC": 31,
+    "ICP": 17,
     "ZEC": 15,
     "ETH": 4,
     "APE": 2,
     "DOT": 2,
     "LINK": 1,
-    "CVX": 1,
     "DASH": 1,
     "FIL": 1,
+    "CVX": 1,
     "SOL": 1,
     "AR": 1,
     "NEAR": 1,
@@ -22,12 +22,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 31
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ZEC",
@@ -55,11 +55,6 @@
       "count": 1
     },
     {
-      "symbol": "CVX",
-      "name": "Convex Finance",
-      "count": 1
-    },
-    {
       "symbol": "DASH",
       "name": "Dash",
       "count": 1
@@ -67,6 +62,11 @@
     {
       "symbol": "FIL",
       "name": "Filecoin",
+      "count": 1
+    },
+    {
+      "symbol": "CVX",
+      "name": "Convex Finance",
       "count": 1
     },
     {
