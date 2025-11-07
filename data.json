@@ -1,7 +1,51 @@
 {
   "thread_title": "Daily Crypto Discussion - November 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oqgnrm/daily_crypto_discussion_november_7_2025_gmt0/",
-  "generated_at_utc": "2025-11-07T01:16:06.487325Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-11-07T03:07:55.978704Z",
+  "results": {
+    "BTC": 3,
+    "ETH": 1,
+    "AR": 1,
+    "DOT": 1,
+    "DASH": 1,
+    "ZEC": 1,
+    "FIL": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 1
+    }
+  ]
 }
