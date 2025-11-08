@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T06:21:55.042757Z",
+  "generated_at_utc": "2025-11-08T07:14:15.250753Z",
   "results": {
-    "BTC": 15,
+    "BTC": 18,
     "ETH": 13,
+    "ICP": 8,
     "DOT": 5,
-    "ICP": 5,
-    "NEAR": 3,
+    "NEAR": 4,
+    "DASH": 2,
+    "ZEC": 2,
     "LINK": 2,
     "SHIB": 1,
     "UNI": 1,
     "CAKE": 1,
-    "ZEC": 1,
     "AVAX": 1,
     "PYTH": 1,
     "CRO": 1,
@@ -22,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 18
     },
     {
       "symbol": "ETH",
@@ -30,19 +31,29 @@
       "count": 13
     },
     {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 8
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 5
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 5
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
     },
     {
       "symbol": "LINK",
@@ -62,11 +73,6 @@
     {
       "symbol": "CAKE",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
       "count": 1
     },
     {
