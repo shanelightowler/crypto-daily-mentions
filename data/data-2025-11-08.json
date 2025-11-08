@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T13:20:58.604362Z",
+  "generated_at_utc": "2025-11-08T14:13:13.920872Z",
   "results": {
-    "BTC": 35,
-    "ICP": 31,
+    "BTC": 36,
+    "ICP": 33,
     "ETH": 15,
     "DOT": 8,
     "NEAR": 5,
     "LINK": 4,
+    "SOL": 4,
     "ZEC": 4,
     "FIL": 3,
-    "SOL": 3,
+    "XRP": 2,
     "DASH": 2,
+    "XLM": 1,
     "SHIB": 1,
     "UNI": 1,
     "CAKE": 1,
     "SUI": 1,
-    "XRP": 1,
     "AVAX": 1,
     "PYTH": 1,
     "CRO": 1,
@@ -27,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 36
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 31
+      "count": 33
     },
     {
       "symbol": "ETH",
@@ -55,6 +56,11 @@
       "count": 4
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 4
@@ -65,14 +71,19 @@
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "DASH",
       "name": "Dash",
       "count": 2
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
     },
     {
       "symbol": "SHIB",
@@ -92,11 +103,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     },
     {
