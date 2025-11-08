@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T15:14:26.952111Z",
+  "generated_at_utc": "2025-11-08T16:17:58.021909Z",
   "results": {
-    "BTC": 42,
-    "ICP": 39,
-    "ETH": 15,
+    "BTC": 45,
+    "ICP": 42,
+    "ETH": 16,
     "DOT": 8,
+    "ZEC": 6,
     "SOL": 5,
     "NEAR": 5,
     "LINK": 4,
-    "ZEC": 4,
+    "FIL": 4,
     "XRP": 3,
     "DASH": 3,
-    "FIL": 3,
     "ETC": 3,
     "XLM": 2,
+    "FET": 1,
     "SHIB": 1,
     "UNI": 1,
     "CAKE": 1,
@@ -28,22 +29,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 45
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 39
+      "count": 42
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 8
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 6
     },
     {
       "symbol": "SOL",
@@ -61,8 +67,8 @@
       "count": 4
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 4
     },
     {
@@ -76,11 +82,6 @@
       "count": 3
     },
     {
-      "symbol": "FIL",
-      "name": "Filecoin",
-      "count": 3
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 3
@@ -89,6 +90,11 @@
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "count": 1
     },
     {
       "symbol": "SHIB",
