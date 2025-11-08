@@ -1,13 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T05:15:00.844905Z",
+  "generated_at_utc": "2025-11-08T06:21:55.042757Z",
   "results": {
-    "BTC": 13,
-    "ETH": 11,
-    "DOT": 4,
-    "NEAR": 2,
-    "ICP": 1,
+    "BTC": 15,
+    "ETH": 13,
+    "DOT": 5,
+    "ICP": 5,
+    "NEAR": 3,
+    "LINK": 2,
+    "SHIB": 1,
+    "UNI": 1,
+    "CAKE": 1,
     "ZEC": 1,
     "AVAX": 1,
     "PYTH": 1,
@@ -18,26 +22,46 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 4
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
+      "count": 5
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
+      "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 1
     },
     {
