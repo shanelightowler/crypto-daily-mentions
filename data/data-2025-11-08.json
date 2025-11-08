@@ -1,39 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T07:14:15.250753Z",
+  "generated_at_utc": "2025-11-08T08:19:14.728971Z",
   "results": {
-    "BTC": 18,
-    "ETH": 13,
-    "ICP": 8,
+    "BTC": 29,
+    "ICP": 14,
+    "ETH": 14,
     "DOT": 5,
     "NEAR": 4,
     "DASH": 2,
     "ZEC": 2,
     "LINK": 2,
+    "SOL": 2,
     "SHIB": 1,
     "UNI": 1,
     "CAKE": 1,
     "AVAX": 1,
     "PYTH": 1,
-    "CRO": 1,
-    "SOL": 1
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 13
+      "count": 29
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 8
+      "count": 14
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 14
     },
     {
       "symbol": "DOT",
@@ -58,6 +58,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
@@ -88,11 +93,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     }
   ]
