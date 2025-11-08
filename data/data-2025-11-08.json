@@ -1,14 +1,56 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T01:12:18.627773Z",
+  "generated_at_utc": "2025-11-08T02:59:27.701191Z",
   "results": {
-    "ICP": 1
+    "BTC": 4,
+    "DOT": 2,
+    "ETH": 2,
+    "ICP": 1,
+    "ZEC": 1,
+    "AVAX": 1,
+    "PYTH": 1,
+    "CRO": 1
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 4
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
       "symbol": "ICP",
       "name": "Internet Computer",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
