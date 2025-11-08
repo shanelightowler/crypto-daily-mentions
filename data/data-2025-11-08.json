@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T08:19:14.728971Z",
+  "generated_at_utc": "2025-11-08T09:14:52.065902Z",
   "results": {
-    "BTC": 29,
-    "ICP": 14,
+    "BTC": 32,
+    "ICP": 16,
     "ETH": 14,
     "DOT": 5,
     "NEAR": 4,
+    "ZEC": 3,
+    "FIL": 3,
     "DASH": 2,
-    "ZEC": 2,
     "LINK": 2,
     "SOL": 2,
     "SHIB": 1,
@@ -23,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 32
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "ETH",
@@ -46,13 +47,18 @@
       "count": 4
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 2
-    },
-    {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 3
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 3
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
