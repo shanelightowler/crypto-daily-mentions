@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T04:18:33.091687Z",
+  "generated_at_utc": "2025-11-08T05:15:00.844905Z",
   "results": {
     "BTC": 13,
     "ETH": 11,
-    "DOT": 3,
+    "DOT": 4,
     "NEAR": 2,
     "ICP": 1,
     "ZEC": 1,
@@ -28,7 +28,7 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "NEAR",
