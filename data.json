@@ -1,47 +1,53 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T11:12:05.870693Z",
+  "generated_at_utc": "2025-11-08T12:29:20.245770Z",
   "results": {
-    "BTC": 34,
-    "ICP": 22,
-    "ETH": 14,
-    "DOT": 6,
+    "BTC": 35,
+    "ICP": 30,
+    "ETH": 15,
+    "DOT": 8,
+    "NEAR": 5,
     "ZEC": 4,
-    "NEAR": 4,
-    "SOL": 3,
+    "LINK": 4,
     "FIL": 3,
-    "LINK": 2,
+    "SOL": 3,
     "DASH": 2,
-    "SUI": 1,
-    "XRP": 1,
     "SHIB": 1,
     "UNI": 1,
     "CAKE": 1,
+    "SUI": 1,
+    "XRP": 1,
     "AVAX": 1,
     "PYTH": 1,
-    "CRO": 1
+    "CRO": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 35
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 22
+      "count": 30
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 5
     },
     {
       "symbol": "ZEC",
@@ -49,14 +55,9 @@
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 4
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
     },
     {
       "symbol": "FIL",
@@ -64,24 +65,14 @@
       "count": 3
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "DASH",
       "name": "Dash",
       "count": 2
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
     },
     {
       "symbol": "SHIB",
@@ -99,6 +90,16 @@
       "count": 1
     },
     {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 1
@@ -111,6 +112,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
