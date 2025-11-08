@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1orbw77/daily_crypto_discussion_november_8_2025_gmt0/",
-  "generated_at_utc": "2025-11-08T16:17:58.021909Z",
+  "generated_at_utc": "2025-11-08T17:12:33.878475Z",
   "results": {
-    "BTC": 45,
-    "ICP": 42,
+    "BTC": 47,
+    "ICP": 43,
     "ETH": 16,
     "DOT": 8,
-    "ZEC": 6,
+    "ZEC": 7,
     "SOL": 5,
     "NEAR": 5,
-    "LINK": 4,
     "FIL": 4,
+    "LINK": 4,
+    "DASH": 4,
+    "ETC": 4,
     "XRP": 3,
-    "DASH": 3,
-    "ETC": 3,
     "XLM": 2,
     "FET": 1,
     "SHIB": 1,
@@ -29,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 47
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 42
+      "count": 43
     },
     {
       "symbol": "ETH",
@@ -49,7 +49,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "SOL",
@@ -62,28 +62,28 @@
       "count": 5
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 4
-    },
-    {
       "symbol": "FIL",
       "name": "Filecoin",
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
     },
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
