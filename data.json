@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T09:14:35.152024Z",
+  "generated_at_utc": "2025-11-09T10:14:44.723204Z",
   "results": {
     "BTC": 21,
     "LTC": 8,
@@ -9,7 +9,7 @@
     "ICP": 5,
     "ZEC": 4,
     "XMR": 3,
-    "XRP": 2,
+    "XRP": 3,
     "DASH": 1,
     "FIL": 1,
     "UNI": 1,
@@ -56,7 +56,7 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "DASH",
