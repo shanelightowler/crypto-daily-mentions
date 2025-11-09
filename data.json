@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T22:14:28.150232Z",
+  "generated_at_utc": "2025-11-09T23:13:54.728471Z",
   "results": {
-    "BTC": 36,
-    "ETH": 12,
+    "BTC": 37,
+    "ETH": 13,
     "LTC": 9,
     "ICP": 7,
+    "XMR": 6,
     "ZEC": 5,
-    "XMR": 5,
     "XRP": 3,
     "APE": 2,
     "DASH": 2,
@@ -23,18 +23,19 @@
     "TIA": 1,
     "TRUMP": 1,
     "OP": 1,
-    "CRO": 1
+    "CRO": 1,
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "LTC",
@@ -47,13 +48,13 @@
       "count": 7
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 5
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 6
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 5
     },
     {
@@ -129,6 +130,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
