@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T08:18:11.770512Z",
+  "generated_at_utc": "2025-11-09T09:14:35.152024Z",
   "results": {
     "BTC": 21,
     "LTC": 8,
     "ETH": 8,
+    "ICP": 5,
     "ZEC": 4,
-    "ICP": 4,
-    "XMR": 2,
+    "XMR": 3,
     "XRP": 2,
     "DASH": 1,
     "FIL": 1,
@@ -19,6 +19,7 @@
     "TON": 1,
     "TIA": 1,
     "APE": 1,
+    "OP": 1,
     "CRO": 1
   },
   "results_list": [
@@ -38,19 +39,19 @@
       "count": 8
     },
     {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 5
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 4
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 4
-    },
-    {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -100,6 +101,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
