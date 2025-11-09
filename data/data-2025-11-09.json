@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T14:12:51.091401Z",
+  "generated_at_utc": "2025-11-09T15:14:08.831041Z",
   "results": {
     "BTC": 26,
     "LTC": 8,
@@ -19,6 +19,7 @@
     "PEPE": 1,
     "TON": 1,
     "TIA": 1,
+    "TRUMP": 1,
     "OP": 1,
     "CRO": 1
   },
@@ -101,6 +102,11 @@
     {
       "symbol": "TIA",
       "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
