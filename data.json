@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T19:11:27.298019Z",
+  "generated_at_utc": "2025-11-09T20:16:27.283744Z",
   "results": {
     "BTC": 33,
+    "ETH": 10,
     "LTC": 9,
-    "ETH": 9,
     "ICP": 7,
     "ZEC": 5,
     "XMR": 5,
     "XRP": 3,
-    "DASH": 2,
     "APE": 2,
+    "DASH": 2,
+    "NEAR": 2,
     "FIL": 1,
     "UNI": 1,
     "SHIB": 1,
     "LINK": 1,
     "PEPE": 1,
     "TON": 1,
-    "NEAR": 1,
     "XBG": 1,
     "TIA": 1,
     "TRUMP": 1,
@@ -32,13 +32,13 @@
       "count": 33
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 9
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 10
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 9
     },
     {
@@ -62,13 +62,18 @@
       "count": 3
     },
     {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 2
+    },
+    {
       "symbol": "DASH",
       "name": "Dash",
       "count": 2
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -99,11 +104,6 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     },
     {
