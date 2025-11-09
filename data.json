@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T17:12:32.245791Z",
+  "generated_at_utc": "2025-11-09T18:20:25.085069Z",
   "results": {
-    "BTC": 31,
+    "BTC": 33,
     "LTC": 9,
     "ETH": 9,
     "ICP": 7,
@@ -16,9 +16,9 @@
     "UNI": 1,
     "SHIB": 1,
     "LINK": 1,
-    "XBG": 1,
     "PEPE": 1,
     "TON": 1,
+    "XBG": 1,
     "TIA": 1,
     "TRUMP": 1,
     "OP": 1,
@@ -28,7 +28,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 33
     },
     {
       "symbol": "LTC",
@@ -91,11 +91,6 @@
       "count": 1
     },
     {
-      "symbol": "XBG",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -103,6 +98,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "XBG",
+      "name": "",
       "count": 1
     },
     {
