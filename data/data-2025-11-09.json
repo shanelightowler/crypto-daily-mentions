@@ -1,26 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T01:19:33.654557Z",
+  "generated_at_utc": "2025-11-09T03:10:28.815350Z",
   "results": {
-    "ZEC": 2,
-    "LTC": 2,
-    "TON": 1
+    "ZEC": 3,
+    "LTC": 3,
+    "BTC": 1,
+    "PEPE": 1,
+    "TON": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 2
+      "count": 3
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
