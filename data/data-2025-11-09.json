@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T07:14:44.802887Z",
+  "generated_at_utc": "2025-11-09T08:18:11.770512Z",
   "results": {
-    "BTC": 13,
-    "LTC": 6,
-    "ETH": 5,
+    "BTC": 21,
+    "LTC": 8,
+    "ETH": 8,
     "ZEC": 4,
     "ICP": 4,
     "XMR": 2,
@@ -18,23 +18,24 @@
     "PEPE": 1,
     "TON": 1,
     "TIA": 1,
+    "APE": 1,
     "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 21
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 8
     },
     {
       "symbol": "ZEC",
@@ -94,6 +95,11 @@
     {
       "symbol": "TIA",
       "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
