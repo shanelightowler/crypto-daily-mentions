@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T15:14:08.831041Z",
+  "generated_at_utc": "2025-11-09T16:17:31.610670Z",
   "results": {
-    "BTC": 26,
-    "LTC": 8,
-    "ETH": 8,
+    "BTC": 28,
+    "LTC": 9,
+    "ETH": 9,
     "ICP": 7,
+    "ZEC": 5,
     "XMR": 5,
-    "ZEC": 4,
     "XRP": 3,
+    "DASH": 2,
     "APE": 2,
-    "DASH": 1,
     "FIL": 1,
     "UNI": 1,
     "SHIB": 1,
@@ -27,17 +27,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 26
+      "count": 28
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ICP",
@@ -45,14 +45,14 @@
       "count": 7
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 5
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 4
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 5
     },
     {
       "symbol": "XRP",
@@ -60,14 +60,14 @@
       "count": 3
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 1
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 2
     },
     {
       "symbol": "FIL",
