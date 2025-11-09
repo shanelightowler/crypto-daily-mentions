@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T05:14:53.968912Z",
+  "generated_at_utc": "2025-11-09T06:22:40.880217Z",
   "results": {
-    "BTC": 8,
+    "BTC": 11,
     "LTC": 6,
     "ZEC": 4,
+    "ETH": 4,
     "ICP": 3,
     "XMR": 2,
-    "ETH": 2,
+    "XRP": 2,
     "DASH": 1,
     "FIL": 1,
-    "XRP": 1,
     "UNI": 1,
     "SHIB": 1,
     "LINK": 1,
@@ -24,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 11
     },
     {
       "symbol": "LTC",
@@ -34,6 +34,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 4
     },
     {
@@ -47,8 +52,8 @@
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -59,11 +64,6 @@
     {
       "symbol": "FIL",
       "name": "Filecoin",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     },
     {
