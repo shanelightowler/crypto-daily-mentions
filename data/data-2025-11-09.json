@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1os5ulb/daily_crypto_discussion_november_9_2025_gmt0/",
-  "generated_at_utc": "2025-11-09T11:11:47.950889Z",
+  "generated_at_utc": "2025-11-09T12:29:54.592124Z",
   "results": {
-    "BTC": 24,
+    "BTC": 25,
     "LTC": 8,
     "ETH": 8,
-    "ICP": 5,
+    "ICP": 7,
     "ZEC": 4,
-    "XMR": 3,
+    "XMR": 4,
     "XRP": 3,
+    "APE": 2,
     "DASH": 1,
     "FIL": 1,
     "UNI": 1,
@@ -18,7 +19,6 @@
     "PEPE": 1,
     "TON": 1,
     "TIA": 1,
-    "APE": 1,
     "OP": 1,
     "CRO": 1
   },
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "LTC",
@@ -41,7 +41,7 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ZEC",
@@ -51,12 +51,17 @@
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 3
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 2
     },
     {
       "symbol": "DASH",
@@ -96,11 +101,6 @@
     {
       "symbol": "TIA",
       "name": "Celestia",
-      "count": 1
-    },
-    {
-      "symbol": "APE",
-      "name": "ApeCoin",
       "count": 1
     },
     {
