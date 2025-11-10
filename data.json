@@ -1,32 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T12:34:59.363061Z",
+  "generated_at_utc": "2025-11-10T13:28:53.047043Z",
   "results": {
-    "ETH": 16,
-    "BTC": 10,
+    "ETH": 17,
+    "BTC": 12,
     "AVAX": 10,
     "LTC": 4,
-    "HBAR": 2,
+    "BONK": 3,
     "ZEC": 2,
+    "HBAR": 2,
+    "DOGE": 2,
     "SOL": 1,
+    "XMR": 1,
     "NEAR": 1,
     "XRP": 1,
     "SUI": 1,
+    "CRO": 1,
     "BNB": 1,
-    "DOGE": 1,
-    "FET": 1
+    "FET": 1,
+    "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "AVAX",
@@ -39,9 +43,9 @@
       "count": 4
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "count": 2
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 3
     },
     {
       "symbol": "ZEC",
@@ -49,8 +53,23 @@
       "count": 2
     },
     {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
@@ -69,18 +88,23 @@
       "count": 1
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     }
   ]
