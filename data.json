@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T22:15:59.043516Z",
+  "generated_at_utc": "2025-11-10T23:15:43.865134Z",
   "results": {
-    "BTC": 34,
-    "ETH": 21,
+    "BTC": 39,
+    "ETH": 23,
     "AVAX": 10,
     "LTC": 4,
     "BONK": 3,
@@ -14,6 +14,7 @@
     "XRP": 2,
     "DOGE": 2,
     "XMR": 1,
+    "UNI": 1,
     "NEAR": 1,
     "SUI": 1,
     "CRO": 1,
@@ -27,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 23
     },
     {
       "symbol": "AVAX",
@@ -77,6 +78,11 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
       "count": 1
     },
     {
