@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T15:18:21.787623Z",
+  "generated_at_utc": "2025-11-10T16:21:25.483600Z",
   "results": {
+    "BTC": 19,
     "ETH": 17,
-    "BTC": 13,
     "AVAX": 10,
     "LTC": 4,
     "BONK": 3,
+    "SOL": 2,
     "ZEC": 2,
     "HBAR": 2,
     "DOGE": 2,
-    "SOL": 1,
-    "NEAR": 1,
     "XMR": 1,
+    "NEAR": 1,
     "XRP": 1,
     "SUI": 1,
     "CRO": 1,
@@ -24,14 +24,14 @@
   },
   "results_list": [
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 19
+    },
+    {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 17
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 13
     },
     {
       "symbol": "AVAX",
@@ -49,6 +49,11 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 2
@@ -64,18 +69,13 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     },
     {
