@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T13:28:53.047043Z",
+  "generated_at_utc": "2025-11-10T14:17:09.780160Z",
   "results": {
     "ETH": 17,
     "BTC": 12,
@@ -12,8 +12,8 @@
     "HBAR": 2,
     "DOGE": 2,
     "SOL": 1,
-    "XMR": 1,
     "NEAR": 1,
+    "XMR": 1,
     "XRP": 1,
     "SUI": 1,
     "CRO": 1,
@@ -68,13 +68,13 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
