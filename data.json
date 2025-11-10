@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T05:17:40.982696Z",
+  "generated_at_utc": "2025-11-10T06:27:07.014346Z",
   "results": {
     "ETH": 12,
     "BTC": 6,
+    "AVAX": 2,
     "LTC": 2,
-    "AVAX": 1,
     "SOL": 1,
     "BNB": 1,
     "DOGE": 1
@@ -23,14 +23,14 @@
       "count": 6
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
     },
     {
       "symbol": "SOL",
