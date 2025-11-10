@@ -1,14 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T10:19:19.706057Z",
+  "generated_at_utc": "2025-11-10T11:14:23.111395Z",
   "results": {
     "ETH": 14,
     "AVAX": 10,
     "BTC": 7,
-    "LTC": 2,
+    "LTC": 4,
     "ZEC": 2,
+    "HBAR": 2,
     "SOL": 1,
+    "NEAR": 1,
     "SUI": 1,
     "BNB": 1,
     "DOGE": 1,
@@ -33,7 +35,7 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "ZEC",
@@ -41,8 +43,18 @@
       "count": 2
     },
     {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
