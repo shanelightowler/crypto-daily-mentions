@@ -1,7 +1,45 @@
 {
   "thread_title": "Daily Crypto Discussion - November 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ot0afs/daily_crypto_discussion_november_10_2025_gmt0/",
-  "generated_at_utc": "2025-11-10T01:19:20.987416Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-11-10T03:16:18.304491Z",
+  "results": {
+    "ETH": 11,
+    "BTC": 6,
+    "AVAX": 1,
+    "SOL": 1,
+    "BNB": 1,
+    "DOGE": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 11
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 6
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    }
+  ]
 }
