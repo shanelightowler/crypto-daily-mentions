@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1otvrtu/daily_crypto_discussion_november_11_2025_gmt0/",
-  "generated_at_utc": "2025-11-11T08:21:49.050381Z",
+  "generated_at_utc": "2025-11-11T09:18:50.919220Z",
   "results": {
     "BTC": 8,
     "ALGO": 2,
+    "DOGE": 1,
     "UNI": 1,
     "BAT": 1,
     "NEAR": 1,
@@ -20,6 +21,11 @@
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
     },
     {
       "symbol": "UNI",
