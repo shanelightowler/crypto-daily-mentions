@@ -1,7 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - November 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1otvrtu/daily_crypto_discussion_november_11_2025_gmt0/",
-  "generated_at_utc": "2025-11-11T01:17:17.849282Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-11-11T03:11:03.590887Z",
+  "results": {
+    "BTC": 4,
+    "ALGO": 1,
+    "UNI": 1,
+    "BAT": 1,
+    "NEAR": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 4
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    }
+  ]
 }
