@@ -1,15 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1otvrtu/daily_crypto_discussion_november_11_2025_gmt0/",
-  "generated_at_utc": "2025-11-11T20:17:49.699859Z",
+  "generated_at_utc": "2025-11-11T21:14:59.344305Z",
   "results": {
-    "BTC": 52,
-    "ETH": 7,
+    "BTC": 54,
+    "ETH": 8,
     "ADA": 3,
     "XRP": 2,
     "ALGO": 2,
     "DOT": 1,
+    "SOL": 1,
     "DOGE": 1,
+    "ICP": 1,
     "UNI": 1,
     "BAT": 1,
     "NEAR": 1,
@@ -19,12 +21,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ADA",
@@ -47,8 +49,18 @@
       "count": 1
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
