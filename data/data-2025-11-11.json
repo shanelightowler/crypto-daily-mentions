@@ -1,17 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1otvrtu/daily_crypto_discussion_november_11_2025_gmt0/",
-  "generated_at_utc": "2025-11-11T21:14:59.344305Z",
+  "generated_at_utc": "2025-11-11T22:15:57.990265Z",
   "results": {
-    "BTC": 54,
-    "ETH": 8,
+    "BTC": 60,
+    "ETH": 10,
+    "SOL": 5,
     "ADA": 3,
+    "ETC": 3,
     "XRP": 2,
+    "ICP": 2,
+    "DASH": 2,
     "ALGO": 2,
     "DOT": 1,
-    "SOL": 1,
     "DOGE": 1,
-    "ICP": 1,
+    "FIL": 1,
+    "ZEC": 1,
     "UNI": 1,
     "BAT": 1,
     "NEAR": 1,
@@ -21,12 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 54
+      "count": 60
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 10
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
     },
     {
       "symbol": "ADA",
@@ -34,8 +43,23 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
@@ -49,18 +73,18 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
