@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1our9sy/daily_crypto_discussion_november_12_2025_gmt0/",
-  "generated_at_utc": "2025-11-12T21:15:38.938164Z",
+  "generated_at_utc": "2025-11-12T22:16:12.439355Z",
   "results": {
-    "BTC": 59,
+    "BTC": 61,
     "ETH": 15,
+    "SOL": 4,
     "ETC": 4,
-    "SOL": 3,
     "ZEC": 2,
     "ADA": 1,
     "TAO": 1,
@@ -16,7 +16,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 59
+      "count": 61
     },
     {
       "symbol": "ETH",
@@ -24,14 +24,14 @@
       "count": 15
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 4
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
     },
     {
       "symbol": "ZEC",
