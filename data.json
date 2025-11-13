@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ovncc3/daily_crypto_discussion_november_13_2025_gmt0/",
-  "generated_at_utc": "2025-11-13T08:22:27.227549Z",
+  "generated_at_utc": "2025-11-13T09:19:10.257809Z",
   "results": {
-    "BTC": 13,
+    "BTC": 15,
+    "ETH": 2,
     "LTC": 1,
-    "ETH": 1,
     "XRP": 1,
     "STX": 1,
     "ZORA": 1,
@@ -15,16 +15,16 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
