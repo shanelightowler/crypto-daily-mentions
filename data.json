@@ -1,15 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ovncc3/daily_crypto_discussion_november_13_2025_gmt0/",
-  "generated_at_utc": "2025-11-13T19:13:35.093262Z",
+  "generated_at_utc": "2025-11-13T20:19:41.675154Z",
   "results": {
-    "BTC": 113,
+    "BTC": 133,
     "ETH": 28,
-    "ETC": 5,
+    "ETC": 6,
     "LTC": 3,
     "XRP": 3,
-    "ZEC": 1,
+    "SOL": 2,
     "MSTR": 1,
+    "ZEC": 1,
+    "BONK": 1,
     "ZORA": 1,
     "STX": 1,
     "MATIC": 1,
@@ -23,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 113
+      "count": 133
     },
     {
       "symbol": "ETH",
@@ -33,7 +35,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "LTC",
@@ -46,13 +48,23 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "MSTR",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 1
     },
     {
-      "symbol": "MSTR",
-      "name": "",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
