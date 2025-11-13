@@ -1,15 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ovncc3/daily_crypto_discussion_november_13_2025_gmt0/",
-  "generated_at_utc": "2025-11-13T18:23:56.524332Z",
+  "generated_at_utc": "2025-11-13T19:13:35.093262Z",
   "results": {
-    "BTC": 89,
-    "ETH": 17,
-    "ETC": 4,
+    "BTC": 113,
+    "ETH": 28,
+    "ETC": 5,
     "LTC": 3,
     "XRP": 3,
+    "ZEC": 1,
+    "MSTR": 1,
     "ZORA": 1,
     "STX": 1,
+    "MATIC": 1,
+    "SAND": 1,
+    "MANA": 1,
     "NEAR": 1,
     "TON": 1,
     "NEO": 1
@@ -18,17 +23,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 89
+      "count": 113
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 28
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "LTC",
@@ -41,6 +46,16 @@
       "count": 3
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "MSTR",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "ZORA",
       "name": "zora",
       "count": 1
@@ -48,6 +63,21 @@
     {
       "symbol": "STX",
       "name": "Stacks",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "MANA",
+      "name": "Decentraland",
       "count": 1
     },
     {
