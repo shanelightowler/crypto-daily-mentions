@@ -1,14 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ovncc3/daily_crypto_discussion_november_13_2025_gmt0/",
-  "generated_at_utc": "2025-11-13T01:17:18.229991Z",
+  "generated_at_utc": "2025-11-13T03:12:17.796199Z",
   "results": {
-    "BTC": 1
+    "BTC": 1,
+    "STX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 1
+    },
+    {
+      "symbol": "STX",
+      "name": "Stacks",
       "count": 1
     }
   ]
