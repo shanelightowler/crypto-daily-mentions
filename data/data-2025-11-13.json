@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ovncc3/daily_crypto_discussion_november_13_2025_gmt0/",
-  "generated_at_utc": "2025-11-13T21:15:48.169616Z",
+  "generated_at_utc": "2025-11-13T22:16:41.936429Z",
   "results": {
-    "BTC": 144,
-    "ETH": 30,
+    "BTC": 154,
+    "ETH": 31,
+    "SOL": 7,
     "ETC": 6,
-    "SOL": 6,
+    "XRP": 4,
     "LTC": 3,
-    "XRP": 3,
+    "ZORA": 2,
     "MSTR": 1,
     "ZEC": 1,
     "BONK": 1,
-    "ZORA": 1,
     "STX": 1,
     "MATIC": 1,
     "SAND": 1,
@@ -25,12 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 144
+      "count": 154
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 31
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 7
     },
     {
       "symbol": "ETC",
@@ -38,9 +43,9 @@
       "count": 6
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 6
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "LTC",
@@ -48,9 +53,9 @@
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
+      "symbol": "ZORA",
+      "name": "zora",
+      "count": 2
     },
     {
       "symbol": "MSTR",
@@ -65,11 +70,6 @@
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "ZORA",
-      "name": "zora",
       "count": 1
     },
     {
