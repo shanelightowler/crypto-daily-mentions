@@ -1,25 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T19:13:31.101280Z",
+  "generated_at_utc": "2025-11-14T20:19:01.313987Z",
   "results": {
-    "BTC": 283,
-    "ETH": 60,
+    "BTC": 298,
+    "ETH": 61,
     "SOL": 10,
     "ETC": 6,
     "ADA": 6,
     "XRP": 4,
     "BNB": 4,
+    "ZEC": 3,
     "NEAR": 2,
     "BCH": 2,
-    "ZEC": 2,
     "XMR": 2,
     "LINK": 2,
     "3000": 2,
     "MSTR": 1,
+    "LTC": 1,
     "FIL": 1,
     "DOGE": 1,
+    "ROSE": 1,
+    "ICP": 1,
     "DOT": 1,
+    "NVDA": 1,
     "32": 1,
     "AVAX": 1,
     "69": 1,
@@ -32,12 +36,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 283
+      "count": 298
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 60
+      "count": 61
     },
     {
       "symbol": "SOL",
@@ -65,6 +69,11 @@
       "count": 4
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 3
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
@@ -72,11 +81,6 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 2
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
       "count": 2
     },
     {
@@ -100,6 +104,11 @@
       "count": 1
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
       "symbol": "FIL",
       "name": "Filecoin",
       "count": 1
@@ -110,8 +119,23 @@
       "count": 1
     },
     {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 1
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "NVDA",
+      "name": "",
       "count": 1
     },
     {
