@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T12:34:24.519056Z",
+  "generated_at_utc": "2025-11-14T13:27:32.143092Z",
   "results": {
-    "BTC": 165,
-    "ETH": 37,
-    "SOL": 6,
+    "BTC": 182,
+    "ETH": 40,
     "ETC": 6,
+    "SOL": 5,
+    "ADA": 5,
     "XMR": 2,
-    "ADA": 2,
     "3000": 2,
     "XRP": 1,
     "NEAR": 1,
@@ -24,17 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 165
+      "count": 182
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 37
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 6
+      "count": 40
     },
     {
       "symbol": "ETC",
@@ -42,13 +37,18 @@
       "count": 6
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 2
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 5
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 5
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
