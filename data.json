@@ -1,33 +1,41 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T06:25:21.048919Z",
+  "generated_at_utc": "2025-11-14T07:16:00.174909Z",
   "results": {
-    "BTC": 72,
-    "ETH": 20,
+    "BTC": 88,
+    "ETH": 23,
     "ETC": 4,
+    "XMR": 2,
     "SOL": 1,
     "XRP": 1,
     "NEAR": 1,
     "LINK": 1,
     "DOT": 1,
+    "AVAX": 1,
+    "BCH": 1,
     "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 88
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 23
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -52,6 +60,16 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
