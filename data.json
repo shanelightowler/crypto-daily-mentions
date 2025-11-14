@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T21:15:31.392379Z",
+  "generated_at_utc": "2025-11-14T22:15:57.524392Z",
   "results": {
-    "BTC": 318,
-    "ETH": 63,
+    "BTC": 332,
+    "ETH": 65,
     "SOL": 10,
+    "ADA": 8,
     "ETC": 6,
-    "ADA": 6,
+    "BNB": 5,
     "XRP": 4,
-    "BNB": 4,
+    "NEAR": 3,
     "ZEC": 3,
-    "NEAR": 2,
     "BCH": 2,
     "XMR": 2,
     "LINK": 2,
     "3000": 2,
     "LTC": 1,
-    "MSTR": 1,
     "DASH": 1,
+    "MSTR": 1,
+    "TRUMP": 1,
     "FIL": 1,
     "DOGE": 1,
     "ROSE": 1,
@@ -37,12 +38,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 318
+      "count": 332
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 63
+      "count": 65
     },
     {
       "symbol": "SOL",
@@ -50,14 +51,19 @@
       "count": 10
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 8
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 6
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 5
     },
     {
       "symbol": "XRP",
@@ -65,19 +71,14 @@
       "count": 4
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
-      "count": 4
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 3
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
     },
     {
       "symbol": "BCH",
@@ -105,13 +106,18 @@
       "count": 1
     },
     {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
       "symbol": "MSTR",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
