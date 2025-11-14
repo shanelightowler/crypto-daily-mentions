@@ -1,27 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T17:14:57.993154Z",
+  "generated_at_utc": "2025-11-14T18:24:15.711189Z",
   "results": {
-    "BTC": 251,
-    "ETH": 52,
-    "SOL": 8,
+    "BTC": 276,
+    "ETH": 55,
+    "SOL": 10,
     "ETC": 6,
     "ADA": 6,
+    "XRP": 4,
     "BNB": 4,
-    "XRP": 2,
+    "NEAR": 2,
+    "BCH": 2,
     "ZEC": 2,
     "XMR": 2,
     "LINK": 2,
     "3000": 2,
-    "NEAR": 1,
     "MSTR": 1,
+    "FIL": 1,
     "DOGE": 1,
     "DOT": 1,
     "32": 1,
     "AVAX": 1,
     "69": 1,
-    "BCH": 1,
+    "CRO": 1,
+    "SUI": 1,
     "TON": 1,
     "FET": 1
   },
@@ -29,17 +32,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 251
+      "count": 276
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 52
+      "count": 55
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "ETC",
@@ -52,13 +55,23 @@
       "count": 6
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
@@ -82,13 +95,13 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "MSTR",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "MSTR",
-      "name": "",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 1
     },
     {
@@ -117,8 +130,13 @@
       "count": 1
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
