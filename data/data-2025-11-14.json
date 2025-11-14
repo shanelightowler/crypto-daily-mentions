@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T20:19:01.313987Z",
+  "generated_at_utc": "2025-11-14T21:15:31.392379Z",
   "results": {
-    "BTC": 298,
-    "ETH": 61,
+    "BTC": 318,
+    "ETH": 63,
     "SOL": 10,
     "ETC": 6,
     "ADA": 6,
@@ -16,8 +16,9 @@
     "XMR": 2,
     "LINK": 2,
     "3000": 2,
-    "MSTR": 1,
     "LTC": 1,
+    "MSTR": 1,
+    "DASH": 1,
     "FIL": 1,
     "DOGE": 1,
     "ROSE": 1,
@@ -36,12 +37,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 298
+      "count": 318
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 61
+      "count": 63
     },
     {
       "symbol": "SOL",
@@ -99,13 +100,18 @@
       "count": 2
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
       "symbol": "MSTR",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     },
     {
