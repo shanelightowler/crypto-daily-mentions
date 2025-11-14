@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1owimn0/daily_crypto_discussion_november_14_2025_gmt0/",
-  "generated_at_utc": "2025-11-14T16:21:45.754966Z",
+  "generated_at_utc": "2025-11-14T17:14:57.993154Z",
   "results": {
-    "BTC": 238,
-    "ETH": 49,
+    "BTC": 251,
+    "ETH": 52,
     "SOL": 8,
     "ETC": 6,
     "ADA": 6,
+    "BNB": 4,
     "XRP": 2,
     "ZEC": 2,
     "XMR": 2,
@@ -21,18 +22,19 @@
     "AVAX": 1,
     "69": 1,
     "BCH": 1,
-    "TON": 1
+    "TON": 1,
+    "FET": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 238
+      "count": 251
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 49
+      "count": 52
     },
     {
       "symbol": "SOL",
@@ -48,6 +50,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 6
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "XRP",
@@ -117,6 +124,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     }
   ]
