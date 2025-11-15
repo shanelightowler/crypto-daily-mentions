@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oxe60q/daily_crypto_discussion_november_15_2025_gmt0/",
-  "generated_at_utc": "2025-11-15T19:11:12.674489Z",
+  "generated_at_utc": "2025-11-15T20:16:17.247280Z",
   "results": {
-    "BTC": 44,
+    "BTC": 46,
     "LTC": 13,
-    "ETH": 7,
+    "ETH": 8,
     "DOGE": 2,
     "NEAR": 2,
     "ETC": 2,
@@ -21,7 +21,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 44
+      "count": 46
     },
     {
       "symbol": "LTC",
@@ -31,7 +31,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "DOGE",
