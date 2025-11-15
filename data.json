@@ -1,25 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - November 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oxe60q/daily_crypto_discussion_november_15_2025_gmt0/",
-  "generated_at_utc": "2025-11-15T08:19:05.776376Z",
+  "generated_at_utc": "2025-11-15T09:15:17.039353Z",
   "results": {
-    "BTC": 20,
+    "BTC": 22,
     "LTC": 4,
     "ZEC": 2,
     "NEAR": 1,
     "SOL": 1,
-    "DASH": 1,
     "ETH": 1,
+    "DASH": 1,
     "SAND": 1,
-    "ETC": 1,
     "XRP": 1,
+    "ETC": 1,
     "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 22
     },
     {
       "symbol": "LTC",
@@ -42,13 +42,13 @@
       "count": 1
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     },
     {
@@ -57,13 +57,13 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
