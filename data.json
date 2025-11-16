@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T14:13:38.634409Z",
+  "generated_at_utc": "2025-11-16T15:14:26.546509Z",
   "results": {
-    "BTC": 34,
-    "ETH": 11,
-    "SOL": 6,
+    "BTC": 62,
+    "ETH": 14,
+    "SOL": 8,
+    "XRP": 7,
+    "ADA": 5,
+    "ZEC": 4,
     "XMR": 3,
-    "ZEC": 3,
+    "LINK": 3,
     "LTC": 2,
     "DASH": 2,
-    "XRP": 2,
-    "ADA": 2,
     "CRO": 2,
     "ETC": 1,
     "HBAR": 1,
@@ -22,17 +23,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 62
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 7
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 4
     },
     {
       "symbol": "XMR",
@@ -40,8 +56,8 @@
       "count": 3
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 3
     },
     {
@@ -52,16 +68,6 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 2
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 2
     },
     {
