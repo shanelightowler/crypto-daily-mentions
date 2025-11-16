@@ -1,59 +1,59 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T17:13:30.779418Z",
+  "generated_at_utc": "2025-11-16T18:21:10.806915Z",
   "results": {
-    "BTC": 99,
-    "ETH": 16,
-    "SOL": 9,
-    "XRP": 7,
+    "BTC": 116,
+    "ETH": 18,
+    "SOL": 10,
+    "XRP": 9,
+    "ETC": 6,
     "XMR": 6,
-    "ETC": 5,
     "ZEC": 5,
     "ADA": 5,
+    "LTC": 4,
+    "NEAR": 4,
     "LINK": 3,
-    "NEAR": 3,
-    "LTC": 2,
     "DASH": 2,
     "CRO": 2,
-    "DOT": 1,
     "MATIC": 1,
+    "DOT": 1,
     "HBAR": 1,
     "CAKE": 1,
     "AAVE": 1,
-    "69": 1,
-    "ROPE": 1
+    "ROPE": 1,
+    "69": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 99
+      "count": 116
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 18
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 7
+      "count": 9
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "count": 6
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 5
     },
     {
       "symbol": "ZEC",
@@ -66,19 +66,19 @@
       "count": 5
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 3
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 4
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "DASH",
@@ -91,13 +91,13 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
@@ -116,12 +116,12 @@
       "count": 1
     },
     {
-      "symbol": "69",
+      "symbol": "ROPE",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "ROPE",
+      "symbol": "69",
       "name": "",
       "count": 1
     }
