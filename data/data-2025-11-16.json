@@ -1,49 +1,55 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T22:14:46.804041Z",
+  "generated_at_utc": "2025-11-16T23:14:50.244312Z",
   "results": {
-    "BTC": 151,
-    "ETH": 27,
-    "SOL": 11,
+    "BTC": 173,
+    "ETH": 28,
+    "SOL": 12,
     "XRP": 9,
+    "ZEC": 7,
     "ETC": 6,
     "XMR": 6,
     "LTC": 6,
-    "ZEC": 6,
     "NEAR": 6,
     "ADA": 5,
     "LINK": 4,
     "DASH": 2,
     "MATIC": 2,
+    "ROPE": 2,
     "CRO": 2,
+    "APE": 1,
     "DOT": 1,
     "HBAR": 1,
     "CAKE": 1,
     "AAVE": 1,
-    "ROPE": 1,
     "69": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 151
+      "count": 173
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 27
+      "count": 28
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 9
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 7
     },
     {
       "symbol": "ETC",
@@ -58,11 +64,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 6
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
       "count": 6
     },
     {
@@ -91,9 +92,19 @@
       "count": 2
     },
     {
+      "symbol": "ROPE",
+      "name": "",
+      "count": 2
+    },
+    {
       "symbol": "CRO",
       "name": "Cronos",
       "count": 2
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
     },
     {
       "symbol": "DOT",
@@ -113,11 +124,6 @@
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "count": 1
-    },
-    {
-      "symbol": "ROPE",
-      "name": "",
       "count": 1
     },
     {
