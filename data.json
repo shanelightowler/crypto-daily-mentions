@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T20:17:12.059482Z",
+  "generated_at_utc": "2025-11-16T21:13:38.293427Z",
   "results": {
-    "BTC": 141,
+    "BTC": 142,
     "ETH": 27,
     "SOL": 10,
     "XRP": 9,
     "ETC": 6,
     "XMR": 6,
+    "LTC": 6,
     "ZEC": 6,
-    "LTC": 5,
     "NEAR": 5,
     "ADA": 5,
     "LINK": 4,
@@ -28,7 +28,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 141
+      "count": 142
     },
     {
       "symbol": "ETH",
@@ -56,14 +56,14 @@
       "count": 6
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 6
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 5
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 6
     },
     {
       "symbol": "NEAR",
