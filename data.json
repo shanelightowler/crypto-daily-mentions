@@ -1,40 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T16:17:43.159076Z",
+  "generated_at_utc": "2025-11-16T17:13:30.779418Z",
   "results": {
-    "BTC": 75,
-    "ETH": 14,
-    "SOL": 8,
+    "BTC": 99,
+    "ETH": 16,
+    "SOL": 9,
     "XRP": 7,
+    "XMR": 6,
     "ETC": 5,
-    "XMR": 5,
+    "ZEC": 5,
     "ADA": 5,
-    "ZEC": 4,
     "LINK": 3,
+    "NEAR": 3,
     "LTC": 2,
     "DASH": 2,
     "CRO": 2,
+    "DOT": 1,
+    "MATIC": 1,
     "HBAR": 1,
     "CAKE": 1,
     "AAVE": 1,
-    "69": 1
+    "69": 1,
+    "ROPE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 75
+      "count": 99
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "XRP",
@@ -42,13 +46,18 @@
       "count": 7
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 6
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 5
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 5
     },
     {
@@ -57,13 +66,13 @@
       "count": 5
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 4
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 3
     },
     {
@@ -82,6 +91,16 @@
       "count": 2
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 1
@@ -98,6 +117,11 @@
     },
     {
       "symbol": "69",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ROPE",
       "name": "",
       "count": 1
     }
