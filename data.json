@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T15:14:26.546509Z",
+  "generated_at_utc": "2025-11-16T16:17:43.159076Z",
   "results": {
-    "BTC": 62,
+    "BTC": 75,
     "ETH": 14,
     "SOL": 8,
     "XRP": 7,
+    "ETC": 5,
+    "XMR": 5,
     "ADA": 5,
     "ZEC": 4,
-    "XMR": 3,
     "LINK": 3,
     "LTC": 2,
     "DASH": 2,
     "CRO": 2,
-    "ETC": 1,
     "HBAR": 1,
     "CAKE": 1,
+    "AAVE": 1,
     "69": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 62
+      "count": 75
     },
     {
       "symbol": "ETH",
@@ -41,6 +42,16 @@
       "count": 7
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 5
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 5
@@ -49,11 +60,6 @@
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 4
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 3
     },
     {
       "symbol": "LINK",
@@ -76,11 +82,6 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 1
@@ -88,6 +89,11 @@
     {
       "symbol": "CAKE",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
