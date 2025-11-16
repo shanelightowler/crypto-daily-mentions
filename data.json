@@ -1,17 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oy88rb/daily_crypto_discussion_november_16_2025_gmt0/",
-  "generated_at_utc": "2025-11-16T13:21:25.254190Z",
+  "generated_at_utc": "2025-11-16T14:13:38.634409Z",
   "results": {
-    "BTC": 26,
-    "ETH": 9,
-    "SOL": 4,
-    "XMR": 2,
-    "ZEC": 2,
+    "BTC": 34,
+    "ETH": 11,
+    "SOL": 6,
+    "XMR": 3,
+    "ZEC": 3,
+    "LTC": 2,
+    "DASH": 2,
+    "XRP": 2,
+    "ADA": 2,
     "CRO": 2,
     "ETC": 1,
-    "LTC": 1,
-    "DASH": 1,
+    "HBAR": 1,
     "CAKE": 1,
     "69": 1
   },
@@ -19,26 +22,46 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 26
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -52,13 +75,8 @@
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
