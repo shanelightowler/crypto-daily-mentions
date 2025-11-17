@@ -1,27 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - November 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oz2olb/daily_crypto_discussion_november_17_2025_gmt0/",
-  "generated_at_utc": "2025-11-17T19:12:49.510430Z",
+  "generated_at_utc": "2025-11-17T20:19:37.226116Z",
   "results": {
-    "BTC": 95,
-    "ETH": 24,
-    "SOL": 11,
+    "BTC": 111,
+    "ETH": 49,
+    "SOL": 13,
     "ADA": 10,
-    "NEAR": 6,
+    "NEAR": 7,
+    "ICP": 4,
     "XRP": 4,
-    "ICP": 3,
+    "ETC": 3,
     "XMR": 3,
     "PEPE": 2,
+    "DOT": 2,
+    "ZEC": 2,
     "LTC": 2,
-    "ETC": 2,
+    "BCH": 2,
+    "BNB": 2,
     "ROSE": 1,
     "BONK": 1,
     "KDA": 1,
     "SAND": 1,
     "GMX": 1,
-    "ZEC": 1,
-    "BCH": 1,
-    "BNB": 1,
+    "69": 1,
     "TON": 1,
     "SHIB": 1,
     "ERG": 1,
@@ -31,17 +33,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 95
+      "count": 111
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 49
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "ADA",
@@ -51,7 +53,12 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 4
     },
     {
       "symbol": "XRP",
@@ -59,8 +66,8 @@
       "count": 4
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -74,13 +81,28 @@
       "count": 2
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -109,18 +131,8 @@
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 1
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "69",
+      "name": "",
       "count": 1
     },
     {
