@@ -1,18 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oz2olb/daily_crypto_discussion_november_17_2025_gmt0/",
-  "generated_at_utc": "2025-11-17T14:16:43.486349Z",
+  "generated_at_utc": "2025-11-17T15:18:57.805060Z",
   "results": {
-    "BTC": 44,
-    "ETH": 11,
-    "SOL": 5,
-    "ADA": 3,
+    "BTC": 56,
+    "ETH": 13,
+    "SOL": 7,
+    "ADA": 5,
+    "XRP": 4,
     "PEPE": 2,
+    "LTC": 2,
     "NEAR": 2,
-    "XRP": 1,
     "BONK": 1,
     "KDA": 1,
     "ZEC": 1,
+    "BCH": 1,
+    "BNB": 1,
     "ETC": 1,
     "SHIB": 1,
     "XMR": 1,
@@ -23,22 +26,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 44
+      "count": 56
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "PEPE",
@@ -46,14 +54,14 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
     },
     {
       "symbol": "BONK",
@@ -68,6 +76,16 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
