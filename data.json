@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oz2olb/daily_crypto_discussion_november_17_2025_gmt0/",
-  "generated_at_utc": "2025-11-17T17:16:21.795447Z",
+  "generated_at_utc": "2025-11-17T18:23:53.948136Z",
   "results": {
-    "BTC": 78,
-    "ETH": 18,
-    "SOL": 7,
-    "ADA": 6,
-    "NEAR": 4,
+    "BTC": 88,
+    "ETH": 23,
+    "SOL": 11,
+    "ADA": 10,
+    "NEAR": 5,
     "XRP": 4,
     "XMR": 3,
     "PEPE": 2,
@@ -16,10 +16,12 @@
     "ROSE": 1,
     "BONK": 1,
     "KDA": 1,
+    "SAND": 1,
     "GMX": 1,
     "ZEC": 1,
     "BCH": 1,
     "BNB": 1,
+    "ICP": 1,
     "TON": 1,
     "SHIB": 1,
     "ERG": 1,
@@ -29,27 +31,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 78
+      "count": 88
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 23
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 7
+      "count": 11
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 6
+      "count": 10
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "XRP",
@@ -92,6 +94,11 @@
       "count": 1
     },
     {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "count": 1
+    },
+    {
       "symbol": "GMX",
       "name": "GMX",
       "count": 1
@@ -109,6 +116,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
       "count": 1
     },
     {
