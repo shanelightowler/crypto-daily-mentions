@@ -1,21 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1oz2olb/daily_crypto_discussion_november_17_2025_gmt0/",
-  "generated_at_utc": "2025-11-17T22:16:07.602462Z",
+  "generated_at_utc": "2025-11-17T23:15:39.834663Z",
   "results": {
-    "BTC": 136,
-    "ETH": 57,
+    "BTC": 150,
+    "ETH": 59,
     "SOL": 13,
     "ADA": 11,
     "NEAR": 9,
-    "XRP": 8,
-    "ETC": 5,
+    "XRP": 9,
+    "ETC": 6,
     "ICP": 4,
+    "PEPE": 4,
     "BNB": 4,
-    "PEPE": 3,
+    "DOT": 3,
     "ZEC": 3,
     "XMR": 3,
-    "DOT": 2,
     "LTC": 2,
     "BCH": 2,
     "ROSE": 1,
@@ -26,6 +26,7 @@
     "GMX": 1,
     "LINK": 1,
     "HBAR": 1,
+    "HEX": 1,
     "69": 1,
     "TON": 1,
     "SHIB": 1,
@@ -36,12 +37,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 136
+      "count": 150
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 57
+      "count": 59
     },
     {
       "symbol": "SOL",
@@ -61,16 +62,21 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
+      "count": 4
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 4
     },
     {
@@ -79,8 +85,8 @@
       "count": 4
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 3
     },
     {
@@ -92,11 +98,6 @@
       "symbol": "XMR",
       "name": "Monero",
       "count": 3
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 2
     },
     {
       "symbol": "LTC",
@@ -146,6 +147,11 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "HEX",
+      "name": "",
       "count": 1
     },
     {
