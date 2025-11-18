@@ -1,29 +1,55 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T03:09:40.229959Z",
+  "generated_at_utc": "2025-11-18T04:20:36.010331Z",
   "results": {
-    "BTC": 29,
-    "ETH": 14,
-    "SOL": 2,
+    "BTC": 73,
+    "ETH": 25,
+    "DOT": 8,
+    "SOL": 3,
+    "TON": 2,
+    "ATOM": 2,
+    "ETC": 2,
     "NEAR": 1,
+    "APE": 1,
     "ICP": 1,
-    "TON": 1
+    "XMR": 1,
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 25
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 8
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -32,13 +58,23 @@
       "count": 1
     },
     {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
       "symbol": "ICP",
       "name": "Internet Computer",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     }
   ]
