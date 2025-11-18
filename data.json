@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T17:16:32.468609Z",
+  "generated_at_utc": "2025-11-18T18:25:29.443674Z",
   "results": {
-    "BTC": 222,
-    "ETH": 39,
+    "BTC": 226,
+    "ETH": 40,
     "ETC": 11,
     "DOT": 9,
     "SOL": 7,
@@ -12,9 +12,9 @@
     "ICP": 5,
     "XRP": 4,
     "BNB": 4,
+    "TON": 3,
     "XMR": 2,
     "APE": 2,
-    "TON": 2,
     "ATOM": 2,
     "MSTR": 2,
     "42": 1,
@@ -33,12 +33,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 222
+      "count": 226
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 39
+      "count": 40
     },
     {
       "symbol": "ETC",
@@ -76,6 +76,11 @@
       "count": 4
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 3
+    },
+    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 2
@@ -83,11 +88,6 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 2
     },
     {
