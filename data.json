@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T08:22:33.272733Z",
+  "generated_at_utc": "2025-11-18T09:18:58.479478Z",
   "results": {
-    "BTC": 139,
+    "BTC": 140,
     "ETH": 34,
     "DOT": 9,
     "ETC": 6,
-    "NEAR": 4,
+    "NEAR": 5,
     "SOL": 3,
     "APE": 2,
     "TON": 2,
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 139
+      "count": 140
     },
     {
       "symbol": "ETH",
@@ -46,7 +46,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
