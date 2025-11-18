@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T06:24:49.402671Z",
+  "generated_at_utc": "2025-11-18T07:16:42.429065Z",
   "results": {
-    "BTC": 130,
+    "BTC": 136,
     "ETH": 34,
     "DOT": 9,
     "ETC": 6,
@@ -12,6 +12,7 @@
     "APE": 2,
     "TON": 2,
     "ATOM": 2,
+    "MSTR": 2,
     "42": 1,
     "BCH": 1,
     "ICP": 1,
@@ -19,14 +20,13 @@
     "TRUMP": 1,
     "LINK": 1,
     "AVAX": 1,
-    "MSTR": 1,
     "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 130
+      "count": 136
     },
     {
       "symbol": "ETH",
@@ -69,6 +69,11 @@
       "count": 2
     },
     {
+      "symbol": "MSTR",
+      "name": "",
+      "count": 2
+    },
+    {
       "symbol": "42",
       "name": "",
       "count": 1
@@ -101,11 +106,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "MSTR",
-      "name": "",
       "count": 1
     },
     {
