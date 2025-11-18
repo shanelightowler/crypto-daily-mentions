@@ -1,19 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T05:16:56.053669Z",
+  "generated_at_utc": "2025-11-18T06:24:49.402671Z",
   "results": {
-    "BTC": 96,
-    "ETH": 31,
-    "DOT": 8,
-    "ETC": 5,
+    "BTC": 130,
+    "ETH": 34,
+    "DOT": 9,
+    "ETC": 6,
+    "NEAR": 4,
     "SOL": 3,
-    "NEAR": 3,
     "APE": 2,
     "TON": 2,
     "ATOM": 2,
+    "42": 1,
+    "BCH": 1,
     "ICP": 1,
     "XMR": 1,
+    "TRUMP": 1,
     "LINK": 1,
     "AVAX": 1,
     "MSTR": 1,
@@ -23,31 +26,31 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 96
+      "count": 130
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 34
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -66,6 +69,16 @@
       "count": 2
     },
     {
+      "symbol": "42",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
       "symbol": "ICP",
       "name": "Internet Computer",
       "count": 1
@@ -73,6 +86,11 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
