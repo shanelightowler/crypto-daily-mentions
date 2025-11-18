@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ozy5tn/daily_crypto_discussion_november_18_2025_gmt0/",
-  "generated_at_utc": "2025-11-18T11:15:22.087622Z",
+  "generated_at_utc": "2025-11-18T12:35:40.832972Z",
   "results": {
-    "BTC": 154,
-    "ETH": 34,
+    "BTC": 163,
+    "ETH": 36,
     "DOT": 9,
-    "ETC": 6,
+    "ETC": 7,
     "NEAR": 5,
     "SOL": 3,
     "APE": 2,
@@ -14,8 +14,8 @@
     "ATOM": 2,
     "MSTR": 2,
     "42": 1,
-    "BCH": 1,
     "FIL": 1,
+    "BCH": 1,
     "ICP": 1,
     "XMR": 1,
     "TRUMP": 1,
@@ -29,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 154
+      "count": 163
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 34
+      "count": 36
     },
     {
       "symbol": "DOT",
@@ -44,7 +44,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "NEAR",
@@ -82,13 +82,13 @@
       "count": 1
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "FIL",
+      "name": "Filecoin",
       "count": 1
     },
     {
-      "symbol": "FIL",
-      "name": "Filecoin",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
