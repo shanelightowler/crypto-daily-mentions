@@ -1,30 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T12:35:41.287374Z",
+  "generated_at_utc": "2025-11-19T13:29:25.442613Z",
   "results": {
-    "BTC": 57,
-    "ETH": 4,
+    "BTC": 63,
+    "ETH": 7,
+    "ADA": 5,
     "ALGO": 4,
-    "ADA": 4,
+    "NEAR": 2,
     "XLM": 2,
     "DOGE": 2,
     "TON": 1,
-    "NEAR": 1,
     "BCH": 1,
     "XRP": 1,
-    "TRX": 1
+    "TRX": 1,
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 63
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 7
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
     },
     {
       "symbol": "ALGO",
@@ -32,9 +38,9 @@
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 4
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
     },
     {
       "symbol": "XLM",
@@ -52,11 +58,6 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
-    },
-    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 1
@@ -69,6 +70,11 @@
     {
       "symbol": "TRX",
       "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
