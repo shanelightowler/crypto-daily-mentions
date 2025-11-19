@@ -1,15 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T03:09:07.978753Z",
+  "generated_at_utc": "2025-11-19T04:20:44.091030Z",
   "results": {
-    "BTC": 6
+    "BTC": 8,
+    "XLM": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 8
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
     }
   ]
 }
