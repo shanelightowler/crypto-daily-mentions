@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T10:18:35.506252Z",
+  "generated_at_utc": "2025-11-19T11:14:35.315069Z",
   "results": {
-    "BTC": 49,
-    "ADA": 3,
-    "ALGO": 2,
+    "BTC": 50,
+    "ADA": 4,
+    "ALGO": 3,
     "XLM": 2,
+    "ETH": 2,
     "DOGE": 2,
     "TON": 1,
-    "ETH": 1,
     "NEAR": 1,
     "BCH": 1,
     "XRP": 1,
@@ -19,21 +19,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 49
+      "count": 50
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "XLM",
       "name": "Stellar",
+      "count": 2
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 2
     },
     {
@@ -44,11 +49,6 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
-      "count": 1
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
       "count": 1
     },
     {
