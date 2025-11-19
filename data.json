@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T15:18:02.058535Z",
+  "generated_at_utc": "2025-11-19T16:21:54.317922Z",
   "results": {
-    "BTC": 68,
-    "ETH": 10,
+    "BTC": 79,
+    "ETH": 12,
     "ADA": 5,
+    "NEAR": 4,
     "ALGO": 4,
     "XRP": 2,
-    "NEAR": 2,
     "XLM": 2,
     "TRX": 2,
     "SOL": 2,
     "DOGE": 2,
     "TON": 1,
+    "ETC": 1,
     "BNB": 1,
     "LINK": 1,
     "BCH": 1
@@ -22,17 +23,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 79
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
     },
     {
       "symbol": "ALGO",
@@ -42,11 +48,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 2
     },
     {
@@ -72,6 +73,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
