@@ -1,50 +1,64 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T17:16:00.672353Z",
+  "generated_at_utc": "2025-11-19T18:24:23.217356Z",
   "results": {
-    "BTC": 92,
-    "ETH": 13,
-    "ADA": 5,
-    "NEAR": 4,
+    "BTC": 108,
+    "ETH": 23,
+    "ETC": 7,
+    "ADA": 6,
+    "NEAR": 5,
     "ALGO": 4,
+    "LINK": 3,
     "SOL": 3,
     "XRP": 2,
     "XLM": 2,
     "DOT": 2,
     "TRX": 2,
     "DOGE": 2,
+    "FARTCOIN": 1,
     "TON": 1,
-    "ETC": 1,
+    "AAVE": 1,
     "BNB": 1,
-    "LINK": 1,
-    "BCH": 1
+    "BCH": 1,
+    "PEPE": 1,
+    "HBAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 92
+      "count": 108
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 23
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 4
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "SOL",
@@ -77,13 +91,18 @@
       "count": 2
     },
     {
+      "symbol": "FARTCOIN",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
@@ -92,13 +111,18 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     }
   ]
