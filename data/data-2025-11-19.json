@@ -1,24 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T19:13:52.464099Z",
+  "generated_at_utc": "2025-11-19T20:16:37.447115Z",
   "results": {
-    "BTC": 113,
-    "ETH": 26,
+    "BTC": 118,
+    "ETH": 31,
     "ETC": 7,
     "DOGE": 6,
+    "NEAR": 6,
     "ADA": 6,
-    "NEAR": 5,
     "ALGO": 4,
     "LINK": 3,
     "SOL": 3,
+    "TON": 2,
     "XRP": 2,
     "XLM": 2,
     "DOT": 2,
     "TRX": 2,
+    "ZEC": 1,
     "FARTCOIN": 1,
-    "TON": 1,
     "AAVE": 1,
+    "FLOKI": 1,
     "BNB": 1,
     "BCH": 1,
     "PEPE": 1,
@@ -28,12 +30,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 113
+      "count": 118
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 31
     },
     {
       "symbol": "ETC",
@@ -46,14 +48,14 @@
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 6
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 5
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 6
     },
     {
       "symbol": "ALGO",
@@ -69,6 +71,11 @@
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
     },
     {
       "symbol": "XRP",
@@ -91,18 +98,23 @@
       "count": 2
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
       "symbol": "FARTCOIN",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "FLOKI",
+      "name": "Floki",
       "count": 1
     },
     {
