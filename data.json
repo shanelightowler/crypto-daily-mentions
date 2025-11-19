@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T09:19:04.537857Z",
+  "generated_at_utc": "2025-11-19T10:18:35.506252Z",
   "results": {
     "BTC": 49,
     "ADA": 3,
+    "ALGO": 2,
     "XLM": 2,
     "DOGE": 2,
     "TON": 1,
@@ -24,6 +25,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 3
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
     },
     {
       "symbol": "XLM",
