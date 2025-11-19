@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T14:16:32.406027Z",
+  "generated_at_utc": "2025-11-19T15:18:02.058535Z",
   "results": {
-    "BTC": 66,
-    "ETH": 9,
+    "BTC": 68,
+    "ETH": 10,
     "ADA": 5,
     "ALGO": 4,
+    "XRP": 2,
     "NEAR": 2,
     "XLM": 2,
     "TRX": 2,
@@ -15,19 +16,18 @@
     "TON": 1,
     "BNB": 1,
     "LINK": 1,
-    "BCH": 1,
-    "XRP": 1
+    "BCH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 66
+      "count": 68
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ADA",
@@ -38,6 +38,11 @@
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -82,11 +87,6 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     }
   ]
