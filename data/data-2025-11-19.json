@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p0tnsu/daily_crypto_discussion_november_19_2025_gmt0/",
-  "generated_at_utc": "2025-11-19T22:16:04.303956Z",
+  "generated_at_utc": "2025-11-19T23:16:13.482914Z",
   "results": {
-    "BTC": 146,
-    "ETH": 38,
+    "BTC": 149,
+    "ETH": 39,
     "ETC": 10,
     "NEAR": 7,
     "DOGE": 6,
@@ -19,6 +19,7 @@
     "TRX": 2,
     "NVDA": 1,
     "ZEC": 1,
+    "BONK": 1,
     "FARTCOIN": 1,
     "AAVE": 1,
     "FLOKI": 1,
@@ -31,12 +32,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 146
+      "count": 149
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 38
+      "count": 39
     },
     {
       "symbol": "ETC",
@@ -106,6 +107,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
