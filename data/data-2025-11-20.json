@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T18:24:37.201221Z",
+  "generated_at_utc": "2025-11-20T19:13:26.968991Z",
   "results": {
-    "BTC": 111,
-    "ETH": 17,
-    "ZEC": 9,
-    "XRP": 7,
+    "BTC": 130,
+    "ETH": 18,
+    "ZEC": 10,
+    "XRP": 8,
     "DOT": 5,
-    "NEAR": 3,
-    "SOL": 3,
+    "ETC": 5,
+    "NEAR": 4,
+    "SOL": 4,
     "ADA": 2,
-    "ETC": 2,
     "XLM": 2,
     "TON": 2,
     "NVDA": 1,
@@ -21,28 +21,29 @@
     "WIF": 1,
     "BNB": 1,
     "OKB": 1,
-    "3000": 1
+    "3000": 1,
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 111
+      "count": 130
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 17
+      "count": 18
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "DOT",
@@ -50,23 +51,23 @@
       "count": 5
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 5
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -117,6 +118,11 @@
     {
       "symbol": "3000",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
