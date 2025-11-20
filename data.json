@@ -1,19 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T17:13:35.914811Z",
+  "generated_at_utc": "2025-11-20T18:24:37.201221Z",
   "results": {
-    "BTC": 83,
-    "ETH": 15,
-    "ZEC": 8,
-    "XRP": 5,
+    "BTC": 111,
+    "ETH": 17,
+    "ZEC": 9,
+    "XRP": 7,
+    "DOT": 5,
     "NEAR": 3,
+    "SOL": 3,
+    "ADA": 2,
     "ETC": 2,
     "XLM": 2,
     "TON": 2,
-    "DOT": 2,
-    "SOL": 1,
+    "NVDA": 1,
     "STX": 1,
+    "SUI": 1,
     "BONK": 1,
     "WIF": 1,
     "BNB": 1,
@@ -24,27 +27,42 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 83
+      "count": 111
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 17
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 7
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
     },
     {
       "symbol": "ETC",
@@ -62,18 +80,18 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "NVDA",
+      "name": "",
       "count": 1
     },
     {
       "symbol": "STX",
       "name": "Stacks",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
