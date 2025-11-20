@@ -1,43 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T14:17:07.416440Z",
+  "generated_at_utc": "2025-11-20T15:17:39.533719Z",
   "results": {
-    "BTC": 42,
-    "ETH": 10,
-    "ZEC": 6,
+    "BTC": 60,
+    "ETH": 11,
+    "ZEC": 8,
     "XRP": 5,
+    "NEAR": 3,
     "ETC": 2,
     "XLM": 2,
-    "NEAR": 2,
+    "TON": 2,
     "SOL": 1,
     "STX": 1,
     "BONK": 1,
     "WIF": 1,
     "3000": 1,
-    "DOT": 1,
-    "TON": 1
+    "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 60
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -50,8 +55,8 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 2
     },
     {
@@ -82,11 +87,6 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     }
   ]
