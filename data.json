@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T13:27:44.162431Z",
+  "generated_at_utc": "2025-11-20T14:17:07.416440Z",
   "results": {
-    "BTC": 36,
-    "ETH": 8,
+    "BTC": 42,
+    "ETH": 10,
     "ZEC": 6,
     "XRP": 5,
     "ETC": 2,
@@ -12,6 +12,8 @@
     "NEAR": 2,
     "SOL": 1,
     "STX": 1,
+    "BONK": 1,
+    "WIF": 1,
     "3000": 1,
     "DOT": 1,
     "TON": 1
@@ -20,12 +22,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 42
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "ZEC",
@@ -60,6 +62,16 @@
     {
       "symbol": "STX",
       "name": "Stacks",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
