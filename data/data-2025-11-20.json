@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T20:19:39.576916Z",
+  "generated_at_utc": "2025-11-20T21:15:43.953092Z",
   "results": {
-    "BTC": 155,
+    "BTC": 168,
     "ETH": 20,
     "ZEC": 11,
     "XRP": 9,
+    "SOL": 7,
+    "DOT": 6,
     "ETC": 6,
-    "DOT": 5,
-    "NEAR": 4,
-    "SOL": 4,
+    "NEAR": 5,
     "TON": 4,
     "ADA": 2,
     "XLM": 2,
@@ -21,15 +21,16 @@
     "WIF": 1,
     "BNB": 1,
     "OKB": 1,
+    "APE": 1,
     "3000": 1,
     "ROSE": 1,
-    "APE": 1
+    "SAND": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 155
+      "count": 168
     },
     {
       "symbol": "ETH",
@@ -47,24 +48,24 @@
       "count": 9
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 7
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 6
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 6
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
-    },
-    {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "TON",
@@ -117,6 +118,11 @@
       "count": 1
     },
     {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "count": 1
+    },
+    {
       "symbol": "3000",
       "name": "",
       "count": 1
@@ -127,8 +133,8 @@
       "count": 1
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "SAND",
+      "name": "The Sandbox",
       "count": 1
     }
   ]
