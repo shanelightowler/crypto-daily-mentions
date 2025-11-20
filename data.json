@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T19:13:26.968991Z",
+  "generated_at_utc": "2025-11-20T20:19:39.576916Z",
   "results": {
-    "BTC": 130,
-    "ETH": 18,
-    "ZEC": 10,
-    "XRP": 8,
+    "BTC": 155,
+    "ETH": 20,
+    "ZEC": 11,
+    "XRP": 9,
+    "ETC": 6,
     "DOT": 5,
-    "ETC": 5,
     "NEAR": 4,
     "SOL": 4,
+    "TON": 4,
     "ADA": 2,
     "XLM": 2,
-    "TON": 2,
     "NVDA": 1,
     "STX": 1,
     "SUI": 1,
@@ -22,37 +22,38 @@
     "BNB": 1,
     "OKB": 1,
     "3000": 1,
-    "ROSE": 1
+    "ROSE": 1,
+    "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 130
+      "count": 155
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 8
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
+      "count": 9
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 6
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 5
     },
     {
@@ -66,6 +67,11 @@
       "count": 4
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 4
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
@@ -73,11 +79,6 @@
     {
       "symbol": "XLM",
       "name": "Stellar",
-      "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 2
     },
     {
@@ -123,6 +124,11 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     }
   ]
