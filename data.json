@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T11:14:51.852384Z",
+  "generated_at_utc": "2025-11-20T12:34:10.757713Z",
   "results": {
-    "BTC": 31,
+    "BTC": 35,
     "ETH": 8,
     "ZEC": 5,
+    "XRP": 4,
+    "ETC": 2,
     "XLM": 2,
-    "XRP": 1,
+    "NEAR": 2,
     "SOL": 1,
-    "ETC": 1,
     "3000": 1,
     "DOT": 1,
     "TON": 1
@@ -18,7 +19,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 35
     },
     {
       "symbol": "ETH",
@@ -31,23 +32,28 @@
       "count": 5
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
