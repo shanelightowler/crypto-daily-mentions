@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T21:15:43.953092Z",
+  "generated_at_utc": "2025-11-20T22:16:04.270231Z",
   "results": {
-    "BTC": 168,
+    "BTC": 173,
     "ETH": 20,
-    "ZEC": 11,
+    "ZEC": 12,
     "XRP": 9,
     "SOL": 7,
+    "NEAR": 6,
     "DOT": 6,
     "ETC": 6,
-    "NEAR": 5,
     "TON": 4,
     "ADA": 2,
     "XLM": 2,
     "NVDA": 1,
     "STX": 1,
+    "AR": 1,
     "SUI": 1,
     "BONK": 1,
     "WIF": 1,
@@ -30,7 +31,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 168
+      "count": 173
     },
     {
       "symbol": "ETH",
@@ -40,7 +41,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "XRP",
@@ -53,6 +54,11 @@
       "count": 7
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 6
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 6
@@ -61,11 +67,6 @@
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 6
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 5
     },
     {
       "symbol": "TON",
@@ -90,6 +91,11 @@
     {
       "symbol": "STX",
       "name": "Stacks",
+      "count": 1
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
       "count": 1
     },
     {
