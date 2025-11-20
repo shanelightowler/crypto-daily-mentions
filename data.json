@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p1pkaj/daily_crypto_discussion_november_20_2025_gmt0/",
-  "generated_at_utc": "2025-11-20T07:16:18.329437Z",
+  "generated_at_utc": "2025-11-20T08:23:27.239797Z",
   "results": {
-    "BTC": 18,
+    "BTC": 22,
     "ETH": 6,
-    "ZEC": 2,
+    "ZEC": 3,
     "XLM": 2,
     "SOL": 1,
     "ETC": 1,
@@ -17,7 +17,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 22
     },
     {
       "symbol": "ETH",
@@ -27,7 +27,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "XLM",
