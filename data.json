@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T21:15:08.855060Z",
+  "generated_at_utc": "2025-11-21T22:16:58.567395Z",
   "results": {
-    "BTC": 296,
-    "ETH": 59,
-    "ZEC": 11,
+    "BTC": 300,
+    "ETH": 60,
+    "ZEC": 12,
     "ETC": 9,
     "NEAR": 9,
     "TON": 6,
     "ADA": 6,
     "XRP": 5,
-    "BCH": 3,
+    "BCH": 4,
     "SUI": 2,
     "LINK": 2,
     "SOL": 2,
     "TRUMP": 1,
     "MELANIA": 1,
+    "AAVE": 1,
     "BNB": 1,
     "SAND": 1,
     "69": 1,
@@ -30,17 +31,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 296
+      "count": 300
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 59
+      "count": 60
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ETC",
@@ -70,7 +71,7 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "SUI",
@@ -95,6 +96,11 @@
     {
       "symbol": "MELANIA",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
