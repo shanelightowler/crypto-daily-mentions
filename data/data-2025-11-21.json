@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T10:18:02.491749Z",
+  "generated_at_utc": "2025-11-21T11:14:14.704610Z",
   "results": {
-    "BTC": 131,
-    "ETH": 26,
+    "BTC": 163,
+    "ETH": 34,
     "ZEC": 10,
-    "ETC": 7,
+    "ETC": 8,
     "TON": 4,
-    "XRP": 2,
+    "NEAR": 4,
+    "XRP": 3,
     "SUI": 2,
     "SOL": 2,
-    "NEAR": 2,
     "BNB": 1,
     "AR": 1,
     "BCH": 1,
     "PEPE": 1,
+    "42": 1,
     "APE": 1,
     "ADA": 1
   },
@@ -23,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 131
+      "count": 163
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 34
     },
     {
       "symbol": "ZEC",
@@ -38,7 +39,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "TON",
@@ -46,9 +47,14 @@
       "count": 4
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "SUI",
@@ -58,11 +64,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 2
     },
     {
@@ -83,6 +84,11 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "42",
+      "name": "",
       "count": 1
     },
     {
