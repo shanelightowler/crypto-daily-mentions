@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T09:17:51.568155Z",
+  "generated_at_utc": "2025-11-21T10:18:02.491749Z",
   "results": {
-    "BTC": 105,
-    "ETH": 24,
+    "BTC": 131,
+    "ETH": 26,
     "ZEC": 10,
     "ETC": 7,
+    "TON": 4,
+    "XRP": 2,
     "SUI": 2,
-    "TON": 2,
     "SOL": 2,
     "NEAR": 2,
-    "BCH": 1,
+    "BNB": 1,
     "AR": 1,
+    "BCH": 1,
     "PEPE": 1,
     "APE": 1,
     "ADA": 1
@@ -21,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 105
+      "count": 131
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 26
     },
     {
       "symbol": "ZEC",
@@ -39,13 +41,18 @@
       "count": 7
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -59,13 +66,18 @@
       "count": 2
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
       "symbol": "AR",
       "name": "Arweave",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
