@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T14:16:57.261145Z",
+  "generated_at_utc": "2025-11-21T15:16:00.658560Z",
   "results": {
-    "BTC": 233,
-    "ETH": 52,
+    "BTC": 241,
+    "ETH": 53,
     "ZEC": 10,
     "ETC": 8,
     "NEAR": 7,
     "TON": 6,
-    "XRP": 4,
+    "XRP": 5,
     "SUI": 2,
     "LINK": 2,
     "BCH": 2,
@@ -25,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 233
+      "count": 241
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 52
+      "count": 53
     },
     {
       "symbol": "ZEC",
@@ -55,7 +55,7 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SUI",
