@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T12:33:27.713719Z",
+  "generated_at_utc": "2025-11-21T13:26:05.242869Z",
   "results": {
-    "BTC": 195,
-    "ETH": 35,
+    "BTC": 212,
+    "ETH": 37,
     "ZEC": 10,
     "ETC": 8,
+    "NEAR": 6,
+    "TON": 5,
     "XRP": 4,
-    "TON": 4,
-    "NEAR": 4,
     "SUI": 2,
+    "LINK": 2,
     "BCH": 2,
     "SOL": 2,
     "BNB": 1,
@@ -24,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 195
+      "count": 212
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 35
+      "count": 37
     },
     {
       "symbol": "ZEC",
@@ -42,23 +43,28 @@
       "count": 8
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 6
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 5
+    },
+    {
       "symbol": "XRP",
       "name": "XRP",
       "count": 4
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 4
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 4
-    },
-    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
