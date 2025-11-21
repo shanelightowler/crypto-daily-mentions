@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T16:22:33.143261Z",
+  "generated_at_utc": "2025-11-21T17:15:29.152094Z",
   "results": {
-    "BTC": 258,
+    "BTC": 278,
     "ETH": 54,
     "ZEC": 10,
     "ETC": 8,
-    "NEAR": 7,
+    "NEAR": 8,
     "TON": 6,
     "XRP": 5,
     "SUI": 2,
@@ -16,6 +16,7 @@
     "SOL": 2,
     "BNB": 1,
     "SAND": 1,
+    "69": 1,
     "AR": 1,
     "PEPE": 1,
     "42": 1,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 258
+      "count": 278
     },
     {
       "symbol": "ETH",
@@ -46,7 +47,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "TON",
@@ -86,6 +87,11 @@
     {
       "symbol": "SAND",
       "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "69",
+      "name": "",
       "count": 1
     },
     {
