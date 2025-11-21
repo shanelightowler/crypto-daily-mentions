@@ -1,36 +1,43 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T06:26:18.211119Z",
+  "generated_at_utc": "2025-11-21T07:16:45.866197Z",
   "results": {
-    "BTC": 51,
-    "ETH": 16,
-    "ETC": 5,
+    "BTC": 59,
+    "ETH": 17,
+    "ETC": 6,
     "SUI": 2,
+    "SOL": 2,
     "NEAR": 2,
     "ZEC": 1,
-    "SOL": 1,
-    "TON": 1
+    "PEPE": 1,
+    "TON": 1,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 59
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
@@ -44,13 +51,18 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     }
   ]
