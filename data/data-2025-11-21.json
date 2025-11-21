@@ -1,38 +1,41 @@
 {
   "thread_title": "Daily Crypto Discussion - November 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p2ku0c/daily_crypto_discussion_november_21_2025_gmt0/",
-  "generated_at_utc": "2025-11-21T17:15:29.152094Z",
+  "generated_at_utc": "2025-11-21T18:23:24.019401Z",
   "results": {
-    "BTC": 278,
-    "ETH": 54,
+    "BTC": 289,
+    "ETH": 57,
     "ZEC": 10,
-    "ETC": 8,
-    "NEAR": 8,
+    "ETC": 9,
+    "NEAR": 9,
     "TON": 6,
     "XRP": 5,
+    "ADA": 3,
     "SUI": 2,
     "LINK": 2,
     "BCH": 2,
     "SOL": 2,
+    "TRUMP": 1,
+    "MELANIA": 1,
     "BNB": 1,
     "SAND": 1,
     "69": 1,
     "AR": 1,
+    "COMP": 1,
     "PEPE": 1,
     "42": 1,
-    "APE": 1,
-    "ADA": 1
+    "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 278
+      "count": 289
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 54
+      "count": 57
     },
     {
       "symbol": "ZEC",
@@ -42,12 +45,12 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "TON",
@@ -58,6 +61,11 @@
       "symbol": "XRP",
       "name": "XRP",
       "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
     },
     {
       "symbol": "SUI",
@@ -80,6 +88,16 @@
       "count": 2
     },
     {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "MELANIA",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 1
@@ -100,6 +118,11 @@
       "count": 1
     },
     {
+      "symbol": "COMP",
+      "name": "Compound",
+      "count": 1
+    },
+    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -112,11 +135,6 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     }
   ]
