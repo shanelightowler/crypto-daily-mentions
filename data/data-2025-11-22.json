@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T21:14:04.592289Z",
+  "generated_at_utc": "2025-11-22T22:14:49.431472Z",
   "results": {
-    "BTC": 31,
-    "ETH": 9,
+    "BTC": 32,
+    "ETH": 10,
     "BCH": 4,
     "ZEC": 3,
     "SOL": 3,
@@ -16,29 +16,29 @@
     "ETC": 1,
     "ADA": 1,
     "TRX": 1,
+    "TON": 1,
     "UNI": 1,
     "DYDX": 1,
     "GMX": 1,
-    "TON": 1,
     "TRUMP": 1,
+    "INJ": 1,
     "XLM": 1,
     "QNT": 1,
     "ALGO": 1,
     "XDC": 1,
     "HBAR": 1,
-    "INJ": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 32
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "BCH",
@@ -96,6 +96,11 @@
       "count": 1
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
       "symbol": "UNI",
       "name": "Uniswap",
       "count": 1
@@ -111,13 +116,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "TRUMP",
-      "name": "",
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
@@ -143,11 +148,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "INJ",
-      "name": "Injective",
       "count": 1
     },
     {
