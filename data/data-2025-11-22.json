@@ -1,11 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T04:18:37.950824Z",
+  "generated_at_utc": "2025-11-22T05:15:10.092166Z",
   "results": {
-    "BTC": 7,
-    "ZEC": 2,
+    "BTC": 10,
+    "ZEC": 3,
     "BCH": 1,
+    "TRX": 1,
+    "SOL": 1,
     "NEAR": 1,
     "TRUMP": 1
   },
@@ -13,16 +15,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 10
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
