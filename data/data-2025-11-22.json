@@ -1,38 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T19:12:06.381412Z",
+  "generated_at_utc": "2025-11-22T20:17:15.630680Z",
   "results": {
-    "BTC": 29,
+    "BTC": 30,
     "ETH": 9,
     "BCH": 4,
     "ZEC": 3,
     "NEAR": 3,
+    "SOL": 2,
     "DOT": 2,
+    "XRP": 2,
     "DOGE": 1,
     "ETC": 1,
     "TRX": 1,
-    "SOL": 1,
     "ADA": 1,
     "UNI": 1,
     "DYDX": 1,
     "GMX": 1,
-    "TRUMP": 1,
     "TON": 1,
+    "TRUMP": 1,
     "INJ": 1,
-    "XRP": 1,
     "XLM": 1,
     "QNT": 1,
     "ALGO": 1,
     "XDC": 1,
     "HBAR": 1,
+    "SUI": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 30
     },
     {
       "symbol": "ETH",
@@ -55,8 +56,18 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -72,11 +83,6 @@
     {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
@@ -100,23 +106,18 @@
       "count": 1
     },
     {
-      "symbol": "TRUMP",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "INJ",
-      "name": "Injective",
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
@@ -142,6 +143,11 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
