@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T08:20:08.313303Z",
+  "generated_at_utc": "2025-11-22T09:15:36.602974Z",
   "results": {
-    "BTC": 12,
+    "BTC": 16,
     "ZEC": 3,
     "ETH": 2,
     "TRX": 1,
     "SOL": 1,
     "BCH": 1,
     "NEAR": 1,
-    "TRUMP": 1
+    "TRUMP": 1,
+    "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 16
     },
     {
       "symbol": "ZEC",
@@ -51,6 +52,11 @@
     {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     }
   ]
