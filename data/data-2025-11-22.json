@@ -1,39 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T20:17:15.630680Z",
+  "generated_at_utc": "2025-11-22T21:14:04.592289Z",
   "results": {
-    "BTC": 30,
+    "BTC": 31,
     "ETH": 9,
     "BCH": 4,
     "ZEC": 3,
+    "SOL": 3,
     "NEAR": 3,
-    "SOL": 2,
     "DOT": 2,
     "XRP": 2,
+    "SUI": 2,
     "DOGE": 1,
     "ETC": 1,
-    "TRX": 1,
     "ADA": 1,
+    "TRX": 1,
     "UNI": 1,
     "DYDX": 1,
     "GMX": 1,
     "TON": 1,
     "TRUMP": 1,
-    "INJ": 1,
     "XLM": 1,
     "QNT": 1,
     "ALGO": 1,
     "XDC": 1,
     "HBAR": 1,
-    "SUI": 1,
+    "INJ": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 31
     },
     {
       "symbol": "ETH",
@@ -51,14 +51,14 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "DOT",
@@ -68,6 +68,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -81,13 +86,13 @@
       "count": 1
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     },
     {
@@ -116,11 +121,6 @@
       "count": 1
     },
     {
-      "symbol": "INJ",
-      "name": "Injective",
-      "count": 1
-    },
-    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 1
@@ -146,8 +146,8 @@
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
