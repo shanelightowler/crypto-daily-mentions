@@ -1,7 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T01:13:18.505700Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-11-22T03:01:14.499793Z",
+  "results": {
+    "BTC": 5,
+    "ZEC": 1,
+    "NEAR": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 5
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    }
+  ]
 }
