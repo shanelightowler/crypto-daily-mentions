@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p3fx7x/daily_crypto_discussion_november_22_2025_gmt0/",
-  "generated_at_utc": "2025-11-22T17:13:07.915329Z",
+  "generated_at_utc": "2025-11-22T18:21:27.673840Z",
   "results": {
     "BTC": 26,
-    "ETH": 5,
+    "ETH": 7,
     "BCH": 4,
     "ZEC": 3,
     "NEAR": 3,
     "DOT": 2,
-    "ETC": 1,
     "DOGE": 1,
+    "ETC": 1,
     "TRX": 1,
     "SOL": 1,
     "ADA": 1,
@@ -19,6 +19,12 @@
     "GMX": 1,
     "TRUMP": 1,
     "INJ": 1,
+    "XRP": 1,
+    "XLM": 1,
+    "QNT": 1,
+    "ALGO": 1,
+    "XDC": 1,
+    "HBAR": 1,
     "ATOM": 1
   },
   "results_list": [
@@ -30,7 +36,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "BCH",
@@ -53,13 +59,13 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
@@ -100,6 +106,36 @@
     {
       "symbol": "INJ",
       "name": "Injective",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "QNT",
+      "name": "Quant",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "XDC",
+      "name": "XDC Network",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
