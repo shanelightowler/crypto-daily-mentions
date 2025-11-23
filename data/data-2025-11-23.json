@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T21:14:23.220938Z",
+  "generated_at_utc": "2025-11-23T22:15:09.711326Z",
   "results": {
-    "BTC": 47,
+    "BTC": 52,
+    "ZEC": 7,
+    "ADA": 5,
     "SOL": 4,
-    "ADA": 4,
-    "ZEC": 4,
+    "ARB": 3,
+    "ETC": 3,
+    "ALGO": 3,
     "ETH": 2,
-    "ETC": 2,
-    "ALGO": 2,
     "TON": 2,
     "BNB": 1,
-    "HBAR": 1,
     "AVAX": 1,
+    "HBAR": 1,
     "BONK": 1,
     "NEAR": 1,
     "CRO": 1,
@@ -23,7 +24,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 47
+      "count": 52
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 7
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 5
     },
     {
       "symbol": "SOL",
@@ -31,28 +42,23 @@
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 4
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 4
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 2
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 3
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 2
     },
     {
@@ -66,13 +72,13 @@
       "count": 1
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
