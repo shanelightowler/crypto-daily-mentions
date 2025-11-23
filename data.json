@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T09:15:48.805667Z",
+  "generated_at_utc": "2025-11-23T10:16:04.568844Z",
   "results": {
     "BTC": 17,
     "ZEC": 3,
     "SOL": 2,
     "ALGO": 2,
-    "XRP": 2,
     "ETC": 1,
     "AVAX": 1,
     "NEAR": 1,
-    "ETH": 1,
     "CRO": 1,
+    "ETH": 1,
+    "XRP": 1,
     "TON": 1
   },
   "results_list": [
@@ -37,11 +37,6 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 1
@@ -57,13 +52,18 @@
       "count": 1
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
