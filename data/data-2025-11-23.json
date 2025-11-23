@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T22:15:09.711326Z",
+  "generated_at_utc": "2025-11-23T23:14:58.257733Z",
   "results": {
-    "BTC": 52,
+    "BTC": 57,
     "ZEC": 7,
-    "ADA": 5,
+    "ADA": 6,
     "SOL": 4,
-    "ARB": 3,
+    "ARB": 4,
     "ETC": 3,
     "ALGO": 3,
     "ETH": 2,
     "TON": 2,
     "BNB": 1,
-    "AVAX": 1,
     "HBAR": 1,
+    "AVAX": 1,
     "BONK": 1,
     "NEAR": 1,
     "CRO": 1,
@@ -24,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 57
     },
     {
       "symbol": "ZEC",
@@ -34,7 +34,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SOL",
@@ -44,7 +44,7 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ETC",
@@ -72,13 +72,13 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
