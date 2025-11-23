@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T20:18:03.691525Z",
+  "generated_at_utc": "2025-11-23T21:14:23.220938Z",
   "results": {
-    "BTC": 44,
+    "BTC": 47,
     "SOL": 4,
     "ADA": 4,
-    "ZEC": 3,
+    "ZEC": 4,
     "ETH": 2,
     "ETC": 2,
     "ALGO": 2,
@@ -23,7 +23,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 44
+      "count": 47
     },
     {
       "symbol": "SOL",
@@ -38,7 +38,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ETH",
