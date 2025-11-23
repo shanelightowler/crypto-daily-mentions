@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T16:18:36.865091Z",
+  "generated_at_utc": "2025-11-23T17:13:19.985989Z",
   "results": {
-    "BTC": 32,
+    "BTC": 35,
     "SOL": 4,
     "ADA": 3,
     "ZEC": 3,
@@ -12,6 +12,7 @@
     "BNB": 1,
     "ETC": 1,
     "AVAX": 1,
+    "BONK": 1,
     "NEAR": 1,
     "CRO": 1,
     "XRP": 1,
@@ -21,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 35
     },
     {
       "symbol": "SOL",
@@ -61,6 +62,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
