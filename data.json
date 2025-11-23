@@ -1,28 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - November 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p49f4u/daily_crypto_discussion_november_23_2025_gmt0/",
-  "generated_at_utc": "2025-11-23T18:21:39.543569Z",
+  "generated_at_utc": "2025-11-23T19:12:33.911808Z",
   "results": {
-    "BTC": 37,
+    "BTC": 42,
     "SOL": 4,
     "ADA": 4,
     "ZEC": 3,
+    "ETH": 2,
+    "ETC": 2,
     "ALGO": 2,
-    "ETH": 1,
+    "TON": 2,
     "BNB": 1,
-    "ETC": 1,
+    "HBAR": 1,
     "AVAX": 1,
     "BONK": 1,
     "NEAR": 1,
     "CRO": 1,
-    "XRP": 1,
-    "TON": 1
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 42
     },
     {
       "symbol": "SOL",
@@ -40,14 +41,24 @@
       "count": 3
     },
     {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 1
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
     },
     {
       "symbol": "BNB",
@@ -55,8 +66,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
@@ -82,11 +93,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     }
   ]
