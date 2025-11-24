@@ -1,17 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - November 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p53enx/daily_crypto_discussion_november_24_2025_gmt0/",
-  "generated_at_utc": "2025-11-24T20:19:15.853236Z",
+  "generated_at_utc": "2025-11-24T21:15:54.804302Z",
   "results": {
     "BTC": 50,
     "ETH": 9,
+    "SOL": 3,
+    "NEAR": 2,
     "LINK": 2,
-    "SOL": 2,
+    "XRP": 2,
     "ETC": 2,
     "SUI": 1,
-    "NEAR": 1,
+    "ZEC": 1,
     "ADA": 1,
-    "ERB": 1
+    "ERB": 1,
+    "BONK": 1
   },
   "results_list": [
     {
@@ -25,13 +28,23 @@
       "count": 9
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
@@ -45,8 +58,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
@@ -57,6 +70,11 @@
     {
       "symbol": "ERB",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     }
   ]
