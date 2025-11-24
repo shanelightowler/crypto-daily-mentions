@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - November 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p53enx/daily_crypto_discussion_november_24_2025_gmt0/",
-  "generated_at_utc": "2025-11-24T21:15:54.804302Z",
+  "generated_at_utc": "2025-11-24T22:15:50.464194Z",
   "results": {
     "BTC": 50,
-    "ETH": 9,
+    "ETH": 10,
     "SOL": 3,
     "NEAR": 2,
     "LINK": 2,
     "XRP": 2,
     "ETC": 2,
     "SUI": 1,
+    "APE": 1,
     "ZEC": 1,
     "ADA": 1,
     "ERB": 1,
@@ -25,7 +26,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "SOL",
@@ -55,6 +56,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
