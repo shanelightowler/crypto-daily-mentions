@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p5yvu0/daily_crypto_discussion_november_25_2025_gmt0/",
-  "generated_at_utc": "2025-11-25T20:19:00.192007Z",
+  "generated_at_utc": "2025-11-25T21:15:16.928909Z",
   "results": {
-    "BTC": 33,
-    "ETH": 10,
+    "BTC": 36,
+    "ETH": 11,
     "NEAR": 3,
+    "KAS": 3,
     "MATIC": 2,
     "ADA": 2,
-    "KAS": 2,
     "DOT": 1,
+    "SOL": 1,
     "TON": 1,
     "BNB": 1,
     "DOGE": 1
@@ -18,16 +19,21 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 36
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 3
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 3
     },
     {
@@ -41,13 +47,13 @@
       "count": 2
     },
     {
-      "symbol": "KAS",
-      "name": "Kaspa",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
