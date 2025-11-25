@@ -1,21 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - November 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p5yvu0/daily_crypto_discussion_november_25_2025_gmt0/",
-  "generated_at_utc": "2025-11-25T13:31:50.310568Z",
+  "generated_at_utc": "2025-11-25T14:17:14.099287Z",
   "results": {
-    "BTC": 10,
-    "NEAR": 3
+    "BTC": 11,
+    "NEAR": 3,
+    "ETH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 3
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
     }
   ]
 }
