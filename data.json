@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p6u4ew/daily_crypto_discussion_november_26_2025_gmt0/",
-  "generated_at_utc": "2025-11-26T16:21:49.210516Z",
+  "generated_at_utc": "2025-11-26T17:15:34.222940Z",
   "results": {
-    "BTC": 40,
-    "ETH": 14,
-    "SOL": 5,
-    "ETC": 4,
+    "BTC": 43,
+    "ETH": 20,
+    "SOL": 7,
+    "ETC": 7,
+    "TRX": 3,
     "XRP": 3,
-    "TRX": 2,
+    "ALGO": 2,
+    "ROSE": 1,
     "NEAR": 1,
+    "SUI": 1,
     "HBAR": 1,
     "DOGE": 1,
     "WIF": 1,
-    "ALGO": 1,
     "3000": 1,
     "ATOM": 1,
     "MATIC": 1,
@@ -26,22 +28,27 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 43
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 20
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 7
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -49,13 +56,23 @@
       "count": 3
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
@@ -71,11 +88,6 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 1
     },
     {
