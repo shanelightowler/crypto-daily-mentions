@@ -1,12 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - November 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p6u4ew/daily_crypto_discussion_november_26_2025_gmt0/",
-  "generated_at_utc": "2025-11-26T03:12:15.836044Z",
+  "generated_at_utc": "2025-11-26T04:22:49.335407Z",
   "results": {
-    "ETH": 5,
-    "BTC": 4,
+    "ETH": 6,
+    "BTC": 5,
+    "XRP": 2,
     "NEAR": 1,
-    "XRP": 1,
+    "HBAR": 1,
+    "DOGE": 1,
+    "ALGO": 1,
+    "ATOM": 1,
     "ETC": 1,
     "SOL": 1
   },
@@ -14,12 +18,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -27,8 +36,23 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
