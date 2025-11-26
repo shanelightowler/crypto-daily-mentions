@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - November 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p6u4ew/daily_crypto_discussion_november_26_2025_gmt0/",
-  "generated_at_utc": "2025-11-26T15:16:14.189839Z",
+  "generated_at_utc": "2025-11-26T16:21:49.210516Z",
   "results": {
-    "BTC": 33,
-    "ETH": 13,
-    "SOL": 4,
-    "ETC": 3,
+    "BTC": 40,
+    "ETH": 14,
+    "SOL": 5,
+    "ETC": 4,
+    "XRP": 3,
     "TRX": 2,
-    "XRP": 2,
     "NEAR": 1,
     "HBAR": 1,
     "DOGE": 1,
@@ -19,37 +19,38 @@
     "MATIC": 1,
     "OP": 1,
     "AVAX": 1,
-    "ARB": 1
+    "ARB": 1,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 40
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 2
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 2
     },
     {
@@ -105,6 +106,11 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     }
   ]
