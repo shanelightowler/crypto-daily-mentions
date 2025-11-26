@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p6u4ew/daily_crypto_discussion_november_26_2025_gmt0/",
-  "generated_at_utc": "2025-11-26T20:18:38.459610Z",
+  "generated_at_utc": "2025-11-26T21:14:33.337896Z",
   "results": {
-    "BTC": 60,
+    "BTC": 61,
     "ETH": 24,
     "SOL": 8,
     "ETC": 7,
@@ -16,6 +16,7 @@
     "HBAR": 1,
     "DOGE": 1,
     "WIF": 1,
+    "69": 1,
     "3000": 1,
     "ATOM": 1,
     "MATIC": 1,
@@ -28,7 +29,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 60
+      "count": 61
     },
     {
       "symbol": "ETH",
@@ -88,6 +89,11 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
+      "count": 1
+    },
+    {
+      "symbol": "69",
+      "name": "",
       "count": 1
     },
     {
