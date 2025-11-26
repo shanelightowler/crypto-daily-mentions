@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p6u4ew/daily_crypto_discussion_november_26_2025_gmt0/",
-  "generated_at_utc": "2025-11-26T06:26:22.451829Z",
+  "generated_at_utc": "2025-11-26T07:16:28.940445Z",
   "results": {
     "ETH": 7,
     "BTC": 7,
     "XRP": 2,
+    "SOL": 2,
     "NEAR": 1,
     "HBAR": 1,
     "DOGE": 1,
+    "WIF": 1,
     "ALGO": 1,
     "ATOM": 1,
     "MATIC": 1,
     "OP": 1,
     "AVAX": 1,
     "ARB": 1,
-    "ETC": 1,
-    "SOL": 1
+    "ETC": 1
   },
   "results_list": [
     {
@@ -35,6 +36,11 @@
       "count": 2
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 1
@@ -47,6 +53,11 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
@@ -82,11 +93,6 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     }
   ]
