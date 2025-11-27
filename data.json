@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - November 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p7ox0z/daily_crypto_discussion_november_27_2025_gmt0/",
-  "generated_at_utc": "2025-11-27T07:17:39.491362Z",
+  "generated_at_utc": "2025-11-27T08:23:49.426464Z",
   "results": {
-    "BTC": 13,
+    "BTC": 14,
     "21M": 1,
     "ETC": 1,
     "XRP": 1,
+    "ADA": 1,
+    "ETH": 1,
     "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "21M",
@@ -28,6 +30,16 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
