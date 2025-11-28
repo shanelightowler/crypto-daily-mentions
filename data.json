@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - November 28, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p8htj4/daily_crypto_discussion_november_28_2025_gmt0/",
-  "generated_at_utc": "2025-11-28T17:14:17.830068Z",
+  "generated_at_utc": "2025-11-28T18:23:22.146590Z",
   "results": {
-    "BTC": 41,
+    "BTC": 50,
     "ETH": 3,
     "ADA": 1,
     "LTC": 1,
     "MATIC": 1,
     "NEAR": 1,
     "SOL": 1,
-    "LINK": 1
+    "LINK": 1,
+    "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 50
     },
     {
       "symbol": "ETH",
@@ -51,6 +52,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     }
   ]
