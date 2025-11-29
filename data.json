@@ -1,25 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - November 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1p9bgh8/daily_crypto_discussion_november_29_2025_gmt0/",
-  "generated_at_utc": "2025-11-29T16:19:11.320521Z",
+  "generated_at_utc": "2025-11-29T17:13:48.453689Z",
   "results": {
-    "BTC": 19,
+    "BTC": 21,
     "ETH": 6,
+    "ETC": 3,
     "XRP": 1,
     "PEPE": 1,
-    "ETC": 1,
+    "DOGE": 1,
     "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -32,8 +38,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     },
     {
