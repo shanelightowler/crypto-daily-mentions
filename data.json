@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - November 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pa5184/daily_crypto_discussion_november_30_2025_gmt0/",
-  "generated_at_utc": "2025-11-30T17:13:56.978287Z",
+  "generated_at_utc": "2025-11-30T18:22:05.347606Z",
   "results": {
-    "BTC": 43,
+    "BTC": 45,
     "ETH": 27,
+    "DOGE": 4,
     "ETC": 2,
     "OP": 2,
+    "XMR": 2,
     "47": 2,
     "XRP": 1,
     "ICP": 1,
     "BONK": 1,
     "WIF": 1,
-    "DOGE": 1,
     "SHIB": 1,
     "ARB": 1,
     "SOL": 1
@@ -21,12 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 45
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 27
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 4
     },
     {
       "symbol": "ETC",
@@ -36,6 +42,11 @@
     {
       "symbol": "OP",
       "name": "Optimism",
+      "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
@@ -61,11 +72,6 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
