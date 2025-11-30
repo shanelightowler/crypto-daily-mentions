@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - November 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pa5184/daily_crypto_discussion_november_30_2025_gmt0/",
-  "generated_at_utc": "2025-11-30T05:16:19.201260Z",
+  "generated_at_utc": "2025-11-30T06:24:53.232888Z",
   "results": {
     "BTC": 28,
-    "ETH": 2,
     "ETC": 2,
+    "ETH": 2,
     "47": 2,
     "BONK": 1,
     "WIF": 1,
@@ -20,13 +20,13 @@
       "count": 28
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 2
     },
     {
