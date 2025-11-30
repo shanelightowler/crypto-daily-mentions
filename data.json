@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - November 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pa5184/daily_crypto_discussion_november_30_2025_gmt0/",
-  "generated_at_utc": "2025-11-30T16:19:15.950919Z",
+  "generated_at_utc": "2025-11-30T17:13:56.978287Z",
   "results": {
-    "BTC": 39,
+    "BTC": 43,
     "ETH": 27,
     "ETC": 2,
     "OP": 2,
@@ -14,14 +14,14 @@
     "WIF": 1,
     "DOGE": 1,
     "SHIB": 1,
-    "SOL": 1,
-    "ARB": 1
+    "ARB": 1,
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 39
+      "count": 43
     },
     {
       "symbol": "ETH",
@@ -74,13 +74,13 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
