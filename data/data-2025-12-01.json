@@ -1,17 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T15:18:31.822632Z",
+  "generated_at_utc": "2025-12-01T16:24:01.959233Z",
   "results": {
-    "BTC": 113,
-    "ETH": 9,
+    "BTC": 137,
+    "ETH": 17,
+    "SOL": 6,
+    "XRP": 5,
     "NEAR": 5,
+    "BNB": 4,
     "ETC": 4,
-    "SOL": 3,
-    "DOT": 2,
+    "DOT": 3,
+    "TRX": 2,
     "TON": 2,
     "MATIC": 1,
+    "ROSE": 1,
     "ZEC": 1,
+    "ATOM": 1,
     "KAS": 1,
     "ALGO": 1
   },
@@ -19,12 +24,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 113
+      "count": 137
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 17
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 6
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 5
     },
     {
       "symbol": "NEAR",
@@ -32,18 +47,23 @@
       "count": 5
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 3
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 2
     },
     {
@@ -57,8 +77,18 @@
       "count": 1
     },
     {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
