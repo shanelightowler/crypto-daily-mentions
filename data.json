@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T10:20:04.013919Z",
+  "generated_at_utc": "2025-12-01T11:15:26.967811Z",
   "results": {
-    "BTC": 60,
+    "BTC": 65,
     "ETH": 8,
     "NEAR": 5,
     "SOL": 3,
-    "ETC": 2,
+    "ETC": 3,
     "MATIC": 1,
     "ZEC": 1,
     "KAS": 1,
@@ -18,7 +18,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 60
+      "count": 65
     },
     {
       "symbol": "ETH",
@@ -38,7 +38,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "MATIC",
