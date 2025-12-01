@@ -1,26 +1,56 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T01:40:37.067979Z",
+  "generated_at_utc": "2025-12-01T03:47:46.478607Z",
   "results": {
-    "BTC": 6,
-    "SOL": 1,
-    "MATIC": 1
+    "BTC": 16,
+    "ETH": 7,
+    "SOL": 2,
+    "MATIC": 1,
+    "ZEC": 1,
+    "ALGO": 1,
+    "ETC": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 16
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 7
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
