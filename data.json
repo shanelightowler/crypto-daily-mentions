@@ -1,20 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T17:18:57.668103Z",
+  "generated_at_utc": "2025-12-01T18:28:21.614709Z",
   "results": {
-    "BTC": 152,
-    "ETH": 24,
-    "SOL": 9,
+    "BTC": 171,
+    "ETH": 26,
+    "SOL": 10,
+    "DOT": 9,
+    "ETC": 6,
+    "NEAR": 6,
     "XRP": 5,
-    "DOT": 5,
-    "NEAR": 5,
-    "BNB": 4,
-    "ETC": 4,
+    "BNB": 5,
     "TON": 3,
+    "LINK": 3,
+    "ROSE": 2,
     "TRX": 2,
     "MATIC": 1,
-    "ROSE": 1,
+    "INJ": 1,
     "ZEC": 1,
     "ATOM": 1,
     "KAS": 1,
@@ -24,17 +26,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 152
+      "count": 171
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 26
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 10
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 9
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 6
     },
     {
       "symbol": "XRP",
@@ -42,29 +59,24 @@
       "count": 5
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 5
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 5
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 4
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 2
     },
     {
       "symbol": "TRX",
@@ -77,8 +89,8 @@
       "count": 1
     },
     {
-      "symbol": "ROSE",
-      "name": "Oasis Network",
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
