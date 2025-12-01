@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T12:36:40.328987Z",
+  "generated_at_utc": "2025-12-01T13:33:01.278905Z",
   "results": {
-    "BTC": 74,
-    "ETH": 8,
+    "BTC": 86,
+    "ETH": 9,
     "NEAR": 5,
+    "ETC": 4,
     "SOL": 3,
-    "ETC": 3,
+    "DOT": 2,
+    "TON": 2,
     "MATIC": 1,
     "ZEC": 1,
     "KAS": 1,
-    "ALGO": 1,
-    "TON": 1
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 74
+      "count": 86
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "NEAR",
@@ -31,14 +32,24 @@
       "count": 5
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
     },
     {
       "symbol": "MATIC",
@@ -58,11 +69,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
       "count": 1
     }
   ]
