@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - December 1, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1payzej/daily_crypto_discussion_december_1_2025_gmt0/",
-  "generated_at_utc": "2025-12-01T19:18:36.766784Z",
+  "generated_at_utc": "2025-12-01T20:17:41.579037Z",
   "results": {
-    "BTC": 178,
-    "ETH": 26,
+    "BTC": 182,
+    "ETH": 28,
+    "DOT": 10,
     "SOL": 10,
-    "DOT": 9,
+    "NEAR": 8,
+    "XRP": 7,
     "ETC": 6,
-    "NEAR": 6,
-    "XRP": 5,
     "BNB": 5,
     "TON": 3,
     "LINK": 3,
     "ROSE": 2,
     "TRX": 2,
     "MATIC": 1,
-    "INJ": 1,
     "ZEC": 1,
+    "INJ": 1,
     "ATOM": 1,
     "KAS": 1,
     "ALGO": 1
@@ -26,12 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 178
+      "count": 182
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 28
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 10
     },
     {
       "symbol": "SOL",
@@ -39,24 +44,19 @@
       "count": 10
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 9
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 7
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 6
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 6
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 5
     },
     {
       "symbol": "BNB",
@@ -89,13 +89,13 @@
       "count": 1
     },
     {
-      "symbol": "INJ",
-      "name": "Injective",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
