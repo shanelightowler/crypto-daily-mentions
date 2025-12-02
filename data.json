@@ -1,32 +1,39 @@
 {
   "thread_title": "Daily Crypto Discussion - December 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pbum3f/daily_crypto_discussion_december_2_2025_gmt0/",
-  "generated_at_utc": "2025-12-02T16:23:24.715438Z",
+  "generated_at_utc": "2025-12-02T17:19:48.358709Z",
   "results": {
-    "BTC": 36,
-    "ETH": 8,
+    "BTC": 41,
+    "ETH": 10,
     "SOL": 2,
+    "BNB": 2,
     "BONK": 2,
     "MATIC": 2,
     "TRUMP": 1,
     "NEAR": 1,
     "ETC": 1,
+    "JUP": 1,
     "FIL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 41
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 10
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -52,6 +59,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "JUP",
+      "name": "Jupiter",
       "count": 1
     },
     {
