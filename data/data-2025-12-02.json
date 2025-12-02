@@ -1,30 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - December 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pbum3f/daily_crypto_discussion_december_2_2025_gmt0/",
-  "generated_at_utc": "2025-12-02T19:16:52.630069Z",
+  "generated_at_utc": "2025-12-02T20:20:40.657338Z",
   "results": {
-    "BTC": 64,
-    "ETH": 13,
+    "BTC": 66,
+    "ETH": 14,
     "SOL": 3,
     "BNB": 2,
     "BONK": 2,
+    "NEAR": 2,
     "MATIC": 2,
     "TRUMP": 1,
-    "NEAR": 1,
+    "XRP": 1,
+    "HBAR": 1,
+    "SUI": 1,
     "ETC": 1,
     "JUP": 1,
+    "APE": 1,
     "FIL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 64
+      "count": 66
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
@@ -42,6 +46,11 @@
       "count": 2
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 2
@@ -52,8 +61,18 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
@@ -64,6 +83,11 @@
     {
       "symbol": "JUP",
       "name": "Jupiter",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
