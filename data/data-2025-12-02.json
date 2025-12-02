@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - December 2, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pbum3f/daily_crypto_discussion_december_2_2025_gmt0/",
-  "generated_at_utc": "2025-12-02T20:20:40.657338Z",
+  "generated_at_utc": "2025-12-02T21:16:59.542269Z",
   "results": {
-    "BTC": 66,
+    "BTC": 70,
     "ETH": 14,
     "SOL": 3,
     "BNB": 2,
     "BONK": 2,
     "NEAR": 2,
     "MATIC": 2,
+    "ZEC": 1,
     "TRUMP": 1,
     "XRP": 1,
     "HBAR": 1,
@@ -23,7 +24,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 66
+      "count": 70
     },
     {
       "symbol": "ETH",
@@ -54,6 +55,11 @@
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
       "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
     },
     {
       "symbol": "TRUMP",
