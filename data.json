@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - December 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pcq8q2/daily_crypto_discussion_december_3_2025_gmt0/",
-  "generated_at_utc": "2025-12-03T20:20:03.096041Z",
+  "generated_at_utc": "2025-12-03T21:15:42.274041Z",
   "results": {
-    "BTC": 72,
-    "ETH": 13,
+    "BTC": 74,
+    "ETH": 14,
     "SOL": 6,
     "LINK": 5,
-    "BCH": 2,
+    "BCH": 4,
+    "ZEC": 2,
     "SUI": 2,
     "MATIC": 2,
     "DOGE": 2,
     "XRP": 1,
     "HBAR": 1,
     "LTC": 1,
-    "ZEC": 1,
     "NEAR": 1,
     "PEPE": 1,
     "TON": 1,
@@ -26,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 74
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
@@ -46,6 +46,11 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 4
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
@@ -76,11 +81,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
       "count": 1
     },
     {
