@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pcq8q2/daily_crypto_discussion_december_3_2025_gmt0/",
-  "generated_at_utc": "2025-12-03T12:36:58.676252Z",
+  "generated_at_utc": "2025-12-03T13:33:31.949081Z",
   "results": {
-    "BTC": 46,
-    "ETH": 3,
-    "LINK": 2,
+    "BTC": 47,
+    "ETH": 9,
+    "LINK": 3,
+    "SOL": 3,
     "SUI": 2,
-    "SOL": 2,
     "DOGE": 2,
     "BCH": 1,
     "NEAR": 1,
@@ -19,26 +19,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 47
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 9
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
