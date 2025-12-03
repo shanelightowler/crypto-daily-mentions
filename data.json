@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pcq8q2/daily_crypto_discussion_december_3_2025_gmt0/",
-  "generated_at_utc": "2025-12-03T16:24:10.667395Z",
+  "generated_at_utc": "2025-12-03T17:19:53.339775Z",
   "results": {
-    "BTC": 55,
+    "BTC": 56,
     "ETH": 13,
+    "SOL": 5,
     "LINK": 5,
-    "SOL": 4,
     "BCH": 2,
     "SUI": 2,
     "DOGE": 2,
@@ -14,17 +14,19 @@
     "HBAR": 1,
     "LTC": 1,
     "ZEC": 1,
+    "MATIC": 1,
     "NEAR": 1,
     "PEPE": 1,
     "TON": 1,
     "CRO": 1,
-    "OP": 1
+    "OP": 1,
+    "XLM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 55
+      "count": 56
     },
     {
       "symbol": "ETH",
@@ -32,14 +34,14 @@
       "count": 13
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 5
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 5
     },
     {
       "symbol": "BCH",
@@ -77,6 +79,11 @@
       "count": 1
     },
     {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 1
@@ -99,6 +106,11 @@
     {
       "symbol": "OP",
       "name": "Optimism",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     }
   ]
