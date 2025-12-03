@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - December 3, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pcq8q2/daily_crypto_discussion_december_3_2025_gmt0/",
-  "generated_at_utc": "2025-12-03T11:16:03.608926Z",
+  "generated_at_utc": "2025-12-03T12:36:58.676252Z",
   "results": {
     "BTC": 46,
     "ETH": 3,
@@ -12,7 +12,8 @@
     "BCH": 1,
     "NEAR": 1,
     "TON": 1,
-    "CRO": 1
+    "CRO": 1,
+    "OP": 1
   },
   "results_list": [
     {
@@ -63,6 +64,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
