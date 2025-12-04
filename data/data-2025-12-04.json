@@ -1,21 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - December 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pdm7u9/daily_crypto_discussion_december_4_2025_gmt0/",
-  "generated_at_utc": "2025-12-04T01:18:45.597565Z",
+  "generated_at_utc": "2025-12-04T03:16:21.671603Z",
   "results": {
-    "BTC": 4,
-    "ETH": 1
+    "BTC": 5,
+    "DOGE": 2,
+    "ETH": 2
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 1
+      "count": 2
     }
   ]
 }
