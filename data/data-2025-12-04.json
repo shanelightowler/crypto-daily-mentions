@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - December 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pdm7u9/daily_crypto_discussion_december_4_2025_gmt0/",
-  "generated_at_utc": "2025-12-04T17:19:29.186880Z",
+  "generated_at_utc": "2025-12-04T18:27:59.650715Z",
   "results": {
-    "BTC": 25,
-    "ETH": 13,
-    "SOL": 4,
+    "BTC": 28,
+    "ETH": 14,
+    "SOL": 5,
     "DOGE": 2,
     "WIF": 2,
     "ATOM": 2,
@@ -14,23 +14,24 @@
     "DASH": 1,
     "TON": 1,
     "NEO": 1,
+    "NEAR": 1,
     "HBAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 28
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOGE",
@@ -70,6 +71,11 @@
     {
       "symbol": "NEO",
       "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
