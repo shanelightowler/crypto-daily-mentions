@@ -1,32 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - December 4, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pdm7u9/daily_crypto_discussion_december_4_2025_gmt0/",
-  "generated_at_utc": "2025-12-04T16:24:06.856186Z",
+  "generated_at_utc": "2025-12-04T17:19:29.186880Z",
   "results": {
-    "BTC": 18,
-    "ETH": 12,
-    "SOL": 2,
+    "BTC": 25,
+    "ETH": 13,
+    "SOL": 4,
     "DOGE": 2,
+    "WIF": 2,
+    "ATOM": 2,
     "ZEC": 1,
+    "XMR": 1,
     "DASH": 1,
     "TON": 1,
-    "NEO": 1
+    "NEO": 1,
+    "HBAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "DOGE",
@@ -34,8 +38,23 @@
       "count": 2
     },
     {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
@@ -51,6 +70,11 @@
     {
       "symbol": "NEO",
       "name": "NEO",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     }
   ]
