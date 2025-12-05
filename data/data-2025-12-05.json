@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - December 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pehfkj/daily_crypto_discussion_december_5_2025_gmt0/",
-  "generated_at_utc": "2025-12-05T21:15:41.891695Z",
+  "generated_at_utc": "2025-12-05T22:16:09.683275Z",
   "results": {
-    "BTC": 46,
+    "BTC": 48,
     "ETH": 20,
     "ETC": 4,
     "NEAR": 3,
+    "MATIC": 2,
     "ZEC": 2,
     "DOT": 1,
     "OP": 1,
-    "MATIC": 1,
     "FET": 1,
     "SOL": 1,
-    "JUP": 1,
     "LINK": 1,
+    "JUP": 1,
     "AVAX": 1,
     "BAT": 1
   },
@@ -22,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 46
+      "count": 48
     },
     {
       "symbol": "ETH",
@@ -40,6 +40,11 @@
       "count": 3
     },
     {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 2
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 2
@@ -55,11 +60,6 @@
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
-      "count": 1
-    },
-    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 1
@@ -70,13 +70,13 @@
       "count": 1
     },
     {
-      "symbol": "JUP",
-      "name": "Jupiter",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "JUP",
+      "name": "Jupiter",
       "count": 1
     },
     {
