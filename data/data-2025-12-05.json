@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pehfkj/daily_crypto_discussion_december_5_2025_gmt0/",
-  "generated_at_utc": "2025-12-05T16:21:40.685713Z",
+  "generated_at_utc": "2025-12-05T17:15:57.969318Z",
   "results": {
-    "BTC": 25,
-    "ETH": 14,
+    "BTC": 32,
+    "ETH": 13,
+    "ETC": 3,
     "ZEC": 2,
-    "ETC": 2,
     "DOT": 1,
     "OP": 1,
     "FET": 1,
@@ -18,21 +18,21 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 32
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
-    },
-    {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 2
+      "count": 13
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
