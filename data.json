@@ -1,37 +1,46 @@
 {
   "thread_title": "Daily Crypto Discussion - December 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pehfkj/daily_crypto_discussion_december_5_2025_gmt0/",
-  "generated_at_utc": "2025-12-05T22:16:09.683275Z",
+  "generated_at_utc": "2025-12-05T23:16:12.898434Z",
   "results": {
-    "BTC": 48,
-    "ETH": 20,
+    "BTC": 54,
+    "ETH": 25,
     "ETC": 4,
+    "MATIC": 4,
     "NEAR": 3,
-    "MATIC": 2,
     "ZEC": 2,
+    "AVAX": 2,
     "DOT": 1,
+    "BNB": 1,
     "OP": 1,
     "FET": 1,
     "SOL": 1,
-    "LINK": 1,
+    "SUI": 1,
+    "HBAR": 1,
+    "XLM": 1,
     "JUP": 1,
-    "AVAX": 1,
+    "LINK": 1,
     "BAT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 48
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 25
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 4
     },
     {
@@ -40,18 +49,23 @@
       "count": 3
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
-      "count": 2
-    },
-    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 2
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
@@ -70,8 +84,18 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     },
     {
@@ -80,8 +104,8 @@
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
