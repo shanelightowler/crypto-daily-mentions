@@ -1,25 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - December 5, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pehfkj/daily_crypto_discussion_december_5_2025_gmt0/",
-  "generated_at_utc": "2025-12-05T20:19:00.163656Z",
+  "generated_at_utc": "2025-12-05T21:15:41.891695Z",
   "results": {
-    "BTC": 43,
+    "BTC": 46,
     "ETH": 20,
     "ETC": 4,
-    "NEAR": 2,
+    "NEAR": 3,
     "ZEC": 2,
     "DOT": 1,
     "OP": 1,
+    "MATIC": 1,
     "FET": 1,
     "SOL": 1,
+    "JUP": 1,
     "LINK": 1,
-    "AVAX": 1
+    "AVAX": 1,
+    "BAT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 46
     },
     {
       "symbol": "ETH",
@@ -34,7 +37,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ZEC",
@@ -52,6 +55,11 @@
       "count": 1
     },
     {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 1
@@ -62,6 +70,11 @@
       "count": 1
     },
     {
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "count": 1
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
@@ -69,6 +82,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 1
     }
   ]
