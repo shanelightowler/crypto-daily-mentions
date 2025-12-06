@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - December 6, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pfc5fk/daily_crypto_discussion_december_6_2025_gmt0/",
-  "generated_at_utc": "2025-12-06T21:14:23.440431Z",
+  "generated_at_utc": "2025-12-06T22:15:25.280893Z",
   "results": {
-    "BTC": 43,
+    "BTC": 45,
     "ETH": 14,
     "BCH": 7,
     "SOL": 6,
@@ -12,7 +12,9 @@
     "DOT": 3,
     "XMR": 2,
     "TRX": 2,
+    "LINK": 2,
     "NEAR": 2,
+    "ADA": 2,
     "DOGE": 2,
     "ZEC": 1,
     "BNB": 1,
@@ -22,10 +24,8 @@
     "47": 1,
     "KAS": 1,
     "LTC": 1,
-    "LINK": 1,
     "XLM": 1,
     "HBAR": 1,
-    "ADA": 1,
     "CRO": 1,
     "UNI": 1,
     "SHIB": 1,
@@ -41,7 +41,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 45
     },
     {
       "symbol": "ETH",
@@ -84,8 +84,18 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -134,11 +144,6 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 1
@@ -146,11 +151,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
