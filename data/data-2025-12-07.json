@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - December 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pg57vm/daily_crypto_discussion_december_7_2025_gmt0/",
-  "generated_at_utc": "2025-12-07T22:15:05.325078Z",
+  "generated_at_utc": "2025-12-07T23:14:45.284406Z",
   "results": {
-    "BTC": 25,
-    "ETH": 14,
+    "BTC": 32,
+    "ETH": 16,
     "LINK": 3,
+    "SOL": 2,
     "TIA": 2,
-    "DOT": 1,
     "XRP": 1,
-    "SOL": 1,
+    "DOT": 1,
     "AAVE": 1,
     "BNB": 1,
     "SAND": 1,
@@ -19,12 +19,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 32
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "LINK",
@@ -32,14 +32,14 @@
       "count": 3
     },
     {
-      "symbol": "TIA",
-      "name": "Celestia",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 1
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 2
     },
     {
       "symbol": "XRP",
@@ -47,8 +47,8 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
