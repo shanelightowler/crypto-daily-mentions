@@ -1,7 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - December 7, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pg57vm/daily_crypto_discussion_december_7_2025_gmt0/",
-  "generated_at_utc": "2025-12-07T01:26:02.135058Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-12-07T03:24:15.502147Z",
+  "results": {
+    "BTC": 3,
+    "TIA": 2,
+    "ETH": 2
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 3
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 2
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    }
+  ]
 }
