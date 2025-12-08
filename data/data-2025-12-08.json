@@ -1,18 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pgyzau/daily_crypto_discussion_december_8_2025_gmt0/",
-  "generated_at_utc": "2025-12-08T13:32:29.318810Z",
+  "generated_at_utc": "2025-12-08T14:18:38.245125Z",
   "results": {
-    "BTC": 21,
+    "BTC": 24,
     "ALGO": 4,
     "HBAR": 2,
-    "AAVE": 1
+    "AAVE": 1,
+    "DOGE": 1,
+    "PEPE": 1,
+    "ETH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 24
     },
     {
       "symbol": "ALGO",
@@ -27,6 +30,21 @@
     {
       "symbol": "AAVE",
       "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     }
   ]
