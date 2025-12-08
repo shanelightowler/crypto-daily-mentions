@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - December 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pgyzau/daily_crypto_discussion_december_8_2025_gmt0/",
-  "generated_at_utc": "2025-12-08T22:16:29.542007Z",
+  "generated_at_utc": "2025-12-08T23:16:25.005050Z",
   "results": {
-    "BTC": 75,
+    "BTC": 87,
     "ETH": 17,
     "ALGO": 5,
     "BNB": 4,
     "HBAR": 3,
+    "DOT": 3,
     "DOGE": 2,
     "ZEC": 1,
     "AAVE": 1,
-    "DOT": 1,
     "PEPE": 1,
     "LTC": 1,
     "XRP": 1,
     "ADA": 1,
     "LINK": 1,
-    "SOL": 1
+    "SOL": 1,
+    "MSTR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 75
+      "count": 87
     },
     {
       "symbol": "ETH",
@@ -46,6 +47,11 @@
       "count": 3
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 3
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
@@ -58,11 +64,6 @@
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     },
     {
@@ -93,6 +94,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "MSTR",
+      "name": "",
       "count": 1
     }
   ]
