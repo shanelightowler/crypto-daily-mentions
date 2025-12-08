@@ -1,37 +1,59 @@
 {
   "thread_title": "Daily Crypto Discussion - December 8, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pgyzau/daily_crypto_discussion_december_8_2025_gmt0/",
-  "generated_at_utc": "2025-12-08T16:23:09.740683Z",
+  "generated_at_utc": "2025-12-08T17:17:12.278710Z",
   "results": {
-    "BTC": 34,
-    "ALGO": 4,
-    "ETH": 3,
-    "HBAR": 2,
+    "BTC": 53,
+    "ETH": 7,
+    "ALGO": 5,
+    "BNB": 4,
+    "HBAR": 3,
+    "DOGE": 2,
+    "ZEC": 1,
     "AAVE": 1,
-    "DOGE": 1,
+    "DOT": 1,
     "PEPE": 1,
-    "DOT": 1
+    "LTC": 1,
+    "XRP": 1,
+    "ADA": 1,
+    "LINK": 1,
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 4
+      "count": 53
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 7
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 5
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 4
     },
     {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
     },
     {
       "symbol": "AAVE",
@@ -39,8 +61,8 @@
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
@@ -49,8 +71,28 @@
       "count": 1
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
