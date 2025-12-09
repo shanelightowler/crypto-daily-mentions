@@ -1,23 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - December 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1phu0hj/daily_crypto_discussion_december_9_2025_gmt0/",
-  "generated_at_utc": "2025-12-09T11:16:18.469508Z",
+  "generated_at_utc": "2025-12-09T12:37:09.981996Z",
   "results": {
-    "BTC": 9,
+    "BTC": 11,
+    "ETH": 5,
     "SOL": 4,
     "NEAR": 4,
-    "ETH": 3,
     "FET": 3,
     "XRP": 2,
     "ETC": 1,
     "BCH": 1,
+    "AAVE": 1,
+    "LINK": 1,
+    "OP": 1,
+    "ICP": 1,
+    "ZEC": 1,
+    "ASTR": 1,
+    "CAKE": 1,
+    "UNI": 1,
     "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 11
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 5
     },
     {
       "symbol": "SOL",
@@ -28,11 +41,6 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 4
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 3
     },
     {
       "symbol": "FET",
@@ -52,6 +60,46 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "ASTR",
+      "name": "Astar",
+      "count": 1
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
       "count": 1
     },
     {
