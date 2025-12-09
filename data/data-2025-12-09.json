@@ -1,7 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - December 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1phu0hj/daily_crypto_discussion_december_9_2025_gmt0/",
-  "generated_at_utc": "2025-12-09T01:18:37.273145Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-12-09T03:16:08.956364Z",
+  "results": {
+    "BTC": 3,
+    "NEAR": 3,
+    "DOT": 1
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    }
+  ]
 }
