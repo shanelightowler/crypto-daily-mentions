@@ -1,17 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - December 9, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1phu0hj/daily_crypto_discussion_december_9_2025_gmt0/",
-  "generated_at_utc": "2025-12-09T21:14:39.295292Z",
+  "generated_at_utc": "2025-12-09T22:17:26.689422Z",
   "results": {
-    "BTC": 40,
-    "ETH": 14,
+    "BTC": 41,
+    "ETH": 16,
     "SOL": 5,
     "NEAR": 5,
     "ETC": 3,
-    "FET": 3,
     "ADA": 2,
-    "XRP": 2,
     "DOGE": 2,
+    "XRP": 2,
     "BCH": 1,
     "AAVE": 1,
     "ROSE": 1,
@@ -30,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 41
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "SOL",
@@ -53,23 +52,18 @@
       "count": 3
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
-      "count": 3
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 2
     },
     {
