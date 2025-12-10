@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - December 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pioxbn/daily_crypto_discussion_december_10_2025_gmt0/",
-  "generated_at_utc": "2025-12-10T14:19:24.373417Z",
+  "generated_at_utc": "2025-12-10T15:20:51.685583Z",
   "results": {
-    "BTC": 14,
-    "ETH": 10,
+    "BTC": 15,
+    "ETH": 12,
     "ARB": 5,
     "LTC": 3,
     "APE": 2,
     "NEAR": 2,
     "DOT": 2,
+    "XRP": 2,
     "ROSE": 1,
     "AVAX": 1,
-    "XRP": 1,
     "SOL": 1,
     "SUI": 1,
     "BNB": 1,
@@ -26,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "ARB",
@@ -59,6 +59,11 @@
       "count": 2
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "ROSE",
       "name": "Oasis Network",
       "count": 1
@@ -66,11 +71,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     },
     {
