@@ -1,14 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - December 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pioxbn/daily_crypto_discussion_december_10_2025_gmt0/",
-  "generated_at_utc": "2025-12-10T01:20:30.793148Z",
+  "generated_at_utc": "2025-12-10T03:19:46.564818Z",
   "results": {
-    "NEAR": 1
+    "ARB": 5,
+    "BTC": 2,
+    "ETH": 2,
+    "ROSE": 1,
+    "NEAR": 1,
+    "DOT": 1
   },
   "results_list": [
     {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 5
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 2
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     }
   ]
