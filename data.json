@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - December 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pioxbn/daily_crypto_discussion_december_10_2025_gmt0/",
-  "generated_at_utc": "2025-12-10T11:16:04.561277Z",
+  "generated_at_utc": "2025-12-10T12:36:46.345765Z",
   "results": {
-    "BTC": 12,
+    "BTC": 13,
     "ETH": 9,
     "ARB": 5,
     "LTC": 3,
-    "NEAR": 2,
     "APE": 2,
+    "NEAR": 2,
     "DOT": 2,
     "ROSE": 1,
     "AVAX": 1,
@@ -26,7 +26,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "ETH",
@@ -44,13 +44,13 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 2
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
