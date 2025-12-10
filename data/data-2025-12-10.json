@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 10, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pioxbn/daily_crypto_discussion_december_10_2025_gmt0/",
-  "generated_at_utc": "2025-12-10T18:26:01.335795Z",
+  "generated_at_utc": "2025-12-10T19:15:14.805530Z",
   "results": {
-    "BTC": 18,
-    "ETH": 13,
+    "BTC": 21,
+    "ETH": 16,
     "ARB": 5,
     "APE": 4,
     "LTC": 3,
+    "DOT": 3,
     "NEAR": 2,
-    "DOT": 2,
     "XRP": 2,
     "ROSE": 1,
     "AVAX": 1,
+    "LINK": 1,
     "SOL": 1,
     "SUI": 1,
     "BNB": 1,
@@ -21,18 +22,19 @@
     "INJ": 1,
     "ATOM": 1,
     "BONK": 1,
+    "SHIB": 1,
     "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 16
     },
     {
       "symbol": "ARB",
@@ -50,13 +52,13 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -72,6 +74,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
@@ -112,6 +119,11 @@
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
