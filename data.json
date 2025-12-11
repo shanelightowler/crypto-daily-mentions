@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 11, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pjk5ed/daily_crypto_discussion_december_11_2025_gmt0/",
-  "generated_at_utc": "2025-12-11T19:17:14.685465Z",
+  "generated_at_utc": "2025-12-11T20:20:22.800573Z",
   "results": {
-    "BTC": 68,
-    "ETH": 14,
+    "BTC": 69,
+    "ETH": 15,
     "SOL": 3,
     "WIF": 3,
+    "ETC": 3,
     "NEAR": 3,
     "ATOM": 3,
     "DOT": 2,
@@ -14,19 +15,18 @@
     "LINK": 1,
     "KTA": 1,
     "LTC": 1,
-    "DOGE": 1,
-    "ETC": 1
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 68
+      "count": 69
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "SOL",
@@ -36,6 +36,11 @@
     {
       "symbol": "WIF",
       "name": "dogwifhat",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -76,11 +81,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     }
   ]
