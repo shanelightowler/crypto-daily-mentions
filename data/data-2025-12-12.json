@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pkeeqh/daily_crypto_discussion_december_12_2025_gmt0/",
-  "generated_at_utc": "2025-12-12T11:16:47.706182Z",
+  "generated_at_utc": "2025-12-12T12:36:47.578861Z",
   "results": {
     "PEPE": 4,
     "ETH": 3,
     "SOL": 2,
-    "BTC": 1,
+    "BTC": 2,
     "NEAR": 1
   },
   "results_list": [
@@ -28,7 +28,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "NEAR",
