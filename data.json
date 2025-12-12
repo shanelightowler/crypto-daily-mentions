@@ -1,15 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - December 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pkeeqh/daily_crypto_discussion_december_12_2025_gmt0/",
-  "generated_at_utc": "2025-12-12T12:36:47.578861Z",
+  "generated_at_utc": "2025-12-12T13:32:14.097001Z",
   "results": {
+    "DOGE": 5,
     "PEPE": 4,
     "ETH": 3,
+    "BTC": 3,
     "SOL": 2,
-    "BTC": 2,
+    "LINK": 1,
+    "XLM": 1,
+    "XMR": 1,
+    "LTC": 1,
+    "ETC": 1,
     "NEAR": 1
   },
   "results_list": [
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 5
+    },
     {
       "symbol": "PEPE",
       "name": "PEPE",
@@ -21,14 +32,39 @@
       "count": 3
     },
     {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 3
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 2
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "NEAR",
