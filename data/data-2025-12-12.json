@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - December 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pkeeqh/daily_crypto_discussion_december_12_2025_gmt0/",
-  "generated_at_utc": "2025-12-12T20:18:56.612297Z",
+  "generated_at_utc": "2025-12-12T21:15:14.629919Z",
   "results": {
     "BTC": 23,
     "ETH": 12,
-    "DOGE": 6,
+    "DOGE": 7,
     "SOL": 6,
     "PEPE": 6,
     "DOT": 5,
@@ -14,8 +14,6 @@
     "LINK": 2,
     "XLM": 2,
     "NEAR": 2,
-    "XMR": 1,
-    "ETC": 1,
     "ADA": 1,
     "SUI": 1,
     "AVAX": 1,
@@ -36,7 +34,10 @@
     "RENDER": 1,
     "BONK": 1,
     "FET": 1,
-    "TON": 1
+    "XMR": 1,
+    "ETC": 1,
+    "TON": 1,
+    "BCH": 1
   },
   "results_list": [
     {
@@ -52,7 +53,7 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "SOL",
@@ -93,16 +94,6 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
     },
     {
       "symbol": "ADA",
@@ -205,8 +196,23 @@
       "count": 1
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     }
   ]
