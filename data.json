@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - December 12, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pkeeqh/daily_crypto_discussion_december_12_2025_gmt0/",
-  "generated_at_utc": "2025-12-12T22:16:43.209516Z",
+  "generated_at_utc": "2025-12-12T23:16:41.907167Z",
   "results": {
-    "BTC": 23,
+    "BTC": 24,
     "ETH": 12,
     "DOGE": 7,
     "PEPE": 7,
@@ -13,12 +13,13 @@
     "XRP": 3,
     "LINK": 2,
     "XLM": 2,
+    "SHIB": 2,
     "NEAR": 2,
+    "XMR": 2,
     "ADA": 1,
     "SUI": 1,
     "AVAX": 1,
     "HBAR": 1,
-    "SHIB": 1,
     "CRO": 1,
     "UNI": 1,
     "AAVE": 1,
@@ -34,7 +35,6 @@
     "RENDER": 1,
     "BONK": 1,
     "FET": 1,
-    "XMR": 1,
     "ETC": 1,
     "TON": 1,
     "BCH": 1
@@ -43,7 +43,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 24
     },
     {
       "symbol": "ETH",
@@ -91,8 +91,18 @@
       "count": 2
     },
     {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 2
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
@@ -113,11 +123,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
       "count": 1
     },
     {
@@ -193,11 +198,6 @@
     {
       "symbol": "FET",
       "name": "Fetch.ai",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     },
     {
