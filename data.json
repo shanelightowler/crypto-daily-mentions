@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - December 13, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pl8hnv/daily_crypto_discussion_december_13_2025_gmt0/",
-  "generated_at_utc": "2025-12-13T19:12:52.431580Z",
+  "generated_at_utc": "2025-12-13T20:17:55.193979Z",
   "results": {
-    "BTC": 19,
-    "ETH": 4,
+    "BTC": 21,
+    "ETH": 5,
     "42": 2,
     "PEPE": 2,
-    "MSTR": 1
+    "MSTR": 1,
+    "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "42",
@@ -33,6 +34,11 @@
     {
       "symbol": "MSTR",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     }
   ]
