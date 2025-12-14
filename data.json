@@ -1,29 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - December 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pm14uy/daily_crypto_discussion_december_14_2025_gmt0/",
-  "generated_at_utc": "2025-12-14T20:17:53.297669Z",
+  "generated_at_utc": "2025-12-14T21:15:03.063345Z",
   "results": {
-    "BTC": 33,
-    "ETH": 13,
+    "BTC": 37,
+    "ETH": 14,
     "DOT": 6,
     "ALGO": 3,
+    "PEPE": 2,
     "ETC": 1,
-    "PEPE": 1,
+    "BNB": 1,
     "NIGHT": 1,
     "MEW": 1,
     "WLFI": 1,
+    "ARB": 1,
+    "MATIC": 1,
     "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 37
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 14
     },
     {
       "symbol": "DOT",
@@ -36,13 +39,18 @@
       "count": 3
     },
     {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
@@ -58,6 +66,16 @@
     {
       "symbol": "WLFI",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
