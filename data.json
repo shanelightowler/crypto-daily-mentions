@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pm14uy/daily_crypto_discussion_december_14_2025_gmt0/",
-  "generated_at_utc": "2025-12-14T16:19:34.020470Z",
+  "generated_at_utc": "2025-12-14T17:14:20.963457Z",
   "results": {
-    "BTC": 16,
-    "ETH": 9,
+    "BTC": 25,
+    "ETH": 11,
+    "DOT": 5,
     "ALGO": 3,
-    "DOT": 1,
     "ETC": 1,
     "NIGHT": 1,
     "MEW": 1,
@@ -17,22 +17,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 11
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 5
     },
     {
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 3
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
-      "count": 1
     },
     {
       "symbol": "ETC",
