@@ -1,7 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - December 14, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pm14uy/daily_crypto_discussion_december_14_2025_gmt0/",
-  "generated_at_utc": "2025-12-14T03:26:01.922859Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2025-12-14T04:33:54.334615Z",
+  "results": {
+    "ALGO": 2,
+    "MEW": 1,
+    "WLFI": 1
+  },
+  "results_list": [
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "MEW",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "WLFI",
+      "name": "",
+      "count": 1
+    }
+  ]
 }
