@@ -1,27 +1,34 @@
 {
   "thread_title": "Daily Crypto Discussion - December 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pmualy/daily_crypto_discussion_december_15_2025_gmt0/",
-  "generated_at_utc": "2025-12-15T17:21:44.771853Z",
+  "generated_at_utc": "2025-12-15T18:27:05.034892Z",
   "results": {
-    "BTC": 52,
-    "ETH": 19,
+    "BTC": 64,
+    "ETH": 20,
     "XRP": 10,
     "NEAR": 4,
+    "TRX": 3,
+    "ETC": 3,
+    "BCH": 2,
     "AAVE": 1,
+    "XLM": 1,
     "TRUMP": 1,
+    "BNB": 1,
     "HBAR": 1,
-    "ETC": 1
+    "DASH": 1,
+    "ADA": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 52
+      "count": 64
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "XRP",
@@ -34,8 +41,28 @@
       "count": 4
     },
     {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
       "symbol": "AAVE",
       "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 1
     },
     {
@@ -44,13 +71,28 @@
       "count": 1
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
