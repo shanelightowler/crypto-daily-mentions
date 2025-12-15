@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - December 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pmualy/daily_crypto_discussion_december_15_2025_gmt0/",
-  "generated_at_utc": "2025-12-15T20:20:03.520785Z",
+  "generated_at_utc": "2025-12-15T21:16:29.243697Z",
   "results": {
-    "BTC": 72,
-    "ETH": 22,
-    "XRP": 11,
+    "BTC": 77,
+    "ETH": 29,
+    "XRP": 12,
     "NEAR": 7,
     "BCH": 5,
     "MATIC": 3,
     "ETC": 3,
     "TRX": 3,
     "XLM": 2,
+    "BNB": 2,
     "AAVE": 1,
     "ATOM": 1,
+    "TON": 1,
     "TRUMP": 1,
     "HBAR": 1,
     "XMR": 1,
-    "BNB": 1,
     "DASH": 1,
     "ADA": 1,
     "SUI": 1
@@ -26,17 +27,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 72
+      "count": 77
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 29
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "NEAR",
@@ -69,6 +70,11 @@
       "count": 2
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 2
+    },
+    {
       "symbol": "AAVE",
       "name": "Aave",
       "count": 1
@@ -76,6 +82,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -91,11 +102,6 @@
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     },
     {
