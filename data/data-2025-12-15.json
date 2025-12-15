@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - December 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pmualy/daily_crypto_discussion_december_15_2025_gmt0/",
-  "generated_at_utc": "2025-12-15T22:17:17.600517Z",
+  "generated_at_utc": "2025-12-15T23:17:03.733558Z",
   "results": {
-    "BTC": 79,
+    "BTC": 89,
     "ETH": 31,
-    "XRP": 14,
+    "XRP": 15,
     "NEAR": 8,
     "BCH": 5,
     "ETC": 4,
@@ -13,9 +13,9 @@
     "TRX": 3,
     "XLM": 2,
     "BNB": 2,
-    "TON": 1,
     "AAVE": 1,
     "ATOM": 1,
+    "TON": 1,
     "TRUMP": 1,
     "HBAR": 1,
     "XMR": 1,
@@ -27,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 79
+      "count": 89
     },
     {
       "symbol": "ETH",
@@ -37,7 +37,7 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "NEAR",
@@ -75,11 +75,6 @@
       "count": 2
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
-    },
-    {
       "symbol": "AAVE",
       "name": "Aave",
       "count": 1
@@ -87,6 +82,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
