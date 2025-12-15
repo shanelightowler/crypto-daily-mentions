@@ -1,51 +1,56 @@
 {
   "thread_title": "Daily Crypto Discussion - December 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pmualy/daily_crypto_discussion_december_15_2025_gmt0/",
-  "generated_at_utc": "2025-12-15T19:17:26.039616Z",
+  "generated_at_utc": "2025-12-15T20:20:03.520785Z",
   "results": {
-    "BTC": 67,
-    "ETH": 21,
-    "XRP": 10,
-    "NEAR": 4,
-    "BCH": 3,
+    "BTC": 72,
+    "ETH": 22,
+    "XRP": 11,
+    "NEAR": 7,
+    "BCH": 5,
+    "MATIC": 3,
     "ETC": 3,
     "TRX": 3,
-    "MATIC": 2,
     "XLM": 2,
     "AAVE": 1,
     "ATOM": 1,
     "TRUMP": 1,
     "HBAR": 1,
+    "XMR": 1,
+    "BNB": 1,
     "DASH": 1,
     "ADA": 1,
-    "SUI": 1,
-    "XMR": 1,
-    "BNB": 1
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 67
+      "count": 72
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 7
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 5
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 3
     },
     {
@@ -57,11 +62,6 @@
       "symbol": "TRX",
       "name": "TRON",
       "count": 3
-    },
-    {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
-      "count": 2
     },
     {
       "symbol": "XLM",
@@ -89,6 +89,16 @@
       "count": 1
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
       "symbol": "DASH",
       "name": "Dash",
       "count": 1
@@ -101,16 +111,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     }
   ]
