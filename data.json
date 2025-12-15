@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - December 15, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pmualy/daily_crypto_discussion_december_15_2025_gmt0/",
-  "generated_at_utc": "2025-12-15T13:37:59.587974Z",
+  "generated_at_utc": "2025-12-15T14:22:04.519301Z",
   "results": {
-    "BTC": 27,
+    "BTC": 33,
     "ETH": 13,
-    "NEAR": 3,
+    "NEAR": 4,
     "TRUMP": 1,
+    "HBAR": 1,
     "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 27
+      "count": 33
     },
     {
       "symbol": "ETH",
@@ -23,11 +24,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "TRUMP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
