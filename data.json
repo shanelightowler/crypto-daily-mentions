@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - December 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pnokaj/daily_crypto_discussion_december_16_2025_gmt0/",
-  "generated_at_utc": "2025-12-16T20:20:21.617738Z",
+  "generated_at_utc": "2025-12-16T21:17:49.037469Z",
   "results": {
-    "BTC": 35,
-    "ETH": 18,
+    "BTC": 39,
+    "ETH": 19,
     "ATOM": 4,
-    "BCH": 2,
     "SOL": 2,
+    "BCH": 2,
     "DOT": 2,
     "42": 1,
-    "XMR": 1,
     "FET": 1,
     "ETC": 1,
+    "XMR": 1,
     "HBAR": 1,
     "ZEC": 1,
     "PEPE": 1,
@@ -23,12 +23,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 39
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "ATOM",
@@ -36,13 +36,13 @@
       "count": 4
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
@@ -56,11 +56,6 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 1
@@ -68,6 +63,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
