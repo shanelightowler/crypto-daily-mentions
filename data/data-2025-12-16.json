@@ -1,24 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - December 16, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pnokaj/daily_crypto_discussion_december_16_2025_gmt0/",
-  "generated_at_utc": "2025-12-16T14:20:46.259033Z",
+  "generated_at_utc": "2025-12-16T15:20:23.064683Z",
   "results": {
-    "BTC": 23,
+    "BTC": 25,
     "ETH": 12,
+    "ATOM": 4,
+    "DOT": 2,
+    "42": 1,
     "FET": 1,
     "SOL": 1,
+    "ETC": 1,
+    "HBAR": 1,
     "PEPE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 12
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 4
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 2
+    },
+    {
+      "symbol": "42",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "FET",
@@ -28,6 +48,16 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
