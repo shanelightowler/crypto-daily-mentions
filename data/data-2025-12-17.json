@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1poj4qs/daily_crypto_discussion_december_17_2025_gmt0/",
-  "generated_at_utc": "2025-12-17T22:16:48.422628Z",
+  "generated_at_utc": "2025-12-17T23:16:44.620500Z",
   "results": {
-    "BTC": 93,
+    "BTC": 94,
     "ETH": 34,
+    "XRP": 34,
+    "NEAR": 7,
     "ETC": 7,
-    "NEAR": 6,
     "XMR": 5,
     "BCH": 4,
     "AVAX": 3,
@@ -19,14 +20,13 @@
     "SHIB": 1,
     "ROSE": 1,
     "MKR": 1,
-    "SOL": 1,
-    "XRP": 1
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 93
+      "count": 94
     },
     {
       "symbol": "ETH",
@@ -34,14 +34,19 @@
       "count": 34
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 7
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 34
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 7
     },
     {
       "symbol": "XMR",
@@ -106,11 +111,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     }
   ]
