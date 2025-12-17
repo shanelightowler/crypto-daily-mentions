@@ -1,30 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - December 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1poj4qs/daily_crypto_discussion_december_17_2025_gmt0/",
-  "generated_at_utc": "2025-12-17T18:27:19.863525Z",
+  "generated_at_utc": "2025-12-17T19:17:12.352082Z",
   "results": {
-    "BTC": 71,
-    "ETH": 28,
+    "BTC": 75,
+    "ETH": 30,
     "ETC": 5,
     "XMR": 4,
+    "BCH": 3,
     "CAKE": 3,
-    "BCH": 2,
     "BNB": 2,
     "NEAR": 2,
+    "LINK": 1,
     "TON": 1,
     "SHIB": 1,
+    "ROSE": 1,
     "MKR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 71
+      "count": 75
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 28
+      "count": 30
     },
     {
       "symbol": "ETC",
@@ -37,14 +39,14 @@
       "count": 4
     },
     {
-      "symbol": "CAKE",
-      "name": "",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 3
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 2
+      "symbol": "CAKE",
+      "name": "",
+      "count": 3
     },
     {
       "symbol": "BNB",
@@ -57,6 +59,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 1
@@ -64,6 +71,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     },
     {
