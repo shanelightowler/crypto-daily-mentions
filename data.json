@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - December 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1poj4qs/daily_crypto_discussion_december_17_2025_gmt0/",
-  "generated_at_utc": "2025-12-17T12:37:49.960733Z",
+  "generated_at_utc": "2025-12-17T13:31:11.955873Z",
   "results": {
-    "BTC": 51,
-    "ETH": 24,
+    "BTC": 54,
+    "ETH": 25,
     "ETC": 3,
+    "CAKE": 3,
     "BCH": 2,
     "XMR": 2,
-    "CAKE": 2,
     "SHIB": 1,
     "TON": 1,
     "MKR": 1
@@ -17,16 +17,21 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "CAKE",
+      "name": "",
       "count": 3
     },
     {
@@ -37,11 +42,6 @@
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 2
-    },
-    {
-      "symbol": "CAKE",
-      "name": "",
       "count": 2
     },
     {
