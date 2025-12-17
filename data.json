@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 17, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1poj4qs/daily_crypto_discussion_december_17_2025_gmt0/",
-  "generated_at_utc": "2025-12-17T20:20:27.867409Z",
+  "generated_at_utc": "2025-12-17T21:17:44.763157Z",
   "results": {
-    "BTC": 87,
-    "ETH": 32,
+    "BTC": 92,
+    "ETH": 33,
     "ETC": 7,
-    "NEAR": 5,
+    "NEAR": 6,
     "XMR": 5,
     "BCH": 4,
     "AVAX": 3,
@@ -14,21 +14,23 @@
     "BNB": 2,
     "MATIC": 1,
     "LINK": 1,
+    "DOGE": 1,
     "TON": 1,
     "SHIB": 1,
     "ROSE": 1,
-    "MKR": 1
+    "MKR": 1,
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 87
+      "count": 92
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 33
     },
     {
       "symbol": "ETC",
@@ -38,7 +40,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "XMR",
@@ -76,6 +78,11 @@
       "count": 1
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 1
@@ -93,6 +100,11 @@
     {
       "symbol": "MKR",
       "name": "Maker",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
