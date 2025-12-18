@@ -1,38 +1,43 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T14:19:16.132812Z",
+  "generated_at_utc": "2025-12-18T15:19:37.320757Z",
   "results": {
-    "BTC": 33,
-    "XMR": 8,
-    "NEAR": 6,
+    "BTC": 38,
+    "XMR": 9,
+    "ETH": 7,
     "HBAR": 6,
-    "ETH": 5,
+    "NEAR": 6,
+    "DOGE": 2,
     "ETC": 2,
+    "ADA": 2,
     "BONK": 2,
+    "XRP": 1,
+    "XLM": 1,
+    "LTC": 1,
+    "ZEC": 1,
+    "DASH": 1,
     "SOL": 1,
-    "DOGE": 1,
     "ALGO": 1,
     "WIF": 1,
     "GRT": 1,
-    "ADA": 1,
     "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 38
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 8
+      "count": 9
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 6
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 7
     },
     {
       "symbol": "HBAR",
@@ -40,13 +45,23 @@
       "count": 6
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 5
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 6
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -55,13 +70,33 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
@@ -77,11 +112,6 @@
     {
       "symbol": "GRT",
       "name": "The Graph",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
