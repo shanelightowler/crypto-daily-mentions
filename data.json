@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T18:26:29.609999Z",
+  "generated_at_utc": "2025-12-18T19:15:43.852147Z",
   "results": {
-    "BTC": 55,
-    "ETH": 15,
+    "BTC": 63,
+    "ETH": 18,
     "XMR": 10,
-    "ETC": 8,
+    "ETC": 9,
     "HBAR": 6,
     "NEAR": 6,
+    "SOL": 4,
     "DOGE": 3,
     "XRP": 3,
     "XLM": 3,
     "ALGO": 3,
-    "SOL": 3,
+    "ATOM": 3,
     "ADA": 2,
     "LTC": 2,
+    "DOT": 2,
     "BONK": 2,
-    "ATOM": 2,
     "ZEC": 1,
     "DASH": 1,
     "WIF": 1,
@@ -28,12 +29,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 55
+      "count": 63
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 18
     },
     {
       "symbol": "XMR",
@@ -43,7 +44,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "HBAR",
@@ -54,6 +55,11 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 6
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
     },
     {
       "symbol": "DOGE",
@@ -76,8 +82,8 @@
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 3
     },
     {
@@ -91,13 +97,13 @@
       "count": 2
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
