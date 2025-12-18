@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T22:16:50.477125Z",
+  "generated_at_utc": "2025-12-18T23:16:46.401195Z",
   "results": {
-    "BTC": 107,
-    "ETH": 21,
+    "BTC": 109,
+    "ETH": 22,
     "XMR": 11,
     "ETC": 10,
+    "ADA": 7,
     "HBAR": 7,
     "NEAR": 7,
-    "ADA": 6,
     "XRP": 6,
     "BCH": 5,
     "SOL": 5,
     "DOGE": 4,
     "ALGO": 3,
     "XLM": 3,
+    "LTC": 3,
     "ATOM": 3,
-    "LTC": 2,
     "DOT": 2,
     "BONK": 2,
     "PEPE": 1,
@@ -31,12 +31,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 107
+      "count": 109
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "XMR",
@@ -49,6 +49,11 @@
       "count": 10
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 7
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 7
@@ -57,11 +62,6 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 7
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 6
     },
     {
       "symbol": "XRP",
@@ -94,14 +94,14 @@
       "count": 3
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 3
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 3
     },
     {
       "symbol": "DOT",
