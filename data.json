@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T16:24:50.276753Z",
+  "generated_at_utc": "2025-12-18T17:20:28.439724Z",
   "results": {
-    "BTC": 38,
-    "XMR": 9,
-    "ETH": 7,
+    "BTC": 45,
+    "XMR": 10,
+    "ETH": 9,
     "HBAR": 6,
     "NEAR": 6,
+    "DOGE": 3,
+    "XLM": 3,
+    "ETC": 3,
+    "XRP": 2,
+    "LTC": 2,
     "ADA": 2,
-    "DOGE": 2,
-    "XLM": 2,
-    "ETC": 2,
     "BONK": 2,
-    "XRP": 1,
-    "LTC": 1,
     "ZEC": 1,
     "DASH": 1,
     "SOL": 1,
@@ -27,17 +27,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 38
+      "count": 45
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 7
+      "count": 9
     },
     {
       "symbol": "HBAR",
@@ -50,39 +50,39 @@
       "count": 6
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 2
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "XLM",
       "name": "Stellar",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
       "symbol": "BONK",
       "name": "BONK",
       "count": 2
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
     },
     {
       "symbol": "ZEC",
