@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T13:34:03.730643Z",
+  "generated_at_utc": "2025-12-18T14:19:16.132812Z",
   "results": {
-    "BTC": 28,
+    "BTC": 33,
     "XMR": 8,
     "NEAR": 6,
     "HBAR": 6,
-    "ETH": 4,
+    "ETH": 5,
+    "ETC": 2,
+    "BONK": 2,
     "SOL": 1,
     "DOGE": 1,
-    "BONK": 1,
-    "ETC": 1,
     "ALGO": 1,
+    "WIF": 1,
     "GRT": 1,
     "ADA": 1,
     "SUI": 1
@@ -21,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 33
     },
     {
       "symbol": "XMR",
@@ -41,7 +42,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 2
     },
     {
       "symbol": "SOL",
@@ -54,18 +65,13 @@
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "WIF",
+      "name": "dogwifhat",
       "count": 1
     },
     {
