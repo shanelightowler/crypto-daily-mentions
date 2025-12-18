@@ -1,28 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T21:15:28.072656Z",
+  "generated_at_utc": "2025-12-18T22:16:50.477125Z",
   "results": {
-    "BTC": 99,
-    "ETH": 20,
-    "XMR": 10,
+    "BTC": 107,
+    "ETH": 21,
+    "XMR": 11,
     "ETC": 10,
     "HBAR": 7,
     "NEAR": 7,
     "ADA": 6,
-    "XRP": 5,
+    "XRP": 6,
+    "BCH": 5,
     "SOL": 5,
     "DOGE": 4,
     "ALGO": 3,
     "XLM": 3,
     "ATOM": 3,
     "LTC": 2,
-    "BCH": 2,
     "DOT": 2,
     "BONK": 2,
+    "PEPE": 1,
     "ZEC": 1,
     "DASH": 1,
-    "PEPE": 1,
     "WIF": 1,
     "GRT": 1,
     "SUI": 1
@@ -31,17 +31,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 99
+      "count": 107
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 20
+      "count": 21
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "ETC",
@@ -66,6 +66,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 6
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 5
     },
     {
@@ -99,11 +104,6 @@
       "count": 2
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 2
@@ -114,6 +114,11 @@
       "count": 2
     },
     {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 1
@@ -121,11 +126,6 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
       "count": 1
     },
     {
