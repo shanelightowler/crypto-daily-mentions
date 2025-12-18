@@ -1,26 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T19:15:43.852147Z",
+  "generated_at_utc": "2025-12-18T20:17:32.661396Z",
   "results": {
-    "BTC": 63,
-    "ETH": 18,
+    "BTC": 84,
+    "ETH": 20,
     "XMR": 10,
-    "ETC": 9,
-    "HBAR": 6,
+    "ETC": 10,
+    "HBAR": 7,
+    "ADA": 6,
     "NEAR": 6,
-    "SOL": 4,
-    "DOGE": 3,
-    "XRP": 3,
-    "XLM": 3,
+    "SOL": 5,
+    "DOGE": 4,
+    "XRP": 4,
     "ALGO": 3,
+    "XLM": 3,
     "ATOM": 3,
-    "ADA": 2,
     "LTC": 2,
+    "BCH": 2,
     "DOT": 2,
     "BONK": 2,
     "ZEC": 1,
     "DASH": 1,
+    "PEPE": 1,
     "WIF": 1,
     "GRT": 1,
     "SUI": 1
@@ -29,12 +31,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 84
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "XMR",
@@ -44,11 +46,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 7
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 6
     },
     {
@@ -59,16 +66,21 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 4
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 3
     },
     {
@@ -77,23 +89,18 @@
       "count": 3
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 3
-    },
-    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 2
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
@@ -114,6 +121,11 @@
     {
       "symbol": "DASH",
       "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
