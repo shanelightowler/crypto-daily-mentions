@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T17:20:28.439724Z",
+  "generated_at_utc": "2025-12-18T18:26:29.609999Z",
   "results": {
-    "BTC": 45,
+    "BTC": 55,
+    "ETH": 15,
     "XMR": 10,
-    "ETH": 9,
+    "ETC": 8,
     "HBAR": 6,
     "NEAR": 6,
     "DOGE": 3,
+    "XRP": 3,
     "XLM": 3,
-    "ETC": 3,
-    "XRP": 2,
-    "LTC": 2,
+    "ALGO": 3,
+    "SOL": 3,
     "ADA": 2,
+    "LTC": 2,
     "BONK": 2,
+    "ATOM": 2,
     "ZEC": 1,
     "DASH": 1,
-    "SOL": 1,
-    "ALGO": 1,
     "WIF": 1,
     "GRT": 1,
     "SUI": 1
@@ -27,7 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 55
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 15
     },
     {
       "symbol": "XMR",
@@ -35,9 +41,9 @@
       "count": 10
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 9
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 8
     },
     {
       "symbol": "HBAR",
@@ -55,18 +61,28 @@
       "count": 3
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 3
+    },
+    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 3
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -75,13 +91,13 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 2
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 2
     },
     {
@@ -92,16 +108,6 @@
     {
       "symbol": "DASH",
       "name": "Dash",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 1
     },
     {
