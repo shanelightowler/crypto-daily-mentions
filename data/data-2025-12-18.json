@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T15:19:37.320757Z",
+  "generated_at_utc": "2025-12-18T16:24:50.276753Z",
   "results": {
     "BTC": 38,
     "XMR": 9,
     "ETH": 7,
     "HBAR": 6,
     "NEAR": 6,
-    "DOGE": 2,
-    "ETC": 2,
     "ADA": 2,
+    "DOGE": 2,
+    "XLM": 2,
+    "ETC": 2,
     "BONK": 2,
     "XRP": 1,
-    "XLM": 1,
     "LTC": 1,
     "ZEC": 1,
     "DASH": 1,
@@ -50,18 +50,23 @@
       "count": 6
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XLM",
+      "name": "Stellar",
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -72,11 +77,6 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "XLM",
-      "name": "Stellar",
       "count": 1
     },
     {
