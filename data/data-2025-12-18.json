@@ -1,25 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - December 18, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ppdmkl/daily_crypto_discussion_december_18_2025_gmt0/",
-  "generated_at_utc": "2025-12-18T04:31:06.127301Z",
+  "generated_at_utc": "2025-12-18T05:19:17.887716Z",
   "results": {
-    "BTC": 7,
-    "HBAR": 2,
+    "BTC": 8,
+    "HBAR": 6,
     "DOGE": 1,
     "BONK": 1,
     "ETC": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "GRT": 1,
+    "ADA": 1,
+    "SUI": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 2
+      "count": 6
     },
     {
       "symbol": "DOGE",
@@ -39,6 +42,21 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "GRT",
+      "name": "The Graph",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     }
   ]
