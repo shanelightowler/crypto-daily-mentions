@@ -1,19 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pq7osg/daily_crypto_discussion_december_19_2025_gmt0/",
-  "generated_at_utc": "2025-12-19T13:30:37.344489Z",
+  "generated_at_utc": "2025-12-19T14:17:49.804114Z",
   "results": {
-    "BTC": 19,
-    "ETH": 6,
+    "BTC": 20,
+    "ETH": 7,
     "NEAR": 4,
     "BCH": 3,
     "ADA": 2,
+    "ETC": 2,
     "SOL": 2,
     "XRP": 2,
     "LINK": 2,
     "LTC": 2,
     "HBAR": 2,
-    "ETC": 1,
+    "MATIC": 2,
+    "TRX": 1,
     "ZEC": 1,
     "TON": 1,
     "SHIB": 1,
@@ -24,12 +26,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "NEAR",
@@ -44,6 +46,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -72,8 +79,13 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 2
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     },
     {
