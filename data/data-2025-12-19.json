@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - December 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pq7osg/daily_crypto_discussion_december_19_2025_gmt0/",
-  "generated_at_utc": "2025-12-19T08:24:37.079131Z",
+  "generated_at_utc": "2025-12-19T09:20:45.748241Z",
   "results": {
     "BTC": 14,
     "NEAR": 3,
     "BCH": 3,
     "SOL": 2,
     "ADA": 2,
+    "ETC": 1,
     "TON": 1,
     "ZEC": 1,
     "ETH": 1,
@@ -40,6 +41,11 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "TON",
