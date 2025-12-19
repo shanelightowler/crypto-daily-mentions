@@ -1,17 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pq7osg/daily_crypto_discussion_december_19_2025_gmt0/",
-  "generated_at_utc": "2025-12-19T11:15:39.080851Z",
+  "generated_at_utc": "2025-12-19T12:35:45.808763Z",
   "results": {
-    "BTC": 15,
+    "BTC": 18,
+    "ETH": 4,
     "NEAR": 3,
     "BCH": 3,
-    "SOL": 2,
     "ADA": 2,
+    "SOL": 2,
+    "XRP": 2,
+    "LINK": 2,
+    "LTC": 2,
+    "HBAR": 2,
     "ETC": 1,
-    "TON": 1,
     "ZEC": 1,
-    "ETH": 1,
+    "TON": 1,
     "SHIB": 1,
     "DOGE": 1,
     "TRUMP": 1
@@ -20,7 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 18
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
     },
     {
       "symbol": "NEAR",
@@ -33,13 +42,33 @@
       "count": 3
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -48,18 +77,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
-    },
-    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
