@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 19, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pq7osg/daily_crypto_discussion_december_19_2025_gmt0/",
-  "generated_at_utc": "2025-12-19T19:14:13.827191Z",
+  "generated_at_utc": "2025-12-19T20:19:18.253542Z",
   "results": {
     "BTC": 27,
     "ETH": 8,
     "NEAR": 4,
-    "BCH": 3,
+    "BCH": 4,
     "ADA": 2,
     "ETC": 2,
     "SOL": 2,
@@ -19,6 +19,7 @@
     "ZEC": 1,
     "TON": 1,
     "CRO": 1,
+    "PEPE": 1,
     "SHIB": 1,
     "DOGE": 1,
     "TRUMP": 1
@@ -42,7 +43,7 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
@@ -102,6 +103,11 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 1
     },
     {
