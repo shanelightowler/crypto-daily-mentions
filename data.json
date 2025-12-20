@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T12:32:10.876835Z",
+  "generated_at_utc": "2025-12-20T13:24:22.250708Z",
   "results": {
     "BTC": 5,
     "XRP": 4,
@@ -11,7 +11,8 @@
     "ETH": 2,
     "ZEC": 2,
     "UNI": 1,
-    "CHZ": 1
+    "CHZ": 1,
+    "DASH": 1
   },
   "results_list": [
     {
@@ -57,6 +58,11 @@
     {
       "symbol": "CHZ",
       "name": "Chiliz",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     }
   ]
