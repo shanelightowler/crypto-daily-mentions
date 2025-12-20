@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T14:14:56.498496Z",
+  "generated_at_utc": "2025-12-20T15:15:39.872542Z",
   "results": {
-    "BTC": 6,
+    "BTC": 10,
+    "XMR": 6,
     "XRP": 5,
-    "XMR": 4,
     "ADA": 4,
-    "ETC": 2,
+    "ETC": 3,
     "BCH": 2,
+    "NIGHT": 2,
     "ETH": 2,
     "ZEC": 2,
+    "NEAR": 2,
     "ARB": 1,
-    "UNI": 1,
-    "NIGHT": 1,
     "SOL": 1,
+    "UNI": 1,
     "CHZ": 1,
     "DASH": 1
   },
@@ -22,17 +23,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 10
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 6
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "count": 5
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 4
     },
     {
       "symbol": "ADA",
@@ -42,11 +43,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
+      "symbol": "NIGHT",
+      "name": "",
       "count": 2
     },
     {
@@ -60,23 +66,23 @@
       "count": 2
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 1
     },
     {
-      "symbol": "UNI",
-      "name": "Uniswap",
-      "count": 1
-    },
-    {
-      "symbol": "NIGHT",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
       "count": 1
     },
     {
