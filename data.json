@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T19:12:35.468108Z",
+  "generated_at_utc": "2025-12-20T20:17:16.200832Z",
   "results": {
-    "BTC": 29,
+    "BTC": 33,
+    "ETH": 11,
+    "XRP": 11,
     "XMR": 8,
-    "XRP": 7,
-    "ETH": 6,
     "ADA": 5,
     "ETC": 4,
     "LINK": 3,
+    "SOL": 3,
     "NEAR": 3,
     "BCH": 2,
     "NIGHT": 2,
-    "ZEC": 2,
     "LTC": 2,
     "HBAR": 2,
+    "ZEC": 2,
     "ARB": 1,
     "TRX": 1,
-    "SOL": 1,
     "UNI": 1,
     "CHZ": 1,
     "DASH": 1
@@ -27,22 +27,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 33
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 11
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 11
     },
     {
       "symbol": "XMR",
       "name": "Monero",
       "count": 8
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 7
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 6
     },
     {
       "symbol": "ADA",
@@ -57,6 +57,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -75,11 +80,6 @@
       "count": 2
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 2
-    },
-    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
@@ -90,6 +90,11 @@
       "count": 2
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
+    },
+    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 1
@@ -97,11 +102,6 @@
     {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
