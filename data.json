@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T11:13:09.081674Z",
+  "generated_at_utc": "2025-12-20T12:32:10.876835Z",
   "results": {
     "BTC": 5,
+    "XRP": 4,
+    "XMR": 3,
     "ETC": 2,
     "BCH": 2,
-    "XRP": 2,
     "ETH": 2,
-    "XMR": 2,
+    "ZEC": 2,
     "UNI": 1,
     "CHZ": 1
   },
@@ -17,6 +18,16 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -29,18 +40,13 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 2
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 2
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 2
     },
     {
