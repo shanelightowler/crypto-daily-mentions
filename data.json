@@ -1,21 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T17:13:59.598040Z",
+  "generated_at_utc": "2025-12-20T18:21:54.062326Z",
   "results": {
-    "BTC": 19,
+    "BTC": 25,
     "XMR": 8,
     "XRP": 5,
+    "ADA": 5,
     "ETC": 4,
     "ETH": 4,
-    "ADA": 4,
+    "NEAR": 3,
     "BCH": 2,
     "NIGHT": 2,
     "ZEC": 2,
-    "NEAR": 2,
+    "ARB": 1,
     "TRX": 1,
     "LINK": 1,
-    "ARB": 1,
     "SOL": 1,
     "UNI": 1,
     "CHZ": 1,
@@ -25,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 25
     },
     {
       "symbol": "XMR",
@@ -35,6 +35,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 5
     },
     {
@@ -48,9 +53,9 @@
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 4
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "BCH",
@@ -68,9 +73,9 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
     },
     {
       "symbol": "TRX",
@@ -80,11 +85,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 1
-    },
-    {
-      "symbol": "ARB",
-      "name": "Arbitrum",
       "count": 1
     },
     {
