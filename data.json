@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T20:17:16.200832Z",
+  "generated_at_utc": "2025-12-20T21:14:10.770839Z",
   "results": {
     "BTC": 33,
     "ETH": 11,
     "XRP": 11,
     "XMR": 8,
-    "ADA": 5,
+    "ADA": 6,
     "ETC": 4,
     "LINK": 3,
     "SOL": 3,
@@ -47,7 +47,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETC",
