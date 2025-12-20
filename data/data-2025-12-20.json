@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T16:19:42.318834Z",
+  "generated_at_utc": "2025-12-20T17:13:59.598040Z",
   "results": {
-    "BTC": 14,
+    "BTC": 19,
     "XMR": 8,
     "XRP": 5,
+    "ETC": 4,
+    "ETH": 4,
     "ADA": 4,
-    "ETC": 3,
     "BCH": 2,
     "NIGHT": 2,
-    "ETH": 2,
     "ZEC": 2,
     "NEAR": 2,
+    "TRX": 1,
+    "LINK": 1,
     "ARB": 1,
     "SOL": 1,
     "UNI": 1,
@@ -23,7 +25,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 14
+      "count": 19
     },
     {
       "symbol": "XMR",
@@ -36,14 +38,19 @@
       "count": 5
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 4
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 4
     },
     {
       "symbol": "BCH",
@@ -56,11 +63,6 @@
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 2
-    },
-    {
       "symbol": "ZEC",
       "name": "Zcash",
       "count": 2
@@ -69,6 +71,16 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
     },
     {
       "symbol": "ARB",
