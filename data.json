@@ -1,21 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - December 20, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pr1f1f/daily_crypto_discussion_december_20_2025_gmt0/",
-  "generated_at_utc": "2025-12-20T18:21:54.062326Z",
+  "generated_at_utc": "2025-12-20T19:12:35.468108Z",
   "results": {
-    "BTC": 25,
+    "BTC": 29,
     "XMR": 8,
-    "XRP": 5,
+    "XRP": 7,
+    "ETH": 6,
     "ADA": 5,
     "ETC": 4,
-    "ETH": 4,
+    "LINK": 3,
     "NEAR": 3,
     "BCH": 2,
     "NIGHT": 2,
     "ZEC": 2,
+    "LTC": 2,
+    "HBAR": 2,
     "ARB": 1,
     "TRX": 1,
-    "LINK": 1,
     "SOL": 1,
     "UNI": 1,
     "CHZ": 1,
@@ -25,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 29
     },
     {
       "symbol": "XMR",
@@ -35,7 +37,12 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
+      "count": 7
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 6
     },
     {
       "symbol": "ADA",
@@ -48,9 +55,9 @@
       "count": 4
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 4
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "NEAR",
@@ -73,6 +80,16 @@
       "count": 2
     },
     {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 2
+    },
+    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 1
@@ -80,11 +97,6 @@
     {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     },
     {
