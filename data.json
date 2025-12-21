@@ -1,26 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - December 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1prtp1n/daily_crypto_discussion_december_21_2025_gmt0/",
-  "generated_at_utc": "2025-12-21T12:33:06.036940Z",
+  "generated_at_utc": "2025-12-21T13:25:05.512991Z",
   "results": {
-    "BTC": 5,
+    "BTC": 6,
     "ADA": 2,
+    "NEAR": 2,
     "NIGHT": 1,
     "XRP": 1,
     "SOL": 1,
     "ETH": 1,
-    "CRO": 1,
-    "NEAR": 1
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -46,11 +51,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     }
   ]
