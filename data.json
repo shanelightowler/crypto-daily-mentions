@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1prtp1n/daily_crypto_discussion_december_21_2025_gmt0/",
-  "generated_at_utc": "2025-12-21T15:15:49.477802Z",
+  "generated_at_utc": "2025-12-21T16:19:37.709616Z",
   "results": {
-    "BTC": 13,
-    "ADA": 3,
+    "BTC": 20,
+    "ADA": 7,
+    "SOL": 3,
     "NEAR": 3,
     "ETH": 2,
-    "SOL": 2,
     "XRP": 2,
     "DOT": 2,
     "MATIC": 2,
@@ -25,17 +25,24 @@
     "XLM": 1,
     "HBAR": 1,
     "NIGHT": 1,
-    "XMR": 1
+    "XMR": 1,
+    "TON": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 20
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 7
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -46,11 +53,6 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 2
     },
     {
@@ -141,6 +143,16 @@
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
