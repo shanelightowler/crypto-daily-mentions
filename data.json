@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - December 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1prtp1n/daily_crypto_discussion_december_21_2025_gmt0/",
-  "generated_at_utc": "2025-12-21T18:23:21.713848Z",
+  "generated_at_utc": "2025-12-21T19:13:03.674825Z",
   "results": {
     "BTC": 16,
-    "ADA": 9,
+    "ADA": 10,
     "SOL": 3,
     "NEAR": 3,
     "ETH": 2,
@@ -26,8 +26,8 @@
     "HBAR": 1,
     "NIGHT": 1,
     "XMR": 1,
-    "TON": 1,
-    "ETC": 1
+    "ETC": 1,
+    "TON": 1
   },
   "results_list": [
     {
@@ -38,7 +38,7 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "SOL",
@@ -146,13 +146,13 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
