@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - December 21, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1prtp1n/daily_crypto_discussion_december_21_2025_gmt0/",
-  "generated_at_utc": "2025-12-21T19:13:03.674825Z",
+  "generated_at_utc": "2025-12-21T20:18:13.488621Z",
   "results": {
     "BTC": 16,
     "ADA": 10,
     "SOL": 3,
+    "TRX": 3,
     "NEAR": 3,
     "ETH": 2,
     "XRP": 2,
@@ -13,7 +14,6 @@
     "MATIC": 2,
     "CRO": 2,
     "ALGO": 2,
-    "TRX": 2,
     "BNB": 1,
     "AVAX": 1,
     "DOGE": 1,
@@ -43,6 +43,11 @@
     {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 3
     },
     {
@@ -78,11 +83,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 2
-    },
-    {
-      "symbol": "TRX",
-      "name": "TRON",
       "count": 2
     },
     {
