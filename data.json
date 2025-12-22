@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - December 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1psm919/daily_crypto_discussion_december_22_2025_gmt0/",
-  "generated_at_utc": "2025-12-22T17:15:52.787677Z",
+  "generated_at_utc": "2025-12-22T18:25:53.180827Z",
   "results": {
-    "BTC": 24,
-    "ETH": 15,
+    "BTC": 35,
+    "ETH": 17,
     "XMR": 8,
-    "ETC": 3,
-    "ADA": 3,
+    "ETC": 4,
+    "ADA": 4,
+    "BCH": 2,
     "ROSE": 2,
     "NEAR": 2,
-    "BCH": 1,
     "EGLD": 1,
     "XRP": 1,
     "DOT": 1
@@ -19,12 +19,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 35
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 17
     },
     {
       "symbol": "XMR",
@@ -34,12 +34,17 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 2
     },
     {
       "symbol": "ROSE",
@@ -50,11 +55,6 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 1
     },
     {
       "symbol": "EGLD",
