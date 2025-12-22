@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - December 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1psm919/daily_crypto_discussion_december_22_2025_gmt0/",
-  "generated_at_utc": "2025-12-22T21:15:47.807879Z",
+  "generated_at_utc": "2025-12-22T22:17:40.514974Z",
   "results": {
     "BTC": 48,
     "ETH": 19,
     "XMR": 8,
+    "AAVE": 6,
     "ETC": 4,
     "ADA": 4,
+    "NEAR": 3,
     "BCH": 2,
     "ROSE": 2,
-    "NEAR": 2,
-    "AAVE": 1,
     "EGLD": 1,
     "XRP": 1,
     "DOT": 1
@@ -33,6 +33,11 @@
       "count": 8
     },
     {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 6
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 4
@@ -43,6 +48,11 @@
       "count": 4
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 2
@@ -51,16 +61,6 @@
       "symbol": "ROSE",
       "name": "Oasis Network",
       "count": 2
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
-      "count": 1
     },
     {
       "symbol": "EGLD",
