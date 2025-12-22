@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - December 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1psm919/daily_crypto_discussion_december_22_2025_gmt0/",
-  "generated_at_utc": "2025-12-22T15:19:08.576737Z",
+  "generated_at_utc": "2025-12-22T16:21:31.272007Z",
   "results": {
-    "BTC": 17,
-    "ETH": 9,
+    "BTC": 20,
+    "ETH": 13,
     "XMR": 8,
     "ETC": 3,
     "ROSE": 2,
@@ -12,18 +12,19 @@
     "ADA": 2,
     "EGLD": 1,
     "BCH": 1,
+    "XRP": 1,
     "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 17
+      "count": 20
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 13
     },
     {
       "symbol": "XMR",
@@ -58,6 +59,11 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
