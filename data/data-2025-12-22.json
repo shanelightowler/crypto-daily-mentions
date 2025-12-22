@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 22, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1psm919/daily_crypto_discussion_december_22_2025_gmt0/",
-  "generated_at_utc": "2025-12-22T04:36:56.390103Z",
+  "generated_at_utc": "2025-12-22T05:21:27.669308Z",
   "results": {
     "BTC": 4,
-    "ETH": 3,
+    "ETH": 4,
     "XMR": 3,
-    "ETC": 1
+    "ETC": 1,
+    "BCH": 1
   },
   "results_list": [
     {
@@ -17,7 +18,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "XMR",
@@ -27,6 +28,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     }
   ]
