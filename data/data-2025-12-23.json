@@ -1,22 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T18:26:05.932258Z",
+  "generated_at_utc": "2025-12-23T19:15:26.551111Z",
   "results": {
-    "BTC": 47,
+    "BTC": 49,
     "ETH": 15,
+    "ETC": 6,
     "SOL": 5,
     "LINK": 5,
     "NEAR": 5,
-    "ETC": 5,
     "SUI": 3,
     "XRP": 2,
     "DOGE": 2,
     "ADA": 2,
     "AVAX": 2,
+    "TON": 2,
     "APT": 2,
     "XMR": 2,
-    "TON": 1,
     "ENA": 1,
     "PEPE": 1,
     "TRUMP": 1,
@@ -46,12 +46,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 47
+      "count": 49
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 15
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 6
     },
     {
       "symbol": "SOL",
@@ -66,11 +71,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 5
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 5
     },
     {
@@ -99,6 +99,11 @@
       "count": 2
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 2
+    },
+    {
       "symbol": "APT",
       "name": "Aptos",
       "count": 2
@@ -107,11 +112,6 @@
       "symbol": "XMR",
       "name": "Monero",
       "count": 2
-    },
-    {
-      "symbol": "TON",
-      "name": "Toncoin",
-      "count": 1
     },
     {
       "symbol": "ENA",
