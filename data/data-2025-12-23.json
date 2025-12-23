@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T06:28:33.473722Z",
+  "generated_at_utc": "2025-12-23T07:21:08.111193Z",
   "results": {
-    "BTC": 21,
-    "ETH": 3,
+    "BTC": 22,
+    "ETH": 5,
+    "SOL": 3,
+    "LINK": 3,
     "SUI": 2,
-    "SOL": 2,
-    "LINK": 2,
     "NEAR": 2,
     "SHIB": 1,
     "PYTH": 1,
@@ -32,32 +32,33 @@
     "KAS": 1,
     "APT": 1,
     "ALGO": 1,
-    "ATOM": 1
+    "ATOM": 1,
+    "BAT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 5
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 3
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 2
     },
     {
@@ -183,6 +184,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
       "count": 1
     }
   ]
