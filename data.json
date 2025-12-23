@@ -1,19 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T03:23:46.786100Z",
+  "generated_at_utc": "2025-12-23T04:35:03.737213Z",
   "results": {
-    "BTC": 18,
+    "BTC": 19,
     "ETH": 2,
     "SUI": 1,
     "SOL": 1,
-    "SHIB": 1
+    "SHIB": 1,
+    "LINK": 1,
+    "PYTH": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "ETH",
@@ -33,6 +36,21 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
