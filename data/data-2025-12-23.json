@@ -1,28 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T12:37:10.459683Z",
+  "generated_at_utc": "2025-12-23T13:33:33.977638Z",
   "results": {
-    "BTC": 27,
-    "ETH": 6,
-    "LINK": 4,
-    "SOL": 3,
-    "SUI": 2,
+    "BTC": 30,
+    "ETH": 8,
+    "LINK": 5,
+    "SOL": 4,
+    "SUI": 3,
+    "XRP": 2,
+    "DOGE": 2,
+    "ADA": 2,
+    "AVAX": 2,
+    "APT": 2,
     "NEAR": 2,
     "ETC": 2,
     "SHIB": 1,
+    "TON": 1,
+    "ENA": 1,
+    "PEPE": 1,
+    "TRUMP": 1,
     "PYTH": 1,
     "BNB": 1,
-    "XRP": 1,
     "TRX": 1,
-    "DOGE": 1,
-    "ADA": 1,
     "BCH": 1,
     "XMR": 1,
     "XLM": 1,
     "ZEC": 1,
     "LTC": 1,
-    "AVAX": 1,
     "HBAR": 1,
     "UNI": 1,
     "DOT": 1,
@@ -30,7 +35,6 @@
     "42": 1,
     "ICP": 1,
     "KAS": 1,
-    "APT": 1,
     "ALGO": 1,
     "ATOM": 1,
     "BAT": 1
@@ -39,26 +43,51 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 27
+      "count": 30
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 3
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
       "count": 2
     },
     {
@@ -77,6 +106,26 @@
       "count": 1
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "ENA",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "PYTH",
       "name": "Pyth Network",
       "count": 1
@@ -87,23 +136,8 @@
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
       "symbol": "TRX",
       "name": "TRON",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
@@ -129,11 +163,6 @@
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     },
     {
@@ -169,11 +198,6 @@
     {
       "symbol": "KAS",
       "name": "Kaspa",
-      "count": 1
-    },
-    {
-      "symbol": "APT",
-      "name": "Aptos",
       "count": 1
     },
     {
