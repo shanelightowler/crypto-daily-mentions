@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T09:22:03.543853Z",
+  "generated_at_utc": "2025-12-23T10:19:53.123398Z",
   "results": {
     "BTC": 23,
     "ETH": 5,
+    "LINK": 4,
     "SOL": 3,
-    "LINK": 3,
     "SUI": 2,
     "NEAR": 2,
+    "ETC": 2,
     "SHIB": 1,
     "PYTH": 1,
     "BNB": 1,
@@ -26,7 +27,6 @@
     "UNI": 1,
     "DOT": 1,
     "AAVE": 1,
-    "ETC": 1,
     "42": 1,
     "ICP": 1,
     "KAS": 1,
@@ -47,13 +47,13 @@
       "count": 5
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 3
     },
     {
@@ -64,6 +64,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -149,11 +154,6 @@
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
