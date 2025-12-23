@@ -1,46 +1,73 @@
 {
   "thread_title": "Daily Crypto Discussion - December 23, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1ptgf6h/daily_crypto_discussion_december_23_2025_gmt0/",
-  "generated_at_utc": "2025-12-23T04:35:03.737213Z",
+  "generated_at_utc": "2025-12-23T05:21:16.560219Z",
   "results": {
-    "BTC": 19,
-    "ETH": 2,
-    "SUI": 1,
-    "SOL": 1,
+    "BTC": 20,
+    "ETH": 3,
+    "SUI": 2,
+    "SOL": 2,
+    "LINK": 2,
+    "NEAR": 2,
     "SHIB": 1,
-    "LINK": 1,
     "PYTH": 1,
-    "NEAR": 1
+    "BNB": 1,
+    "XRP": 1,
+    "TRX": 1,
+    "DOGE": 1,
+    "ADA": 1,
+    "BCH": 1,
+    "XMR": 1,
+    "XLM": 1,
+    "ZEC": 1,
+    "LTC": 1,
+    "AVAX": 1,
+    "HBAR": 1,
+    "UNI": 1,
+    "DOT": 1,
+    "AAVE": 1,
+    "ETC": 1,
+    "42": 1,
+    "ICP": 1,
+    "KAS": 1,
+    "APT": 1,
+    "ALGO": 1,
+    "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 20
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
@@ -49,8 +76,113 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "42",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 1
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "count": 1
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     }
   ]
