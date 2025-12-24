@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - December 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1puacmw/daily_crypto_discussion_december_24_2025_gmt0/",
-  "generated_at_utc": "2025-12-24T21:15:29.888617Z",
+  "generated_at_utc": "2025-12-24T22:16:59.279847Z",
   "results": {
-    "BTC": 36,
+    "BTC": 37,
     "ADA": 6,
+    "ETH": 6,
     "ETC": 3,
-    "ETH": 3,
     "NEAR": 1,
     "SOL": 1,
     "AVAX": 1,
     "DOT": 1,
-    "APE": 1,
-    "TON": 1
+    "TON": 1,
+    "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "ADA",
@@ -26,13 +26,13 @@
       "count": 6
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
@@ -56,13 +56,13 @@
       "count": 1
     },
     {
-      "symbol": "APE",
-      "name": "ApeCoin",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     }
   ]
