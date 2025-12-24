@@ -1,15 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - December 24, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1puacmw/daily_crypto_discussion_december_24_2025_gmt0/",
-  "generated_at_utc": "2025-12-24T05:20:57.593393Z",
+  "generated_at_utc": "2025-12-24T06:28:39.810569Z",
   "results": {
-    "BTC": 7
+    "BTC": 8,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 8
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
     }
   ]
 }
