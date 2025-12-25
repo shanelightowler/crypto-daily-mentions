@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - December 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pv1sk4/daily_crypto_discussion_december_25_2025_gmt0/",
-  "generated_at_utc": "2025-12-25T05:21:04.026614Z",
+  "generated_at_utc": "2025-12-25T06:27:56.771556Z",
   "results": {
     "BTC": 2,
-    "SHIB": 1
+    "SHIB": 1,
+    "MELANIA": 1
   },
   "results_list": [
     {
@@ -15,6 +16,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "MELANIA",
+      "name": "",
       "count": 1
     }
   ]
