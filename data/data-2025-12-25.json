@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 25, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pv1sk4/daily_crypto_discussion_december_25_2025_gmt0/",
-  "generated_at_utc": "2025-12-25T21:15:57.012263Z",
+  "generated_at_utc": "2025-12-25T22:16:32.785424Z",
   "results": {
-    "BTC": 3,
+    "BTC": 4,
     "SHIB": 1,
     "MELANIA": 1,
-    "ADA": 1
+    "ADA": 1,
+    "ETH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "SHIB",
@@ -27,6 +28,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     }
   ]
