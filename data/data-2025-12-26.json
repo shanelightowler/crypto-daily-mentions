@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pvrjl4/daily_crypto_discussion_december_26_2025_gmt0/",
-  "generated_at_utc": "2025-12-26T15:17:49.621884Z",
+  "generated_at_utc": "2025-12-26T16:20:12.352348Z",
   "results": {
-    "BTC": 7,
+    "BTC": 13,
     "ETH": 4,
     "DOT": 3,
-    "ADA": 2,
-    "ETC": 1
+    "ETC": 2,
+    "ADA": 2
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 13
     },
     {
       "symbol": "ETH",
@@ -26,14 +26,14 @@
       "count": 3
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
     }
   ]
 }
