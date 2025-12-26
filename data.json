@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - December 26, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pvrjl4/daily_crypto_discussion_december_26_2025_gmt0/",
-  "generated_at_utc": "2025-12-26T08:23:45.221280Z",
+  "generated_at_utc": "2025-12-26T09:19:15.615008Z",
   "results": {
     "BTC": 6,
     "ETH": 3,
-    "DOT": 2,
+    "DOT": 3,
     "ADA": 1
   },
   "results_list": [
@@ -22,7 +22,7 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "ADA",
