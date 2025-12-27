@@ -1,35 +1,47 @@
 {
   "thread_title": "Daily Crypto Discussion - December 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pwkdmg/daily_crypto_discussion_december_27_2025_gmt0/",
-  "generated_at_utc": "2025-12-27T16:19:51.578081Z",
+  "generated_at_utc": "2025-12-27T17:13:53.133694Z",
   "results": {
-    "BTC": 22,
-    "ETH": 5,
-    "BCH": 4,
+    "BTC": 23,
+    "BCH": 8,
+    "ETH": 6,
+    "XMR": 3,
+    "ZEC": 2,
     "NEAR": 2,
-    "ZEC": 1,
-    "XMR": 1,
+    "LTC": 2,
+    "ETC": 2,
+    "XRP": 1,
+    "DASH": 1,
     "XLM": 1,
     "BNB": 1,
-    "LTC": 1,
-    "ETC": 1,
     "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 22
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 5
+      "count": 23
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 4
+      "count": 8
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 6
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 3
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -37,13 +49,23 @@
       "count": 2
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 1
     },
     {
@@ -54,16 +76,6 @@
     {
       "symbol": "BNB",
       "name": "BNB",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
