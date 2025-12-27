@@ -1,18 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - December 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pwkdmg/daily_crypto_discussion_december_27_2025_gmt0/",
-  "generated_at_utc": "2025-12-27T14:15:46.761091Z",
+  "generated_at_utc": "2025-12-27T15:15:56.772080Z",
   "results": {
-    "BTC": 13,
+    "BTC": 22,
     "ETH": 5,
-    "NEAR": 1,
+    "BCH": 4,
+    "NEAR": 2,
+    "XMR": 1,
+    "XLM": 1,
+    "BNB": 1,
+    "LTC": 1,
+    "ETC": 1,
     "APE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 22
     },
     {
       "symbol": "ETH",
@@ -20,8 +26,38 @@
       "count": 5
     },
     {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 4
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
