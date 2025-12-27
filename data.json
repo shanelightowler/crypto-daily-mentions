@@ -1,11 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - December 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pwkdmg/daily_crypto_discussion_december_27_2025_gmt0/",
-  "generated_at_utc": "2025-12-27T08:22:33.603941Z",
+  "generated_at_utc": "2025-12-27T09:17:13.121199Z",
   "results": {
+    "BTC": 1,
     "APE": 1
   },
   "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    },
     {
       "symbol": "APE",
       "name": "ApeCoin",
