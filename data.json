@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - December 27, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pwkdmg/daily_crypto_discussion_december_27_2025_gmt0/",
-  "generated_at_utc": "2025-12-27T15:15:56.772080Z",
+  "generated_at_utc": "2025-12-27T16:19:51.578081Z",
   "results": {
     "BTC": 22,
     "ETH": 5,
     "BCH": 4,
     "NEAR": 2,
+    "ZEC": 1,
     "XMR": 1,
     "XLM": 1,
     "BNB": 1,
@@ -34,6 +35,11 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
     },
     {
       "symbol": "XMR",
