@@ -1,19 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - December 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1py83ku/daily_crypto_discussion_december_29_2025_gmt0/",
-  "generated_at_utc": "2025-12-29T17:15:57.209742Z",
+  "generated_at_utc": "2025-12-29T18:26:02.728500Z",
   "results": {
-    "BTC": 43,
+    "BTC": 49,
     "ETH": 4,
+    "ZEC": 2,
+    "ATOM": 2,
     "APE": 1,
-    "ATOM": 1,
-    "BCH": 1
+    "BCH": 1,
+    "SOL": 1,
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 43
+      "count": 49
     },
     {
       "symbol": "ETH",
@@ -21,18 +24,33 @@
       "count": 4
     },
     {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 2
+    },
+    {
       "symbol": "APE",
       "name": "ApeCoin",
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     }
   ]
