@@ -1,21 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - December 29, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1py83ku/daily_crypto_discussion_december_29_2025_gmt0/",
-  "generated_at_utc": "2025-12-29T05:25:14.857907Z",
+  "generated_at_utc": "2025-12-29T06:30:02.216367Z",
   "results": {
-    "BTC": 5,
+    "BTC": 8,
     "ETH": 1,
+    "APE": 1,
     "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 8
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
