@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - December 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pz3wy9/daily_crypto_discussion_december_30_2025_gmt0/",
-  "generated_at_utc": "2025-12-30T09:21:46.503375Z",
+  "generated_at_utc": "2025-12-30T10:19:38.543933Z",
   "results": {
-    "BTC": 5,
+    "BTC": 7,
     "ALGO": 1,
     "ETH": 1,
-    "LINK": 1
+    "LINK": 1,
+    "ARB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ALGO",
@@ -27,6 +28,11 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     }
   ]
