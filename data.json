@@ -1,25 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - December 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pz3wy9/daily_crypto_discussion_december_30_2025_gmt0/",
-  "generated_at_utc": "2025-12-30T17:17:44.541194Z",
+  "generated_at_utc": "2025-12-30T18:26:24.236876Z",
   "results": {
-    "BTC": 13,
+    "BTC": 18,
+    "NEAR": 4,
     "SOL": 4,
+    "LINK": 4,
+    "ETH": 3,
     "ARB": 2,
-    "NEAR": 2,
     "SEI": 1,
+    "ALGO": 1,
     "ZEC": 1,
     "XRP": 1,
     "ETC": 1,
-    "ALGO": 1,
-    "ETH": 1,
-    "LINK": 1
+    "AAVE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 18
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
     },
     {
       "symbol": "SOL",
@@ -27,18 +33,28 @@
       "count": 4
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
+    },
+    {
       "symbol": "ARB",
       "name": "Arbitrum",
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
       "symbol": "SEI",
       "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
@@ -57,18 +73,8 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     }
   ]
