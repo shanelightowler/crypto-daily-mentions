@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - December 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pz3wy9/daily_crypto_discussion_december_30_2025_gmt0/",
-  "generated_at_utc": "2025-12-30T20:19:49.586773Z",
+  "generated_at_utc": "2025-12-30T21:16:56.436944Z",
   "results": {
-    "BTC": 23,
+    "BTC": 24,
     "ETH": 7,
     "NEAR": 4,
     "BCH": 4,
@@ -11,6 +11,7 @@
     "LINK": 4,
     "ARB": 2,
     "SEI": 1,
+    "BNB": 1,
     "ALGO": 1,
     "ZEC": 1,
     "XRP": 1,
@@ -21,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 24
     },
     {
       "symbol": "ETH",
@@ -56,6 +57,11 @@
     {
       "symbol": "SEI",
       "name": "Sei",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
