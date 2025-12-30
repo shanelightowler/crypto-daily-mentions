@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - December 30, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pz3wy9/daily_crypto_discussion_december_30_2025_gmt0/",
-  "generated_at_utc": "2025-12-30T12:37:23.057629Z",
+  "generated_at_utc": "2025-12-30T13:33:23.496711Z",
   "results": {
     "BTC": 10,
+    "SEI": 1,
     "ALGO": 1,
     "ETH": 1,
     "LINK": 1,
@@ -14,6 +15,11 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "count": 10
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "count": 1
     },
     {
       "symbol": "ALGO",
