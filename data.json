@@ -1,22 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - December 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pzzcw8/daily_crypto_discussion_december_31_2025_gmt0/",
-  "generated_at_utc": "2025-12-31T12:36:24.994351Z",
+  "generated_at_utc": "2025-12-31T13:30:15.365995Z",
   "results": {
-    "BTC": 7,
+    "BTC": 12,
     "ETH": 2,
+    "ETC": 2,
     "42": 1,
-    "47": 1
+    "47": 1,
+    "CHZ": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 12
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -27,6 +34,11 @@
     {
       "symbol": "47",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "CHZ",
+      "name": "Chiliz",
       "count": 1
     }
   ]
