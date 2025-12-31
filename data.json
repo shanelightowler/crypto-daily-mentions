@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - December 31, 2025 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1pzzcw8/daily_crypto_discussion_december_31_2025_gmt0/",
-  "generated_at_utc": "2025-12-31T19:13:21.342872Z",
+  "generated_at_utc": "2025-12-31T20:18:46.732815Z",
   "results": {
-    "BTC": 41,
-    "ETH": 4,
+    "BTC": 49,
+    "ETH": 5,
     "ETC": 4,
     "XMR": 3,
     "NEAR": 3,
     "42": 2,
+    "ADA": 2,
     "47": 1,
-    "ADA": 1,
+    "CHZ": 1,
     "ATOM": 1,
     "ALGO": 1,
     "DOT": 1,
     "ICP": 1,
     "AVAX": 1,
     "HBAR": 1,
-    "CHZ": 1,
     "DOGE": 1,
     "TON": 1
   },
@@ -25,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 49
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ETC",
@@ -53,13 +53,18 @@
       "count": 2
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "47",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "CHZ",
+      "name": "Chiliz",
       "count": 1
     },
     {
@@ -90,11 +95,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "CHZ",
-      "name": "Chiliz",
       "count": 1
     },
     {
