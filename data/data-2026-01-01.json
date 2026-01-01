@@ -1,17 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - January 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q0s0gl/daily_crypto_discussion_january_1_2026_gmt0/",
-  "generated_at_utc": "2026-01-01T22:16:50.228555Z",
+  "generated_at_utc": "2026-01-01T23:16:52.851954Z",
   "results": {
-    "BTC": 21,
+    "BTC": 22,
     "XRP": 5,
+    "ADA": 4,
     "ETH": 4,
-    "ADA": 3,
     "BNB": 2,
     "SOL": 2,
-    "CRCL": 1,
     "PEPE": 1,
     "ALGO": 1,
+    "CRCL": 1,
     "LTC": 1,
     "XLM": 1,
     "HBAR": 1,
@@ -21,7 +21,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 22
     },
     {
       "symbol": "XRP",
@@ -29,14 +29,14 @@
       "count": 5
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 4
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 3
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
     },
     {
       "symbol": "BNB",
@@ -49,11 +49,6 @@
       "count": 2
     },
     {
-      "symbol": "CRCL",
-      "name": "",
-      "count": 1
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 1
@@ -61,6 +56,11 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "CRCL",
+      "name": "",
       "count": 1
     },
     {
