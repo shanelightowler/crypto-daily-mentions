@@ -1,15 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - January 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q0s0gl/daily_crypto_discussion_january_1_2026_gmt0/",
-  "generated_at_utc": "2026-01-01T18:25:20.989830Z",
+  "generated_at_utc": "2026-01-01T19:14:04.894603Z",
   "results": {
-    "BTC": 18,
+    "BTC": 19,
     "XRP": 5,
     "ETH": 4,
     "ADA": 2,
     "BNB": 2,
     "SOL": 2,
     "CRCL": 1,
+    "LTC": 1,
     "XLM": 1,
     "HBAR": 1
   },
@@ -17,7 +18,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 19
     },
     {
       "symbol": "XRP",
@@ -47,6 +48,11 @@
     {
       "symbol": "CRCL",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
