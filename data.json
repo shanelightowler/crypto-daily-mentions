@@ -1,29 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - January 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q1ko15/daily_crypto_discussion_january_2_2026_gmt0/",
-  "generated_at_utc": "2026-01-02T22:17:17.143826Z",
+  "generated_at_utc": "2026-01-02T23:16:31.175306Z",
   "results": {
-    "BTC": 25,
-    "PEPE": 4,
+    "BTC": 26,
+    "PEPE": 6,
     "XRP": 4,
     "ETH": 2,
     "ETC": 2,
     "SOL": 1,
     "BAT": 1,
-    "ALGO": 1,
     "DOGE": 1,
-    "SUI": 1
+    "ALGO": 1,
+    "SUI": 1,
+    "BONK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 26
     },
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "XRP",
@@ -51,18 +52,23 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
-      "count": 1
-    },
-    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     }
   ]
