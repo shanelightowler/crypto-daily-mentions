@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - January 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q1ko15/daily_crypto_discussion_january_2_2026_gmt0/",
-  "generated_at_utc": "2026-01-02T09:21:10.983171Z",
+  "generated_at_utc": "2026-01-02T10:18:32.279656Z",
   "results": {
     "BTC": 6,
     "PEPE": 1,
-    "ALGO": 1,
-    "SOL": 1
+    "SOL": 1,
+    "ALGO": 1
   },
   "results_list": [
     {
@@ -20,13 +20,13 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     }
   ]
