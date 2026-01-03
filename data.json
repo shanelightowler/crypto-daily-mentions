@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - January 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q2gdw8/daily_crypto_discussion_january_3_2026_gmt0/",
-  "generated_at_utc": "2026-01-03T16:20:19.458817Z",
+  "generated_at_utc": "2026-01-03T17:14:40.588604Z",
   "results": {
-    "BTC": 11,
+    "BTC": 12,
     "ETC": 3,
     "ETH": 2,
     "BCH": 2,
@@ -11,13 +11,14 @@
     "DOT": 1,
     "SOL": 1,
     "ALGO": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ETC",
@@ -57,6 +58,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
