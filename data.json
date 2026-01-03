@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - January 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q2gdw8/daily_crypto_discussion_january_3_2026_gmt0/",
-  "generated_at_utc": "2026-01-03T18:23:47.000338Z",
+  "generated_at_utc": "2026-01-03T19:12:59.558745Z",
   "results": {
-    "BTC": 12,
+    "BTC": 13,
+    "BCH": 3,
     "ETC": 3,
     "ETH": 2,
     "SOL": 2,
-    "BCH": 2,
     "XMR": 2,
     "DOT": 1,
     "ALGO": 1,
@@ -18,7 +18,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 13
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 3
     },
     {
       "symbol": "ETC",
@@ -33,11 +38,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
       "count": 2
     },
     {
