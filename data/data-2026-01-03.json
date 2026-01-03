@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - January 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q2gdw8/daily_crypto_discussion_january_3_2026_gmt0/",
-  "generated_at_utc": "2026-01-03T19:12:59.558745Z",
+  "generated_at_utc": "2026-01-03T20:18:49.168216Z",
   "results": {
     "BTC": 13,
     "BCH": 3,
@@ -10,6 +10,7 @@
     "SOL": 2,
     "XMR": 2,
     "DOT": 1,
+    "CVX": 1,
     "ALGO": 1,
     "NEAR": 1,
     "TON": 1
@@ -48,6 +49,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "CVX",
+      "name": "Convex Finance",
       "count": 1
     },
     {
