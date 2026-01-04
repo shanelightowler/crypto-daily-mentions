@@ -1,29 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T15:16:05.485664Z",
+  "generated_at_utc": "2026-01-04T16:20:21.129698Z",
   "results": {
-    "BTC": 13,
-    "BONK": 4,
+    "BTC": 15,
+    "BONK": 6,
+    "ATOM": 3,
+    "SOL": 3,
+    "BCH": 2,
     "DOT": 2,
     "ETC": 2,
-    "ATOM": 2,
     "CRO": 1,
-    "BCH": 1,
     "LTC": 1,
-    "ADA": 1,
-    "SOL": 1
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 4
+      "count": 6
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 2
     },
     {
       "symbol": "DOT",
@@ -36,18 +51,8 @@
       "count": 2
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
-      "count": 2
-    },
-    {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
       "count": 1
     },
     {
@@ -58,11 +63,6 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     }
   ]
