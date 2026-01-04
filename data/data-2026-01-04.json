@@ -1,23 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T14:15:45.732703Z",
+  "generated_at_utc": "2026-01-04T15:16:05.485664Z",
   "results": {
-    "BTC": 9,
+    "BTC": 13,
     "BONK": 4,
     "DOT": 2,
+    "ETC": 2,
     "ATOM": 2,
-    "BCH": 1,
     "CRO": 1,
+    "BCH": 1,
     "LTC": 1,
     "ADA": 1,
-    "ETC": 1
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 13
     },
     {
       "symbol": "BONK",
@@ -30,18 +31,23 @@
       "count": 2
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "ATOM",
       "name": "Cosmos",
       "count": 2
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
@@ -55,8 +61,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
