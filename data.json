@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T17:14:55.438688Z",
+  "generated_at_utc": "2026-01-04T18:24:05.663061Z",
   "results": {
     "BTC": 15,
     "BONK": 6,
@@ -9,11 +9,13 @@
     "SOL": 3,
     "BCH": 2,
     "DOT": 2,
+    "CRO": 2,
     "ETC": 2,
-    "CRO": 1,
-    "PEPE": 1,
+    "ETH": 1,
     "LTC": 1,
-    "ADA": 1
+    "PEPE": 1,
+    "ADA": 1,
+    "ALGO": 1
   },
   "results_list": [
     {
@@ -47,18 +49,18 @@
       "count": 2
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
@@ -67,8 +69,18 @@
       "count": 1
     },
     {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     }
   ]
