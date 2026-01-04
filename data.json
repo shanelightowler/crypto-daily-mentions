@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T18:24:05.663061Z",
+  "generated_at_utc": "2026-01-04T19:13:19.004008Z",
   "results": {
-    "BTC": 15,
+    "BTC": 16,
     "BONK": 6,
+    "ETH": 3,
     "ATOM": 3,
     "SOL": 3,
     "BCH": 2,
     "DOT": 2,
     "CRO": 2,
     "ETC": 2,
-    "ETH": 1,
     "LTC": 1,
+    "CVX": 1,
     "PEPE": 1,
     "ADA": 1,
     "ALGO": 1
@@ -21,12 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 16
     },
     {
       "symbol": "BONK",
       "name": "BONK",
       "count": 6
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
     },
     {
       "symbol": "ATOM",
@@ -59,13 +65,13 @@
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "CVX",
+      "name": "Convex Finance",
       "count": 1
     },
     {
