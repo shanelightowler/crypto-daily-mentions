@@ -1,23 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T21:15:43.907571Z",
+  "generated_at_utc": "2026-01-04T22:16:33.457087Z",
   "results": {
-    "BTC": 18,
-    "BONK": 6,
-    "ETH": 5,
+    "BTC": 19,
+    "ETH": 8,
+    "BONK": 7,
     "ATOM": 3,
     "SOL": 3,
     "BCH": 2,
     "DOT": 2,
     "CRO": 2,
     "NEAR": 2,
+    "ALGO": 2,
     "ETC": 2,
     "PEPE": 1,
     "LTC": 1,
     "CVX": 1,
     "ADA": 1,
-    "ALGO": 1,
     "DOGE": 1,
     "SHIB": 1
   },
@@ -25,17 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 6
+      "count": 19
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 8
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 7
     },
     {
       "symbol": "ATOM",
@@ -68,6 +68,11 @@
       "count": 2
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 2
@@ -90,11 +95,6 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "ALGO",
-      "name": "Algorand",
       "count": 1
     },
     {
