@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - January 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q3btjw/daily_crypto_discussion_january_4_2026_gmt0/",
-  "generated_at_utc": "2026-01-04T06:26:45.180256Z",
+  "generated_at_utc": "2026-01-04T07:18:42.439843Z",
   "results": {
     "BTC": 7,
-    "BONK": 2,
+    "BONK": 3,
     "BCH": 1,
+    "LTC": 1,
     "ADA": 1,
     "ETC": 1
   },
@@ -18,11 +19,16 @@
     {
       "symbol": "BONK",
       "name": "BONK",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
