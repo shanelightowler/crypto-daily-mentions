@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - January 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q47e8e/daily_crypto_discussion_january_5_2026_gmt0/",
-  "generated_at_utc": "2026-01-05T20:21:26.297953Z",
+  "generated_at_utc": "2026-01-05T21:17:17.137154Z",
   "results": {
-    "BTC": 23,
+    "BTC": 30,
     "LTC": 10,
-    "XRP": 6,
+    "XRP": 9,
     "ETH": 5,
     "ETC": 4,
+    "NEAR": 3,
     "CAKE": 2,
     "CRO": 2,
-    "NEAR": 2,
     "PEPE": 1,
+    "ARB": 1,
     "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 30
     },
     {
       "symbol": "LTC",
@@ -28,7 +29,7 @@
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 6
+      "count": 9
     },
     {
       "symbol": "ETH",
@@ -41,6 +42,11 @@
       "count": 4
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
       "symbol": "CAKE",
       "name": "",
       "count": 2
@@ -51,13 +57,13 @@
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
