@@ -1,41 +1,47 @@
 {
   "thread_title": "Daily Crypto Discussion - January 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q47e8e/daily_crypto_discussion_january_5_2026_gmt0/",
-  "generated_at_utc": "2026-01-05T11:16:47.277825Z",
+  "generated_at_utc": "2026-01-05T12:39:36.050062Z",
   "results": {
-    "BTC": 7,
-    "ETH": 4,
+    "BTC": 9,
+    "XRP": 6,
+    "ETH": 5,
+    "LTC": 5,
+    "ETC": 3,
     "CRO": 2,
-    "XRP": 2,
-    "LTC": 2,
     "CAKE": 1,
     "PEPE": 1,
-    "ETC": 1
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 4
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 2
+      "count": 9
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 6
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 5
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 5
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 2
     },
     {
@@ -49,8 +55,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
