@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - January 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q47e8e/daily_crypto_discussion_january_5_2026_gmt0/",
-  "generated_at_utc": "2026-01-05T21:17:17.137154Z",
+  "generated_at_utc": "2026-01-05T22:17:51.215504Z",
   "results": {
-    "BTC": 30,
+    "BTC": 31,
+    "XRP": 10,
     "LTC": 10,
-    "XRP": 9,
-    "ETH": 5,
+    "ETH": 6,
     "ETC": 4,
     "NEAR": 3,
     "CAKE": 2,
     "CRO": 2,
     "PEPE": 1,
+    "TON": 1,
     "ARB": 1,
     "DOGE": 1
   },
@@ -19,7 +20,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 31
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 10
     },
     {
       "symbol": "LTC",
@@ -27,14 +33,9 @@
       "count": 10
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 9
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETC",
@@ -59,6 +60,11 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
