@@ -1,29 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - January 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q543zn/daily_crypto_discussion_january_6_2026_gmt0/",
-  "generated_at_utc": "2026-01-06T15:19:20.791124Z",
+  "generated_at_utc": "2026-01-06T16:23:53.623899Z",
   "results": {
-    "BTC": 24,
-    "ETH": 5,
+    "BTC": 25,
+    "ETH": 6,
+    "CRO": 5,
     "LTC": 5,
     "XRP": 4,
     "NEAR": 2,
+    "SHIB": 2,
     "FET": 2,
     "SOL": 1,
-    "SHIB": 1,
     "HBAR": 1,
-    "CRO": 1,
-    "RENDER": 1
+    "RENDER": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 6
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 5
     },
     {
@@ -42,6 +48,11 @@
       "count": 2
     },
     {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 2
+    },
+    {
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 2
@@ -52,23 +63,18 @@
       "count": 1
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
-      "count": 1
-    },
-    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "RENDER",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "RENDER",
-      "name": "",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
