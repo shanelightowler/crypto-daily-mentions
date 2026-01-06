@@ -1,24 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - January 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q543zn/daily_crypto_discussion_january_6_2026_gmt0/",
-  "generated_at_utc": "2026-01-06T08:25:58.496334Z",
+  "generated_at_utc": "2026-01-06T09:23:32.437285Z",
   "results": {
-    "BTC": 5,
+    "BTC": 7,
     "ETH": 3,
+    "LTC": 3,
     "NEAR": 2,
-    "LTC": 2,
+    "FET": 2,
+    "HBAR": 1,
     "SHIB": 1,
-    "FET": 1
+    "RENDER": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 3
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 3
     },
     {
@@ -27,9 +34,14 @@
       "count": 2
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 2
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
     },
     {
       "symbol": "SHIB",
@@ -37,8 +49,8 @@
       "count": 1
     },
     {
-      "symbol": "FET",
-      "name": "Fetch.ai",
+      "symbol": "RENDER",
+      "name": "",
       "count": 1
     }
   ]
