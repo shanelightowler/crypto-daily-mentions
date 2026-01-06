@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - January 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q543zn/daily_crypto_discussion_january_6_2026_gmt0/",
-  "generated_at_utc": "2026-01-06T07:23:07.714348Z",
+  "generated_at_utc": "2026-01-06T08:25:58.496334Z",
   "results": {
     "BTC": 5,
     "ETH": 3,
     "NEAR": 2,
     "LTC": 2,
-    "SHIB": 1
+    "SHIB": 1,
+    "FET": 1
   },
   "results_list": [
     {
@@ -33,6 +34,11 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
       "count": 1
     }
   ]
