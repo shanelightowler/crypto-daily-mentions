@@ -1,24 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - January 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q543zn/daily_crypto_discussion_january_6_2026_gmt0/",
-  "generated_at_utc": "2026-01-06T12:37:58.393951Z",
+  "generated_at_utc": "2026-01-06T13:34:57.143774Z",
   "results": {
-    "BTC": 7,
+    "BTC": 9,
+    "XRP": 4,
     "LTC": 4,
     "ETH": 3,
     "NEAR": 2,
     "FET": 2,
+    "SOL": 1,
     "HBAR": 1,
     "SHIB": 1,
     "CRO": 1,
-    "XRP": 1,
     "RENDER": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 9
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "LTC",
@@ -41,6 +47,11 @@
       "count": 2
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 1
@@ -53,11 +64,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
       "count": 1
     },
     {
