@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - January 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q543zn/daily_crypto_discussion_january_6_2026_gmt0/",
-  "generated_at_utc": "2026-01-06T16:23:53.623899Z",
+  "generated_at_utc": "2026-01-06T17:20:38.904405Z",
   "results": {
-    "BTC": 25,
+    "BTC": 27,
+    "LTC": 7,
     "ETH": 6,
     "CRO": 5,
-    "LTC": 5,
     "XRP": 4,
     "NEAR": 2,
     "SHIB": 2,
     "FET": 2,
+    "ROSE": 1,
     "SOL": 1,
     "HBAR": 1,
     "RENDER": 1,
@@ -20,7 +21,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 27
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 7
     },
     {
       "symbol": "ETH",
@@ -30,11 +36,6 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
-      "count": 5
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
       "count": 5
     },
     {
@@ -56,6 +57,11 @@
       "symbol": "FET",
       "name": "Fetch.ai",
       "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
     },
     {
       "symbol": "SOL",
