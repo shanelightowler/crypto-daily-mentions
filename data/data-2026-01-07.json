@@ -1,25 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 7, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q6128k/daily_crypto_discussion_january_7_2026_gmt0/",
-  "generated_at_utc": "2026-01-07T05:22:41.387857Z",
+  "generated_at_utc": "2026-01-07T06:28:37.493451Z",
   "results": {
-    "BTC": 5,
-    "ETH": 2,
+    "BTC": 12,
+    "ETH": 4,
+    "SUI": 2,
     "BONK": 1,
     "DOGE": 1,
     "SOL": 1,
     "NEAR": 1,
-    "ICP": 1
+    "ICP": 1,
+    "XRP": 1,
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 12
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 4
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -45,6 +53,16 @@
     {
       "symbol": "ICP",
       "name": "Internet Computer",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
