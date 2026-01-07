@@ -1,15 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - January 7, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q6128k/daily_crypto_discussion_january_7_2026_gmt0/",
-  "generated_at_utc": "2026-01-07T11:17:09.522310Z",
+  "generated_at_utc": "2026-01-07T12:38:54.987515Z",
   "results": {
-    "BTC": 18,
+    "BTC": 21,
     "ETH": 4,
+    "ICP": 3,
     "XRP": 3,
     "SUI": 3,
     "CAKE": 2,
-    "ICP": 2,
+    "ETC": 1,
     "BONK": 1,
+    "APE": 1,
     "DOGE": 1,
     "SOL": 1,
     "NEAR": 1,
@@ -19,12 +21,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 4
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -42,13 +49,18 @@
       "count": 2
     },
     {
-      "symbol": "ICP",
-      "name": "Internet Computer",
-      "count": 2
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "BONK",
       "name": "BONK",
+      "count": 1
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
