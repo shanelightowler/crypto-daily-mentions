@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - January 7, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q6128k/daily_crypto_discussion_january_7_2026_gmt0/",
-  "generated_at_utc": "2026-01-07T19:17:59.552005Z",
+  "generated_at_utc": "2026-01-07T20:21:03.982375Z",
   "results": {
-    "BTC": 35,
-    "ETH": 6,
+    "BTC": 41,
+    "ETH": 7,
+    "DOGE": 3,
     "ICP": 3,
     "ETC": 3,
     "SOL": 3,
@@ -12,23 +13,28 @@
     "SUI": 3,
     "CAKE": 2,
     "XMR": 2,
+    "LINK": 2,
     "BONK": 1,
     "APE": 1,
-    "DOGE": 1,
     "NEAR": 1,
     "ROSE": 1,
-    "LINK": 1
+    "MSTR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 41
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 3
     },
     {
       "symbol": "ICP",
@@ -66,6 +72,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "BONK",
       "name": "BONK",
       "count": 1
@@ -73,11 +84,6 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     },
     {
@@ -91,8 +97,8 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "MSTR",
+      "name": "",
       "count": 1
     }
   ]
