@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 8, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q6xkzk/daily_crypto_discussion_january_8_2026_gmt0/",
-  "generated_at_utc": "2026-01-08T13:37:59.752455Z",
+  "generated_at_utc": "2026-01-08T14:22:13.755972Z",
   "results": {
     "BTC": 18,
-    "ZEC": 5,
+    "ZEC": 6,
     "ETH": 1,
     "LTC": 1,
     "MATIC": 1
@@ -18,7 +18,7 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETH",
