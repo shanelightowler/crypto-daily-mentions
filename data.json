@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - January 8, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q6xkzk/daily_crypto_discussion_january_8_2026_gmt0/",
-  "generated_at_utc": "2026-01-08T16:25:44.014758Z",
+  "generated_at_utc": "2026-01-08T17:24:05.555455Z",
   "results": {
     "BTC": 19,
     "ZEC": 8,
     "ETH": 3,
     "LTC": 1,
-    "MATIC": 1
+    "MATIC": 1,
+    "BNB": 1
   },
   "results_list": [
     {
@@ -33,6 +34,11 @@
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     }
   ]
