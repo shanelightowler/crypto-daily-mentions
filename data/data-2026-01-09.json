@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 9, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q7tyz9/daily_crypto_discussion_january_9_2026_gmt0/",
-  "generated_at_utc": "2026-01-09T08:26:21.011874Z",
+  "generated_at_utc": "2026-01-09T09:24:51.260605Z",
   "results": {
-    "BTC": 6,
+    "BTC": 9,
+    "ZEC": 1,
     "ETH": 1,
     "TON": 1
   },
@@ -11,7 +12,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 9
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 1
     },
     {
       "symbol": "ETH",
