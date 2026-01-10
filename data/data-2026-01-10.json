@@ -1,13 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - January 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q8q2ws/daily_crypto_discussion_january_10_2026_gmt0/",
-  "generated_at_utc": "2026-01-10T13:26:55.763237Z",
+  "generated_at_utc": "2026-01-10T14:16:04.016502Z",
   "results": {
-    "BTC": 5,
-    "ETH": 3,
+    "BTC": 6,
+    "ETH": 5,
+    "XRP": 3,
     "MATIC": 3,
     "ETC": 2,
     "BNB": 2,
+    "SOL": 1,
     "SUI": 1,
     "BONK": 1
   },
@@ -15,11 +17,16 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 3
     },
     {
@@ -36,6 +43,11 @@
       "symbol": "BNB",
       "name": "BNB",
       "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
     },
     {
       "symbol": "SUI",
