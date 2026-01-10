@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q8q2ws/daily_crypto_discussion_january_10_2026_gmt0/",
-  "generated_at_utc": "2026-01-10T08:21:46.670423Z",
+  "generated_at_utc": "2026-01-10T09:17:12.424414Z",
   "results": {
-    "BTC": 6,
-    "MATIC": 2,
+    "BTC": 5,
+    "MATIC": 3,
     "BNB": 2,
     "ETC": 1,
     "SUI": 1,
@@ -14,12 +14,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 5
     },
     {
       "symbol": "MATIC",
       "name": "Polygon (MATIC)",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "BNB",
