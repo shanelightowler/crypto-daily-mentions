@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - January 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1q8q2ws/daily_crypto_discussion_january_10_2026_gmt0/",
-  "generated_at_utc": "2026-01-10T22:16:36.329928Z",
+  "generated_at_utc": "2026-01-10T23:16:16.152084Z",
   "results": {
     "BTC": 11,
     "MATIC": 6,
@@ -13,8 +13,8 @@
     "BNB": 2,
     "MANA": 1,
     "SAND": 1,
-    "NEAR": 1,
     "ATOM": 1,
+    "NEAR": 1,
     "SUI": 1,
     "ICP": 1,
     "BONK": 1
@@ -71,13 +71,13 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     },
     {
-      "symbol": "ATOM",
-      "name": "Cosmos",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
