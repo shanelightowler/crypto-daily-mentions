@@ -1,15 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - January 12, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qagtd2/daily_crypto_discussion_january_12_2026_gmt0/",
-  "generated_at_utc": "2026-01-12T15:21:49.561505Z",
+  "generated_at_utc": "2026-01-12T16:23:20.055161Z",
   "results": {
-    "BTC": 59,
-    "LTC": 7,
+    "BTC": 64,
+    "LTC": 8,
     "XMR": 5,
     "BCH": 4,
     "XRP": 3,
     "SHIB": 2,
     "LINK": 1,
+    "ADA": 1,
+    "DOT": 1,
     "ETH": 1,
     "TON": 1,
     "ETC": 1
@@ -18,12 +20,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 59
+      "count": 64
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "XMR",
@@ -48,6 +50,16 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
