@@ -1,18 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - January 12, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qagtd2/daily_crypto_discussion_january_12_2026_gmt0/",
-  "generated_at_utc": "2026-01-12T16:23:20.055161Z",
+  "generated_at_utc": "2026-01-12T17:20:28.943221Z",
   "results": {
-    "BTC": 64,
+    "BTC": 65,
     "LTC": 8,
     "XMR": 5,
     "BCH": 4,
+    "ETH": 3,
     "XRP": 3,
     "SHIB": 2,
     "LINK": 1,
     "ADA": 1,
+    "CRO": 1,
     "DOT": 1,
-    "ETH": 1,
+    "MATIC": 1,
     "TON": 1,
     "ETC": 1
   },
@@ -20,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 64
+      "count": 65
     },
     {
       "symbol": "LTC",
@@ -36,6 +38,11 @@
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 4
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -58,13 +65,18 @@
       "count": 1
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
       "count": 1
     },
     {
