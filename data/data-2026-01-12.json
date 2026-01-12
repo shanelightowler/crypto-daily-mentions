@@ -1,38 +1,44 @@
 {
   "thread_title": "Daily Crypto Discussion - January 12, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qagtd2/daily_crypto_discussion_january_12_2026_gmt0/",
-  "generated_at_utc": "2026-01-12T22:16:10.757002Z",
+  "generated_at_utc": "2026-01-12T23:14:11.049974Z",
   "results": {
-    "BTC": 73,
-    "LTC": 16,
-    "ETH": 11,
+    "BTC": 77,
+    "LTC": 27,
+    "ETH": 12,
+    "BCH": 9,
     "XMR": 8,
-    "BCH": 7,
+    "LINK": 3,
     "XRP": 3,
-    "SHIB": 2,
-    "LINK": 1,
+    "SHIB": 3,
+    "ETC": 2,
     "ADA": 1,
     "CRO": 1,
     "DOT": 1,
     "MATIC": 1,
     "TON": 1,
-    "ETC": 1
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 73
+      "count": 77
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
-      "count": 16
+      "count": 27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 12
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 9
     },
     {
       "symbol": "XMR",
@@ -40,9 +46,9 @@
       "count": 8
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 7
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
     },
     {
       "symbol": "XRP",
@@ -52,12 +58,12 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
-      "count": 2
+      "count": 3
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "ADA",
@@ -85,8 +91,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
