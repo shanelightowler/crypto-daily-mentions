@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 13, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qbd7g2/daily_crypto_discussion_january_13_2026_gmt0/",
-  "generated_at_utc": "2026-01-13T07:22:06.138626Z",
+  "generated_at_utc": "2026-01-13T08:26:25.709610Z",
   "results": {
     "BTC": 6,
-    "XMR": 3,
+    "XMR": 4,
     "LTC": 2,
     "NEAR": 2,
     "ZEC": 1,
@@ -19,7 +19,7 @@
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "LTC",
