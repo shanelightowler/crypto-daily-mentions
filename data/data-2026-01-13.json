@@ -1,32 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 13, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qbd7g2/daily_crypto_discussion_january_13_2026_gmt0/",
-  "generated_at_utc": "2026-01-13T12:40:02.919071Z",
+  "generated_at_utc": "2026-01-13T13:38:18.511686Z",
   "results": {
-    "BTC": 15,
-    "XMR": 7,
+    "BTC": 21,
+    "XMR": 8,
     "ETH": 5,
     "LTC": 3,
-    "ZEC": 2,
     "BCH": 2,
     "ADA": 2,
+    "ZEC": 2,
+    "BNB": 2,
     "NEAR": 2,
     "XRP": 1,
     "ETC": 1,
     "DASH": 1,
-    "BNB": 1,
-    "TON": 1
+    "TON": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 21
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ETH",
@@ -39,11 +40,6 @@
       "count": 3
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "count": 2
-    },
-    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 2
@@ -51,6 +47,16 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -74,13 +80,13 @@
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
