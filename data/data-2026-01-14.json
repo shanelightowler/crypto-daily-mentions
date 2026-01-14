@@ -1,32 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qc98k3/daily_crypto_discussion_january_14_2026_gmt0/",
-  "generated_at_utc": "2026-01-14T16:25:47.020690Z",
+  "generated_at_utc": "2026-01-14T17:24:21.238550Z",
   "results": {
-    "BTC": 16,
-    "XMR": 6,
+    "BTC": 20,
+    "XMR": 11,
     "XRP": 5,
+    "DOT": 4,
     "BCH": 3,
-    "DOT": 2,
+    "ETC": 2,
     "ICP": 2,
-    "ETC": 1,
     "ETH": 1,
     "SOL": 1,
     "CRO": 1,
     "DASH": 1,
     "IP": 1,
+    "NEAR": 1,
     "LTC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 20
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 6
+      "count": 11
     },
     {
       "symbol": "XRP",
@@ -34,24 +35,24 @@
       "count": 5
     },
     {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 4
+    },
+    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 3
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
       "symbol": "ICP",
       "name": "Internet Computer",
       "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
     },
     {
       "symbol": "ETH",
@@ -76,6 +77,11 @@
     {
       "symbol": "IP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
