@@ -1,29 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - January 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qc98k3/daily_crypto_discussion_january_14_2026_gmt0/",
-  "generated_at_utc": "2026-01-14T20:18:05.892064Z",
+  "generated_at_utc": "2026-01-14T21:18:32.485297Z",
   "results": {
-    "BTC": 21,
+    "BTC": 25,
     "XMR": 15,
     "XRP": 5,
     "DOT": 4,
+    "ICP": 4,
     "BCH": 3,
     "ETC": 2,
     "ZEC": 2,
-    "ICP": 2,
     "LTC": 2,
     "ETH": 1,
     "SOL": 1,
     "CRO": 1,
     "DASH": 1,
     "IP": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "MATIC": 1,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 21
+      "count": 25
     },
     {
       "symbol": "XMR",
@@ -41,6 +43,11 @@
       "count": 4
     },
     {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "count": 4
+    },
+    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 3
@@ -53,11 +60,6 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "count": 2
-    },
-    {
-      "symbol": "ICP",
-      "name": "Internet Computer",
       "count": 2
     },
     {
@@ -93,6 +95,16 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     }
   ]
