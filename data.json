@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - January 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qd5a6w/daily_crypto_discussion_january_15_2026_gmt0/",
-  "generated_at_utc": "2026-01-15T07:22:36.286501Z",
+  "generated_at_utc": "2026-01-15T08:26:37.609735Z",
   "results": {
     "ICP": 12,
-    "BTC": 4,
-    "DASH": 2,
+    "BTC": 5,
     "ETH": 2,
+    "DASH": 2,
     "CRO": 2,
-    "ADA": 1,
+    "XMR": 2,
     "SUI": 1,
-    "QNT": 1,
-    "XMR": 1
+    "BCH": 1,
+    "ADA": 1,
+    "QNT": 1
   },
   "results_list": [
     {
@@ -22,16 +23,16 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 2
+      "count": 5
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
@@ -40,9 +41,9 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
     },
     {
       "symbol": "SUI",
@@ -50,13 +51,18 @@
       "count": 1
     },
     {
-      "symbol": "QNT",
-      "name": "Quant",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "QNT",
+      "name": "Quant",
       "count": 1
     }
   ]
