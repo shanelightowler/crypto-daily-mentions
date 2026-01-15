@@ -1,15 +1,51 @@
 {
   "thread_title": "Daily Crypto Discussion - January 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qd5a6w/daily_crypto_discussion_january_15_2026_gmt0/",
-  "generated_at_utc": "2026-01-15T01:22:04.304902Z",
+  "generated_at_utc": "2026-01-15T03:27:42.798286Z",
   "results": {
-    "ICP": 5
+    "ICP": 11,
+    "CRO": 2,
+    "DASH": 1,
+    "SUI": 1,
+    "XMR": 1,
+    "BTC": 1,
+    "ETH": 1
   },
   "results_list": [
     {
       "symbol": "ICP",
       "name": "Internet Computer",
-      "count": 5
+      "count": 11
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 2
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
     }
   ]
 }
