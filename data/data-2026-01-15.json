@@ -1,20 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - January 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qd5a6w/daily_crypto_discussion_january_15_2026_gmt0/",
-  "generated_at_utc": "2026-01-15T19:21:20.808347Z",
+  "generated_at_utc": "2026-01-15T20:21:24.769313Z",
   "results": {
     "BTC": 18,
     "ICP": 13,
-    "ETH": 6,
+    "ETH": 7,
     "LTC": 3,
-    "BCH": 2,
     "DASH": 2,
+    "BCH": 2,
     "ADA": 2,
     "CRO": 2,
     "XMR": 2,
     "SUI": 1,
     "QNT": 1,
     "IP": 1,
+    "XRP": 1,
+    "SOL": 1,
     "LINK": 1
   },
   "results_list": [
@@ -31,7 +33,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "LTC",
@@ -39,13 +41,13 @@
       "count": 3
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "DASH",
+      "name": "Dash",
       "count": 2
     },
     {
-      "symbol": "DASH",
-      "name": "Dash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 2
     },
     {
@@ -76,6 +78,16 @@
     {
       "symbol": "IP",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     },
     {
