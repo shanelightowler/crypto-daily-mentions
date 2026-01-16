@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - January 16, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qe1p7t/daily_crypto_discussion_january_16_2026_gmt0/",
-  "generated_at_utc": "2026-01-16T07:21:30.072574Z",
+  "generated_at_utc": "2026-01-16T08:25:40.203884Z",
   "results": {
     "ETH": 2,
     "DASH": 1,
+    "TRUMP": 1,
     "BTC": 1
   },
   "results_list": [
@@ -16,6 +17,11 @@
     {
       "symbol": "DASH",
       "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     },
     {
