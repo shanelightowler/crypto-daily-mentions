@@ -1,18 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - January 17, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qeyh07/daily_crypto_discussion_january_17_2026_gmt0/",
-  "generated_at_utc": "2026-01-17T12:33:14.428625Z",
+  "generated_at_utc": "2026-01-17T13:26:11.043079Z",
   "results": {
-    "BTC": 13,
+    "BTC": 16,
+    "XMR": 4,
     "CAKE": 2,
     "ETH": 1,
-    "XMR": 1
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 13
+      "count": 16
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 4
     },
     {
       "symbol": "CAKE",
@@ -25,8 +31,8 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
