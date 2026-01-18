@@ -1,24 +1,30 @@
 {
   "thread_title": "Daily Crypto Discussion - January 18, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qfuezb/daily_crypto_discussion_january_18_2026_gmt0/",
-  "generated_at_utc": "2026-01-18T09:17:49.642247Z",
+  "generated_at_utc": "2026-01-18T10:17:30.982983Z",
   "results": {
+    "BTC": 4,
     "BNB": 3,
-    "BTC": 3,
+    "LINK": 2,
     "NEAR": 1,
-    "LINK": 1,
+    "XMR": 1,
     "QNT": 1
   },
   "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 4
+    },
     {
       "symbol": "BNB",
       "name": "BNB",
       "count": 3
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 3
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "NEAR",
@@ -26,8 +32,8 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
