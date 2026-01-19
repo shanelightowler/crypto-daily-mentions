@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 19, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qgpx89/daily_crypto_discussion_january_19_2026_gmt0/",
-  "generated_at_utc": "2026-01-19T17:21:08.344906Z",
+  "generated_at_utc": "2026-01-19T18:27:12.971417Z",
   "results": {
-    "BTC": 32,
-    "ETH": 11,
+    "BTC": 37,
+    "ETH": 12,
     "SUI": 3,
     "BCH": 3,
     "SOL": 2,
@@ -12,6 +12,7 @@
     "BAT": 1,
     "XMR": 1,
     "DASH": 1,
+    "ALGO": 1,
     "XRP": 1,
     "ADA": 1,
     "ETC": 1
@@ -20,12 +21,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 32
+      "count": 37
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "SUI",
@@ -60,6 +61,11 @@
     {
       "symbol": "DASH",
       "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
