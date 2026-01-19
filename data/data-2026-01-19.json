@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 19, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qgpx89/daily_crypto_discussion_january_19_2026_gmt0/",
-  "generated_at_utc": "2026-01-19T03:46:55.144616Z",
+  "generated_at_utc": "2026-01-19T04:48:55.288845Z",
   "results": {
-    "BTC": 3,
+    "BTC": 4,
+    "SUI": 1,
     "XRP": 1,
     "ADA": 1,
     "ETC": 1
@@ -12,7 +13,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 4
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
     },
     {
       "symbol": "XRP",
