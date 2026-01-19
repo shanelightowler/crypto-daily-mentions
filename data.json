@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 19, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qgpx89/daily_crypto_discussion_january_19_2026_gmt0/",
-  "generated_at_utc": "2026-01-19T14:23:42.563921Z",
+  "generated_at_utc": "2026-01-19T15:22:37.114803Z",
   "results": {
     "BTC": 22,
-    "ETH": 10,
+    "ETH": 11,
     "SUI": 3,
     "BCH": 3,
     "SOL": 2,
@@ -25,7 +25,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "SUI",
