@@ -1,22 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - January 20, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qhmnkv/daily_crypto_discussion_january_20_2026_gmt0/",
-  "generated_at_utc": "2026-01-20T06:31:05.589017Z",
+  "generated_at_utc": "2026-01-20T07:24:34.811663Z",
   "results": {
-    "BTC": 18,
+    "BTC": 20,
     "NEAR": 2,
+    "ADA": 1,
     "XMR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 20
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
     },
     {
       "symbol": "XMR",
