@@ -1,23 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - January 20, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qhmnkv/daily_crypto_discussion_january_20_2026_gmt0/",
-  "generated_at_utc": "2026-01-20T13:43:19.178311Z",
+  "generated_at_utc": "2026-01-20T14:27:17.506437Z",
   "results": {
-    "BTC": 36,
+    "BTC": 39,
+    "ETH": 5,
     "XMR": 3,
+    "XRP": 3,
     "NEAR": 2,
-    "XRP": 2,
     "DOT": 2,
     "ZEC": 1,
     "ADA": 1,
     "DASH": 1,
-    "ETH": 1
+    "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 36
+      "count": 39
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 5
     },
     {
       "symbol": "XMR",
@@ -25,13 +31,13 @@
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
-    },
-    {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 2
     },
     {
@@ -55,8 +61,8 @@
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 1
     }
   ]
