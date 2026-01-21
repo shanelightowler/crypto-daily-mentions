@@ -1,24 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 21, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qijin8/daily_crypto_discussion_january_21_2026_gmt0/",
-  "generated_at_utc": "2026-01-21T11:21:10.824594Z",
+  "generated_at_utc": "2026-01-21T12:41:56.978595Z",
   "results": {
-    "BTC": 9,
-    "ETH": 3,
+    "BTC": 15,
+    "ETH": 5,
+    "XRP": 2,
     "TON": 1,
     "SOL": 1,
-    "CRO": 1
+    "CRO": 1,
+    "AAVE": 1,
+    "ETC": 1,
+    "TRUMP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 5
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
     },
     {
       "symbol": "TON",
@@ -33,6 +42,21 @@
     {
       "symbol": "CRO",
       "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "",
       "count": 1
     }
   ]
