@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - January 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qjg7jm/daily_crypto_discussion_january_22_2026_gmt0/",
-  "generated_at_utc": "2026-01-22T20:22:44.464276Z",
+  "generated_at_utc": "2026-01-22T21:19:51.018860Z",
   "results": {
     "BTC": 34,
     "XMR": 6,
@@ -12,9 +12,9 @@
     "SKR": 1,
     "MATIC": 1,
     "PEPE": 1,
+    "BNB": 1,
     "ADA": 1,
     "DOGE": 1,
-    "BNB": 1,
     "ZEC": 1,
     "21": 1
   },
@@ -65,6 +65,11 @@
       "count": 1
     },
     {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 1
@@ -72,11 +77,6 @@
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     },
     {
