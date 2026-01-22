@@ -1,15 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - January 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qjg7jm/daily_crypto_discussion_january_22_2026_gmt0/",
-  "generated_at_utc": "2026-01-22T08:27:27.167155Z",
+  "generated_at_utc": "2026-01-22T09:29:09.605271Z",
   "results": {
-    "BTC": 4
+    "BTC": 4,
+    "SKR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "count": 4
+    },
+    {
+      "symbol": "SKR",
+      "name": "",
+      "count": 1
     }
   ]
 }
