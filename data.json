@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - January 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qjg7jm/daily_crypto_discussion_january_22_2026_gmt0/",
-  "generated_at_utc": "2026-01-22T19:21:46.690099Z",
+  "generated_at_utc": "2026-01-22T20:22:44.464276Z",
   "results": {
     "BTC": 34,
     "XMR": 6,
@@ -14,8 +14,8 @@
     "PEPE": 1,
     "ADA": 1,
     "DOGE": 1,
-    "ZEC": 1,
     "BNB": 1,
+    "ZEC": 1,
     "21": 1
   },
   "results_list": [
@@ -75,13 +75,13 @@
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
