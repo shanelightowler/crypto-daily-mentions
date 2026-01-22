@@ -1,27 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qjg7jm/daily_crypto_discussion_january_22_2026_gmt0/",
-  "generated_at_utc": "2026-01-22T18:27:37.678050Z",
+  "generated_at_utc": "2026-01-22T19:21:46.690099Z",
   "results": {
-    "BTC": 31,
+    "BTC": 34,
+    "XMR": 6,
     "XRP": 4,
-    "XMR": 3,
+    "ETH": 4,
     "ETC": 2,
     "APE": 1,
     "SKR": 1,
     "MATIC": 1,
     "PEPE": 1,
-    "ETH": 1,
     "ADA": 1,
     "DOGE": 1,
     "ZEC": 1,
+    "BNB": 1,
     "21": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 31
+      "count": 34
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 6
     },
     {
       "symbol": "XRP",
@@ -29,9 +35,9 @@
       "count": 4
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 3
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
     },
     {
       "symbol": "ETC",
@@ -59,11 +65,6 @@
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 1
-    },
-    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 1
@@ -76,6 +77,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
