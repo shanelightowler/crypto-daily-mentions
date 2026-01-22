@@ -1,18 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - January 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qjg7jm/daily_crypto_discussion_january_22_2026_gmt0/",
-  "generated_at_utc": "2026-01-22T14:26:45.622448Z",
+  "generated_at_utc": "2026-01-22T15:27:18.356061Z",
   "results": {
-    "BTC": 12,
+    "BTC": 20,
     "SKR": 1,
     "MATIC": 1,
-    "PEPE": 1
+    "PEPE": 1,
+    "ETH": 1,
+    "XRP": 1,
+    "ADA": 1,
+    "DOGE": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 12
+      "count": 20
     },
     {
       "symbol": "SKR",
@@ -27,6 +32,31 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
