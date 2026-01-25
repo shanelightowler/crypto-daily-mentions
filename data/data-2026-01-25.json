@@ -1,21 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - January 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qm4ocu/daily_crypto_discussion_january_25_2026_gmt0/",
-  "generated_at_utc": "2026-01-25T12:36:01.362808Z",
+  "generated_at_utc": "2026-01-25T13:29:53.226102Z",
   "results": {
-    "BTC": 24,
+    "BTC": 36,
     "ETH": 5,
     "LTC": 3,
+    "DOGE": 2,
     "ADA": 2,
     "NEAR": 2,
-    "DOGE": 1,
     "3000": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 36
     },
     {
       "symbol": "ETH",
@@ -28,6 +28,11 @@
       "count": 3
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
@@ -36,11 +41,6 @@
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 2
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
     },
     {
       "symbol": "3000",
