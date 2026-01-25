@@ -1,18 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - January 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qm4ocu/daily_crypto_discussion_january_25_2026_gmt0/",
-  "generated_at_utc": "2026-01-25T21:16:01.180979Z",
+  "generated_at_utc": "2026-01-25T22:17:18.240396Z",
   "results": {
-    "BTC": 104,
-    "ETH": 65,
+    "BTC": 108,
+    "ETH": 67,
+    "XMR": 4,
     "ADA": 4,
+    "NEAR": 4,
     "LTC": 3,
+    "ETC": 3,
     "DOGE": 3,
-    "NEAR": 3,
     "SOL": 3,
     "LINK": 2,
-    "XMR": 2,
-    "ETC": 2,
     "AVAX": 1,
     "3000": 1,
     "ARB": 1
@@ -21,16 +21,26 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 104
+      "count": 108
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 65
+      "count": 67
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 4
     },
     {
@@ -39,13 +49,13 @@
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
@@ -56,16 +66,6 @@
     {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 2
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 2
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 2
     },
     {
