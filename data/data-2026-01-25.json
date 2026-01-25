@@ -1,28 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - January 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qm4ocu/daily_crypto_discussion_january_25_2026_gmt0/",
-  "generated_at_utc": "2026-01-25T19:14:21.042221Z",
+  "generated_at_utc": "2026-01-25T20:20:01.884735Z",
   "results": {
-    "BTC": 73,
-    "ETH": 25,
+    "BTC": 100,
+    "ETH": 62,
     "ADA": 3,
     "LTC": 3,
     "DOGE": 3,
     "NEAR": 3,
+    "SOL": 3,
+    "LINK": 2,
     "ETC": 2,
-    "LINK": 1,
-    "3000": 1
+    "3000": 1,
+    "ARB": 1,
+    "XMR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 73
+      "count": 100
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 25
+      "count": 62
     },
     {
       "symbol": "ADA",
@@ -45,18 +48,33 @@
       "count": 3
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "3000",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "3000",
-      "name": "",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     }
   ]
