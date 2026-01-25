@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - January 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qm4ocu/daily_crypto_discussion_january_25_2026_gmt0/",
-  "generated_at_utc": "2026-01-25T07:19:08.469229Z",
+  "generated_at_utc": "2026-01-25T08:23:04.749878Z",
   "results": {
     "BTC": 4,
-    "ETH": 3,
-    "ADA": 2
+    "ETH": 4,
+    "ADA": 2,
+    "3000": 1
   },
   "results_list": [
     {
@@ -16,12 +17,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 2
+    },
+    {
+      "symbol": "3000",
+      "name": "",
+      "count": 1
     }
   ]
 }
