@@ -1,30 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - January 26, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qn1enb/daily_crypto_discussion_january_26_2026_gmt0/",
-  "generated_at_utc": "2026-01-26T17:26:11.041260Z",
+  "generated_at_utc": "2026-01-26T18:30:00.207287Z",
   "results": {
-    "BTC": 54,
-    "ETH": 3,
-    "LINK": 2,
+    "BTC": 61,
+    "ETH": 6,
+    "LINK": 3,
+    "ETC": 2,
     "NEAR": 2,
+    "XRP": 2,
     "XMR": 1,
-    "ETC": 1,
-    "ALGO": 1
+    "ALGO": 1,
+    "SOL": 1,
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 54
+      "count": 61
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -33,18 +41,28 @@
       "count": 2
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     }
   ]
