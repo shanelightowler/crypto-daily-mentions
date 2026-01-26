@@ -1,9 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 26, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qn1enb/daily_crypto_discussion_january_26_2026_gmt0/",
-  "generated_at_utc": "2026-01-26T03:53:39.565142Z",
+  "generated_at_utc": "2026-01-26T04:53:01.101861Z",
   "results": {
-    "BTC": 6,
+    "BTC": 7,
+    "LINK": 2,
     "XMR": 1,
     "ETH": 1,
     "ALGO": 1
@@ -12,7 +13,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 7
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
     },
     {
       "symbol": "XMR",
