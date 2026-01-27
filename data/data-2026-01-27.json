@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - January 27, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qnz2vw/daily_crypto_discussion_january_27_2026_gmt0/",
-  "generated_at_utc": "2026-01-27T15:27:46.952205Z",
+  "generated_at_utc": "2026-01-27T16:26:52.539378Z",
   "results": {
-    "BTC": 5,
+    "BTC": 7,
     "ETH": 3,
     "DOGE": 2,
+    "ETC": 1,
     "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "ETH",
@@ -23,6 +24,11 @@
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "SOL",
