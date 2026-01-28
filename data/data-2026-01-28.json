@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - January 28, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qowno5/daily_crypto_discussion_january_28_2026_gmt0/",
-  "generated_at_utc": "2026-01-28T17:29:10.215796Z",
+  "generated_at_utc": "2026-01-28T18:32:59.706840Z",
   "results": {
-    "BTC": 18,
+    "BTC": 21,
     "ETH": 8,
     "ADA": 4,
     "ETC": 2,
+    "LINK": 2,
     "AVAX": 1,
-    "LINK": 1,
     "OP": 1,
     "SOL": 1
   },
@@ -16,7 +16,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 18
+      "count": 21
     },
     {
       "symbol": "ETH",
@@ -34,13 +34,13 @@
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 1
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
