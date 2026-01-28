@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - January 28, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qowno5/daily_crypto_discussion_january_28_2026_gmt0/",
-  "generated_at_utc": "2026-01-28T22:22:53.583389Z",
+  "generated_at_utc": "2026-01-28T23:23:03.793707Z",
   "results": {
-    "BTC": 24,
-    "ETH": 10,
+    "BTC": 35,
+    "ETH": 13,
     "ADA": 5,
-    "ETC": 2,
+    "ETC": 3,
     "LINK": 2,
     "AVAX": 1,
+    "TON": 1,
     "OP": 1,
     "SOL": 1
   },
@@ -16,12 +17,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 35
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 13
     },
     {
       "symbol": "ADA",
@@ -31,7 +32,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 2
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -41,6 +42,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
