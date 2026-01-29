@@ -1,29 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T14:39:22.656937Z",
+  "generated_at_utc": "2026-01-29T15:32:08.864732Z",
   "results": {
-    "BTC": 60,
-    "ETH": 5,
+    "BTC": 67,
+    "ETH": 6,
     "BCH": 3,
     "PEPE": 2,
+    "ETC": 1,
     "UNI": 1,
     "BNB": 1,
     "BMT": 1,
     "KAS": 1,
     "DOT": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "NIGHT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 60
+      "count": 67
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "BCH",
@@ -34,6 +36,11 @@
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
     },
     {
       "symbol": "UNI",
@@ -63,6 +70,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "NIGHT",
+      "name": "",
       "count": 1
     }
   ]
