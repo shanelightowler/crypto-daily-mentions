@@ -1,31 +1,33 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T15:32:08.864732Z",
+  "generated_at_utc": "2026-01-29T16:39:10.113499Z",
   "results": {
-    "BTC": 67,
-    "ETH": 6,
+    "BTC": 82,
+    "ETH": 9,
     "BCH": 3,
     "PEPE": 2,
     "ETC": 1,
+    "XRP": 1,
     "UNI": 1,
     "BNB": 1,
     "BMT": 1,
     "KAS": 1,
     "DOT": 1,
+    "NIGHT": 1,
     "NEAR": 1,
-    "NIGHT": 1
+    "ROSE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 67
+      "count": 82
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 6
+      "count": 9
     },
     {
       "symbol": "BCH",
@@ -40,6 +42,11 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
@@ -68,13 +75,18 @@
       "count": 1
     },
     {
+      "symbol": "NIGHT",
+      "name": "",
+      "count": 1
+    },
+    {
       "symbol": "NEAR",
       "name": "NEAR",
       "count": 1
     },
     {
-      "symbol": "NIGHT",
-      "name": "",
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     }
   ]
