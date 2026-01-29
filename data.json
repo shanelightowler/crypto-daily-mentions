@@ -1,16 +1,17 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T19:27:52.361644Z",
+  "generated_at_utc": "2026-01-29T20:26:24.188043Z",
   "results": {
-    "BTC": 118,
-    "ETH": 10,
-    "XRP": 3,
+    "BTC": 125,
+    "ETH": 11,
+    "XRP": 4,
     "BCH": 3,
+    "PEPE": 3,
     "ETC": 2,
-    "PEPE": 2,
     "UNI": 1,
     "BNB": 1,
+    "OP": 1,
     "BMT": 1,
     "KAS": 1,
     "DOT": 1,
@@ -25,17 +26,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 118
+      "count": 125
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "BCH",
@@ -43,13 +44,13 @@
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -60,6 +61,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
