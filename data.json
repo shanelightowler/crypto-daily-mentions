@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T20:26:24.188043Z",
+  "generated_at_utc": "2026-01-29T21:23:09.134866Z",
   "results": {
-    "BTC": 125,
+    "BTC": 129,
     "ETH": 11,
     "XRP": 4,
     "BCH": 3,
@@ -14,6 +14,7 @@
     "OP": 1,
     "BMT": 1,
     "KAS": 1,
+    "3000": 1,
     "DOT": 1,
     "NIGHT": 1,
     "NEAR": 1,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 125
+      "count": 129
     },
     {
       "symbol": "ETH",
@@ -76,6 +77,11 @@
     {
       "symbol": "KAS",
       "name": "Kaspa",
+      "count": 1
+    },
+    {
+      "symbol": "3000",
+      "name": "",
       "count": 1
     },
     {
