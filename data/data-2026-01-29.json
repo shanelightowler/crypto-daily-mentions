@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T17:34:33.661290Z",
+  "generated_at_utc": "2026-01-29T18:38:54.409871Z",
   "results": {
-    "BTC": 93,
-    "ETH": 9,
+    "BTC": 101,
+    "ETH": 10,
     "XRP": 3,
     "BCH": 3,
     "PEPE": 2,
@@ -16,18 +16,21 @@
     "DOT": 1,
     "NIGHT": 1,
     "NEAR": 1,
-    "ROSE": 1
+    "ROSE": 1,
+    "TON": 1,
+    "LINK": 1,
+    "LTC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 93
+      "count": 101
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "XRP",
@@ -87,6 +90,21 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     }
   ]
