@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - January 29, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qpty8r/daily_crypto_discussion_january_29_2026_gmt0/",
-  "generated_at_utc": "2026-01-29T04:04:46.168967Z",
+  "generated_at_utc": "2026-01-29T05:40:17.975323Z",
   "results": {
-    "BTC": 7,
+    "BTC": 15,
     "BNB": 1,
-    "DOT": 1
+    "DOT": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 15
     },
     {
       "symbol": "BNB",
@@ -21,6 +22,11 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
