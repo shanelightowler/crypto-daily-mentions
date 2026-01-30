@@ -1,35 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T11:24:56.632632Z",
+  "generated_at_utc": "2026-01-30T12:47:14.522289Z",
   "results": {
-    "BTC": 63,
-    "ETH": 19,
-    "SOL": 4,
+    "BTC": 66,
+    "ETH": 21,
+    "SOL": 5,
     "XRP": 4,
+    "BNB": 3,
     "ETC": 2,
-    "BNB": 2,
     "XMR": 2,
     "ADA": 1,
     "XLM": 1,
     "ZEC": 1,
+    "NEAR": 1,
     "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 63
+      "count": 66
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 19
+      "count": 21
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "XRP",
@@ -37,13 +38,13 @@
       "count": 4
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -64,6 +65,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     },
     {
