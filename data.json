@@ -1,29 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T09:34:52.203569Z",
+  "generated_at_utc": "2026-01-30T10:29:47.956911Z",
   "results": {
-    "BTC": 51,
-    "ETH": 9,
+    "BTC": 58,
+    "ETH": 14,
     "SOL": 3,
     "XRP": 2,
     "ETC": 2,
     "BNB": 2,
+    "XMR": 2,
     "ADA": 1,
     "XLM": 1,
-    "XMR": 1,
     "ZEC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 58
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 14
     },
     {
       "symbol": "SOL",
@@ -46,6 +46,11 @@
       "count": 2
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 1
@@ -53,11 +58,6 @@
     {
       "symbol": "XLM",
       "name": "Stellar",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     },
     {
