@@ -1,14 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T12:47:14.522289Z",
+  "generated_at_utc": "2026-01-30T13:53:27.987558Z",
   "results": {
     "BTC": 66,
     "ETH": 21,
     "SOL": 5,
     "XRP": 4,
+    "ETC": 3,
     "BNB": 3,
-    "ETC": 2,
     "XMR": 2,
     "ADA": 1,
     "XLM": 1,
@@ -38,14 +38,14 @@
       "count": 4
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 3
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 3
     },
     {
       "symbol": "XMR",
