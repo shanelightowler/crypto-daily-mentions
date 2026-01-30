@@ -1,39 +1,40 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T10:29:47.956911Z",
+  "generated_at_utc": "2026-01-30T11:24:56.632632Z",
   "results": {
-    "BTC": 58,
-    "ETH": 14,
-    "SOL": 3,
-    "XRP": 2,
+    "BTC": 63,
+    "ETH": 19,
+    "SOL": 4,
+    "XRP": 4,
     "ETC": 2,
     "BNB": 2,
     "XMR": 2,
     "ADA": 1,
     "XLM": 1,
-    "ZEC": 1
+    "ZEC": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 58
+      "count": 63
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 14
+      "count": 19
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 2
+      "count": 4
     },
     {
       "symbol": "ETC",
@@ -63,6 +64,11 @@
     {
       "symbol": "ZEC",
       "name": "Zcash",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
