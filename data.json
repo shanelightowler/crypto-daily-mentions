@@ -1,33 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T16:34:56.833485Z",
+  "generated_at_utc": "2026-01-30T17:30:16.094862Z",
   "results": {
-    "BTC": 76,
-    "ETH": 22,
+    "BTC": 77,
+    "ETH": 24,
     "XRP": 6,
     "SOL": 6,
     "ETC": 4,
     "BNB": 3,
     "ADA": 2,
+    "DOGE": 2,
     "XMR": 2,
     "TON": 1,
     "XLM": 1,
-    "NIGHT": 1,
+    "DOT": 1,
+    "PEPE": 1,
+    "SHIB": 1,
     "ZEC": 1,
-    "NEAR": 1,
-    "DOGE": 1
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 76
+      "count": 77
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 24
     },
     {
       "symbol": "XRP",
@@ -55,6 +57,11 @@
       "count": 2
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
       "symbol": "XMR",
       "name": "Monero",
       "count": 2
@@ -70,8 +77,18 @@
       "count": 1
     },
     {
-      "symbol": "NIGHT",
-      "name": "",
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 1
     },
     {
@@ -82,11 +99,6 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     }
   ]
