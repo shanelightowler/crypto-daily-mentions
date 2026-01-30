@@ -1,41 +1,53 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T08:33:36.254942Z",
+  "generated_at_utc": "2026-01-30T09:34:52.203569Z",
   "results": {
-    "BTC": 41,
-    "ETH": 8,
-    "SOL": 1,
+    "BTC": 51,
+    "ETH": 9,
+    "SOL": 3,
+    "XRP": 2,
+    "ETC": 2,
+    "BNB": 2,
     "ADA": 1,
-    "XRP": 1,
     "XLM": 1,
-    "ETC": 1,
-    "BNB": 1
+    "XMR": 1,
+    "ZEC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 51
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
+      "count": 3
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
@@ -44,13 +56,13 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
-      "symbol": "BNB",
-      "name": "BNB",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     }
   ]
