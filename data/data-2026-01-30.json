@@ -1,9 +1,9 @@
 {
   "thread_title": "Daily Crypto Discussion - January 30, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qqqy9k/daily_crypto_discussion_january_30_2026_gmt0/",
-  "generated_at_utc": "2026-01-30T19:28:46.314697Z",
+  "generated_at_utc": "2026-01-30T20:25:56.706359Z",
   "results": {
-    "BTC": 85,
+    "BTC": 87,
     "ETH": 25,
     "SOL": 7,
     "XRP": 6,
@@ -17,6 +17,7 @@
     "WIF": 1,
     "TON": 1,
     "XLM": 1,
+    "BONK": 1,
     "DOT": 1,
     "SHIB": 1,
     "ZEC": 1,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 85
+      "count": 87
     },
     {
       "symbol": "ETH",
@@ -91,6 +92,11 @@
     {
       "symbol": "XLM",
       "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
