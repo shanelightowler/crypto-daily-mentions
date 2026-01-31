@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - January 31, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qrnyr3/daily_crypto_discussion_january_31_2026_gmt0/",
-  "generated_at_utc": "2026-01-31T11:17:18.340791Z",
+  "generated_at_utc": "2026-01-31T12:39:36.344368Z",
   "results": {
     "BTC": 9,
+    "ETH": 3,
     "ADA": 3,
     "SOL": 2,
-    "ETH": 2,
     "CRO": 2,
     "XRP": 1,
     "NEAR": 1,
@@ -19,6 +19,11 @@
       "count": 9
     },
     {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 3
@@ -26,11 +31,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 2
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
       "count": 2
     },
     {
