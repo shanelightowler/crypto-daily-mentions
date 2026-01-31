@@ -1,52 +1,53 @@
 {
   "thread_title": "Daily Crypto Discussion - January 31, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qrnyr3/daily_crypto_discussion_january_31_2026_gmt0/",
-  "generated_at_utc": "2026-01-31T18:27:11.498551Z",
+  "generated_at_utc": "2026-01-31T19:18:30.173540Z",
   "results": {
-    "BTC": 79,
-    "ETH": 26,
-    "SOL": 9,
-    "XRP": 6,
-    "ADA": 6,
+    "BTC": 107,
+    "ETH": 29,
+    "SOL": 11,
+    "XRP": 7,
+    "ADA": 7,
     "SUI": 2,
     "LTC": 2,
     "BCH": 2,
+    "DOT": 2,
     "CRO": 2,
     "MATIC": 1,
     "GALA": 1,
     "MANA": 1,
     "LINK": 1,
+    "TRX": 1,
     "DOGE": 1,
     "NEAR": 1,
     "XMR": 1,
-    "DOT": 1,
     "ZEC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 79
+      "count": 107
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 29
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
+      "count": 11
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "SUI",
@@ -61,6 +62,11 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 2
     },
     {
@@ -89,6 +95,11 @@
       "count": 1
     },
     {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
@@ -101,11 +112,6 @@
     {
       "symbol": "XMR",
       "name": "Monero",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     },
     {
