@@ -694,5 +694,9 @@
   {
     "date": "2026-01-30",
     "file": "predictions/eth-preds-2026-01-30.json"
+  },
+  {
+    "date": "2026-01-31",
+    "file": "predictions/eth-preds-2026-01-31.json"
   }
 ]
