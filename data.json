@@ -1,20 +1,21 @@
 {
   "thread_title": "Daily Crypto Discussion - January 31, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qrnyr3/daily_crypto_discussion_january_31_2026_gmt0/",
-  "generated_at_utc": "2026-01-31T22:19:21.708501Z",
+  "generated_at_utc": "2026-01-31T23:18:50.850939Z",
   "results": {
-    "BTC": 142,
-    "ETH": 50,
-    "SOL": 11,
+    "BTC": 152,
+    "ETH": 53,
+    "SOL": 12,
     "XRP": 7,
     "ADA": 7,
+    "CRO": 3,
+    "DOT": 3,
+    "MATIC": 2,
     "SUI": 2,
     "LINK": 2,
     "LTC": 2,
     "BCH": 2,
-    "DOT": 2,
-    "CRO": 2,
-    "MATIC": 1,
+    "ETC": 2,
     "GALA": 1,
     "MANA": 1,
     "PEPE": 1,
@@ -22,24 +23,24 @@
     "DOGE": 1,
     "NEAR": 1,
     "XMR": 1,
-    "ETC": 1,
-    "ZEC": 1
+    "ZEC": 1,
+    "ATOM": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 142
+      "count": 152
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 50
+      "count": 53
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "XRP",
@@ -50,6 +51,21 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 7
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 3
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 3
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 2
     },
     {
       "symbol": "SUI",
@@ -72,19 +88,9 @@
       "count": 2
     },
     {
-      "symbol": "DOT",
-      "name": "Polkadot",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
-    },
-    {
-      "symbol": "CRO",
-      "name": "Cronos",
-      "count": 2
-    },
-    {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
-      "count": 1
     },
     {
       "symbol": "GALA",
@@ -122,13 +128,13 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "ATOM",
+      "name": "Cosmos",
       "count": 1
     }
   ]
