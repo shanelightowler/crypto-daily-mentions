@@ -1,14 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - January 31, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qrnyr3/daily_crypto_discussion_january_31_2026_gmt0/",
-  "generated_at_utc": "2026-01-31T19:18:30.173540Z",
+  "generated_at_utc": "2026-01-31T20:21:17.999190Z",
   "results": {
-    "BTC": 107,
-    "ETH": 29,
+    "BTC": 123,
+    "ETH": 30,
     "SOL": 11,
     "XRP": 7,
     "ADA": 7,
     "SUI": 2,
+    "LINK": 2,
     "LTC": 2,
     "BCH": 2,
     "DOT": 2,
@@ -16,7 +17,6 @@
     "MATIC": 1,
     "GALA": 1,
     "MANA": 1,
-    "LINK": 1,
     "TRX": 1,
     "DOGE": 1,
     "NEAR": 1,
@@ -27,12 +27,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 107
+      "count": 123
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 29
+      "count": 30
     },
     {
       "symbol": "SOL",
@@ -52,6 +52,11 @@
     {
       "symbol": "SUI",
       "name": "Sui",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
@@ -87,11 +92,6 @@
     {
       "symbol": "MANA",
       "name": "Decentraland",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     },
     {
