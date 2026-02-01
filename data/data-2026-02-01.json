@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T18:29:25.759890Z",
+  "generated_at_utc": "2026-02-01T19:20:56.014860Z",
   "results": {
-    "BTC": 64,
-    "ETH": 40,
+    "BTC": 66,
+    "ETH": 41,
     "NEAR": 7,
-    "ETC": 4,
+    "ETC": 5,
     "BCH": 4,
     "XRP": 4,
     "DOT": 4,
+    "SUI": 3,
     "LINK": 2,
     "SOL": 2,
     "AVAX": 2,
     "PEPE": 2,
-    "SUI": 2,
     "XLM": 2,
     "ADA": 1,
     "ARB": 1,
@@ -24,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 64
+      "count": 66
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 40
+      "count": 41
     },
     {
       "symbol": "NEAR",
@@ -39,7 +39,7 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "BCH",
@@ -55,6 +55,11 @@
       "symbol": "DOT",
       "name": "Polkadot",
       "count": 4
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 3
     },
     {
       "symbol": "LINK",
@@ -74,11 +79,6 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
-      "count": 2
-    },
-    {
-      "symbol": "SUI",
-      "name": "Sui",
       "count": 2
     },
     {
