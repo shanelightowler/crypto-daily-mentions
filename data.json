@@ -1,38 +1,54 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T16:25:02.194992Z",
+  "generated_at_utc": "2026-02-01T17:20:53.190680Z",
   "results": {
-    "BTC": 45,
-    "ETH": 31,
-    "NEAR": 5,
+    "BTC": 54,
+    "ETH": 33,
+    "NEAR": 6,
+    "ETC": 4,
+    "BCH": 4,
+    "XRP": 4,
     "DOT": 4,
-    "XRP": 3,
-    "PEPE": 2,
+    "SOL": 2,
     "AVAX": 2,
-    "ETC": 2,
-    "BCH": 2,
+    "PEPE": 2,
     "SUI": 2,
     "XLM": 2,
     "LINK": 1,
-    "SOL": 1,
-    "ARB": 1
+    "ARB": 1,
+    "KAS": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 45
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 33
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 5
+      "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 4
     },
     {
       "symbol": "DOT",
@@ -40,13 +56,8 @@
       "count": 4
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 3
-    },
-    {
-      "symbol": "PEPE",
-      "name": "PEPE",
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
@@ -55,13 +66,8 @@
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 2
     },
     {
@@ -80,13 +86,13 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "KAS",
+      "name": "Kaspa",
       "count": 1
     }
   ]
