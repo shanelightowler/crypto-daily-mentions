@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T21:20:11.081792Z",
+  "generated_at_utc": "2026-02-01T22:20:17.900795Z",
   "results": {
-    "BTC": 85,
-    "ETH": 55,
+    "BTC": 88,
+    "ETH": 58,
     "NEAR": 7,
     "ETC": 7,
     "BCH": 4,
@@ -17,6 +17,7 @@
     "PEPE": 2,
     "XLM": 2,
     "ADA": 1,
+    "MKR": 1,
     "ARB": 1,
     "KAS": 1
   },
@@ -24,12 +25,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 85
+      "count": 88
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 55
+      "count": 58
     },
     {
       "symbol": "NEAR",
@@ -89,6 +90,11 @@
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "MKR",
+      "name": "Maker",
       "count": 1
     },
     {
