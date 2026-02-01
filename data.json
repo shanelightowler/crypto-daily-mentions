@@ -1,24 +1,53 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T07:01:09.212652Z",
+  "generated_at_utc": "2026-02-01T08:28:16.166071Z",
   "results": {
-    "BTC": 7,
-    "ETH": 3,
+    "BTC": 10,
+    "ETH": 7,
+    "ETC": 2,
+    "NEAR": 2,
+    "XRP": 2,
+    "XLM": 2,
+    "LINK": 1,
     "BCH": 1,
-    "ETC": 1,
-    "XRP": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 10
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 7
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 2
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
     },
     {
       "symbol": "BCH",
@@ -26,13 +55,8 @@
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     }
   ]
