@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T22:20:17.900795Z",
+  "generated_at_utc": "2026-02-01T23:21:03.887783Z",
   "results": {
-    "BTC": 88,
-    "ETH": 58,
-    "NEAR": 7,
+    "BTC": 91,
+    "ETH": 61,
+    "NEAR": 8,
     "ETC": 7,
     "BCH": 4,
     "XRP": 4,
@@ -25,17 +25,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 88
+      "count": 91
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 58
+      "count": 61
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ETC",
