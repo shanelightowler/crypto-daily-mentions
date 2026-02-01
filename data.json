@@ -1,36 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - February 1, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qsjzp7/daily_crypto_discussion_february_1_2026_gmt0/",
-  "generated_at_utc": "2026-02-01T15:20:55.829434Z",
+  "generated_at_utc": "2026-02-01T16:25:02.194992Z",
   "results": {
-    "BTC": 30,
-    "ETH": 22,
-    "NEAR": 4,
+    "BTC": 45,
+    "ETH": 31,
+    "NEAR": 5,
     "DOT": 4,
     "XRP": 3,
-    "AVAX": 2,
     "PEPE": 2,
+    "AVAX": 2,
     "ETC": 2,
+    "BCH": 2,
+    "SUI": 2,
     "XLM": 2,
     "LINK": 1,
     "SOL": 1,
-    "BCH": 1
+    "ARB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
+      "count": 45
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 31
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOT",
@@ -43,18 +45,28 @@
       "count": 3
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
-      "count": 2
-    },
-    {
       "symbol": "PEPE",
       "name": "PEPE",
       "count": 2
     },
     {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 2
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -73,8 +85,8 @@
       "count": 1
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     }
   ]
