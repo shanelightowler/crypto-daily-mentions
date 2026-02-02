@@ -1,25 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - February 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qtgmr9/daily_crypto_discussion_february_2_2026_gmt0/",
-  "generated_at_utc": "2026-02-02T04:21:51.262029Z",
+  "generated_at_utc": "2026-02-02T06:01:05.344133Z",
   "results": {
-    "BTC": 19,
-    "ETH": 12,
+    "BTC": 32,
+    "ETH": 19,
     "LINK": 2,
     "SHIB": 1,
     "MKR": 1,
+    "32": 1,
     "DOT": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 19
+      "count": 32
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 19
     },
     {
       "symbol": "LINK",
@@ -34,6 +35,11 @@
     {
       "symbol": "MKR",
       "name": "Maker",
+      "count": 1
+    },
+    {
+      "symbol": "32",
+      "name": "",
       "count": 1
     },
     {
