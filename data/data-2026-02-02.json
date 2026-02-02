@@ -1,26 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - February 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qtgmr9/daily_crypto_discussion_february_2_2026_gmt0/",
-  "generated_at_utc": "2026-02-02T14:52:15.107531Z",
+  "generated_at_utc": "2026-02-02T15:35:04.404110Z",
   "results": {
-    "BTC": 70,
+    "BTC": 75,
     "ETH": 38,
     "LINK": 4,
+    "DOT": 3,
     "SHIB": 2,
-    "DOT": 2,
     "XMR": 2,
     "ETC": 2,
     "OP": 1,
     "MKR": 1,
     "SOL": 1,
     "32": 1,
+    "ADA": 1,
+    "ATOM": 1,
+    "RENDER": 1,
+    "TIA": 1,
+    "INJ": 1,
     "SAND": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 70
+      "count": 75
     },
     {
       "symbol": "ETH",
@@ -33,13 +38,13 @@
       "count": 4
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
-      "count": 2
-    },
-    {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 3
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 2
     },
     {
@@ -70,6 +75,31 @@
     {
       "symbol": "32",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "RENDER",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "INJ",
+      "name": "Injective",
       "count": 1
     },
     {
