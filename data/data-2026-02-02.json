@@ -1,45 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - February 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qtgmr9/daily_crypto_discussion_february_2_2026_gmt0/",
-  "generated_at_utc": "2026-02-02T18:38:08.575350Z",
+  "generated_at_utc": "2026-02-02T23:25:00.230065Z",
   "results": {
-    "BTC": 87,
-    "ETH": 38,
+    "BTC": 98,
+    "ETH": 44,
+    "XMR": 6,
     "LINK": 4,
-    "XMR": 4,
     "DOT": 3,
+    "ETC": 3,
     "SHIB": 2,
-    "ETC": 2,
+    "SOL": 2,
+    "ADA": 2,
     "OP": 1,
     "MKR": 1,
-    "SOL": 1,
     "32": 1,
-    "ADA": 1,
+    "69": 1,
+    "LTC": 1,
     "ATOM": 1,
     "RENDER": 1,
     "TIA": 1,
     "INJ": 1,
-    "SAND": 1
+    "SAND": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 87
+      "count": 98
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 38
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 4
+      "count": 44
     },
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 6
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 4
     },
     {
@@ -48,13 +51,23 @@
       "count": 3
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
@@ -68,18 +81,18 @@
       "count": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
       "symbol": "32",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "69",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
@@ -105,6 +118,11 @@
     {
       "symbol": "SAND",
       "name": "The Sandbox",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
