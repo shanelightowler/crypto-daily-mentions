@@ -1,21 +1,57 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T01:52:51.817595Z",
+  "generated_at_utc": "2026-02-03T04:12:26.508081Z",
   "results": {
+    "ETH": 4,
+    "SOL": 3,
     "BTC": 2,
-    "ETH": 2
+    "MKR": 1,
+    "TIA": 1,
+    "SUI": 1,
+    "KSM": 1,
+    "ATOM": 1
   },
   "results_list": [
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 4
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 2
+      "symbol": "MKR",
+      "name": "Maker",
+      "count": 1
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
+    },
+    {
+      "symbol": "KSM",
+      "name": "Kusama",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
     }
   ]
 }
