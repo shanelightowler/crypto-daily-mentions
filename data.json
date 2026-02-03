@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T09:36:36.339959Z",
+  "generated_at_utc": "2026-02-03T10:36:04.237839Z",
   "results": {
-    "ETH": 5,
-    "BTC": 4,
+    "ETH": 7,
+    "BTC": 5,
     "SOL": 3,
     "MKR": 1,
     "TIA": 1,
@@ -16,12 +16,12 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
