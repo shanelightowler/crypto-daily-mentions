@@ -1,22 +1,23 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T21:30:23.749787Z",
+  "generated_at_utc": "2026-02-03T22:25:52.491830Z",
   "results": {
     "BTC": 66,
-    "ETH": 39,
+    "ETH": 40,
     "SOL": 7,
+    "ADA": 2,
     "LTC": 2,
     "LINK": 2,
     "ROSE": 1,
     "MOON": 1,
-    "ADA": 1,
     "ETC": 1,
     "BCH": 1,
     "MKR": 1,
     "NEAR": 1,
     "XMR": 1,
     "BNB": 1,
+    "ALGO": 1,
     "32": 1,
     "QNT": 1,
     "TIA": 1,
@@ -24,6 +25,7 @@
     "KSM": 1,
     "ATOM": 1,
     "TON": 1,
+    "OP": 1,
     "DOGE": 1
   },
   "results_list": [
@@ -35,12 +37,17 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 39
+      "count": 40
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 7
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
     },
     {
       "symbol": "LTC",
@@ -60,11 +67,6 @@
     {
       "symbol": "MOON",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 1
     },
     {
@@ -95,6 +97,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
@@ -130,6 +137,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
