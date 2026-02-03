@@ -1,40 +1,50 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T17:50:16.982572Z",
+  "generated_at_utc": "2026-02-03T18:52:31.854389Z",
   "results": {
-    "BTC": 26,
-    "ETH": 13,
-    "SOL": 3,
+    "BTC": 42,
+    "ETH": 23,
+    "SOL": 6,
     "LINK": 2,
+    "ROSE": 1,
     "ETC": 1,
     "MKR": 1,
+    "XMR": 1,
+    "BNB": 1,
     "32": 1,
+    "QNT": 1,
     "TIA": 1,
     "SUI": 1,
     "KSM": 1,
-    "ATOM": 1
+    "ATOM": 1,
+    "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 26
+      "count": 42
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 23
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
     },
     {
       "symbol": "ETC",
@@ -47,8 +57,23 @@
       "count": 1
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "count": 1
+    },
+    {
       "symbol": "32",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "QNT",
+      "name": "Quant",
       "count": 1
     },
     {
@@ -69,6 +94,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 1
     }
   ]
