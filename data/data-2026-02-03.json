@@ -1,14 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T20:31:45.404665Z",
+  "generated_at_utc": "2026-02-03T21:30:23.749787Z",
   "results": {
-    "BTC": 57,
-    "ETH": 32,
+    "BTC": 66,
+    "ETH": 39,
     "SOL": 7,
+    "LTC": 2,
     "LINK": 2,
     "ROSE": 1,
     "MOON": 1,
+    "ADA": 1,
     "ETC": 1,
     "BCH": 1,
     "MKR": 1,
@@ -21,23 +23,29 @@
     "SUI": 1,
     "KSM": 1,
     "ATOM": 1,
+    "TON": 1,
     "DOGE": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 66
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 39
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 7
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 2
     },
     {
       "symbol": "LINK",
@@ -52,6 +60,11 @@
     {
       "symbol": "MOON",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     },
     {
@@ -112,6 +125,11 @@
     {
       "symbol": "ATOM",
       "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
