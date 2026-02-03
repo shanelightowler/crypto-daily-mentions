@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - February 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qudnr7/daily_crypto_discussion_february_3_2026_gmt0/",
-  "generated_at_utc": "2026-02-03T19:42:20.575936Z",
+  "generated_at_utc": "2026-02-03T20:31:45.404665Z",
   "results": {
-    "BTC": 54,
-    "ETH": 31,
+    "BTC": 57,
+    "ETH": 32,
     "SOL": 7,
     "LINK": 2,
     "ROSE": 1,
+    "MOON": 1,
     "ETC": 1,
     "BCH": 1,
     "MKR": 1,
@@ -26,12 +27,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 54
+      "count": 57
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 32
     },
     {
       "symbol": "SOL",
@@ -46,6 +47,11 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "MOON",
+      "name": "",
       "count": 1
     },
     {
