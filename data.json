@@ -1,21 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - February 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qva66z/daily_crypto_discussion_february_4_2026_gmt0/",
-  "generated_at_utc": "2026-02-04T20:30:09.162132Z",
+  "generated_at_utc": "2026-02-04T21:29:28.160855Z",
   "results": {
     "BTC": 92,
-    "ETH": 51,
+    "ETH": 53,
     "SOL": 19,
     "XRP": 5,
     "ETC": 3,
     "PEPE": 3,
+    "NEAR": 2,
     "SUI": 1,
-    "69420": 1,
     "LTC": 1,
+    "69420": 1,
     "XMR": 1,
     "LINK": 1,
     "BCH": 1,
-    "NEAR": 1,
+    "TON": 1,
     "DOT": 1,
     "ADA": 1
   },
@@ -28,7 +29,7 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 51
+      "count": 53
     },
     {
       "symbol": "SOL",
@@ -51,18 +52,23 @@
       "count": 3
     },
     {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 1
     },
     {
-      "symbol": "69420",
-      "name": "",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
+      "symbol": "69420",
+      "name": "",
       "count": 1
     },
     {
@@ -81,8 +87,8 @@
       "count": 1
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
