@@ -1,7 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - February 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qva66z/daily_crypto_discussion_february_4_2026_gmt0/",
-  "generated_at_utc": "2026-02-04T01:47:48.417530Z",
-  "results": {},
-  "results_list": []
+  "generated_at_utc": "2026-02-04T04:08:28.401800Z",
+  "results": {
+    "BTC": 2
+  },
+  "results_list": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "count": 2
+    }
+  ]
 }
