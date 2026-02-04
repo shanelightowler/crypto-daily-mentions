@@ -1,32 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - February 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qva66z/daily_crypto_discussion_february_4_2026_gmt0/",
-  "generated_at_utc": "2026-02-04T15:38:57.536781Z",
+  "generated_at_utc": "2026-02-04T16:41:57.330691Z",
   "results": {
-    "BTC": 33,
-    "SOL": 14,
-    "ETH": 13,
+    "BTC": 43,
+    "SOL": 16,
+    "ETH": 16,
     "ETC": 2,
     "XRP": 2,
     "SUI": 1,
+    "69420": 1,
+    "BCH": 1,
     "LINK": 1,
-    "NEAR": 1
+    "NEAR": 1,
+    "ADA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 33
+      "count": 43
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 14
+      "count": 16
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 13
+      "count": 16
     },
     {
       "symbol": "ETC",
@@ -44,6 +47,16 @@
       "count": 1
     },
     {
+      "symbol": "69420",
+      "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 1
+    },
+    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 1
@@ -51,6 +64,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 1
     }
   ]
