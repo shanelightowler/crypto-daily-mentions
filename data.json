@@ -1,63 +1,64 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T17:44:07.069783Z",
+  "generated_at_utc": "2026-02-05T18:43:02.397109Z",
   "results": {
-    "BTC": 253,
-    "ETH": 45,
-    "XRP": 18,
+    "BTC": 293,
+    "ETH": 49,
+    "XRP": 23,
+    "SOL": 11,
+    "ETC": 10,
     "LTC": 10,
-    "ETC": 9,
-    "SOL": 8,
     "NEAR": 6,
     "ALGO": 5,
     "69420": 4,
     "BCH": 4,
+    "DOGE": 4,
     "ADA": 3,
-    "DOGE": 3,
+    "ROSE": 2,
     "69": 2,
     "TON": 2,
     "XMR": 2,
     "LINK": 2,
     "SHIB": 2,
-    "ROSE": 1,
     "SAND": 1,
     "67": 1,
     "SUI": 1,
     "KAS": 1,
     "AVAX": 1,
+    "BNB": 1,
     "KTA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 253
+      "count": 293
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 45
+      "count": 49
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 18
+      "count": 23
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 11
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 10
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 10
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 9
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 8
     },
     {
       "symbol": "NEAR",
@@ -80,14 +81,19 @@
       "count": 4
     },
     {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 4
+    },
+    {
       "symbol": "ADA",
       "name": "Cardano",
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 3
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 2
     },
     {
       "symbol": "69",
@@ -115,11 +121,6 @@
       "count": 2
     },
     {
-      "symbol": "ROSE",
-      "name": "Oasis Network",
-      "count": 1
-    },
-    {
       "symbol": "SAND",
       "name": "The Sandbox",
       "count": 1
@@ -142,6 +143,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
