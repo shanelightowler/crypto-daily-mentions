@@ -1,57 +1,63 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T12:54:59.692749Z",
+  "generated_at_utc": "2026-02-05T14:03:52.602034Z",
   "results": {
-    "BTC": 132,
-    "ETH": 23,
-    "LTC": 8,
-    "XRP": 5,
-    "SOL": 4,
-    "ETC": 4,
+    "BTC": 143,
+    "ETH": 26,
+    "XRP": 10,
+    "LTC": 10,
+    "SOL": 5,
+    "ETC": 5,
+    "69420": 3,
     "BCH": 3,
     "NEAR": 2,
-    "69420": 2,
+    "ADA": 2,
+    "SHIB": 2,
+    "DOGE": 2,
     "69": 1,
     "TON": 1,
     "67": 1,
     "XMR": 1,
     "LINK": 1,
     "KAS": 1,
-    "AVAX": 1,
-    "DOGE": 1,
-    "SHIB": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 132
+      "count": 143
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 23
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 8
+      "count": 26
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 5
+      "count": 10
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 10
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 4
+      "count": 5
+    },
+    {
+      "symbol": "69420",
+      "name": "",
+      "count": 3
     },
     {
       "symbol": "BCH",
@@ -64,8 +70,18 @@
       "count": 2
     },
     {
-      "symbol": "69420",
-      "name": "",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 2
     },
     {
@@ -101,16 +117,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
       "count": 1
     }
   ]
