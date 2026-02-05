@@ -1,33 +1,45 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T04:11:25.321306Z",
+  "generated_at_utc": "2026-02-05T05:52:44.364018Z",
   "results": {
-    "BTC": 29,
-    "ETH": 8,
+    "BTC": 62,
+    "ETH": 9,
     "BCH": 3,
+    "NEAR": 2,
+    "67": 1,
     "XMR": 1,
     "LINK": 1,
     "KAS": 1,
+    "ETC": 1,
     "DOGE": 1,
-    "SHIB": 1,
-    "NEAR": 1
+    "SHIB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 62
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "67",
+      "name": "",
+      "count": 1
     },
     {
       "symbol": "XMR",
@@ -45,6 +57,11 @@
       "count": 1
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 1
@@ -52,11 +69,6 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     }
   ]
