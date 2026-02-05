@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T07:47:45.019059Z",
+  "generated_at_utc": "2026-02-05T08:38:05.540408Z",
   "results": {
-    "BTC": 70,
-    "ETH": 10,
+    "BTC": 73,
+    "ETH": 12,
+    "LTC": 4,
     "BCH": 3,
     "NEAR": 2,
+    "ETC": 2,
     "TON": 1,
     "67": 1,
     "XMR": 1,
     "LINK": 1,
     "KAS": 1,
-    "LTC": 1,
-    "ETC": 1,
     "69420": 1,
     "DOGE": 1,
     "SHIB": 1
@@ -22,12 +22,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 70
+      "count": 73
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 4
     },
     {
       "symbol": "BCH",
@@ -37,6 +42,11 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 2
     },
     {
@@ -62,16 +72,6 @@
     {
       "symbol": "KAS",
       "name": "Kaspa",
-      "count": 1
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
