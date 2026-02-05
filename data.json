@@ -1,23 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T14:03:52.602034Z",
+  "generated_at_utc": "2026-02-05T15:37:45.086599Z",
   "results": {
-    "BTC": 143,
-    "ETH": 26,
-    "XRP": 10,
+    "BTC": 177,
+    "ETH": 33,
+    "XRP": 13,
     "LTC": 10,
     "SOL": 5,
+    "ALGO": 5,
     "ETC": 5,
+    "BCH": 4,
+    "NEAR": 3,
     "69420": 3,
-    "BCH": 3,
-    "NEAR": 2,
+    "69": 2,
     "ADA": 2,
+    "TON": 2,
     "SHIB": 2,
     "DOGE": 2,
-    "69": 1,
-    "TON": 1,
+    "ROSE": 1,
+    "SAND": 1,
     "67": 1,
+    "SUI": 1,
     "XMR": 1,
     "LINK": 1,
     "KAS": 1,
@@ -27,17 +31,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 143
+      "count": 177
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 26
+      "count": 33
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 10
+      "count": 13
     },
     {
       "symbol": "LTC",
@@ -50,9 +54,24 @@
       "count": 5
     },
     {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 5
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 5
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 4
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
     },
     {
       "symbol": "69420",
@@ -60,18 +79,18 @@
       "count": 3
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 3
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "69",
+      "name": "",
       "count": 2
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 2
     },
     {
@@ -85,18 +104,23 @@
       "count": 2
     },
     {
-      "symbol": "69",
-      "name": "",
+      "symbol": "ROSE",
+      "name": "Oasis Network",
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "SAND",
+      "name": "The Sandbox",
       "count": 1
     },
     {
       "symbol": "67",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 1
     },
     {
