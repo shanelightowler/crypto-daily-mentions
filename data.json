@@ -1,34 +1,36 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T19:35:18.571034Z",
+  "generated_at_utc": "2026-02-05T20:29:37.441676Z",
   "results": {
-    "BTC": 338,
-    "ETH": 59,
-    "XRP": 25,
+    "BTC": 369,
+    "ETH": 62,
+    "XRP": 54,
     "SOL": 12,
-    "ETC": 11,
+    "ETC": 12,
+    "NEAR": 10,
     "LTC": 10,
-    "NEAR": 8,
-    "ALGO": 5,
+    "ALGO": 7,
+    "DOGE": 6,
+    "XMR": 5,
     "69420": 4,
     "BCH": 4,
-    "DOGE": 4,
     "ADA": 3,
     "ROSE": 2,
     "69": 2,
     "TON": 2,
-    "XMR": 2,
     "LINK": 2,
     "SHIB": 2,
+    "MATIC": 2,
+    "BNB": 2,
     "SAND": 1,
     "BONK": 1,
     "67": 1,
     "SUI": 1,
     "KAS": 1,
-    "MATIC": 1,
+    "CRO": 1,
+    "HBAR": 1,
     "AVAX": 1,
-    "BNB": 1,
     "KTA": 1,
     "NEO": 1
   },
@@ -36,17 +38,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 338
+      "count": 369
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 59
+      "count": 62
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 25
+      "count": 54
     },
     {
       "symbol": "SOL",
@@ -56,7 +58,12 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 11
+      "count": 12
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 10
     },
     {
       "symbol": "LTC",
@@ -64,13 +71,18 @@
       "count": 10
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 8
-    },
-    {
       "symbol": "ALGO",
       "name": "Algorand",
+      "count": 7
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 6
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 5
     },
     {
@@ -81,11 +93,6 @@
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "count": 4
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 4
     },
     {
@@ -109,11 +116,6 @@
       "count": 2
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 2
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
@@ -121,6 +123,16 @@
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
+      "count": 2
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 2
     },
     {
@@ -149,18 +161,18 @@
       "count": 1
     },
     {
-      "symbol": "MATIC",
-      "name": "Polygon (MATIC)",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 1
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "BNB",
-      "name": "BNB",
       "count": 1
     },
     {
