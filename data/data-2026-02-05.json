@@ -1,47 +1,48 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T15:37:45.086599Z",
+  "generated_at_utc": "2026-02-05T16:42:38.644982Z",
   "results": {
-    "BTC": 177,
-    "ETH": 33,
-    "XRP": 13,
+    "BTC": 222,
+    "ETH": 42,
+    "XRP": 15,
     "LTC": 10,
-    "SOL": 5,
+    "ETC": 8,
+    "SOL": 7,
+    "NEAR": 5,
     "ALGO": 5,
-    "ETC": 5,
     "BCH": 4,
-    "NEAR": 3,
     "69420": 3,
+    "ADA": 3,
+    "DOGE": 3,
     "69": 2,
-    "ADA": 2,
     "TON": 2,
+    "LINK": 2,
     "SHIB": 2,
-    "DOGE": 2,
     "ROSE": 1,
     "SAND": 1,
     "67": 1,
     "SUI": 1,
     "XMR": 1,
-    "LINK": 1,
     "KAS": 1,
-    "AVAX": 1
+    "AVAX": 1,
+    "KTA": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 177
+      "count": 222
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 33
+      "count": 42
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 13
+      "count": 15
     },
     {
       "symbol": "LTC",
@@ -49,8 +50,18 @@
       "count": 10
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 8
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
+      "count": 7
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 5
     },
     {
@@ -59,23 +70,23 @@
       "count": 5
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 5
-    },
-    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 4
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "69420",
+      "name": "",
       "count": 3
     },
     {
-      "symbol": "69420",
-      "name": "",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
@@ -84,23 +95,18 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 2
-    },
-    {
       "symbol": "TON",
       "name": "Toncoin",
       "count": 2
     },
     {
-      "symbol": "SHIB",
-      "name": "Shiba Inu",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 2
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
       "count": 2
     },
     {
@@ -129,11 +135,6 @@
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 1
-    },
-    {
       "symbol": "KAS",
       "name": "Kaspa",
       "count": 1
@@ -141,6 +142,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "KTA",
+      "name": "",
       "count": 1
     }
   ]
