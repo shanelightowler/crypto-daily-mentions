@@ -1,22 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T11:32:26.115688Z",
+  "generated_at_utc": "2026-02-05T12:54:59.692749Z",
   "results": {
-    "BTC": 96,
-    "ETH": 15,
+    "BTC": 132,
+    "ETH": 23,
     "LTC": 8,
+    "XRP": 5,
+    "SOL": 4,
+    "ETC": 4,
     "BCH": 3,
     "NEAR": 2,
-    "XRP": 2,
-    "ETC": 2,
-    "SOL": 1,
+    "69420": 2,
+    "69": 1,
     "TON": 1,
     "67": 1,
     "XMR": 1,
     "LINK": 1,
     "KAS": 1,
-    "69420": 1,
+    "AVAX": 1,
     "DOGE": 1,
     "SHIB": 1
   },
@@ -24,17 +26,32 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 96
+      "count": 132
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 15
+      "count": 23
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 8
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 5
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 4
     },
     {
       "symbol": "BCH",
@@ -47,18 +64,13 @@
       "count": 2
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "69420",
+      "name": "",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "69",
+      "name": "",
       "count": 1
     },
     {
@@ -87,8 +99,8 @@
       "count": 1
     },
     {
-      "symbol": "69420",
-      "name": "",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
