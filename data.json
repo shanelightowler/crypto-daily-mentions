@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T18:43:02.397109Z",
+  "generated_at_utc": "2026-02-05T19:35:18.571034Z",
   "results": {
-    "BTC": 293,
-    "ETH": 49,
-    "XRP": 23,
-    "SOL": 11,
-    "ETC": 10,
+    "BTC": 338,
+    "ETH": 59,
+    "XRP": 25,
+    "SOL": 12,
+    "ETC": 11,
     "LTC": 10,
-    "NEAR": 6,
+    "NEAR": 8,
     "ALGO": 5,
     "69420": 4,
     "BCH": 4,
@@ -22,38 +22,41 @@
     "LINK": 2,
     "SHIB": 2,
     "SAND": 1,
+    "BONK": 1,
     "67": 1,
     "SUI": 1,
     "KAS": 1,
+    "MATIC": 1,
     "AVAX": 1,
     "BNB": 1,
-    "KTA": 1
+    "KTA": 1,
+    "NEO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 293
+      "count": 338
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 49
+      "count": 59
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 23
+      "count": 25
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 11
+      "count": 12
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 10
+      "count": 11
     },
     {
       "symbol": "LTC",
@@ -63,7 +66,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 6
+      "count": 8
     },
     {
       "symbol": "ALGO",
@@ -126,6 +129,11 @@
       "count": 1
     },
     {
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 1
+    },
+    {
       "symbol": "67",
       "name": "",
       "count": 1
@@ -141,6 +149,11 @@
       "count": 1
     },
     {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 1
@@ -153,6 +166,11 @@
     {
       "symbol": "KTA",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
       "count": 1
     }
   ]
