@@ -1,14 +1,62 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T01:49:23.345498Z",
+  "generated_at_utc": "2026-02-05T04:11:25.321306Z",
   "results": {
-    "BTC": 1
+    "BTC": 29,
+    "ETH": 8,
+    "BCH": 3,
+    "XMR": 1,
+    "LINK": 1,
+    "KAS": 1,
+    "DOGE": 1,
+    "SHIB": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 29
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 8
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 3
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "count": 1
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
