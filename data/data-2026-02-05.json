@@ -1,29 +1,29 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T16:42:38.644982Z",
+  "generated_at_utc": "2026-02-05T17:44:07.069783Z",
   "results": {
-    "BTC": 222,
-    "ETH": 42,
-    "XRP": 15,
+    "BTC": 253,
+    "ETH": 45,
+    "XRP": 18,
     "LTC": 10,
-    "ETC": 8,
-    "SOL": 7,
-    "NEAR": 5,
+    "ETC": 9,
+    "SOL": 8,
+    "NEAR": 6,
     "ALGO": 5,
+    "69420": 4,
     "BCH": 4,
-    "69420": 3,
     "ADA": 3,
     "DOGE": 3,
     "69": 2,
     "TON": 2,
+    "XMR": 2,
     "LINK": 2,
     "SHIB": 2,
     "ROSE": 1,
     "SAND": 1,
     "67": 1,
     "SUI": 1,
-    "XMR": 1,
     "KAS": 1,
     "AVAX": 1,
     "KTA": 1
@@ -32,17 +32,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 222
+      "count": 253
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 42
+      "count": 45
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 15
+      "count": 18
     },
     {
       "symbol": "LTC",
@@ -52,17 +52,17 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
-      "count": 8
+      "count": 9
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "ALGO",
@@ -70,14 +70,14 @@
       "count": 5
     },
     {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
+      "symbol": "69420",
+      "name": "",
       "count": 4
     },
     {
-      "symbol": "69420",
-      "name": "",
-      "count": 3
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "count": 4
     },
     {
       "symbol": "ADA",
@@ -97,6 +97,11 @@
     {
       "symbol": "TON",
       "name": "Toncoin",
+      "count": 2
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 2
     },
     {
@@ -127,11 +132,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     },
     {
