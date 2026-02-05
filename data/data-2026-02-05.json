@@ -1,24 +1,24 @@
 {
   "thread_title": "Daily Crypto Discussion - February 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qw6vxg/daily_crypto_discussion_february_5_2026_gmt0/",
-  "generated_at_utc": "2026-02-05T22:23:41.292992Z",
+  "generated_at_utc": "2026-02-05T23:23:57.605662Z",
   "results": {
-    "BTC": 425,
-    "ETH": 66,
+    "BTC": 440,
+    "ETH": 68,
     "XRP": 58,
     "SOL": 21,
     "ETC": 13,
-    "NEAR": 12,
+    "NEAR": 13,
     "LTC": 10,
     "ALGO": 8,
     "DOGE": 6,
     "XMR": 6,
     "69420": 4,
     "BCH": 4,
+    "69": 3,
     "BNB": 3,
     "ADA": 3,
     "ROSE": 2,
-    "69": 2,
     "TON": 2,
     "DOT": 2,
     "LINK": 2,
@@ -42,12 +42,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 425
+      "count": 440
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 66
+      "count": 68
     },
     {
       "symbol": "XRP",
@@ -67,7 +67,7 @@
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 12
+      "count": 13
     },
     {
       "symbol": "LTC",
@@ -100,6 +100,11 @@
       "count": 4
     },
     {
+      "symbol": "69",
+      "name": "",
+      "count": 3
+    },
+    {
       "symbol": "BNB",
       "name": "BNB",
       "count": 3
@@ -112,11 +117,6 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
-      "count": 2
-    },
-    {
-      "symbol": "69",
-      "name": "",
       "count": 2
     },
     {
