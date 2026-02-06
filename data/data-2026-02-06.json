@@ -1,27 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - February 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qx3eqi/daily_crypto_discussion_february_6_2026_gmt0/",
-  "generated_at_utc": "2026-02-06T11:30:27.572264Z",
+  "generated_at_utc": "2026-02-06T12:52:20.283737Z",
   "results": {
-    "BTC": 57,
+    "BTC": 67,
     "ETH": 11,
     "SOL": 6,
     "ADA": 5,
     "NEAR": 2,
-    "67": 1,
     "XRP": 1,
+    "67": 1,
     "BCH": 1,
     "ETC": 1,
-    "COIN": 1,
     "TRUMP": 1,
+    "COIN": 1,
     "ROSE": 1,
+    "LTC": 1,
     "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 67
     },
     {
       "symbol": "ETH",
@@ -44,13 +45,13 @@
       "count": 2
     },
     {
-      "symbol": "67",
-      "name": "",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "67",
+      "name": "",
       "count": 1
     },
     {
@@ -64,18 +65,23 @@
       "count": 1
     },
     {
-      "symbol": "COIN",
+      "symbol": "TRUMP",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "TRUMP",
+      "symbol": "COIN",
       "name": "",
       "count": 1
     },
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 1
     },
     {
