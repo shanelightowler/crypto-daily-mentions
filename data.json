@@ -1,19 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - February 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qx3eqi/daily_crypto_discussion_february_6_2026_gmt0/",
-  "generated_at_utc": "2026-02-06T15:36:34.957736Z",
+  "generated_at_utc": "2026-02-06T16:39:49.712378Z",
   "results": {
-    "BTC": 90,
+    "BTC": 95,
     "ETH": 13,
+    "XRP": 9,
     "SOL": 6,
     "ADA": 5,
-    "XRP": 4,
     "NEAR": 2,
     "67": 1,
     "BCH": 1,
+    "CRO": 1,
     "ETC": 1,
-    "TRUMP": 1,
     "COIN": 1,
+    "TRUMP": 1,
     "ROSE": 1,
     "LTC": 1,
     "LINK": 1
@@ -22,12 +23,17 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 90
+      "count": 95
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 13
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 9
     },
     {
       "symbol": "SOL",
@@ -38,11 +44,6 @@
       "symbol": "ADA",
       "name": "Cardano",
       "count": 5
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 4
     },
     {
       "symbol": "NEAR",
@@ -60,17 +61,22 @@
       "count": 1
     },
     {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "count": 1
+    },
+    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 1
     },
     {
-      "symbol": "TRUMP",
+      "symbol": "COIN",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "COIN",
+      "symbol": "TRUMP",
       "name": "",
       "count": 1
     },
