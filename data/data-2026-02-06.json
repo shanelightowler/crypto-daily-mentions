@@ -1,34 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - February 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qx3eqi/daily_crypto_discussion_february_6_2026_gmt0/",
-  "generated_at_utc": "2026-02-06T07:43:14.417977Z",
+  "generated_at_utc": "2026-02-06T08:37:07.197510Z",
   "results": {
-    "BTC": 35,
-    "ETH": 9,
-    "SOL": 5,
+    "BTC": 47,
+    "ETH": 10,
+    "SOL": 6,
     "NEAR": 2,
     "67": 1,
     "BCH": 1,
     "ETC": 1,
     "COIN": 1,
     "TRUMP": 1,
-    "ROSE": 1
+    "ROSE": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 35
+      "count": 47
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "NEAR",
@@ -63,6 +64,11 @@
     {
       "symbol": "ROSE",
       "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
