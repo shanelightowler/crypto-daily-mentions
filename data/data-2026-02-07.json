@@ -1,11 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - February 7, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qxzpml/daily_crypto_discussion_february_7_2026_gmt0/",
-  "generated_at_utc": "2026-02-07T13:40:47.846410Z",
+  "generated_at_utc": "2026-02-07T14:22:06.997814Z",
   "results": {
     "BTC": 8,
+    "ETH": 3,
     "LTC": 2,
-    "ETH": 1
+    "SOL": 2,
+    "XRP": 1
   },
   "results_list": [
     {
@@ -14,13 +16,23 @@
       "count": 8
     },
     {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 2
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
