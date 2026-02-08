@@ -1,13 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - February 8, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qyuyov/daily_crypto_discussion_february_8_2026_gmt0/",
-  "generated_at_utc": "2026-02-08T21:23:15.645636Z",
+  "generated_at_utc": "2026-02-08T22:22:48.583260Z",
   "results": {
-    "BTC": 23,
-    "ETH": 16,
-    "SOL": 3,
-    "ADA": 1,
+    "BTC": 29,
+    "ETH": 19,
+    "SOL": 4,
+    "ADA": 3,
+    "BONK": 1,
     "LTC": 1,
+    "BCH": 1,
     "XRP": 1,
     "CVX": 1,
     "NEAR": 1
@@ -16,26 +18,36 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 29
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 16
+      "count": 19
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
+      "count": 3
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     },
     {
