@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - February 8, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qyuyov/daily_crypto_discussion_february_8_2026_gmt0/",
-  "generated_at_utc": "2026-02-08T20:22:34.585155Z",
+  "generated_at_utc": "2026-02-08T21:23:15.645636Z",
   "results": {
     "BTC": 23,
     "ETH": 16,
     "SOL": 3,
+    "ADA": 1,
     "LTC": 1,
     "XRP": 1,
     "CVX": 1,
@@ -26,6 +27,11 @@
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
     },
     {
       "symbol": "LTC",
