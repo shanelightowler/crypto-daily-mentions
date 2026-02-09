@@ -1,11 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - February 9, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qzqb7z/daily_crypto_discussion_february_9_2026_gmt0/",
-  "generated_at_utc": "2026-02-09T15:52:03.626460Z",
+  "generated_at_utc": "2026-02-09T17:49:02.070220Z",
   "results": {
-    "BTC": 28,
-    "ETH": 3,
+    "BTC": 36,
+    "ETH": 7,
+    "NEAR": 4,
+    "DOGE": 3,
     "MSTR": 1,
+    "BONK": 1,
     "SHIB": 1,
     "PEPE": 1
   },
@@ -13,16 +16,31 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 28
+      "count": 36
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 7
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 4
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
       "count": 3
     },
     {
       "symbol": "MSTR",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     },
     {
