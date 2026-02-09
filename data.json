@@ -1,74 +1,14 @@
 {
-  "thread_title": "Daily Crypto Discussion - February 8, 2026 (GMT+0)",
-  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qyuyov/daily_crypto_discussion_february_8_2026_gmt0/",
-  "generated_at_utc": "2026-02-09T01:56:14.601081Z",
+  "thread_title": "Daily Crypto Discussion - February 9, 2026 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1qzqb7z/daily_crypto_discussion_february_9_2026_gmt0/",
+  "generated_at_utc": "2026-02-09T04:26:24.517682Z",
   "results": {
-    "BTC": 30,
-    "ETH": 19,
-    "SOL": 4,
-    "ADA": 3,
-    "LTC": 2,
-    "BCH": 2,
-    "BONK": 1,
-    "RUNE": 1,
-    "XRP": 1,
-    "CVX": 1,
-    "NEAR": 1
+    "BTC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 30
-    },
-    {
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "count": 19
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 3
-    },
-    {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 2
-    },
-    {
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "count": 2
-    },
-    {
-      "symbol": "BONK",
-      "name": "BONK",
-      "count": 1
-    },
-    {
-      "symbol": "RUNE",
-      "name": "THORChain",
-      "count": 1
-    },
-    {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 1
-    },
-    {
-      "symbol": "CVX",
-      "name": "Convex Finance",
-      "count": 1
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 1
     }
   ]
