@@ -1,32 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - February 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r0mhvj/daily_crypto_discussion_february_10_2026_gmt0/",
-  "generated_at_utc": "2026-02-10T17:57:56.860562Z",
+  "generated_at_utc": "2026-02-10T19:10:28.623032Z",
   "results": {
-    "BTC": 40,
-    "ETH": 31,
+    "BTC": 42,
+    "ETH": 33,
     "TRX": 11,
     "SOL": 4,
     "LTC": 3,
+    "69420": 2,
     "SUI": 2,
-    "ETC": 2,
-    "69420": 1,
+    "BNB": 1,
     "XMR": 1,
+    "FIL": 1,
+    "ARB": 1,
     "ADA": 1,
     "ALGO": 1,
     "FLOKI": 1,
+    "ETC": 1,
     "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 40
+      "count": 42
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 31
+      "count": 33
     },
     {
       "symbol": "TRX",
@@ -44,23 +47,33 @@
       "count": 3
     },
     {
+      "symbol": "69420",
+      "name": "",
+      "count": 2
+    },
+    {
       "symbol": "SUI",
       "name": "Sui",
       "count": 2
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 2
-    },
-    {
-      "symbol": "69420",
-      "name": "",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
       "symbol": "XMR",
       "name": "Monero",
+      "count": 1
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
       "count": 1
     },
     {
@@ -76,6 +89,11 @@
     {
       "symbol": "FLOKI",
       "name": "Floki",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     },
     {
