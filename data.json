@@ -1,13 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - February 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r0mhvj/daily_crypto_discussion_february_10_2026_gmt0/",
-  "generated_at_utc": "2026-02-10T20:39:47.216587Z",
+  "generated_at_utc": "2026-02-10T21:38:47.320766Z",
   "results": {
-    "BTC": 41,
-    "ETH": 32,
+    "BTC": 49,
+    "ETH": 34,
     "TRX": 11,
+    "LTC": 4,
     "SOL": 4,
-    "LTC": 3,
     "69420": 2,
     "SUI": 2,
     "BNB": 1,
@@ -18,18 +18,19 @@
     "ALGO": 1,
     "FLOKI": 1,
     "ETC": 1,
-    "XRP": 1
+    "XRP": 1,
+    "NEAR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 41
+      "count": 49
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 34
     },
     {
       "symbol": "TRX",
@@ -37,14 +38,14 @@
       "count": 11
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "LTC",
+      "name": "Litecoin",
       "count": 4
     },
     {
-      "symbol": "LTC",
-      "name": "Litecoin",
-      "count": 3
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
     },
     {
       "symbol": "69420",
@@ -99,6 +100,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 1
     }
   ]
