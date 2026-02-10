@@ -1,23 +1,27 @@
 {
   "thread_title": "Daily Crypto Discussion - February 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r0mhvj/daily_crypto_discussion_february_10_2026_gmt0/",
-  "generated_at_utc": "2026-02-10T14:55:01.146507Z",
+  "generated_at_utc": "2026-02-10T16:03:51.376957Z",
   "results": {
-    "BTC": 37,
+    "BTC": 40,
     "ETH": 31,
     "TRX": 11,
+    "SOL": 4,
     "LTC": 3,
+    "SUI": 2,
     "69420": 1,
     "XMR": 1,
-    "SUI": 1,
-    "SOL": 1,
-    "ETC": 1
+    "ETC": 1,
+    "ADA": 1,
+    "ALGO": 1,
+    "FLOKI": 1,
+    "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 37
+      "count": 40
     },
     {
       "symbol": "ETH",
@@ -30,9 +34,19 @@
       "count": 11
     },
     {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 4
+    },
+    {
       "symbol": "LTC",
       "name": "Litecoin",
       "count": 3
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 2
     },
     {
       "symbol": "69420",
@@ -45,18 +59,28 @@
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 1
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "Floki",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     }
   ]
