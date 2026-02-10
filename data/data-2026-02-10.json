@@ -1,19 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - February 10, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r0mhvj/daily_crypto_discussion_february_10_2026_gmt0/",
-  "generated_at_utc": "2026-02-10T19:10:28.623032Z",
+  "generated_at_utc": "2026-02-10T20:39:47.216587Z",
   "results": {
-    "BTC": 42,
-    "ETH": 33,
+    "BTC": 41,
+    "ETH": 32,
     "TRX": 11,
     "SOL": 4,
     "LTC": 3,
     "69420": 2,
     "SUI": 2,
     "BNB": 1,
-    "XMR": 1,
     "FIL": 1,
     "ARB": 1,
+    "XMR": 1,
     "ADA": 1,
     "ALGO": 1,
     "FLOKI": 1,
@@ -24,12 +24,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 42
+      "count": 41
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 33
+      "count": 32
     },
     {
       "symbol": "TRX",
@@ -62,11 +62,6 @@
       "count": 1
     },
     {
-      "symbol": "XMR",
-      "name": "Monero",
-      "count": 1
-    },
-    {
       "symbol": "FIL",
       "name": "Filecoin",
       "count": 1
@@ -74,6 +69,11 @@
     {
       "symbol": "ARB",
       "name": "Arbitrum",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
