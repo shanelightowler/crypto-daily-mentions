@@ -1,16 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T07:53:24.533148Z",
+  "generated_at_utc": "2026-02-11T08:43:10.734532Z",
   "results": {
-    "BTC": 24,
-    "ETH": 9,
+    "BTC": 25,
+    "ETH": 10,
     "NEAR": 4,
+    "XRP": 2,
     "BCH": 2,
+    "WIF": 2,
     "XLM": 2,
+    "SOL": 2,
     "INJ": 1,
     "HBAR": 1,
-    "SOL": 1,
     "AVAX": 1,
     "LINK": 1
   },
@@ -18,12 +20,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 9
+      "count": 10
     },
     {
       "symbol": "NEAR",
@@ -31,13 +33,28 @@
       "count": 4
     },
     {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 2
+    },
+    {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "count": 2
     },
     {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "count": 2
+    },
+    {
       "symbol": "XLM",
       "name": "Stellar",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
@@ -48,11 +65,6 @@
     {
       "symbol": "HBAR",
       "name": "Hedera",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
       "count": 1
     },
     {
