@@ -1,18 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T14:49:45.662820Z",
+  "generated_at_utc": "2026-02-11T15:57:35.997128Z",
   "results": {
-    "BTC": 51,
+    "BTC": 57,
     "ETH": 22,
     "NEAR": 9,
     "XRP": 4,
     "LINK": 4,
     "SOL": 4,
+    "ETC": 3,
     "HBAR": 3,
     "ALGO": 2,
-    "ADA": 2,
     "AVAX": 2,
+    "ADA": 2,
     "TON": 2,
     "BCH": 2,
     "WIF": 2,
@@ -26,7 +27,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 51
+      "count": 57
     },
     {
       "symbol": "ETH",
@@ -54,6 +55,11 @@
       "count": 4
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
       "count": 3
@@ -64,13 +70,13 @@
       "count": 2
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "ADA",
+      "name": "Cardano",
       "count": 2
     },
     {
