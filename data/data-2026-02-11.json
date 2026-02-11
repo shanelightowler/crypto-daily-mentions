@@ -1,33 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T09:50:47.276786Z",
+  "generated_at_utc": "2026-02-11T10:45:50.428333Z",
   "results": {
-    "BTC": 29,
-    "ETH": 12,
+    "BTC": 32,
+    "ETH": 14,
     "NEAR": 5,
     "XRP": 3,
+    "LINK": 3,
+    "SOL": 3,
     "HBAR": 2,
+    "ADA": 2,
+    "AVAX": 2,
     "BCH": 2,
     "WIF": 2,
-    "LINK": 2,
     "XLM": 2,
-    "SOL": 2,
-    "ADA": 1,
+    "SUI": 1,
+    "TON": 1,
     "INJ": 1,
-    "ALGO": 1,
-    "AVAX": 1
+    "ALGO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 32
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 12
+      "count": 14
     },
     {
       "symbol": "NEAR",
@@ -40,8 +42,28 @@
       "count": 3
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
+    },
+    {
       "symbol": "HBAR",
       "name": "Hedera",
+      "count": 2
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 2
     },
     {
@@ -55,23 +77,18 @@
       "count": 2
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "count": 2
-    },
-    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
     },
     {
-      "symbol": "ADA",
-      "name": "Cardano",
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
@@ -82,11 +99,6 @@
     {
       "symbol": "ALGO",
       "name": "Algorand",
-      "count": 1
-    },
-    {
-      "symbol": "AVAX",
-      "name": "Avalanche",
       "count": 1
     }
   ]
