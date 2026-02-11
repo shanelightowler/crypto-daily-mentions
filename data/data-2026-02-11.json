@@ -1,20 +1,62 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T02:02:06.361265Z",
+  "generated_at_utc": "2026-02-11T04:59:25.147710Z",
   "results": {
-    "BTC": 2,
-    "ETH": 1
+    "BTC": 7,
+    "ETH": 5,
+    "NEAR": 3,
+    "INJ": 1,
+    "XLM": 1,
+    "HBAR": 1,
+    "SOL": 1,
+    "AVAX": 1,
+    "LINK": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 2
+      "count": 7
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 5
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 3
+    },
+    {
+      "symbol": "INJ",
+      "name": "Injective",
+      "count": 1
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "count": 1
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     }
   ]
