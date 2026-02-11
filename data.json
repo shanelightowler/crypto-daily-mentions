@@ -1,20 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T18:57:58.787408Z",
+  "generated_at_utc": "2026-02-11T19:55:31.099932Z",
   "results": {
-    "BTC": 82,
-    "ETH": 32,
+    "BTC": 84,
+    "ETH": 33,
+    "NEAR": 10,
     "XRP": 9,
     "SOL": 9,
-    "NEAR": 9,
     "LINK": 6,
     "ETC": 5,
     "HBAR": 3,
     "ALGO": 2,
+    "ADA": 2,
     "AVAX": 2,
     "SUI": 2,
-    "ADA": 2,
     "TON": 2,
     "BCH": 2,
     "WIF": 2,
@@ -22,18 +22,24 @@
     "LTC": 1,
     "APE": 1,
     "INJ": 1,
-    "32": 1
+    "32": 1,
+    "XMR": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 82
+      "count": 84
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 33
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 10
     },
     {
       "symbol": "XRP",
@@ -43,11 +49,6 @@
     {
       "symbol": "SOL",
       "name": "Solana",
-      "count": 9
-    },
-    {
-      "symbol": "NEAR",
-      "name": "NEAR",
       "count": 9
     },
     {
@@ -71,6 +72,11 @@
       "count": 2
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 2
+    },
+    {
       "symbol": "AVAX",
       "name": "Avalanche",
       "count": 2
@@ -78,11 +84,6 @@
     {
       "symbol": "SUI",
       "name": "Sui",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
       "count": 2
     },
     {
@@ -123,6 +124,11 @@
     {
       "symbol": "32",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     }
   ]
