@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T21:30:15.138840Z",
+  "generated_at_utc": "2026-02-11T22:25:54.983328Z",
   "results": {
-    "BTC": 89,
-    "ETH": 36,
-    "XRP": 10,
+    "BTC": 92,
+    "ETH": 37,
+    "XRP": 12,
     "NEAR": 10,
     "SOL": 9,
     "LINK": 7,
@@ -18,29 +18,29 @@
     "TON": 2,
     "BCH": 2,
     "WIF": 2,
+    "XMR": 2,
     "XLM": 2,
     "LTC": 1,
     "APE": 1,
     "INJ": 1,
     "NEXO": 1,
-    "32": 1,
-    "XMR": 1
+    "32": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 89
+      "count": 92
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 36
+      "count": 37
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "NEAR",
@@ -103,6 +103,11 @@
       "count": 2
     },
     {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 2
+    },
+    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
@@ -130,11 +135,6 @@
     {
       "symbol": "32",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "XMR",
-      "name": "Monero",
       "count": 1
     }
   ]
