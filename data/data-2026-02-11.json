@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T20:35:34.718622Z",
+  "generated_at_utc": "2026-02-11T21:30:15.138840Z",
   "results": {
-    "BTC": 85,
+    "BTC": 89,
     "ETH": 36,
+    "XRP": 10,
     "NEAR": 10,
-    "XRP": 9,
     "SOL": 9,
     "LINK": 7,
     "ETC": 5,
@@ -22,6 +22,7 @@
     "LTC": 1,
     "APE": 1,
     "INJ": 1,
+    "NEXO": 1,
     "32": 1,
     "XMR": 1
   },
@@ -29,7 +30,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 85
+      "count": 89
     },
     {
       "symbol": "ETH",
@@ -37,14 +38,14 @@
       "count": 36
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 10
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
-      "count": 9
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 10
     },
     {
       "symbol": "SOL",
@@ -119,6 +120,11 @@
     {
       "symbol": "INJ",
       "name": "Injective",
+      "count": 1
+    },
+    {
+      "symbol": "NEXO",
+      "name": "Nexo",
       "count": 1
     },
     {
