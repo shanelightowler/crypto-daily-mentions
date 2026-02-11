@@ -1,15 +1,15 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T15:57:35.997128Z",
+  "generated_at_utc": "2026-02-11T17:06:21.878641Z",
   "results": {
-    "BTC": 57,
-    "ETH": 22,
+    "BTC": 75,
+    "ETH": 30,
+    "XRP": 9,
+    "SOL": 9,
     "NEAR": 9,
-    "XRP": 4,
+    "ETC": 4,
     "LINK": 4,
-    "SOL": 4,
-    "ETC": 3,
     "HBAR": 3,
     "ALGO": 2,
     "AVAX": 2,
@@ -27,12 +27,22 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 57
+      "count": 75
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 22
+      "count": 30
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 9
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 9
     },
     {
       "symbol": "NEAR",
@@ -40,24 +50,14 @@
       "count": 9
     },
     {
-      "symbol": "XRP",
-      "name": "XRP",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 4
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 4
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 4
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 3
     },
     {
       "symbol": "HBAR",
