@@ -1,40 +1,47 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T08:43:10.734532Z",
+  "generated_at_utc": "2026-02-11T09:50:47.276786Z",
   "results": {
-    "BTC": 25,
-    "ETH": 10,
-    "NEAR": 4,
-    "XRP": 2,
+    "BTC": 29,
+    "ETH": 12,
+    "NEAR": 5,
+    "XRP": 3,
+    "HBAR": 2,
     "BCH": 2,
     "WIF": 2,
+    "LINK": 2,
     "XLM": 2,
     "SOL": 2,
+    "ADA": 1,
     "INJ": 1,
-    "HBAR": 1,
-    "AVAX": 1,
-    "LINK": 1
+    "ALGO": 1,
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 25
+      "count": 29
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 10
+      "count": 12
     },
     {
       "symbol": "NEAR",
       "name": "NEAR",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 3
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
       "count": 2
     },
     {
@@ -48,6 +55,11 @@
       "count": 2
     },
     {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 2
+    },
+    {
       "symbol": "XLM",
       "name": "Stellar",
       "count": 2
@@ -58,23 +70,23 @@
       "count": 2
     },
     {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "count": 1
+    },
+    {
       "symbol": "INJ",
       "name": "Injective",
       "count": 1
     },
     {
-      "symbol": "HBAR",
-      "name": "Hedera",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
       "count": 1
     }
   ]
