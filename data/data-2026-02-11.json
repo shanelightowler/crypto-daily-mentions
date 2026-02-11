@@ -1,25 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - February 11, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r1j2pf/daily_crypto_discussion_february_11_2026_gmt0/",
-  "generated_at_utc": "2026-02-11T17:06:21.878641Z",
+  "generated_at_utc": "2026-02-11T18:57:58.787408Z",
   "results": {
-    "BTC": 75,
-    "ETH": 30,
+    "BTC": 82,
+    "ETH": 32,
     "XRP": 9,
     "SOL": 9,
     "NEAR": 9,
-    "ETC": 4,
-    "LINK": 4,
+    "LINK": 6,
+    "ETC": 5,
     "HBAR": 3,
     "ALGO": 2,
     "AVAX": 2,
+    "SUI": 2,
     "ADA": 2,
     "TON": 2,
     "BCH": 2,
     "WIF": 2,
     "XLM": 2,
     "LTC": 1,
-    "SUI": 1,
+    "APE": 1,
     "INJ": 1,
     "32": 1
   },
@@ -27,12 +28,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 75
+      "count": 82
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 30
+      "count": 32
     },
     {
       "symbol": "XRP",
@@ -50,14 +51,14 @@
       "count": 9
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
-      "count": 4
-    },
-    {
       "symbol": "LINK",
       "name": "Chainlink",
-      "count": 4
+      "count": 6
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 5
     },
     {
       "symbol": "HBAR",
@@ -72,6 +73,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
       "count": 2
     },
     {
@@ -105,8 +111,8 @@
       "count": 1
     },
     {
-      "symbol": "SUI",
-      "name": "Sui",
+      "symbol": "APE",
+      "name": "ApeCoin",
       "count": 1
     },
     {
