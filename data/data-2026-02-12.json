@@ -1,28 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - February 12, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r2fggh/daily_crypto_discussion_february_12_2026_gmt0/",
-  "generated_at_utc": "2026-02-12T16:54:29.675693Z",
+  "generated_at_utc": "2026-02-12T17:54:37.128666Z",
   "results": {
-    "BTC": 44,
-    "ETH": 5,
+    "BTC": 54,
+    "ETH": 7,
     "SOL": 3,
+    "ARB": 3,
+    "NEAR": 2,
     "UNI": 2,
-    "NEAR": 1,
+    "ALGO": 2,
+    "DOGE": 2,
+    "ETC": 2,
     "DOT": 1,
-    "ALGO": 1,
-    "ARB": 1,
-    "ETC": 1
+    "BNB": 1,
+    "XRP": 1,
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 44
+      "count": 54
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 7
     },
     {
       "symbol": "SOL",
@@ -30,14 +34,34 @@
       "count": 3
     },
     {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 3
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 2
+    },
+    {
       "symbol": "UNI",
       "name": "Uniswap",
       "count": 2
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 1
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
     },
     {
       "symbol": "DOT",
@@ -45,18 +69,18 @@
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "XRP",
+      "name": "XRP",
       "count": 1
     },
     {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
