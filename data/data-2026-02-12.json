@@ -1,17 +1,18 @@
 {
   "thread_title": "Daily Crypto Discussion - February 12, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r2fggh/daily_crypto_discussion_february_12_2026_gmt0/",
-  "generated_at_utc": "2026-02-12T18:58:03.493523Z",
+  "generated_at_utc": "2026-02-12T19:49:38.487707Z",
   "results": {
-    "BTC": 55,
+    "BTC": 61,
     "ETH": 8,
     "SOL": 3,
+    "NEAR": 3,
     "ARB": 3,
-    "NEAR": 2,
     "UNI": 2,
     "ALGO": 2,
     "DOGE": 2,
     "ETC": 2,
+    "SUI": 1,
     "DOT": 1,
     "BNB": 1,
     "XRP": 1,
@@ -21,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 55
+      "count": 61
     },
     {
       "symbol": "ETH",
@@ -34,14 +35,14 @@
       "count": 3
     },
     {
-      "symbol": "ARB",
-      "name": "Arbitrum",
+      "symbol": "NEAR",
+      "name": "NEAR",
       "count": 3
     },
     {
-      "symbol": "NEAR",
-      "name": "NEAR",
-      "count": 2
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "count": 3
     },
     {
       "symbol": "UNI",
@@ -62,6 +63,11 @@
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 2
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "count": 1
     },
     {
       "symbol": "DOT",
