@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - February 13, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r3b7sr/daily_crypto_discussion_february_13_2026_gmt0/",
-  "generated_at_utc": "2026-02-13T04:23:29.672234Z",
+  "generated_at_utc": "2026-02-13T05:56:44.950968Z",
   "results": {
     "ETH": 2,
-    "ZEC": 1,
-    "BTC": 1
+    "BTC": 1,
+    "ZEC": 1
   },
   "results_list": [
     {
@@ -14,13 +14,13 @@
       "count": 2
     },
     {
-      "symbol": "ZEC",
-      "name": "Zcash",
+      "symbol": "BTC",
+      "name": "Bitcoin",
       "count": 1
     },
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
+      "symbol": "ZEC",
+      "name": "Zcash",
       "count": 1
     }
   ]
