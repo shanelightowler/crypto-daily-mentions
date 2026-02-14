@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - February 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r46qlo/daily_crypto_discussion_february_14_2026_gmt0/",
-  "generated_at_utc": "2026-02-14T19:20:51.486309Z",
+  "generated_at_utc": "2026-02-14T20:21:33.569289Z",
   "results": {
     "BTC": 7,
     "ETH": 6,
     "SOL": 3,
     "DOGE": 2,
+    "PEPE": 1,
     "BCH": 1,
     "META": 1,
     "XRP": 1,
@@ -32,6 +33,11 @@
       "symbol": "DOGE",
       "name": "Dogecoin",
       "count": 2
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "count": 1
     },
     {
       "symbol": "BCH",
