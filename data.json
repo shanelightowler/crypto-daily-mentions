@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - February 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r46qlo/daily_crypto_discussion_february_14_2026_gmt0/",
-  "generated_at_utc": "2026-02-14T22:19:19.578561Z",
+  "generated_at_utc": "2026-02-14T23:20:27.501287Z",
   "results": {
-    "BTC": 7,
+    "BTC": 8,
     "ETH": 6,
     "SOL": 3,
+    "PEPE": 2,
+    "BONK": 2,
     "DOGE": 2,
-    "PEPE": 1,
     "BCH": 1,
     "META": 1,
     "XRP": 1,
     "AVAX": 1,
-    "BONK": 1
+    "OP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "ETH",
@@ -31,14 +32,19 @@
       "count": 3
     },
     {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
+      "symbol": "PEPE",
+      "name": "PEPE",
       "count": 2
     },
     {
-      "symbol": "PEPE",
-      "name": "PEPE",
-      "count": 1
+      "symbol": "BONK",
+      "name": "BONK",
+      "count": 2
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "BCH",
@@ -61,8 +67,8 @@
       "count": 1
     },
     {
-      "symbol": "BONK",
-      "name": "BONK",
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     }
   ]
