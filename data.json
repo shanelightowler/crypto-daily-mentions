@@ -1,7 +1,7 @@
 {
   "thread_title": "Daily Crypto Discussion - February 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r46qlo/daily_crypto_discussion_february_14_2026_gmt0/",
-  "generated_at_utc": "2026-02-14T20:21:33.569289Z",
+  "generated_at_utc": "2026-02-14T21:20:13.599532Z",
   "results": {
     "BTC": 7,
     "ETH": 6,
@@ -11,7 +11,8 @@
     "BCH": 1,
     "META": 1,
     "XRP": 1,
-    "AVAX": 1
+    "AVAX": 1,
+    "BONK": 1
   },
   "results_list": [
     {
@@ -57,6 +58,11 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
+      "count": 1
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
       "count": 1
     }
   ]
