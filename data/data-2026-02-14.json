@@ -1,32 +1,37 @@
 {
   "thread_title": "Daily Crypto Discussion - February 14, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r46qlo/daily_crypto_discussion_february_14_2026_gmt0/",
-  "generated_at_utc": "2026-02-14T18:29:17.911396Z",
+  "generated_at_utc": "2026-02-14T19:20:51.486309Z",
   "results": {
-    "BTC": 6,
-    "ETH": 5,
+    "BTC": 7,
+    "ETH": 6,
     "SOL": 3,
+    "DOGE": 2,
     "BCH": 1,
     "META": 1,
     "XRP": 1,
-    "AVAX": 1,
-    "DOGE": 1
+    "AVAX": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 6
+      "count": 7
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 5
+      "count": 6
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "count": 3
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "count": 2
     },
     {
       "symbol": "BCH",
@@ -46,11 +51,6 @@
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     }
   ]
