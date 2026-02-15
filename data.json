@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - February 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r518us/daily_crypto_discussion_february_15_2026_gmt0/",
-  "generated_at_utc": "2026-02-15T08:28:47.910166Z",
+  "generated_at_utc": "2026-02-15T09:28:03.166138Z",
   "results": {
     "BTC": 6,
     "XRP": 1,
+    "ETH": 1,
     "CRO": 1
   },
   "results_list": [
@@ -16,6 +17,11 @@
     {
       "symbol": "XRP",
       "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
