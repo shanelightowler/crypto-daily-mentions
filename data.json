@@ -1,26 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - February 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r518us/daily_crypto_discussion_february_15_2026_gmt0/",
-  "generated_at_utc": "2026-02-15T19:21:51.122202Z",
+  "generated_at_utc": "2026-02-15T20:21:45.680592Z",
   "results": {
-    "BTC": 9,
-    "ETH": 4,
+    "BTC": 8,
+    "ETH": 5,
     "DOGE": 1,
     "AVAX": 1,
     "XRP": 1,
-    "CRO": 1,
-    "LINK": 1
+    "LINK": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 9
+      "count": 8
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "DOGE",
@@ -38,13 +38,13 @@
       "count": 1
     },
     {
-      "symbol": "CRO",
-      "name": "Cronos",
+      "symbol": "LINK",
+      "name": "Chainlink",
       "count": 1
     },
     {
-      "symbol": "LINK",
-      "name": "Chainlink",
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
