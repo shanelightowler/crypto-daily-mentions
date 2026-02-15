@@ -1,14 +1,20 @@
 {
   "thread_title": "Daily Crypto Discussion - February 15, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r518us/daily_crypto_discussion_february_15_2026_gmt0/",
-  "generated_at_utc": "2026-02-15T01:57:29.053625Z",
+  "generated_at_utc": "2026-02-15T04:23:44.847106Z",
   "results": {
-    "BTC": 1
+    "BTC": 1,
+    "CRO": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 1
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
       "count": 1
     }
   ]
