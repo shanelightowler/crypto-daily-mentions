@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - February 18, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r7om6p/daily_crypto_discussion_february_18_2026_gmt0/",
-  "generated_at_utc": "2026-02-18T21:31:40.626599Z",
+  "generated_at_utc": "2026-02-18T22:28:56.535055Z",
   "results": {
     "BTC": 21,
     "ETH": 3,
-    "SOL": 3,
     "PEP": 2,
+    "SOL": 2,
     "THETA": 1,
     "LINK": 1,
     "NEAR": 1
@@ -23,13 +23,13 @@
       "count": 3
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 3
-    },
-    {
       "symbol": "PEP",
       "name": "",
+      "count": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
       "count": 2
     },
     {
