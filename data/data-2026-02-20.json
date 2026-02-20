@@ -1,11 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - February 20, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r9h89g/daily_crypto_discussion_february_20_2026_gmt0/",
-  "generated_at_utc": "2026-02-20T14:43:49.489588Z",
+  "generated_at_utc": "2026-02-20T15:34:22.814216Z",
   "results": {
     "ETH": 4,
-    "BTC": 3,
-    "AAVE": 1,
+    "BTC": 4,
+    "AAVE": 2,
     "SOL": 1
   },
   "results_list": [
@@ -17,12 +17,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "count": 1
+      "count": 2
     },
     {
       "symbol": "SOL",
