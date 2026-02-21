@@ -1,44 +1,14 @@
 {
-  "thread_title": "Daily Crypto Discussion - February 20, 2026 (GMT+0)",
-  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1r9h89g/daily_crypto_discussion_february_20_2026_gmt0/",
-  "generated_at_utc": "2026-02-21T01:45:11.247179Z",
+  "thread_title": "Daily Crypto Discussion - February 21, 2026 (GMT+0)",
+  "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1radaig/daily_crypto_discussion_february_21_2026_gmt0/",
+  "generated_at_utc": "2026-02-21T05:38:45.206531Z",
   "results": {
-    "BTC": 19,
-    "ETH": 4,
-    "AAVE": 2,
-    "ADA": 1,
-    "SOL": 1,
-    "DOGE": 1
+    "ETH": 1
   },
   "results_list": [
     {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "count": 19
-    },
-    {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
-    },
-    {
-      "symbol": "AAVE",
-      "name": "Aave",
-      "count": 2
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "count": 1
-    },
-    {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 1
-    },
-    {
-      "symbol": "DOGE",
-      "name": "Dogecoin",
       "count": 1
     }
   ]
