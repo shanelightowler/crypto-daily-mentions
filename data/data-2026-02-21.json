@@ -1,16 +1,22 @@
 {
   "thread_title": "Daily Crypto Discussion - February 21, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1radaig/daily_crypto_discussion_february_21_2026_gmt0/",
-  "generated_at_utc": "2026-02-21T10:21:51.666208Z",
+  "generated_at_utc": "2026-02-21T11:19:14.639807Z",
   "results": {
-    "BTC": 8,
+    "BTC": 10,
+    "XMR": 1,
     "ETH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 8
+      "count": 10
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "count": 1
     },
     {
       "symbol": "ETH",
