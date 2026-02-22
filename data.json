@@ -1,10 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - February 22, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rb80pt/daily_crypto_discussion_february_22_2026_gmt0/",
-  "generated_at_utc": "2026-02-22T18:30:46.069049Z",
+  "generated_at_utc": "2026-02-22T19:21:44.034294Z",
   "results": {
     "BTC": 18,
     "ALGO": 2,
+    "TRX": 1,
+    "SOL": 1,
     "ETH": 1
   },
   "results_list": [
@@ -17,6 +19,16 @@
       "symbol": "ALGO",
       "name": "Algorand",
       "count": 2
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
     },
     {
       "symbol": "ETH",
