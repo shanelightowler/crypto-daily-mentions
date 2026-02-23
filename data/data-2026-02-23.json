@@ -1,16 +1,16 @@
 {
   "thread_title": "Daily Crypto Discussion - February 23, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rc3dud/daily_crypto_discussion_february_23_2026_gmt0/",
-  "generated_at_utc": "2026-02-23T22:37:14.480087Z",
+  "generated_at_utc": "2026-02-23T23:31:43.723486Z",
   "results": {
-    "BTC": 94,
+    "BTC": 97,
     "ETH": 44,
     "ADA": 10,
     "XRP": 2,
     "TON": 2,
+    "ETC": 2,
     "67": 1,
     "MSTR": 1,
-    "ETC": 1,
     "DOGE": 1,
     "MATIC": 1,
     "OP": 1,
@@ -22,7 +22,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 94
+      "count": 97
     },
     {
       "symbol": "ETH",
@@ -45,6 +45,11 @@
       "count": 2
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 2
+    },
+    {
       "symbol": "67",
       "name": "",
       "count": 1
@@ -52,11 +57,6 @@
     {
       "symbol": "MSTR",
       "name": "",
-      "count": 1
-    },
-    {
-      "symbol": "ETC",
-      "name": "Ethereum Classic",
       "count": 1
     },
     {
