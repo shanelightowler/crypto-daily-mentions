@@ -1,12 +1,13 @@
 {
   "thread_title": "Daily Crypto Discussion - February 23, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rc3dud/daily_crypto_discussion_february_23_2026_gmt0/",
-  "generated_at_utc": "2026-02-23T07:52:03.836879Z",
+  "generated_at_utc": "2026-02-23T08:44:09.322841Z",
   "results": {
     "BTC": 48,
-    "ETH": 24,
-    "ADA": 7,
+    "ETH": 25,
+    "ADA": 8,
     "DOGE": 1,
+    "TON": 1,
     "XRP": 1
   },
   "results_list": [
@@ -18,16 +19,21 @@
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 24
+      "count": 25
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "count": 7
+      "count": 8
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     },
     {
