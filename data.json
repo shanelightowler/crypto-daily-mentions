@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - February 23, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rc3dud/daily_crypto_discussion_february_23_2026_gmt0/",
-  "generated_at_utc": "2026-02-23T20:40:13.947072Z",
+  "generated_at_utc": "2026-02-23T21:40:16.120118Z",
   "results": {
-    "BTC": 82,
-    "ETH": 32,
+    "BTC": 91,
+    "ETH": 44,
     "ADA": 10,
     "XRP": 2,
     "TON": 2,
@@ -13,18 +13,20 @@
     "DOGE": 1,
     "DASH": 1,
     "DOT": 1,
+    "MATIC": 1,
+    "OP": 1,
     "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 82
+      "count": 91
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 32
+      "count": 44
     },
     {
       "symbol": "ADA",
@@ -64,6 +66,16 @@
     {
       "symbol": "DOT",
       "name": "Polkadot",
+      "count": 1
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon (MATIC)",
+      "count": 1
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
       "count": 1
     },
     {
