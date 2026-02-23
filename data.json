@@ -1,27 +1,28 @@
 {
   "thread_title": "Daily Crypto Discussion - February 23, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rc3dud/daily_crypto_discussion_february_23_2026_gmt0/",
-  "generated_at_utc": "2026-02-23T21:40:16.120118Z",
+  "generated_at_utc": "2026-02-23T22:37:14.480087Z",
   "results": {
-    "BTC": 91,
+    "BTC": 94,
     "ETH": 44,
     "ADA": 10,
     "XRP": 2,
     "TON": 2,
     "67": 1,
     "MSTR": 1,
+    "ETC": 1,
     "DOGE": 1,
-    "DASH": 1,
-    "DOT": 1,
     "MATIC": 1,
     "OP": 1,
+    "DASH": 1,
+    "DOT": 1,
     "SOL": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 91
+      "count": 94
     },
     {
       "symbol": "ETH",
@@ -54,18 +55,13 @@
       "count": 1
     },
     {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "count": 1
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash",
-      "count": 1
-    },
-    {
-      "symbol": "DOT",
-      "name": "Polkadot",
       "count": 1
     },
     {
@@ -76,6 +72,16 @@
     {
       "symbol": "OP",
       "name": "Optimism",
+      "count": 1
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
