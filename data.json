@@ -1,13 +1,14 @@
 {
   "thread_title": "Daily Crypto Discussion - February 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rdysfj/daily_crypto_discussion_february_25_2026_gmt0/",
-  "generated_at_utc": "2026-02-25T21:31:38.752540Z",
+  "generated_at_utc": "2026-02-25T22:28:49.709357Z",
   "results": {
-    "BTC": 23,
-    "ETH": 11,
+    "BTC": 24,
+    "ETH": 13,
     "SOL": 3,
     "ADA": 2,
     "LINK": 2,
+    "DOT": 1,
     "69": 1,
     "AVAX": 1,
     "ALGO": 1,
@@ -19,12 +20,12 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 23
+      "count": 24
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 11
+      "count": 13
     },
     {
       "symbol": "SOL",
@@ -40,6 +41,11 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "count": 2
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "count": 1
     },
     {
       "symbol": "69",
