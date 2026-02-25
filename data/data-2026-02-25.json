@@ -1,29 +1,35 @@
 {
   "thread_title": "Daily Crypto Discussion - February 25, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rdysfj/daily_crypto_discussion_february_25_2026_gmt0/",
-  "generated_at_utc": "2026-02-25T20:32:07.677537Z",
+  "generated_at_utc": "2026-02-25T21:31:38.752540Z",
   "results": {
-    "BTC": 20,
+    "BTC": 23,
     "ETH": 11,
+    "SOL": 3,
     "ADA": 2,
     "LINK": 2,
-    "SOL": 2,
     "69": 1,
-    "ALGO": 1,
     "AVAX": 1,
+    "ALGO": 1,
     "XRP": 1,
-    "APE": 1
+    "APE": 1,
+    "ETC": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 20
+      "count": 23
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "count": 11
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 3
     },
     {
       "symbol": "ADA",
@@ -36,23 +42,18 @@
       "count": 2
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
-      "count": 2
-    },
-    {
       "symbol": "69",
       "name": "",
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "count": 1
     },
     {
-      "symbol": "AVAX",
-      "name": "Avalanche",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
@@ -63,6 +64,11 @@
     {
       "symbol": "APE",
       "name": "ApeCoin",
+      "count": 1
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
       "count": 1
     }
   ]
