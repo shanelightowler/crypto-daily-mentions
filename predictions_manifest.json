@@ -802,5 +802,9 @@
   {
     "date": "2026-02-26",
     "file": "predictions/eth-preds-2026-02-26.json"
+  },
+  {
+    "date": "2026-02-27",
+    "file": "predictions/eth-preds-2026-02-27.json"
   }
 ]
