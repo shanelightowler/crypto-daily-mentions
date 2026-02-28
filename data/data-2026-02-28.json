@@ -1,24 +1,25 @@
 {
   "thread_title": "Daily Crypto Discussion - February 28, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rgoozv/daily_crypto_discussion_february_28_2026_gmt0/",
-  "generated_at_utc": "2026-02-28T13:33:43.969530Z",
+  "generated_at_utc": "2026-02-28T14:18:48.695772Z",
   "results": {
-    "BTC": 14,
-    "ETH": 4,
+    "BTC": 15,
+    "ETH": 5,
     "SOL": 1,
     "PEPE": 1,
+    "XMR": 1,
     "XRP": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 14
+      "count": 15
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 4
+      "count": 5
     },
     {
       "symbol": "SOL",
@@ -28,6 +29,11 @@
     {
       "symbol": "PEPE",
       "name": "PEPE",
+      "count": 1
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
       "count": 1
     },
     {
