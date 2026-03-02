@@ -1,12 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - March 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1riesxz/daily_crypto_discussion_march_2_2026_gmt0/",
-  "generated_at_utc": "2026-03-02T18:41:12.328961Z",
+  "generated_at_utc": "2026-03-02T19:34:15.717660Z",
   "results": {
     "BTC": 24,
     "ETH": 2,
-    "AAVE": 1,
     "ALGO": 1,
+    "AAVE": 1,
     "ETC": 1,
     "TRUMP": 1
   },
@@ -22,13 +22,13 @@
       "count": 2
     },
     {
-      "symbol": "AAVE",
-      "name": "Aave",
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
-      "symbol": "ALGO",
-      "name": "Algorand",
+      "symbol": "AAVE",
+      "name": "Aave",
       "count": 1
     },
     {
