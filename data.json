@@ -1,10 +1,11 @@
 {
   "thread_title": "Daily Crypto Discussion - March 2, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1riesxz/daily_crypto_discussion_march_2_2026_gmt0/",
-  "generated_at_utc": "2026-03-02T15:38:06.299728Z",
+  "generated_at_utc": "2026-03-02T16:40:00.427288Z",
   "results": {
-    "BTC": 16,
-    "ETH": 1,
+    "BTC": 17,
+    "ETH": 2,
+    "ALGO": 1,
     "ETC": 1,
     "TRUMP": 1
   },
@@ -12,11 +13,16 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 17
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
+      "count": 2
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
       "count": 1
     },
     {
