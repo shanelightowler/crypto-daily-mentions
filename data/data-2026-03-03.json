@@ -1,10 +1,10 @@
 {
   "thread_title": "Daily Crypto Discussion - March 3, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rjb64j/daily_crypto_discussion_march_3_2026_gmt0/",
-  "generated_at_utc": "2026-03-03T12:50:47.413877Z",
+  "generated_at_utc": "2026-03-03T13:57:17.258768Z",
   "results": {
     "ETH": 7,
-    "BTC": 4,
+    "BTC": 6,
     "SOL": 1
   },
   "results_list": [
@@ -16,7 +16,7 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 4
+      "count": 6
     },
     {
       "symbol": "SOL",
