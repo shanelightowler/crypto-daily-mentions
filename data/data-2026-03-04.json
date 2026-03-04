@@ -1,26 +1,32 @@
 {
   "thread_title": "Daily Crypto Discussion - March 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rk7db7/daily_crypto_discussion_march_4_2026_gmt0/",
-  "generated_at_utc": "2026-03-04T16:38:38.037509Z",
+  "generated_at_utc": "2026-03-04T17:35:18.960408Z",
   "results": {
-    "BTC": 29,
-    "ETH": 3,
+    "BTC": 34,
+    "ETH": 6,
     "ETC": 3,
     "NIGHT": 1,
+    "XRP": 1,
+    "LTC": 1,
+    "ROSE": 1,
+    "ATOM": 1,
+    "DOT": 1,
     "CAKE": 1,
     "SOL": 1,
-    "BNB": 1
+    "BNB": 1,
+    "TON": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 29
+      "count": 34
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 6
     },
     {
       "symbol": "ETC",
@@ -30,6 +36,31 @@
     {
       "symbol": "NIGHT",
       "name": "",
+      "count": 1
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "count": 1
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "count": 1
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "count": 1
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
       "count": 1
     },
     {
@@ -45,6 +76,11 @@
     {
       "symbol": "BNB",
       "name": "BNB",
+      "count": 1
+    },
+    {
+      "symbol": "TON",
+      "name": "Toncoin",
       "count": 1
     }
   ]
