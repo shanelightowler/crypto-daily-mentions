@@ -1,18 +1,31 @@
 {
   "thread_title": "Daily Crypto Discussion - March 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rk7db7/daily_crypto_discussion_march_4_2026_gmt0/",
-  "generated_at_utc": "2026-03-04T12:49:47.236145Z",
+  "generated_at_utc": "2026-03-04T13:55:32.826930Z",
   "results": {
-    "BTC": 16,
+    "BTC": 27,
+    "ETH": 3,
+    "ETC": 3,
     "NIGHT": 1,
-    "ETH": 1,
-    "CAKE": 1
+    "CAKE": 1,
+    "SOL": 1,
+    "BNB": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 16
+      "count": 27
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "count": 3
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "count": 3
     },
     {
       "symbol": "NIGHT",
@@ -20,13 +33,18 @@
       "count": 1
     },
     {
-      "symbol": "ETH",
-      "name": "Ethereum",
+      "symbol": "CAKE",
+      "name": "",
       "count": 1
     },
     {
-      "symbol": "CAKE",
-      "name": "",
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
       "count": 1
     }
   ]
