@@ -1,11 +1,12 @@
 {
   "thread_title": "Daily Crypto Discussion - March 4, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rk7db7/daily_crypto_discussion_march_4_2026_gmt0/",
-  "generated_at_utc": "2026-03-04T17:35:18.960408Z",
+  "generated_at_utc": "2026-03-04T18:42:38.126347Z",
   "results": {
-    "BTC": 34,
+    "BTC": 41,
     "ETH": 6,
     "ETC": 3,
+    "LINK": 1,
     "NIGHT": 1,
     "XRP": 1,
     "LTC": 1,
@@ -13,15 +14,16 @@
     "ATOM": 1,
     "DOT": 1,
     "CAKE": 1,
+    "TON": 1,
     "SOL": 1,
     "BNB": 1,
-    "TON": 1
+    "BCH": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 34
+      "count": 41
     },
     {
       "symbol": "ETH",
@@ -32,6 +34,11 @@
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "count": 3
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "count": 1
     },
     {
       "symbol": "NIGHT",
@@ -69,6 +76,11 @@
       "count": 1
     },
     {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "count": 1
+    },
+    {
       "symbol": "SOL",
       "name": "Solana",
       "count": 1
@@ -79,8 +91,8 @@
       "count": 1
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
       "count": 1
     }
   ]
