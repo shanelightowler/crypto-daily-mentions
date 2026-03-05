@@ -1,13 +1,19 @@
 {
   "thread_title": "Daily Crypto Discussion - March 5, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rl3gdr/daily_crypto_discussion_march_5_2026_gmt0/",
-  "generated_at_utc": "2026-03-05T09:38:31.075239Z",
+  "generated_at_utc": "2026-03-05T10:35:10.635229Z",
   "results": {
+    "NEAR": 1,
     "BCH": 1,
     "BTC": 1,
     "ETH": 1
   },
   "results_list": [
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
