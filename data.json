@@ -1,18 +1,26 @@
 {
   "thread_title": "Daily Crypto Discussion - March 6, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rlznb2/daily_crypto_discussion_march_6_2026_gmt0/",
-  "generated_at_utc": "2026-03-06T14:34:49.333741Z",
+  "generated_at_utc": "2026-03-06T15:34:00.396579Z",
   "results": {
-    "BTC": 15,
+    "BTC": 18,
+    "SOL": 2,
     "PEPE": 2,
     "ETC": 1,
+    "NEAR": 1,
+    "ETH": 1,
     "WIF": 1
   },
   "results_list": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "count": 15
+      "count": 18
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 2
     },
     {
       "symbol": "PEPE",
@@ -22,6 +30,16 @@
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
+      "count": 1
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "count": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
       "count": 1
     },
     {
