@@ -1,20 +1,38 @@
 {
   "thread_title": "Daily Crypto Discussion - March 8, 2026 (GMT+0)",
   "thread_url": "https://www.reddit.com/r/CryptoCurrency/comments/1rnqvv5/daily_crypto_discussion_march_8_2026_gmt0/",
-  "generated_at_utc": "2026-03-08T04:08:30.292188Z",
+  "generated_at_utc": "2026-03-08T05:40:11.645475Z",
   "results": {
-    "ETH": 3,
-    "BTC": 1
+    "ETH": 4,
+    "BTC": 2,
+    "XRP": 1,
+    "SOL": 1,
+    "TRX": 1
   },
   "results_list": [
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "count": 3
+      "count": 4
     },
     {
       "symbol": "BTC",
       "name": "Bitcoin",
+      "count": 2
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "count": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "count": 1
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
       "count": 1
     }
   ]
